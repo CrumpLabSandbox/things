@@ -185,38 +185,55 @@ explore.qmd            layer 5, version 1
 5. Similarity and the explore page.
 6. Decide whether playground and wip images join the database.
 
-## Questions
+## Decisions (answered 2026-10-04)
 
-1. Scope. The 169 pieces in `images/` for sure. Should the 56 playground
-   Stable Diffusion variations and the 9 work in progress snapshots get
-   records too? They are interesting as "variation of" and "step toward"
-   relations, but they are not finished pieces.
-2. Voice. Should the descriptions stay neutral and concrete, or do you want
-   an openly interpretive layer as well, written as a viewer's reading and
-   labelled as such? I would keep both, in separate fields, unless you object.
-3. Your vocabulary. You already have names for recurring things (volcano
-   ball lake, magic bear, Superland, scribble people). Is there a list in
-   your head of motifs or characters you want tagged consistently? Anything
-   you want me not to guess at, such as intent?
-4. Source of truth. Keep the qmd files as they are and treat JSON as a
-   parallel layer, or let the JSON become the source and generate the qmds
-   from it? The second is cleaner but changes your existing R workflow.
-5. Pipeline language. The existing scripts are R. I am proposing Python for
-   the new scripts because it runs here and Pillow handles EXIF. Is R
-   preferred, or is a mixed repo fine?
-6. Visual similarity depth. The measured features above run here now. Real
-   embeddings (CLIP) need a local run on your machine, or a service. Do you
-   want a script to run locally, or is colour and structure similarity
-   enough for version 1?
-7. Interface. Is a static explore page inside the Quarto site the right first
-   target, or do you already want a separate app? Any preference for
-   Observable JS inside Quarto versus plain JavaScript?
-8. Tags into Quarto categories. Do you want the tags written back into the
-   qmd front matter so the existing grid page can filter on them, or kept
-   out of the category sidebar?
-9. Corrections. How do you want to review and correct my tags? Editing the
-   JSON by hand, a simple review page that writes back, or a CSV you edit
-   in a spreadsheet and I merge?
-10. Publishing the data. Is it fine for `data/artworks.json` to be public on
-    the site, including the prose descriptions, or should some of it stay
-    in the repo only?
+1. Scope: the 169 finished pieces in `images/`. Playground and wip later, as relations.
+2. Voice: both a neutral description and an interpretive reading, in separate
+   fields. Be creative. When describing one piece reveals a new aspect or
+   relation, it is fine to add that facet and apply it across the other pieces,
+   within reason, so the schema can grow but should not balloon. Facets named:
+   color descriptions, general impressions, overall style, format and
+   materials, recurring themes, characters, elements.
+3. Vocabulary: let it emerge from a first pass, then Matt corrects it.
+4. Source of truth: JSON as a parallel layer beside the qmds. Each record also
+   carries everything the current qmd structure knows (title, series, medium,
+   date, process notes). Most described fields will not be shown on the site,
+   and which ones are shown must be controllable.
+5. Language: any mix of Python, R and JavaScript. Experimental; use what works.
+6. Similarity: measured pixel features now. A CLIP embedding script to run
+   locally later.
+7. Interface: a static explore page inside the Quarto site.
+8. Quarto categories: leave the qmd files untouched.
+9. Editing tool: a small Node server plus an HTML page, run locally. Shows the
+   image and a form for every field, saves back to the JSON file.
+10. Publishing: a per-field visibility list in one config file. The build
+    writes a public `artworks.json` with only the listed fields. Full records
+    stay in the repo.
+
+## Revised layout
+
+```
+data/
+  schema.json            record structure and field glosses
+  vocabulary.json        allowed tags per facet, grows during the first pass
+  series.json            one entry per series
+  visibility.json        which fields the public build includes
+  artworks/<id>.json     one full record per piece, the editable source
+  thumbs/<id>.jpg        built, 256 px previews for the explore page
+  public/artworks.json   built, visible fields only, read by explore.qmd
+  public/similarity.json built, neighbours and 2D layout
+scripts/
+  build_catalog.py       layer 1, creates or refreshes the factual fields
+  measure_images.py      layer 2, palette and structure features, thumbnails
+  validate.py            schema and vocabulary checks
+  build_similarity.py    layer 4
+  build_public.py        applies visibility.json, writes data/public/
+  embed_clip.py          optional, run locally, adds embeddings
+tools/
+  edit/server.js         local editing tool, node tools/edit/server.js
+  edit/index.html        image plus form, saves back to data/artworks/
+explore.qmd              layer 5
+```
+
+Scripts never overwrite hand edited or described fields. The catalog script
+refreshes only the factual block of each record and leaves the rest alone.
