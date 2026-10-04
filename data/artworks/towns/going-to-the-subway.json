@@ -119,8 +119,91 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/towns/going-to-the-subway.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square oil painting of rounded pastel figures with hooded heads descending stairs beside a mint green subway train, signed CRUMP 11.",
+    "description": "A square oil painting on wood, signed CRUMP 11 at lower left. A mint green subway train with white windows and doors runs along the top and recedes to the right. Below, a crowd of rounded figures in lilac, pink, yellow, mint and green, each with a hooded head topped by a tan or green cap and mitten hands, walks down a platform and a flight of white stairs toward the lower right. One figure at lower right holds a white square like a phone, and one at left looks down with a round pink patch. Thick black outlines over flat pastel colour with visible brushwork.",
+    "impression": "A New York commute translated into the soft creatures of the town series: the puffer jacket crowd going underground. The hoods and caps make everybody anonymous in the way subway crowds are. It is affectionate and specific, a real place made gentle.",
+    "subjects": [
+      "crowd",
+      "figures",
+      "subway",
+      "train",
+      "stairs"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "commuter"
+    ],
+    "elements": [
+      "train",
+      "stairs",
+      "windows",
+      "phone",
+      "mitten arms",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "subway",
+      "city"
+    ],
+    "composition": [
+      "crowd in foreground",
+      "diagonal",
+      "layered depth"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "pastel",
+      "mint and lilac",
+      "soft"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "commuting",
+      "crowded life",
+      "city",
+      "anonymity"
+    ],
+    "mood": [
+      "calm",
+      "busy",
+      "wistful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CRUMP 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed and dated 2011.",
+    "free_tags": [
+      "town series",
+      "signed 2011",
+      "subway",
+      "NYC"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "characters/in-living-color-1",
+      "note": "Commuting crowds of hooded figures.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

@@ -119,7 +119,82 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-8.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square marker painting of overlapping cartoon creatures with white horns, spots and visors in rainbow colours over black, with heavy black outlines.",
+    "description": "A square marker painting on wood. The whole surface is cut into cells by thick black lines over a rainbow of green, cyan, pink, orange, yellow and purple fills. Creatures emerge from the cells: a purple and blue bird like head with a white beak at lower centre, a lime face with white antennae at upper left, orange spotted forms, white horns, visors, and dots. A blue and lilac creature with a hood at lower right. White highlight marks on every horn and beak.",
+    "impression": "The crowd painting that is closest to a pure pattern, where the black grid matters more than any single face. It looks like a stained glass window designed by a child who loves monsters. Finding the creatures takes a moment, which is the pleasure.",
+    "subjects": [
+      "crowd",
+      "creatures",
+      "faces",
+      "pattern"
+    ],
+    "characters": [
+      "bird creature",
+      "one eyed creature",
+      "horned creature",
+      "visor face"
+    ],
+    "elements": [
+      "horns",
+      "beak",
+      "visor",
+      "spots",
+      "antenna",
+      "white highlight line"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "grid like",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "bold",
+      "black grid"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "stained glass",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "hidden creatures",
+      "pattern"
+    ],
+    "mood": [
+      "busy",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood. Sold.",
+    "free_tags": [
+      "crowd series",
+      "grid crowd"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

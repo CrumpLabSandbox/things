@@ -119,7 +119,82 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-5.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square marker painting of blocky cartoon faces, horns and small houses crammed together in rainbow colours with thick black outlines.",
+    "description": "A square marker painting on wood. Angular and rounded forms pack the panel: a lime green face with squinting eyes at upper left, white horns and tabs, a pink star burst at right, a cluster of small pink and purple houses with windows at lower left, open mouths with white teeth at the bottom, and striped and spotted panels in orange, teal, yellow and purple. Thick black outlines break every form into flat colour cells, with white highlights on the horns.",
+    "impression": "A crowd that has swallowed a village: the little houses at lower left are the only things not grinning. The angular cells make it look like stained glass, and the lime face at the top seems to be enjoying the noise. Busy, bright and architectural.",
+    "subjects": [
+      "crowd",
+      "faces",
+      "houses",
+      "monsters"
+    ],
+    "characters": [
+      "toothy monster",
+      "squinting face",
+      "horned creature"
+    ],
+    "elements": [
+      "horns",
+      "teeth",
+      "star burst",
+      "windows",
+      "stripes",
+      "white highlight line"
+    ],
+    "setting": [
+      "no place",
+      "invented city"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "candy",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density",
+      "stained glass"
+    ],
+    "themes": [
+      "crowded life",
+      "faces in things",
+      "nature meets built"
+    ],
+    "mood": [
+      "busy",
+      "playful",
+      "loud"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood. Sold.",
+    "free_tags": [
+      "crowd series",
+      "houses in crowd"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

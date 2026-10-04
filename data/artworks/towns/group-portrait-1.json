@@ -119,8 +119,91 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/towns/group-portrait-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square oil painting of a pile of pastel cartoon dragons with horns, bat wings and smiling faces against a pale blue and green ground, signed CRUMP 11.",
+    "description": "A square oil painting on wood, signed CRUMP 11 at lower right. Nine rounded dragon creatures in yellow, blue, pink, teal, orange and lilac pile together in the centre: each has a round body, a small horn, a white eye, a smiling mouth, a row of white teeth along a tail or wing edge, and purple or pink bat wings. The ground is a soft pale blue fading to pale green with visible brush strokes. Thick black outlines over flat colour.",
+    "impression": "A family photo of baby dragons, all crowding to be in frame. They are more plush toy than monster, and the pale ground makes them look like they are floating in a nursery. The sweetest of the group portraits.",
+    "subjects": [
+      "dragons",
+      "creatures",
+      "group portrait"
+    ],
+    "characters": [
+      "dragon",
+      "horned creature"
+    ],
+    "elements": [
+      "bat wings",
+      "horns",
+      "teeth",
+      "signature"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central cluster",
+      "pile",
+      "soft ground",
+      "group portrait"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "candy",
+      "soft",
+      "pale ground"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "family",
+      "portrait",
+      "gathering"
+    ],
+    "mood": [
+      "tender",
+      "playful",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CRUMP 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed and dated 2011.",
+    "free_tags": [
+      "town series",
+      "signed 2011",
+      "dragons",
+      "group portrait"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "towns/group-portrait-2",
+      "note": "Companion group portrait.",
+      "source": "described"
+    },
+    {
+      "type": "series_pair",
+      "target": "towns/group-portrait-3",
+      "note": "Companion group portrait.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

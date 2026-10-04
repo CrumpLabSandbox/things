@@ -119,7 +119,87 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-7.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square marker painting of a pile of brown and olive cartoon creatures with white frills, horns and closed eyes under a pink sky with a yellow sun burst.",
+    "description": "A square marker painting on wood. Rounded creatures in browns, olive, tan and pink pile up from the bottom against a flat pink sky. A yellow sun burst with spiky rays sits at upper right, half hidden by the crowd. The creatures have single eyes, pale blue eyes with lashes, scalloped white frills, white horns and tabs, and a few closed sleepy eyes with lashes; one at lower left has a squeezed shut face, another at lower right has a sleeping face with a sideways mouth. Pale blue and lilac mitten shapes sit at the bottom. Thick black outlines, flat marker fills.",
+    "impression": "The crowd at sunset, dozing off: the frills and the sleepy faces make it look like the monsters are being tucked in. The brown palette against pink is gentle, almost cocoa and strawberry. It is the tenderest of the crowd paintings and the quietest.",
+    "subjects": [
+      "crowd",
+      "creatures",
+      "monsters",
+      "sun",
+      "sky"
+    ],
+    "characters": [
+      "sleepy face",
+      "frilled creature",
+      "one eyed creature",
+      "horned creature"
+    ],
+    "elements": [
+      "frill collar",
+      "horns",
+      "sun burst",
+      "closed eyes",
+      "flat sky",
+      "white highlight line"
+    ],
+    "setting": [
+      "invented landscape",
+      "outdoors",
+      "sunset"
+    ],
+    "composition": [
+      "crowd",
+      "dense",
+      "low horizon",
+      "pile"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "brown and pink",
+      "earth tones",
+      "warm",
+      "muted"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "painted on wood"
+    ],
+    "themes": [
+      "crowded life",
+      "sleep",
+      "sunset",
+      "monsters"
+    ],
+    "mood": [
+      "calm",
+      "tender",
+      "sleepy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood with grain visible. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd",
+      "sunset",
+      "frills"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

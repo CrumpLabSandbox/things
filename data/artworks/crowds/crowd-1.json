@@ -119,7 +119,81 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-1.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A dense marker painting of a crowd of cartoon monster heads with horns, teeth and visors, in pink, blue, orange and green with heavy black outlines.",
+    "description": "A square marker painting on wood, photographed slightly cropped. The surface is packed edge to edge with overlapping cartoon creatures: round and lumpy heads with single eyes, horns, jagged toothy grins, visor like mouths and antennae, in hot pink, sky blue, orange, lime and purple. Thick black outlines divide every shape and white highlight marks sit on the horns and teeth. A yellow bird like head with a sharp beak sits at upper right and a pink face with a tongue at lower left. There is no background, only creatures.",
+    "impression": "A mosh pit of monsters, every one of them grinning. The heavy line and the colour blocks give it the feel of a graffiti wall or a video game crowd scene. It is joyful and claustrophobic at once, and the first of the crowd paintings sets the rule: no empty space allowed.",
+    "subjects": [
+      "crowd",
+      "monsters",
+      "faces",
+      "creatures"
+    ],
+    "characters": [
+      "toothy monster",
+      "one eyed creature",
+      "horned creature",
+      "visor face"
+    ],
+    "elements": [
+      "horns",
+      "teeth",
+      "visor",
+      "antenna",
+      "white highlight line",
+      "tongue"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "candy",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "monsters",
+      "faces in things"
+    ],
+    "mood": [
+      "busy",
+      "playful",
+      "chaotic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, photographed. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

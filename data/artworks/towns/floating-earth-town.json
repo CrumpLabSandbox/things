@@ -117,8 +117,101 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/towns/floating-earth-town.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square oil painting of a floating island covered in hundreds of small white domed huts on rainbow ground, under a sky of pink and orange outlined clouds, signed crump 17.",
+    "description": "A square oil painting on wood, signed crump 17 at lower left. A ragged island floats in a flat turquoise sky, its underside a tan rock mass. The island's surface is patched in pink, orange, yellow, lime, lilac and blue, and covered in hundreds of small white domed huts with dark arched doors, a few larger domes at centre with faces like eyes and mouths, white standing stones, cones and tents. Two columns of smoke rise from the middle. Behind, pink and orange mountains and layers of outlined pink and white clouds fill the upper third. Thick black outlines over brushy colour.",
+    "impression": "An entire civilisation on a flying rock, with every hut as small and white as a tooth. The domes with faces at the centre suggest the town is also a creature. It is the most ambitious of the town paintings, a whole world in one square, and the one that most directly anticipates the dense valleys of the Colorlands drawings.",
+    "subjects": [
+      "town",
+      "island",
+      "huts",
+      "clouds",
+      "mountains",
+      "sky"
+    ],
+    "characters": [
+      "hut face"
+    ],
+    "elements": [
+      "domed hut",
+      "arched door",
+      "smoke plume",
+      "outlined cloud",
+      "standing stone",
+      "floating island",
+      "signature"
+    ],
+    "setting": [
+      "invented landscape",
+      "floating island",
+      "village"
+    ],
+    "composition": [
+      "aerial view",
+      "central feature",
+      "dense",
+      "all over"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "rainbow",
+      "pastel",
+      "turquoise",
+      "candy"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "map like",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement",
+      "crowded life",
+      "faces in things"
+    ],
+    "mood": [
+      "busy",
+      "calm",
+      "wondrous"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "crump 17",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood. Signed and dated 2017; file dated 2019.",
+    "free_tags": [
+      "town series",
+      "signed 2017",
+      "huts",
+      "proto colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "source_of",
+      "target": "commissions/the-cliffs-of-volcano-ball-lake",
+      "note": "Dense hut village and candy patched ground, taken up again in the digital valleys.",
+      "source": "described"
+    },
+    {
+      "type": "series_pair",
+      "target": "superland/floating-earth-balls",
+      "note": "Floating earth motif shared across a decade.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

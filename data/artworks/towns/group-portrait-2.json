@@ -119,7 +119,78 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/towns/group-portrait-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of a cluster of pastel dragon and castle like creatures with grated mouths, spiky wings and toothed tails against a flat grey ground, signed CRUMP 11.",
+    "description": "A square oil painting on wood, signed CRUMP 11 at lower centre. Eight or nine creatures in pink, lime, blue, lilac, yellow and cream are packed in the middle of a flat grey ground. Each has a rounded body topped by a flat white cap like a castle turret or a lid, a vertical grated mouth like a portcullis, pink and green spiky wings or crests, and a long tail edged with white teeth or scales. Thick black outlines over flat colour.",
+    "impression": "Dragons that have been crossed with castles, their mouths barred like gates. The grey ground makes them look like figures on a shelf. It is a stranger portrait than its sibling, as if the toys had turned into fortresses while nobody was looking.",
+    "subjects": [
+      "dragons",
+      "creatures",
+      "group portrait",
+      "castle"
+    ],
+    "characters": [
+      "dragon",
+      "castle creature"
+    ],
+    "elements": [
+      "grated mouth",
+      "flat cap",
+      "spiky wings",
+      "toothed tail",
+      "signature"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central cluster",
+      "pile",
+      "flat ground",
+      "group portrait"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "grey ground",
+      "soft"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "family",
+      "portrait",
+      "creatures as architecture"
+    ],
+    "mood": [
+      "calm",
+      "strange",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CRUMP 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed and dated 2011.",
+    "free_tags": [
+      "town series",
+      "signed 2011",
+      "dragons",
+      "group portrait"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

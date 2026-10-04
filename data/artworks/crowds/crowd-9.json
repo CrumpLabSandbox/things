@@ -119,7 +119,80 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-9.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A wide marker painting of a crowd of pastel cartoon heads with white visors, horns and spots, divided by thick black outlines, on wood.",
+    "description": "A landscape format marker painting on wood. Overlapping rounded heads fill the panel in soft pink, lilac, mint, yellow, orange and blue, each with white visor windows, dot eyes, white tabs, horns and spots. A purple creature with a frilled face sits at centre right, a lime face with a dot eye at centre, and a row of helmeted forms along the top. Thick black outlines, flat marker fills with the wood grain showing in places.",
+    "impression": "A gentler crowd in pastels, like a nursery full of helmeted aliens. The white visors give every creature a blank expression that becomes funny in bulk. It has the softness of the Desertland paintings with the density of the crowd series.",
+    "subjects": [
+      "crowd",
+      "faces",
+      "creatures"
+    ],
+    "characters": [
+      "visor face",
+      "one eyed creature",
+      "frilled creature",
+      "horned creature"
+    ],
+    "elements": [
+      "visor",
+      "horns",
+      "spots",
+      "frill collar",
+      "white highlight line"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "panoramic",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "pastel",
+      "rainbow",
+      "soft",
+      "candy"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "faces in things"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, landscape format. Sold.",
+    "free_tags": [
+      "crowd series",
+      "visor crowd",
+      "pastel"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -119,7 +119,77 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/towns/about-town-4.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of a village of pastel capped towers with small horned creatures, and a large teal creature with a horn at upper right, signed crump 11.",
+    "description": "A square oil painting on wood, signed crump 11 at lower right. A village of rounded towers with flat caps and tall windows in pink, teal, purple and yellow sits on a green hill under a pale blue sky. Small horned creatures with single eyes in orange, blue and pink sit among the towers, and a large teal creature with a purple horn and a wide smile looms at upper right. A large pink creature's head enters at lower left. Thick black outlines, flat colour.",
+    "impression": "A village where the inhabitants come in all sizes, from the pocket sized to the one that could sit on the town. The big teal creature looks benevolent, like a guardian. Soft and sunny, with a sense that nothing bad happens here.",
+    "subjects": [
+      "town",
+      "towers",
+      "creatures",
+      "village"
+    ],
+    "characters": [
+      "one eyed creature",
+      "horned creature",
+      "giant creature"
+    ],
+    "elements": [
+      "horns",
+      "windows",
+      "flat cap",
+      "signature"
+    ],
+    "setting": [
+      "invented landscape",
+      "town",
+      "village"
+    ],
+    "composition": [
+      "aerial view",
+      "scattered figures",
+      "scale contrast"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "pink and teal",
+      "bright"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "town life",
+      "scale",
+      "guardians"
+    ],
+    "mood": [
+      "calm",
+      "whimsical",
+      "tender"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "crump 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed 2011. Low resolution photograph.",
+    "free_tags": [
+      "town series",
+      "signed 2011"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

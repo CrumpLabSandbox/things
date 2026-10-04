@@ -119,7 +119,81 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A dense marker painting of cartoon creature heads with frilled collars, horns and antennae, in rainbow colours with thick black outlines.",
+    "description": "A square marker painting on wood. Overlapping cartoon creatures fill the whole surface: rounded heads and bodies with single eyes, scalloped frill collars like lace, curved horns, antennae with balls on the ends, and wide mouths, in pink, orange, lime, sky blue, purple and yellow. Thick black outlines separate every form and white highlights sit on the frills and horns. A bright blue creature with an open beak sits at left centre, a tall red form at lower right.",
+    "impression": "The monster crowd dressed for a party, with ruffs and antennae like party hats. The frills make every creature look pleased with itself. It reads as a carnival from above, loud and generous, and the rainbow is spread so evenly that no single creature wins.",
+    "subjects": [
+      "crowd",
+      "monsters",
+      "faces",
+      "creatures"
+    ],
+    "characters": [
+      "frilled creature",
+      "one eyed creature",
+      "horned creature",
+      "antenna blob"
+    ],
+    "elements": [
+      "frill collar",
+      "horns",
+      "antenna",
+      "white highlight line",
+      "beak"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "candy",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "monsters",
+      "celebration"
+    ],
+    "mood": [
+      "busy",
+      "celebratory",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, photographed. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd",
+      "frills"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

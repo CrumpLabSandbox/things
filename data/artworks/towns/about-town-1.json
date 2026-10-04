@@ -119,8 +119,89 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/towns/about-town-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square oil painting of hooded blob figures walking on a path between huge pastel vehicle like forms and green mountains under a blue sky, signed CRUMP 11.",
+    "description": "A square oil painting on wood, signed CRUMP 11 at lower left. A pale path curves from the bottom edge between two groups of figures: at left a blue hooded figure with a yellow body and a small white visor face, and a smaller pink figure with a yellow spiky collar at centre. Around them rise huge rounded forms like vehicles or creatures with window shapes: a pink and orange dome at left, a red capped green and blue form at centre, and a blue and green one at right. Green mountains with jagged yellow and orange ridges and outlined white clouds fill the background under a flat blue sky. Thick black outlines over flat, lightly brushed colour.",
+    "impression": "Two little hooded figures out for a walk among parked giants, which might be buses, creatures or houses. The scale makes the figures feel like children and the town feel kind. It is a Sunday stroll in a toy world, calm and bright.",
+    "subjects": [
+      "figures",
+      "vehicles",
+      "mountains",
+      "town",
+      "path",
+      "clouds"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "visor face"
+    ],
+    "elements": [
+      "windows",
+      "path",
+      "jagged ridge",
+      "outlined cloud",
+      "signature"
+    ],
+    "setting": [
+      "invented landscape",
+      "town",
+      "mountain range"
+    ],
+    "composition": [
+      "figures in foreground",
+      "layered depth",
+      "mid horizon"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "saturated",
+      "green and pink",
+      "bright"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "walking",
+      "scale",
+      "town life"
+    ],
+    "mood": [
+      "calm",
+      "whimsical",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CRUMP 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed and dated 2011 on the painting although the file date is 2019.",
+    "free_tags": [
+      "town series",
+      "signed 2011",
+      "hooded pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "characters/city-living-1",
+      "note": "The hooded visor figures reappear in the airbrush city pieces.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

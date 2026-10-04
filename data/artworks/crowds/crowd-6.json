@@ -119,7 +119,83 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-6.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square marker painting of a pile of orange, red and yellow cartoon creatures with horns and teeth against a flat blue sky.",
+    "description": "A square marker painting on wood. A heap of rounded creatures in orange, rust, red and yellow rises from the bottom against a flat cyan sky that fills the upper third. The creatures have single white eyes with pink or red pupils, white curled horns and tabs, and one at right has a wide red mouth with white teeth. A spiky yellow burst sits at centre, an antenna with a star at upper centre, and tall white rabbit ears at the top. Thick black outlines, flat marker fills with wood grain visible.",
+    "impression": "The one crowd painting with a sky, which makes it a landscape: a hill of creatures under a hot blue day. The warm palette against cyan is like a desert at noon. The pile seems to be looking up at something off the top of the panel, patiently, like a crowd waiting for fireworks.",
+    "subjects": [
+      "crowd",
+      "creatures",
+      "monsters",
+      "sky"
+    ],
+    "characters": [
+      "one eyed creature",
+      "toothy monster",
+      "horned creature"
+    ],
+    "elements": [
+      "horns",
+      "teeth",
+      "rabbit ears",
+      "antenna",
+      "star",
+      "flat sky",
+      "white highlight line"
+    ],
+    "setting": [
+      "invented landscape",
+      "outdoors"
+    ],
+    "composition": [
+      "crowd",
+      "dense",
+      "low horizon",
+      "pile"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "orange and blue",
+      "warm on cool",
+      "saturated",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "painted on wood"
+    ],
+    "themes": [
+      "crowded life",
+      "waiting",
+      "monsters"
+    ],
+    "mood": [
+      "busy",
+      "warm",
+      "anticipation"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood with grain visible. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd",
+      "sky"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -119,7 +119,79 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/towns/about-town-5.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of hooded figures, long necked dinosaurs and boxy vehicles in a green pastel valley, with a pink gate in the centre, signed CRUMP 11.",
+    "description": "A square oil painting on wood, signed CRUMP 11 at lower left. A pastel green and blue valley with rounded hills and outlined clouds. Three long necked blue and pink dinosaur like creatures stride across the middle and upper left. Boxy vehicles with white windows in lime, orange and yellow sit at left and right. A pink and red striped gate or bench with ball topped posts stands at centre, with a hooded figure in green beside it at lower left and a round white window shape at the bottom. Spiky grass tufts are scattered through the valley. Thick black outlines over flat colour.",
+    "impression": "A dinosaur park seen by a child: the long necks wander through, the vehicles park where they like, and the little hooded figure minds the gate. The pastel green makes it feel like spring. Playful and unhurried.",
+    "subjects": [
+      "figures",
+      "dinosaurs",
+      "vehicles",
+      "valley",
+      "gate",
+      "clouds"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "long necked creature"
+    ],
+    "elements": [
+      "windows",
+      "gate",
+      "grass tuft",
+      "outlined cloud",
+      "signature"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "park"
+    ],
+    "composition": [
+      "layered depth",
+      "mid horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "green dominant",
+      "soft"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "town life",
+      "creatures among us",
+      "leisure"
+    ],
+    "mood": [
+      "calm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CRUMP 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed 2011. Low resolution photograph.",
+    "free_tags": [
+      "town series",
+      "signed 2011",
+      "dinosaurs"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

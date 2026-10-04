@@ -119,7 +119,84 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/reassembled-crowd-3.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square four panel painting of a mirrored crowd of round cartoon creatures with white horns, with a green and blue centre and warm edges, in translucent washes with black outlines.",
+    "description": "A square painting on four joined wood panels with visible seams. The composition is mirrored around a cool centre: lime and teal creatures with white horns meet at the middle seam, flanked by orange, yellow, red, pink and purple creatures toward the edges. Blue globe creatures sit at the centre top and bottom, a purple sphere at the right of centre. Every form has a single eye, white tabs and dots, overlapping translucent washes, and thick black outlines.",
+    "impression": "The inverse of its siblings: cool in the middle, hot at the edges, like a crowd gathered around a pool. The symmetry turns the monsters into a mandala. Watching the three reassembled pieces together is like watching the same crowd rearrange itself.",
+    "subjects": [
+      "crowd",
+      "creatures",
+      "monsters",
+      "pattern"
+    ],
+    "characters": [
+      "one eyed creature",
+      "horned creature",
+      "visor face"
+    ],
+    "elements": [
+      "horns",
+      "spots",
+      "panel seams",
+      "mirror symmetry",
+      "translucent wash"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "symmetrical",
+      "mirrored",
+      "four panels"
+    ],
+    "line": [
+      "thick black outline",
+      "translucent fill",
+      "marker"
+    ],
+    "color_words": [
+      "rainbow",
+      "stained glass",
+      "cool centre",
+      "luminous"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "stained glass",
+      "symmetry",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "symmetry",
+      "reassembly",
+      "monsters"
+    ],
+    "mood": [
+      "busy",
+      "calm",
+      "celebratory"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on four joined wood panels. Sold.",
+    "free_tags": [
+      "crowd series",
+      "reassembled",
+      "multi panel",
+      "mirror"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

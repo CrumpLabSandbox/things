@@ -119,7 +119,81 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-3.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A wide marker painting of a crowd of rounded cartoon heads in orange, olive, tan and blue with white visor shapes and black outlines on wood.",
+    "description": "A landscape format marker painting on wood with the grain showing through the colour. Overlapping rounded heads and bodies pack the panel: bulbous forms in orange, rust, olive, mustard, sky blue and pink, each with a white visor or window shape, small dots for eyes, and curled white horns or tabs. A pink head with an open mouth and a white speech balloon sits at centre, a blue head with a hat shape at upper right, and a pale blue face with large eyes at lower left. Thick black outlines, flat marker fills.",
+    "impression": "An earthier crowd than the others, in autumn colours on bare wood, like a crowd of acorns and gourds. The white visors make them look like helmets or screens, so the crowd could be a stadium of spectators. Warm and slightly muffled, a crowd at a distance.",
+    "subjects": [
+      "crowd",
+      "faces",
+      "creatures"
+    ],
+    "characters": [
+      "visor face",
+      "one eyed creature",
+      "horned creature"
+    ],
+    "elements": [
+      "visor",
+      "horns",
+      "white highlight line",
+      "speech balloon",
+      "bare wood"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "panoramic",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "earth tones",
+      "orange and olive",
+      "warm",
+      "muted"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density",
+      "painted on wood"
+    ],
+    "themes": [
+      "crowded life",
+      "watching",
+      "faces in things"
+    ],
+    "mood": [
+      "busy",
+      "calm",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, landscape format, wood grain visible. Sold.",
+    "free_tags": [
+      "crowd series",
+      "visor crowd",
+      "bare plywood"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

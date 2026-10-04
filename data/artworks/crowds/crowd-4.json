@@ -119,7 +119,82 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/crowds/crowd-4.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A wide marker painting of a crowd of toothy, tongue waving monsters with white horns and teeth, in pink, blue, purple and yellow with thick black outlines.",
+    "description": "A landscape format marker painting on wood. Overlapping cartoon monsters fill the panel: wide open mouths full of white teeth, pink and red tongues, white horns and rabbit ear shapes, eyes with heavy lids, and striped bodies, in magenta, purple, sky blue, yellow and lime. A yellow creature with a wide grin dominates the upper centre, a purple toothy face the lower centre, a blue bulb eyed face the lower left. Thick black outlines with flat marker fills and white highlights.",
+    "impression": "The loudest of the crowd paintings: everyone is shouting, laughing or biting. The teeth and tongues give it a cartoon aggression that stays funny. It could be a concert audience or a monster movie poster, and it is as busy as a painting can be.",
+    "subjects": [
+      "crowd",
+      "monsters",
+      "faces",
+      "teeth"
+    ],
+    "characters": [
+      "toothy monster",
+      "horned creature",
+      "bulb eyed face"
+    ],
+    "elements": [
+      "teeth",
+      "tongue",
+      "horns",
+      "rabbit ears",
+      "white highlight line",
+      "stripes"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "panoramic",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "candy",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "monsters",
+      "noise"
+    ],
+    "mood": [
+      "chaotic",
+      "loud",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, landscape format. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd",
+      "teeth"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,
