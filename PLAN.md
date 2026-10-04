@@ -368,3 +368,36 @@ is deferred to later.
 Timeline and character pages use the records' dates, which are mostly file
 dates, so the towns show as 2019 although they are signed 2011. A
 `year_made` field would fix this.
+
+## Move to CrumpLab and Coolify (planned 2026-10-04, not started)
+
+Matt wants a small server: for natural language search (version 2), and
+later to process sales of artwork. He runs Coolify. The project will move
+from the sandbox fork `CrumpLabSandbox/things` into a **private** repository
+in the main `CrumpLab` organisation. That work will be done from the new
+repository. Nothing below has been started.
+
+Things the move has to handle:
+
+1. **Repository.** Move or copy the history to a private CrumpLab repo, then
+   decide what happens to `CrumpLabSandbox/things` and its Pages site.
+2. **Hosting.** GitHub Pages from a private repo needs a paid plan. With
+   Coolify the site is served from Matt's server instead, so
+   `.github/workflows/deploy-web.yml` gets replaced (Coolify building from
+   the repo, or CI pushing an image). Decide the public URL: crumplab.com/things
+   (current base path `/things/`) or a domain root (`SITE_BASE=/`). The old
+   Quarto URL redirects only work if the same paths stay under the new URL.
+3. **Server.** Astro can keep its static pages and add server routes with
+   the Node adapter (`@astrojs/node`), packaged in a Dockerfile for Coolify.
+   Alternatively, a separate small API service sits beside the static site.
+4. **Natural language search.** A server route that takes a query and calls
+   a language model API over the records' descriptions and tags, possibly
+   with stored text embeddings. The API key lives in Coolify's environment,
+   never in the repo. It needs a per-request cost limit and rate limiting.
+5. **Sales.** Checkout, payments and order records. Choose a payment
+   provider; webhooks need the server. Sold status still flows into
+   `catalog.availability`. Shopify is not coming back.
+6. **Private data.** Once the repo is private, more of the record can stay
+   server-side. `data/visibility.json` still controls what the browser gets.
+7. **Hosted editor (optional).** `tools/edit/` could run behind
+   authentication on the server instead of locally.

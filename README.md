@@ -62,4 +62,8 @@ Old Quarto URLs such as `things/Scribble/Scribble_Picture_35.html` redirect
 to the new pages. The site expects to live at `/things/`; set `SITE_BASE=/`
 when building for a domain root.
 
-See `PLAN.md` for the design and history of the data layer.
+A move to a private repository in the CrumpLab organisation, served from
+Coolify, is planned. See `PLAN.md`.
+
+See `PLAN.md` for the design and history of the data layer, and `CLAUDE.md`
+for guidance aimed at Claude sessions working on this repo.
