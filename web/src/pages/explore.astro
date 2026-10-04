@@ -1,5 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
+import BrowseNav from "../components/BrowseNav.astro";
 import "../styles/explore.css";
 ---
 <Base title="Explore" description="Browse the collection by tag, text and similarity." wide>
@@ -7,6 +8,7 @@ import "../styles/explore.css";
     <h1>Explore</h1>
     <p>Filter by tag, search the descriptions, or switch to the map, where similar pieces sit close together.</p>
   </div>
+  <BrowseNav />
   <div id="explore" class="x-app" data-base={import.meta.env.BASE_URL}>
     <div class="x-side">
       <input id="x-search" type="search" placeholder="search titles, tags, descriptions" autocomplete="off" />

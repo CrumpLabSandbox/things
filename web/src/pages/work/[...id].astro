@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import Base from "../../layouts/Base.astro";
 import Strip from "../../components/Strip.astro";
+import LikeThisBut from "../../components/LikeThisBut.astro";
 import {
   artworks, byId, similarity, inSeries, incoming, projectsFor, facetsOf, FACET_LABEL, RELATION_LABEL,
   mediumLine, kindOf, seriesInfo, type Artwork,
@@ -128,6 +129,8 @@ const pal = a.measured.palette ?? [];
       <Strip items={items} />
     </section>
   ))}
+
+  <LikeThisBut id={a.id} />
 
   {n && (
     <section class="similar">

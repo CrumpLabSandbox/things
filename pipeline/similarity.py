@@ -83,6 +83,63 @@ def palette_distance(pa, pb):
     return (one_way(la, lb) + one_way(lb, la)) / 2.0 / 100.0
 
 
+# ---------------------------------------------------------------- "like this, but..."
+
+CALM_MOODS = {"calm", "quiet", "tender", "dreamy", "wistful", "melancholy", "solemn", "nostalgic", "crisp"}
+BUSY_MOODS = {"busy", "chaotic", "loud", "energetic", "celebratory"}
+
+# direction name -> (axis key, sign). A candidate must move along the axis by
+# at least MIN_STEP standard deviations in the given direction (for time: at
+# least MIN_DAYS days earlier or later).
+DIRECTIONS = {
+    "calmer": ("energy", -1), "busier": ("energy", 1),
+    "more colorful": ("colorfulness", 1), "more muted": ("colorfulness", -1),
+    "lighter": ("mean_lightness", 1), "darker": ("mean_lightness", -1),
+    "older": ("time", -1), "newer": ("time", 1),
+}
+MIN_STEP = 0.5
+MIN_DAYS = 60
+PER_DIRECTION = 6
+
+
+def _z(values):
+    v = np.asarray(values, dtype=float)
+    return (v - v.mean()) / (v.std() + 1e-9)
+
+
+def _day(date):
+    """Days since year 0 from 'YYYY-MM-DD ...', for ordering by date."""
+    d = (date or "1900-01-01")[:10]
+    return int(d[:4]) * 372 + int(d[5:7]) * 31 + int(d[8:10])
+
+
+def like_this_but(records, sim):
+    """For each finished work: the most similar finished works that differ in
+    one direction (calmer, more colorful, newer...). Built from the blended
+    similarity, so results stay recognisably related to the starting piece."""
+    m = [r.get("measured", {}) for r in records]
+    moods = [set((r.get("described") or {}).get("mood", [])) for r in records]
+    mood_score = np.array([len(x & BUSY_MOODS) - len(x & CALM_MOODS) for x in moods], dtype=float)
+    axes = {
+        "energy": _z(_z([x.get("busyness", 0) for x in m]) + _z([x.get("edge_density", 0) for x in m]) + 0.8 * _z(mood_score)),
+        "colorfulness": _z([x.get("colorfulness", 0) for x in m]),
+        "mean_lightness": _z([x.get("mean_lightness", 0) for x in m]),
+        "time": np.array([_day(r["catalog"].get("date")) for r in records], dtype=float),
+    }
+    works = [i for i, r in enumerate(records) if r["catalog"].get("kind", "work") == "work"]
+    out = {}
+    for i in works:
+        row = {}
+        for name, (axis, sign) in DIRECTIONS.items():
+            a = axes[axis]
+            step = MIN_DAYS if axis == "time" else MIN_STEP
+            cands = [j for j in works if j != i and sign * (a[j] - a[i]) >= step]
+            cands.sort(key=lambda j: -sim[i, j])
+            row[name] = [records[j]["id"] for j in cands[:PER_DIRECTION]]
+        out[records[i]["id"]] = row
+    return out
+
+
 def main(argv=()):
     records = [json.load(open(p, encoding="utf-8"))
                for p in sorted(glob.glob(os.path.join(DATA_DIR, "*", "*.json")))]
@@ -188,6 +245,8 @@ def main(argv=()):
     coords /= coords.max(axis=0) + 1e-9
     layout = {rid: [round(float(x), 4), round(float(y), 4)] for rid, (x, y) in zip(ids, coords)}
 
+    directions = like_this_but(records, 1 - blend)
+
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     out = {
         "about": "Nearest neighbours per piece under tag, text and visual similarity, and a 2D MDS layout of the collection. Built by scripts/build_similarity.py.",
@@ -196,6 +255,7 @@ def main(argv=()):
         "weights": {"facets": FACET_WEIGHTS, "layout": {"tags": 0.4, "text": 0.3, "visual": 0.3}},
         "neighbours": neighbours,
         "layout": layout,
+        "directions": directions,
     }
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(out, f, indent=1, ensure_ascii=False)

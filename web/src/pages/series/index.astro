@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import Base from "../../layouts/Base.astro";
+import BrowseNav from "../../components/BrowseNav.astro";
 import { seriesList } from "../../lib/data";
 import { img } from "../../lib/images";
 import { seriesUrl } from "../../lib/urls";
@@ -11,6 +12,7 @@ const series = seriesList();
     <h1>Series</h1>
     <p>Groups of work made in the same medium and spirit, newest first within each.</p>
   </div>
+  <BrowseNav />
   <div class="series-grid">
     {series.map((s) => (
       <a class="series-card" href={seriesUrl(s.slug)}>

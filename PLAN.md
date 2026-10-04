@@ -341,3 +341,30 @@ to master, to https://crumplabsandbox.github.io/things/. All Quarto files
 moved to `Quarto-Old/`. The two blog covers the new site uses were copied to
 `blog_images/`. Records' `catalog.page.qmd` now points into `Quarto-Old/`;
 `catalog.page.html` keeps the old public URL, which drives the redirects.
+
+## Next directions (agreed 2026-10-04)
+
+Matt picked these, in this order of priority. Real visual similarity (CLIP)
+is deferred to later.
+
+1. **New ways in.** Done on 2026-10-04:
+   - `characters/`: one page per recurring character (tagged on 4+ works),
+     following it oldest first in runs by series.
+   - `timeline/`: finished work by year, with a bar of counts per year.
+   - `color/`: pick a swatch or any color; pieces ranked by how much of their
+     palette sits near it (CIE Lab distance, lightness at half weight).
+   - A "Browse by" row on the home, series, characters, timeline, color and
+     explore pages.
+2. **Version 2 search.** First static step done: "Like this, but..." on every
+   finished work page (calmer, busier, more colorful, more muted, lighter,
+   darker, older, newer). `pipeline similarity` writes `directions` into
+   `similarity.json`: the most similar works (blended tag, text and visual
+   similarity) that move at least half a standard deviation along an axis
+   (two months for time). Energy combines busyness, edge density and mood
+   tags. Full natural language search still needs a decision on a server
+   and an API key.
+3. **More process stories.** Waiting on Matt's process images.
+
+Timeline and character pages use the records' dates, which are mostly file
+dates, so the towns show as 2019 although they are signed 2011. A
+`year_made` field would fix this.

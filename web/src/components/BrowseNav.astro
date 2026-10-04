@@ -1,0 +1,23 @@
+---
+// The ways into the collection, shown on the home page and the browse pages.
+import { href } from "../lib/urls";
+const links = [
+  ["all works", href("")],
+  ["series", href("series/")],
+  ["characters", href("characters/")],
+  ["timeline", href("timeline/")],
+  ["color", href("color/")],
+  ["explore and map", href("explore/")],
+];
+const path = Astro.url.pathname;
+const active = (h: string) => (h === href("") ? path === h : path.startsWith(h));
+---
+<nav class="browse" aria-label="Ways to browse">
+  <span class="muted">Browse by</span>
+  {links.map(([label, h]) => <a class="chip" href={h} aria-current={active(h) ? "page" : undefined}>{label}</a>)}
+</nav>
+
+<style>
+  .browse { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem; margin: 0 0 1.25rem; font-size: 0.9rem; }
+  .browse .muted { margin-right: 0.25rem; }
+</style>

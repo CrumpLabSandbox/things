@@ -20,7 +20,7 @@
   };
 
   var FACETS = ["kind", "series", "characters", "subjects", "themes", "style", "mood", "setting", "composition", "line", "color_words", "medium", "year", "elements"];
-  var FACET_LABEL = { color_words: "colour", series: "series", medium: "medium", year: "year", kind: "finished or in progress" };
+  var FACET_LABEL = { color_words: "color", series: "series", medium: "medium", year: "year", kind: "finished or in progress" };
   var MAX_CHIPS = 18;
 
   var state = { records: [], byId: {}, sim: null, vocab: null, filters: {}, query: "", sort: "date-desc", view: "grid", expanded: {} };

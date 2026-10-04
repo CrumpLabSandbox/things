@@ -1,0 +1,50 @@
+---
+import Base from "../../layouts/Base.astro";
+import Gallery from "../../components/Gallery.astro";
+import { characters, seriesInfo } from "../../lib/data";
+import { href, exploreUrl, seriesUrl } from "../../lib/urls";
+
+export function getStaticPaths() {
+  return characters().map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props as { c: ReturnType<typeof characters>[number] };
+const seriesName = (s: string) => seriesInfo.find((x) => x.slug === s)?.name ?? s;
+
+// Follow the character through time: consecutive runs of the same series
+// become one chapter, so a figure that leaves and returns shows up twice.
+const chapters: { series: string; works: typeof c.works }[] = [];
+for (const w of c.works) {
+  const last = chapters[chapters.length - 1];
+  if (last && last.series === w.catalog.series_slug) last.works.push(w);
+  else chapters.push({ series: w.catalog.series_slug, works: [w] });
+}
+const span = (ws: typeof c.works) => {
+  const ys = ws.map((w) => w.catalog.year).filter(Boolean) as number[];
+  const lo = Math.min(...ys), hi = Math.max(...ys);
+  return lo === hi ? `${lo}` : `${lo} to ${hi}`;
+};
+---
+<Base title={c.tag} description={c.gloss || `The ${c.tag} across the collection.`} image={c.works[c.works.length - 1].catalog.image.path} wide>
+  <div class="page-head">
+    <p class="muted"><a href={href("characters/")}>Characters</a></p>
+    <h1>{c.tag}</h1>
+    {c.gloss && <p>{c.gloss}</p>}
+    <p>{c.works.length} pieces in {c.series.length} {c.series.length === 1 ? "series" : "series"}, {span(c.works)}, oldest first. <a href={exploreUrl("characters", c.tag)}>Open in explore</a></p>
+  </div>
+
+  {chapters.map((ch) => (
+    <section>
+      <h2><a href={seriesUrl(ch.series)}>{seriesName(ch.series)}</a> <span class="muted">{span(ch.works)}</span></h2>
+      <Gallery items={ch.works} eager={4} />
+    </section>
+  ))}
+</Base>
+
+<style>
+  section { margin-bottom: 2rem; }
+  section h2 { margin: 0 0 0.75rem; font-size: 1.1rem; }
+  section h2 a { text-decoration: none; }
+  section h2 a:hover { text-decoration: underline; }
+  section h2 .muted { font-weight: 400; font-size: 0.9rem; margin-left: 0.35rem; }
+  .page-head p.muted { margin: 0 0 0.25rem; }
+</style>

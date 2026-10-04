@@ -1,0 +1,46 @@
+---
+import { Image } from "astro:assets";
+import Base from "../../layouts/Base.astro";
+import BrowseNav from "../../components/BrowseNav.astro";
+import { characters, seriesInfo } from "../../lib/data";
+import { img } from "../../lib/images";
+import { href } from "../../lib/urls";
+
+const list = characters();
+const seriesName = (s: string) => seriesInfo.find((x) => x.slug === s)?.name ?? s;
+---
+<Base title="Characters" description="Recurring figures, followed across series and years." wide>
+  <div class="page-head">
+    <h1>Characters</h1>
+    <p>Recurring figures, followed across series and years. Each appears in at least four pieces.</p>
+  </div>
+  <BrowseNav />
+  <div class="cards">
+    {list.map((c) => (
+      <a class="card" href={href(`characters/${c.slug}/`)}>
+        <div class="thumbs">
+          {[c.works[0], c.works[Math.floor(c.works.length / 2)], c.works[c.works.length - 1]]
+            .filter((w, i, arr) => arr.indexOf(w) === i)
+            .map((w) => <Image src={img(w.catalog.image.path)} alt="" width={220} height={220} densities={[1, 2]} loading="lazy" />)}
+        </div>
+        <h2>{c.tag}</h2>
+        <p class="muted">
+          {c.works.length} pieces · {c.first === c.last ? c.first : `${c.first} to ${c.last}`} ·
+          {c.series.length === 1 ? ` ${seriesName(c.series[0])}` : ` ${c.series.length} series`}
+        </p>
+        {c.gloss && <p class="gloss">{c.gloss}</p>}
+      </a>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 2rem 1.5rem; }
+  .card { text-decoration: none; display: block; }
+  .card h2 { margin: 0.6rem 0 0.15rem; font-size: 1.1rem; }
+  .card:hover h2 { text-decoration: underline; }
+  .card p { margin: 0 0 0.3rem; font-size: 0.92rem; }
+  .gloss { color: var(--fg); }
+  .thumbs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px; }
+  .thumbs img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 3px; background: var(--tile); }
+</style>

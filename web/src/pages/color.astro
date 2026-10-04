@@ -1,0 +1,108 @@
+---
+import Base from "../layouts/Base.astro";
+import BrowseNav from "../components/BrowseNav.astro";
+import { works } from "../lib/data";
+import { asset, workUrl } from "../lib/urls";
+
+// Only what the page needs: palette, thumbnail, title, link.
+const items = works
+  .filter((w) => w.measured.palette?.length && w.measured.thumbnail)
+  .map((w) => ({
+    t: w.catalog.title,
+    u: workUrl(w.id),
+    i: asset(w.measured.thumbnail!),
+    a: w.catalog.image.aspect,
+    p: w.measured.palette!.map((p) => [p.hex, p.fraction]),
+  }));
+
+const swatches: [string, string][] = [
+  ["red", "#d23a2f"], ["orange", "#f08a24"], ["yellow", "#f2d13a"], ["lime", "#9ccf3e"],
+  ["green", "#3f8f4a"], ["teal", "#2aa59a"], ["sky", "#5bb8e8"], ["blue", "#2f5fb3"],
+  ["purple", "#7a4bb0"], ["pink", "#ef8fb8"], ["magenta", "#d63d9a"], ["brown", "#8a5a3c"],
+  ["tan", "#d8c3a0"], ["gray", "#8f8f8f"], ["black", "#1c1c1c"],
+];
+---
+<Base title="Color" description="Find pieces by color." wide>
+  <div class="page-head">
+    <h1>Color</h1>
+    <p>Pick a color to see the pieces that use the most of it.</p>
+  </div>
+  <BrowseNav />
+
+  <div class="picker" role="group" aria-label="Choose a color">
+    {swatches.map(([name, hex]) => (
+      <button type="button" class="sw" data-hex={hex} title={name} aria-label={name} style={`--c:${hex}`} />
+    ))}
+    <label class="custom">or any color <input type="color" id="c-input" value="#d23a2f" /></label>
+  </div>
+  <p class="muted" id="c-status" aria-live="polite"></p>
+  <div class="gallery" id="c-results"></div>
+
+  <script type="application/json" id="c-data" set:html={JSON.stringify(items)} />
+</Base>
+
+<script>
+  type Item = { t: string; u: string; i: string; a: number; p: [string, number][] };
+  const items: Item[] = JSON.parse(document.getElementById("c-data")!.textContent || "[]");
+  const results = document.getElementById("c-results")!;
+  const status = document.getElementById("c-status")!;
+  const input = document.getElementById("c-input") as HTMLInputElement;
+  const buttons = [...document.querySelectorAll<HTMLButtonElement>(".sw")];
+
+  function lab(hex: string): [number, number, number] {
+    const c = [1, 3, 5].map((k) => parseInt(hex.slice(k, k + 2), 16) / 255).map((v) => (v <= 0.04045 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4));
+    const x = (0.4124564 * c[0] + 0.3575761 * c[1] + 0.1804375 * c[2]) / 0.95047;
+    const y = 0.2126729 * c[0] + 0.7151522 * c[1] + 0.072175 * c[2];
+    const z = (0.0193339 * c[0] + 0.119192 * c[1] + 0.9503041 * c[2]) / 1.08883;
+    const f = (t: number) => (t > 0.008856 ? Math.cbrt(t) : 7.787 * t + 16 / 116);
+    return [116 * f(y) - 16, 500 * (f(x) - f(y)), 200 * (f(y) - f(z))];
+  }
+  // Lightness counts half as much as hue and chroma, so a dark red still reads as red.
+  const dist = (a: number[], b: number[]) => Math.sqrt(0.5 * (a[0] - b[0]) ** 2 + (a[1] - b[1]) ** 2 + (a[2] - b[2]) ** 2);
+  const labs = items.map((it) => it.p.map(([h, f]) => [lab(h), f] as const));
+
+  // Share of a piece's palette within reach of the target color, nearer counts more.
+  function score(k: number, target: number[]) {
+    let s = 0;
+    for (const [c, f] of labs[k]) s += f * Math.max(0, 1 - dist(c, target) / 40);
+    return s;
+  }
+
+  function show(hex: string, name?: string) {
+    const target = lab(hex);
+    const ranked = items.map((it, k) => ({ it, s: score(k, target) })).filter((r) => r.s > 0.04).sort((a, b) => b.s - a.s).slice(0, 48);
+    results.replaceChildren(...ranked.map(({ it }) => {
+      const a = document.createElement("a");
+      a.className = "tile"; a.href = it.u; a.style.setProperty("--a", String(it.a));
+      const img = document.createElement("img");
+      img.src = it.i; img.alt = it.t; img.loading = "lazy"; img.style.aspectRatio = String(it.a);
+      const bar = document.createElement("div"); bar.className = "pal";
+      for (const [h, f] of it.p) { const s = document.createElement("span"); s.style.background = h; s.style.flex = String(Math.max(f, 0.04)); bar.append(s); }
+      const cap = document.createElement("div"); cap.className = "cap"; cap.textContent = it.t;
+      a.append(img, bar, cap);
+      return a;
+    }));
+    status.textContent = ranked.length ? `${ranked.length} pieces with the most ${name ?? "of this color"}, closest first` : "No pieces use much of that color. Try another.";
+    buttons.forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.hex === hex)));
+    input.value = hex;
+    history.replaceState(null, "", `?c=${hex.slice(1)}`);
+  }
+
+  buttons.forEach((b) => b.addEventListener("click", () => show(b.dataset.hex!, b.title)));
+  input.addEventListener("input", () => show(input.value));
+  const q = new URLSearchParams(location.search).get("c");
+  const start = q && /^[0-9a-f]{6}$/i.test(q) ? `#${q.toLowerCase()}` : buttons[0].dataset.hex!;
+  show(start, buttons.find((b) => b.dataset.hex === start)?.title);
+</script>
+
+<style>
+  .picker { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 0.5rem; }
+  .sw { width: 34px; height: 34px; border-radius: 50%; border: 2px solid var(--bg); outline: 1px solid var(--line); background: var(--c); cursor: pointer; padding: 0; }
+  .sw:hover { transform: scale(1.1); }
+  .sw[aria-pressed="true"] { outline: 2px solid var(--fg); outline-offset: 1px; }
+  .custom { display: inline-flex; align-items: center; gap: 0.4rem; margin-left: 0.5rem; font-size: 0.9rem; color: var(--muted); }
+  .custom input { width: 40px; height: 32px; border: 1px solid var(--line); background: var(--bg); padding: 2px; border-radius: 4px; }
+  #c-status { margin: 0.25rem 0 1rem; font-size: 0.9rem; }
+  .gallery :global(.pal) { display: flex; gap: 1px; height: 6px; margin-top: 3px; }
+  .gallery :global(.pal span) { display: block; border-radius: 1px; }
+</style>

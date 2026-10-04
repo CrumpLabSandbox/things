@@ -1,0 +1,57 @@
+---
+import Base from "../layouts/Base.astro";
+import Gallery from "../components/Gallery.astro";
+import BrowseNav from "../components/BrowseNav.astro";
+import { works, oldestFirst, seriesInfo } from "../lib/data";
+import { seriesUrl } from "../lib/urls";
+
+// Finished works grouped by year, oldest first. Years come from the records'
+// dates, which are mostly file dates; some pieces are signed a year earlier.
+const byYear = new Map<number, typeof works>();
+for (const w of oldestFirst(works)) {
+  const y = w.catalog.year;
+  if (typeof y === "number") byYear.set(y, [...(byYear.get(y) ?? []), w]);
+}
+const years = [...byYear.keys()].sort((a, b) => a - b);
+const seriesName = (s: string) => seriesInfo.find((x) => x.slug === s)?.name ?? s;
+const max = Math.max(...[...byYear.values()].map((l) => l.length));
+---
+<Base title="Timeline" description="All finished work, year by year." wide>
+  <div class="page-head">
+    <h1>Timeline</h1>
+    <p>All finished work, year by year, from {years[0]} to {years[years.length - 1]}.</p>
+  </div>
+  <BrowseNav />
+
+  <nav class="years" aria-label="Years">
+    {years.map((y) => (
+      <a href={`#y${y}`} title={`${byYear.get(y)!.length} pieces`}>
+        <span class="bar" style={`height:${Math.max(4, Math.round((byYear.get(y)!.length / max) * 48))}px`} />
+        <span class="label">{y}</span>
+      </a>
+    ))}
+  </nav>
+
+  {years.map((y) => {
+    const list = byYear.get(y)!;
+    const inSeries = [...new Set(list.map((w) => w.catalog.series_slug))];
+    return (
+      <section id={`y${y}`}>
+        <h2>{y} <span class="muted">{list.length} {list.length === 1 ? "piece" : "pieces"}</span></h2>
+        <p class="chips">{inSeries.map((s) => <a class="chip" href={seriesUrl(s)}>{seriesName(s)}</a>)}</p>
+        <Gallery items={list} eager={y === years[0] ? 6 : 0} />
+      </section>
+    );
+  })}
+</Base>
+
+<style>
+  .years { display: flex; gap: 6px; align-items: flex-end; margin: 0 0 2rem; overflow-x: auto; padding-bottom: 4px; }
+  .years a { display: flex; flex-direction: column; align-items: center; gap: 4px; text-decoration: none; font-size: 0.8rem; color: var(--muted); min-width: 2.6rem; }
+  .years a:hover { color: var(--fg); }
+  .years .bar { display: block; width: 100%; background: var(--fg); opacity: 0.75; border-radius: 2px 2px 0 0; }
+  section { margin-bottom: 2.5rem; scroll-margin-top: 1rem; }
+  section h2 { margin: 0 0 0.4rem; }
+  section h2 .muted { font-weight: 400; font-size: 0.9rem; margin-left: 0.35rem; }
+  section .chips { margin: 0 0 0.9rem; }
+</style>

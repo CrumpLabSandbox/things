@@ -1,0 +1,46 @@
+---
+// "Like this, but..." : similar finished works that move in one direction
+// (calmer, more colorful, newer...). Computed by the pipeline; every strip is
+// in the HTML, and buttons switch between them.
+import Strip from "./Strip.astro";
+import { byId, similarity, type Artwork } from "../lib/data";
+
+interface Props { id: string }
+const { id } = Astro.props;
+const dirs = similarity.directions?.[id] ?? {};
+const options = Object.entries(dirs)
+  .map(([name, ids]) => [name, ids.map((x) => byId.get(x)).filter((a): a is Artwork => Boolean(a))] as const)
+  .filter(([, items]) => items.length > 0);
+const uid = "ltb-" + id.replace(/[^a-z0-9]/gi, "-");
+---
+{options.length > 0 && (
+  <section class="ltb" data-ltb>
+    <h2>Like this, but…</h2>
+    <div class="chips" role="tablist" aria-label="Like this, but">
+      {options.map(([name], i) => (
+        <button type="button" class="chip" role="tab" id={`${uid}-tab-${i}`} aria-controls={`${uid}-panel-${i}`} aria-selected={i === 0 ? "true" : "false"}>{name}</button>
+      ))}
+    </div>
+    {options.map(([name, items], i) => (
+      <div class="panel" role="tabpanel" id={`${uid}-panel-${i}`} aria-labelledby={`${uid}-tab-${i}`} hidden={i !== 0}>
+        <Strip items={items} />
+      </div>
+    ))}
+  </section>
+)}
+
+<script>
+  for (const box of document.querySelectorAll<HTMLElement>("[data-ltb]")) {
+    const tabs = [...box.querySelectorAll<HTMLButtonElement>("[role=tab]")];
+    const panels = [...box.querySelectorAll<HTMLElement>("[role=tabpanel]")];
+    tabs.forEach((tab, i) => tab.addEventListener("click", () => {
+      tabs.forEach((t, j) => t.setAttribute("aria-selected", String(i === j)));
+      panels.forEach((p, j) => (p.hidden = i !== j));
+    }));
+  }
+</script>
+
+<style>
+  .ltb .chips { margin-bottom: 0.75rem; }
+  .ltb [role="tab"][aria-selected="true"] { background: var(--accent); color: var(--accent-fg); }
+</style>

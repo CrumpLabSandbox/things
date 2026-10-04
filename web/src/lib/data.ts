@@ -53,7 +53,11 @@ export interface Project {
 }
 export interface PlaygroundItem { id: string; title: string; image: string; width: number; height: number; date: string | null; prompt: string | null; notes: string | null }
 export interface PlaygroundGroup { id: string; source: string | null; description: string | null; notes: string | null; items: PlaygroundItem[] }
-export interface Similarity { neighbours: Record<string, { tags: [string, number][]; text: [string, number][]; visual: [string, number][] }>; layout: Record<string, [number, number]> }
+export interface Similarity {
+  neighbours: Record<string, { tags: [string, number][]; text: [string, number][]; visual: [string, number][] }>;
+  layout: Record<string, [number, number]>;
+  directions?: Record<string, Record<string, string[]>>;
+}
 
 export const artworks: Artwork[] = readJson<Artwork[]>("artworks.json");
 export const byId = new Map(artworks.map((a) => [a.id, a]));
@@ -96,7 +100,7 @@ export function projectsFor(id: string): Project[] {
 
 /** Public tag facets present on a record, in a fixed display order. */
 export const FACET_ORDER = ["characters", "subjects", "themes", "style", "mood", "setting", "composition", "line", "color_words", "elements"];
-export const FACET_LABEL: Record<string, string> = { color_words: "colour" };
+export const FACET_LABEL: Record<string, string> = { color_words: "color" };
 export function facetsOf(a: Artwork): [string, string[]][] {
   const d = a.described ?? {};
   return FACET_ORDER.filter((f) => Array.isArray(d[f]) && (d[f] as string[]).length).map((f) => [f, d[f] as string[]]);
@@ -118,4 +122,26 @@ export function mediumLine(a: Artwork): string {
   const c = a.catalog;
   const medium = c.medium ? (c.surface ? `${c.medium} on ${c.surface}` : c.medium) : null;
   return [medium, c.physical_size_in ? `${c.physical_size_in} in` : null].filter(Boolean).join(", ");
+}
+
+/** URL-safe slug for a tag, e.g. "hooded pod figure" -> "hooded-pod-figure". */
+export const slug = (t: string) => t.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+
+/** Recurring characters: tags on at least `min` finished works, most frequent first. */
+export function characters(min = 4) {
+  const glosses = new Map((vocabulary.facets.characters ?? []).map((t) => [t.tag, t.gloss]));
+  const by = new Map<string, Artwork[]>();
+  for (const a of works) for (const t of ((a.described?.characters as string[]) ?? [])) by.set(t, [...(by.get(t) ?? []), a]);
+  return [...by.entries()]
+    .filter(([, list]) => list.length >= min)
+    .map(([tag, list]) => {
+      const ordered = oldestFirst(list);
+      const years = ordered.map((a) => a.catalog.year).filter((y): y is number => typeof y === "number");
+      return {
+        tag, slug: slug(tag), gloss: glosses.get(tag) || "", works: ordered,
+        first: years[0], last: years[years.length - 1],
+        series: [...new Set(ordered.map((a) => a.catalog.series_slug))],
+      };
+    })
+    .sort((a, b) => b.works.length - a.works.length || a.tag.localeCompare(b.tag));
 }
