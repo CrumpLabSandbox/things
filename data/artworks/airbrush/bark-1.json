@@ -136,7 +136,6 @@
     ],
     "composition": [
       "all over",
-      "pattern",
       "no horizon"
     ],
     "line": [
@@ -151,17 +150,13 @@
     ],
     "style": [
       "abstract",
-      "stencil airbrush",
-      "organic pattern"
+      "stencil airbrush"
     ],
     "themes": [
-      "texture",
-      "nature up close",
-      "cells"
+      "texture"
     ],
     "mood": [
-      "calm",
-      "meditative"
+      "calm"
     ],
     "text_in_image": {
       "present": false,

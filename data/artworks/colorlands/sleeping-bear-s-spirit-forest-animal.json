@@ -132,7 +132,7 @@
     ],
     "characters": [
       "horned creature",
-      "monster face",
+      "toothy monster",
       "sleepy face",
       "antenna blob",
       "bear"
@@ -142,7 +142,7 @@
       "signature",
       "white border",
       "smoke plume",
-      "puffy cloud",
+      "outlined cloud",
       "picture within picture",
       "cone tree",
       "camper van",
@@ -183,9 +183,8 @@
     "themes": [
       "imaginary worlds",
       "crowded life",
-      "dreams",
-      "faces in things",
-      "animals as landscape"
+      "stillness",
+      "faces in things"
     ],
     "mood": [
       "playful",

@@ -140,8 +140,8 @@
     ],
     "setting": [
       "real city reimagined",
-      "NYC",
-      "sky"
+      "Manhattan",
+      "space"
     ],
     "composition": [
       "poster layout",
@@ -160,20 +160,18 @@
       "vintage"
     ],
     "style": [
-      "screen print",
-      "art deco",
-      "WPA poster",
-      "reproduction"
+      "print making",
+      "art deco"
     ],
     "themes": [
       "flight",
       "place",
-      "print making",
-      "learning"
+      "process",
+      "systems"
     ],
     "mood": [
       "nostalgic",
-      "bold"
+      "energetic"
     ],
     "text_in_image": {
       "present": true,

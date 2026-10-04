@@ -124,7 +124,7 @@
       "city",
       "mountains",
       "clouds",
-      "planet"
+      "planets"
     ],
     "characters": [
       "rabbit eared figure",
@@ -153,8 +153,7 @@
     "line": [
       "pen and ink",
       "thin black outline",
-      "no fill",
-      "contour lines"
+      "no fill"
     ],
     "color_words": [
       "black and white",
@@ -162,7 +161,7 @@
       "line only"
     ],
     "style": [
-      "pen and ink",
+      "study",
       "cartoon",
       "map like",
       "print making"

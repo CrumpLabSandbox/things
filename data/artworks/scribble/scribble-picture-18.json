@@ -117,7 +117,95 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-18.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph beneath the elevated F train in Brooklyn, with a faceless woman in a blue floral dress, a giant cartoon cloud with a coffee shop sign bursting from a storefront, and small creatures on the corner, signed 2023.",
+    "description": "A portrait format digital piece on a photograph inside a white border, signed 2023 at lower left. Green steel elevated subway tracks cross the top half of the image, with their stairs, girders and a McDonald Avenue street sign. At right a brick building's storefront has an enormous white cartoon cloud drawn bursting from its awning, with the words Coffee Shop and a cup drawn faintly in it and a small grey bird like creature perched on top. A woman in a blue floral dress with a yellow bag stands at centre with her head redrawn as a grey cartoon shape, facing away. Orange and white construction barriers block the crossing, cartoon cars in white and yellow sit at left, a yellow creature with a rounded body stands at far left, and a small grey creature crouches at the lower right by a wall of scribbled tags. A red hydrant is outlined at centre.",
+    "impression": "Under the tracks on a bright day, where a coffee shop has exhaled a cloud the size of a car. The woman in the floral dress is the still centre of the picture, waiting for the light while the drawing happens around her. The creatures are small and shy here, hiding at the edges. Warm and domestic, a neighbourhood Scribble.",
+    "subjects": [
+      "street",
+      "city",
+      "elevated train",
+      "people",
+      "clouds",
+      "shop",
+      "creatures",
+      "cars",
+      "construction"
+    ],
+    "characters": [
+      "faceless figure",
+      "bird creature",
+      "blob figure"
+    ],
+    "elements": [
+      "elevated tracks",
+      "giant cloud",
+      "coffee shop sign",
+      "construction barrier",
+      "outlined car",
+      "hydrant",
+      "scribble tag",
+      "white border",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "under the F train"
+    ],
+    "composition": [
+      "figures in foreground",
+      "layered depth",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "warm",
+      "teal and tan",
+      "washed",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "waiting",
+      "creatures among us"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "McDonald Av; Coffee Shop drawn in cloud; scribbled tags; signature 2023",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "F train",
+      "giant cloud",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

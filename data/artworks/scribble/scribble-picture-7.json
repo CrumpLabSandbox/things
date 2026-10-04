@@ -127,7 +127,7 @@
       "cars",
       "traffic",
       "skyscrapers",
-      "lamps",
+      "lamp post",
       "trees"
     ],
     "characters": [
@@ -135,15 +135,14 @@
     ],
     "elements": [
       "outlined car",
-      "street lamp",
+      "lamp post",
       "balcony tower",
       "shop sign",
       "signature"
     ],
     "setting": [
       "Toronto",
-      "city",
-      "avenue"
+      "invented city"
     ],
     "composition": [
       "one point perspective",

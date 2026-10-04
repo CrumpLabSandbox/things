@@ -9,6 +9,11 @@ project:
     - "*.qmd"
     - "!vignettes/"
     - "!*.Rmd"
+    - "!tools/"
+  resources:
+    - "data/public/*.json"
+    - "data/thumbs/**"
+    - "explore/*"
 
 website:
   title: "things"
@@ -27,6 +32,8 @@ website:
         text: home
       - href: prints.qmd
         text: Buy Prints
+      - href: explore.qmd
+        text: explore
       - href: playground.qmd
         text: playground
       - href: wip.qmd

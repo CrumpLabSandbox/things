@@ -124,7 +124,7 @@
     "subjects": [
       "street",
       "city",
-      "truck",
+      "trucks",
       "worker",
       "graffiti",
       "signs",
@@ -133,8 +133,7 @@
       "cars"
     ],
     "characters": [
-      "faceless figure",
-      "worker"
+      "faceless figure"
     ],
     "elements": [
       "dump truck",
@@ -152,7 +151,7 @@
       "Flatbush"
     ],
     "composition": [
-      "street level",
+      "low horizon",
       "central feature",
       "photo base",
       "vertical"
@@ -177,8 +176,7 @@
     "themes": [
       "city",
       "work",
-      "graffiti",
-      "layers of marks"
+      "layers"
     ],
     "mood": [
       "busy",

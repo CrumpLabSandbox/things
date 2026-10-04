@@ -117,8 +117,102 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-49.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A night photograph of Times Square with neon billboards, where the ads are overwritten with scribbles and the models given blank faces, a crowd of tourists with cartoon heads, cartoon taxis, and a street artist drawing portraits of blank faced people, labelled SP 49 2024.",
+    "description": "A portrait format digital piece on a night photograph inside a white border, captioned SP 49 2024 at lower left and MATT CRUMP at lower right. Towers covered in glowing billboards fill the upper half against a black sky: a teal screen at centre left overwritten with white scribbled letters, a pink screen with scribbles at far left, a red billboard at right showing two models whose faces are blank cream shapes, orange and blue screens with scribbled text. A dense crowd fills the street below, every head a grey, white or cream cartoon shape: a woman in a tan coat and white hat at right, a figure in a leopard print coat at centre, a figure in a purple jacket, a figure in an olive jacket, and hundreds more receding. At left a street artist in black sits on a stool with a cartoon head drawing a portrait, beside a stand of drawings that are also blank faced cartoon heads. Two yellow cabs at left are redrawn as rounded cartoon shapes with pink and blue glow.",
+    "impression": "Times Square at night with the advertising silenced into scribbles and the models blanked, so the screens are just light. The best joke is the caricature artist drawing faceless portraits of faceless people, the picture explaining its own method. Neon, dense and oddly warm, a tourist trap turned into a cartoon carnival.",
+    "subjects": [
+      "city",
+      "night",
+      "billboard",
+      "neon",
+      "crowd",
+      "people",
+      "taxis",
+      "street artist"
+    ],
+    "characters": [
+      "faceless figure",
+      "vehicle creature"
+    ],
+    "elements": [
+      "scribble tag",
+      "blank face",
+      "portrait stand",
+      "outlined taxi",
+      "neon glow",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Times Square",
+      "night"
+    ],
+    "composition": [
+      "crowd",
+      "dense",
+      "vertical",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "neon",
+      "night",
+      "saturated",
+      "pink and teal"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "night",
+      "advertising",
+      "anonymity",
+      "crowded life"
+    ],
+    "mood": [
+      "energetic",
+      "moody",
+      "wry"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled billboard text; SP 49 2024; MATT CRUMP",
+      "role": "scribble and caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 night photograph, print layout with white border. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "times square",
+      "night",
+      "neon",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "scribble/scribble-picture-24",
+      "note": "The two night time Scribble pictures.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

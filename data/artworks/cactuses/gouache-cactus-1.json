@@ -128,7 +128,7 @@
     "elements": [
       "spines",
       "branching arms",
-      "black outline"
+      "thin black outline"
     ],
     "setting": [
       "no place"
@@ -140,7 +140,7 @@
     ],
     "line": [
       "thick black outline",
-      "streaky brushwork",
+      "visible brushwork",
       "painted"
     ],
     "color_words": [
@@ -150,8 +150,7 @@
     ],
     "style": [
       "cartoon",
-      "study",
-      "gouache"
+      "study"
     ],
     "themes": [
       "plants as creatures",

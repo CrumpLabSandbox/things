@@ -117,7 +117,87 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-33.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph in DUMBO of a stone building beside the Manhattan Bridge, where a second photograph of a brick building is drawn into the sky as cartoon cloud shapes, a pink ice cream truck is outlined at the bottom, and food cart customers are drawn as blank outlines, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower left. A beige stone building with large windows fills the right side, its windows reflecting blue sky and a water tower. At left the blue steel Manhattan Bridge crosses the frame. In the sky and across the bridge, cartoon cloud shapes are drawn whose interiors are filled with a second photograph of a red brick building with fire escapes, so bricks appear inside clouds, with a few blue sky clouds outlined among them. A Main St sign and lamp post stand at centre. Two food carts with yellow and blue umbrellas sit at the kerb with customers drawn as pale outlined figures with no fill. At the bottom a pink and white ice cream truck is redrawn as a flat cartoon with a sundae painted on its side and a blank faced driver, and a woman with a bag at the window. The light is bright and warm.",
+    "impression": "Layered with Broadway, as the process note says: a second street is poured into the sky as clouds, so bricks float over DUMBO. It is the most collage like Scribble, two photographs arguing through a cartoon cloud shape. The ice cream truck at the bottom keeps it from being too clever. Sunny and strange.",
+    "subjects": [
+      "street",
+      "city",
+      "bridge",
+      "buildings",
+      "clouds",
+      "ice cream truck",
+      "food carts",
+      "people"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "photo filled cloud",
+      "bridge",
+      "street sign",
+      "umbrella",
+      "ice cream truck",
+      "water tower",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "DUMBO"
+    ],
+    "composition": [
+      "photo base",
+      "foreground objects",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue and brick",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "pictures within pictures",
+      "layers"
+    ],
+    "mood": [
+      "playful",
+      "sunny",
+      "strange"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Main St; Matt Crump 24",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, with a second photograph masked into cloud shapes.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "dumbo",
+      "photo in clouds",
+      "ice cream truck",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -129,13 +129,12 @@
       "creatures",
       "vehicles",
       "sun",
-      "planet"
+      "planets"
     ],
     "characters": [
-      "egg creature",
       "one eyed creature",
       "antenna blob",
-      "hat wearing figure"
+      "blob figure"
     ],
     "elements": [
       "domed building",
@@ -145,7 +144,7 @@
       "rising sun",
       "striped planet",
       "bubble window vehicle",
-      "puffy cloud",
+      "outlined cloud",
       "eyes in things"
     ],
     "setting": [
@@ -163,7 +162,7 @@
     ],
     "line": [
       "thin black outline",
-      "white scribble overlay",
+      "scribble marks",
       "flat fill",
       "soft shading"
     ],

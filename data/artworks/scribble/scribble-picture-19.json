@@ -117,8 +117,96 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-19.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of the Stanley Park seawall in Vancouver with walkers and a jogger given blank cartoon heads, a grain terminal and ship across the water, mountains behind, and one outlined cloud, signed 2023.",
+    "description": "A portrait format digital piece on a photograph inside a white border, signed 2023 at lower left. A paved seawall path runs from the bottom toward the middle, with a grassy bank at left and a stone wall and rocks at right beside the water. Walkers and a jogger on the path have their heads replaced by grey cartoon shapes: a figure in a red sweater walking toward the viewer, a jogger in a red top and black shorts, a figure seated on the wall at right in a dark jacket, and smaller figures ahead. Across the inlet a grain terminal is partly redrawn as flat white and grey cartoon blocks, beside a red and black ship and port cranes. Forested mountains rise behind under a hazy peach sky, where a single cartoon cloud is outlined. A cedar tree hangs over the upper left and a few small outlined marks float above the far shore.",
+    "impression": "A gentle holiday Scribble: the drawing barely touches the mountains and water, just the heads and the industrial building across the inlet. The jogger and the man in the red sweater are the whole story, two people passing on a path with a view. It is the quietest piece in the series and the only one with a real landscape.",
+    "subjects": [
+      "path",
+      "people",
+      "jogger",
+      "river",
+      "mountains",
+      "ship",
+      "industrial building",
+      "trees",
+      "clouds"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "seawall",
+      "grain terminal",
+      "ship",
+      "crane",
+      "outlined cloud",
+      "white border",
+      "signature"
+    ],
+    "setting": [
+      "Vancouver",
+      "park",
+      "waterfront"
+    ],
+    "composition": [
+      "one point perspective",
+      "figures in foreground",
+      "layered depth",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "hazy",
+      "peach and teal",
+      "warm",
+      "washed"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "travel",
+      "leisure",
+      "anonymity",
+      "nature"
+    ],
+    "mood": [
+      "calm",
+      "wistful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "signature 2023",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a photograph taken in Vancouver, print layout with white border.",
+    "free_tags": [
+      "scribble series",
+      "vancouver",
+      "stanley park",
+      "faceless people",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-20",
+      "note": "Vancouver, same trip.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

@@ -117,7 +117,91 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-42.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A low angle photograph of the Williamsburgh Savings Bank clock tower in Brooklyn, wrapped in a tower of outlined cartoon clouds with small creatures hiding in them, above the Atlantic Avenue station entrance and a street of cartoon cars and creatures, labelled SP42.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP42 at left on a building. The gold brick clock tower with its dome rises at centre against a bright blue sky, and a mass of outlined white cartoon clouds is drawn around it from top to bottom, with small creatures and eyes hidden in the cloud lobes and a few clouds drawn across the tower's face. At lower right the classical Atlantic Avenue subway entrance with carved lettering and arched windows. At street level the traffic and sidewalk are crowded with cartoon cars in white, grey and blue, a tall cream creature at lower right, bins with faces, and a faceless figure in a dark coat walking at centre. A low building at left carries the caption.",
+    "impression": "The clocktower dressed in a cumulus coat, with the clouds so thick they look like a second building. Finding the creatures hidden in the cloud lobes is a game. Below, the street carries on with its cartoon traffic. A landmark portrait in the grand manner, with the sky as the main character.",
+    "subjects": [
+      "city",
+      "clock tower",
+      "landmark",
+      "clouds",
+      "creatures",
+      "subway entrance",
+      "cars",
+      "people"
+    ],
+    "characters": [
+      "hidden face",
+      "faceless figure",
+      "vehicle creature",
+      "bin creature"
+    ],
+    "elements": [
+      "outlined cloud",
+      "clock",
+      "dome",
+      "carved lettering",
+      "outlined car",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Atlantic Avenue"
+    ],
+    "composition": [
+      "low angle",
+      "central feature",
+      "vertical",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "gold and blue",
+      "saturated",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "landmarks",
+      "hidden creatures",
+      "fake nature"
+    ],
+    "mood": [
+      "wondrous",
+      "playful",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 24 SP42; Atlantic Avenue carved lettering",
+      "role": "caption and found signage"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "clocktower",
+      "cloud tower",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

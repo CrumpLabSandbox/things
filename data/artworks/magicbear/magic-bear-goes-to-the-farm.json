@@ -129,18 +129,18 @@
       "bear",
       "carrots",
       "spaceship",
-      "tree"
+      "trees"
     ],
     "characters": [
       "magic bear",
-      "blue faced creature",
-      "bulb eyed face"
+      "blob figure",
+      "one eyed creature"
     ],
     "elements": [
       "bubble letters",
       "carrot",
       "rocket",
-      "tree",
+      "flat tree",
       "bare wood"
     ],
     "setting": [
@@ -165,7 +165,6 @@
     "style": [
       "graffiti",
       "cartoon",
-      "lettering",
       "doodle",
       "seek and find density"
     ],

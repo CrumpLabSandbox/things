@@ -134,7 +134,7 @@
     "elements": [
       "dotted ring",
       "white highlight line",
-      "cube",
+      "floating cube",
       "tapering form"
     ],
     "setting": [
@@ -161,7 +161,6 @@
       "superland world"
     ],
     "themes": [
-      "origins",
       "growth",
       "faces in things"
     ],

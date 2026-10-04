@@ -117,8 +117,105 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-30.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of the DUMBO flea market under the Manhattan Bridge arches, where every shopper has become a hooded pod creature with horns or ears, sitting on wooden steps and browsing clothing racks, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. The stone arches and steel span of the Manhattan Bridge fill the upper right, with outlined cartoon clouds in the blue sky and red brick warehouses at left. White market tents shade clothing racks and stalls. Every person has been redrawn as a rounded hooded pod creature with a small face opening, in tan, grey, blue, green and cream: a large one in a blue top at lower left seen from behind with a grey cap, two with horns sitting on wooden stepped benches at centre right, a group browsing the racks at left, and dozens more in the distance. A tall pale sign post stands at centre. Shadows are flat and the stone is warm.",
+    "impression": "The flea market as a gathering of the pod people, who have finally taken over an entire crowd rather than peeking from the edges. They shop and sit on the steps exactly as the humans did, which is the joke and also the tenderness. The bridge arches make it a cathedral for creatures. The clearest link between the 2016 character sheets and the 2024 photographs.",
+    "subjects": [
+      "market",
+      "bridge",
+      "crowd",
+      "creatures",
+      "tents",
+      "clothing racks",
+      "warehouses",
+      "clouds"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "horned creature"
+    ],
+    "elements": [
+      "bridge arch",
+      "market tent",
+      "wooden steps",
+      "outlined cloud",
+      "clothing rack",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "DUMBO",
+      "flea market"
+    ],
+    "composition": [
+      "crowd",
+      "layered depth",
+      "photo base",
+      "dense"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "tan and blue",
+      "sunny",
+      "saturated"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "crowded life",
+      "creatures among us",
+      "market"
+    ],
+    "mood": [
+      "busy",
+      "playful",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 24",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "dumbo",
+      "flea market",
+      "hooded pods",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "characters/character-set-1",
+      "note": "The entire crowd is drawn as the hooded pod figure.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-46",
+      "note": "DUMBO flea market, revisited in November.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

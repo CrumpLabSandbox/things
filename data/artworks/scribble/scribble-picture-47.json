@@ -117,7 +117,87 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-47.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a midtown Manhattan street under construction, with a long grey cartoon fence running down the sidewalk, a green copper skybridge between towers, a red building with a scribbled sign, and a few pedestrians redrawn as outlined figures, labelled SP 47 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned SP 47 2024 at lower left and MATT CRUMP at lower right. A canyon of midtown buildings: a red painted wall and a gold stone building at left, an ornate green copper skybridge crossing between two towers at upper centre, glass towers at the far end, and a dark glass building with a colourful reflective facade at right. A vertical red sign on the left building has its lettering replaced with white scribbles. The sidewalk at lower left is lined by a long construction fence redrawn as a flat grey cartoon wall with black outlines, receding to the vanishing point. A few pedestrians near the fence are redrawn as outlined figures with blank faces: a figure in a maroon top with a red bag at centre, figures in purple and white in the distance. A small red hydrant creature stands at right. The sky is pale blue.",
+    "impression": "Minimal cartooning, as the process note says: the drawing picks one thing, the construction fence, and turns it into a long grey ribbon, and otherwise leaves the canyon alone. The copper skybridge is the real star. It reads as a study in restraint, the photograph allowed to be the picture with a single cartoon intervention.",
+    "subjects": [
+      "street",
+      "city",
+      "skyscrapers",
+      "skybridge",
+      "construction fence",
+      "people",
+      "signs"
+    ],
+    "characters": [
+      "faceless figure",
+      "hydrant creature"
+    ],
+    "elements": [
+      "construction fence",
+      "skybridge",
+      "scribble tag",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Midtown"
+    ],
+    "composition": [
+      "one point perspective",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "gold and green",
+      "grey fence",
+      "saturated",
+      "crisp"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "work",
+      "architecture",
+      "erasure"
+    ],
+    "mood": [
+      "calm",
+      "crisp",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled vertical sign; SP 47 2024; MATT CRUMP",
+      "role": "scribble and caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "midtown",
+      "construction",
+      "minimal",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

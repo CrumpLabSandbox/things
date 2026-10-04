@@ -129,7 +129,7 @@
     ],
     "characters": [],
     "elements": [
-      "cloud",
+      "outlined cloud",
       "kerb",
       "road",
       "white gap"
@@ -164,11 +164,11 @@
       "city",
       "same image many colourways",
       "place",
-      "weather"
+      "nature"
     ],
     "mood": [
       "calm",
-      "fresh"
+      "crisp"
     ],
     "text_in_image": {
       "present": false,

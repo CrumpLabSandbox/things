@@ -117,7 +117,88 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-37.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of the Manhattan Bridge from Brooklyn Bridge Park's pebble beach, with a cartoon boat on the river and people on the shore redrawn as outlined cartoon figures with blank faces, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. The blue steel span of the Manhattan Bridge sweeps from the upper right down to a stone tower at left, with a tall slim glass tower behind and the Manhattan skyline and the Empire State Building in the distance under a clear blue sky. A grey river fills the middle with a small outlined cartoon boat at left. In the foreground a pebble beach with autumn grasses and pink flowers at right. People on the beach are redrawn as outlined cartoon figures with blank faces and flat fills: a figure in a grey hoodie walking left, a group of four at centre including one in a cream sweater holding a small white dog, a figure with grey hair at right, and a half visible figure at lower left. A tiny figure stands on a rock at far right.",
+    "impression": "A nearly untouched photograph, with only the people and one boat drawn, which makes the bridge and the sky look even more real by contrast. The group on the beach with the little dog are a family outing in cartoon form. The gentlest of the autumn Scribbles, a postcard with the people turned to drawings.",
+    "subjects": [
+      "bridge",
+      "river",
+      "city",
+      "beach",
+      "people",
+      "boat",
+      "flowers",
+      "dog"
+    ],
+    "characters": [
+      "faceless figure",
+      "dog"
+    ],
+    "elements": [
+      "bridge",
+      "outlined boat",
+      "pebble beach",
+      "autumn grass",
+      "skyline",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Brooklyn Bridge Park",
+      "waterfront"
+    ],
+    "composition": [
+      "diagonal",
+      "figures in foreground",
+      "layered depth",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue and tan",
+      "warm",
+      "crisp"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "landmarks",
+      "leisure",
+      "community"
+    ],
+    "mood": [
+      "calm",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 24",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "brooklyn bridge park",
+      "manhattan bridge",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

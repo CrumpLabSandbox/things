@@ -117,7 +117,93 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-32.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph looking down on Ditmas Avenue from the elevated F train, with cartoon clouds filling the sky, pod creatures walking the sidewalk past a yellow brick building, cartoon cars parked along the kerb, and a large grey creature with a green tail at the bottom, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. From above, a yellow brick four storey apartment building with stone lintels fills the left half, with a pink and yellow striped awning over a shop at its base. A long sidewalk runs down the right side toward low shops and trees, with a road beyond. The sky is filled with outlined white cartoon clouds, some drawn over the building's parapet. Pod creatures in blue, grey, tan and cream with hooded heads walk along the sidewalk, one group of four by the shop, and more in the distance. A tall grey creature with a drawn traffic sign stands at centre. Cars along the kerb are redrawn as blue and white cartoon shapes. At lower left a white smoke cloud puffs beside a grey creature and a blue bin creature; at lower right a large grey rounded creature with a green curled tail is seen from above. A grey shadow shape lies in the road.",
+    "impression": "The view from the F train window turned into a creature's eye view of Ditmas Avenue. The pod people are out doing errands and a big grey animal is ambling along below the platform. The cartoon clouds crowd the sky as they do in the later Scribbles. Sunny, high up and friendly.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "sidewalk",
+      "creatures",
+      "cars",
+      "clouds",
+      "shop"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "bin creature",
+      "blob figure",
+      "vehicle creature"
+    ],
+    "elements": [
+      "outlined cloud",
+      "striped awning",
+      "outlined car",
+      "smoke plume",
+      "fire escape",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Ditmas Avenue",
+      "from the F train"
+    ],
+    "composition": [
+      "aerial view",
+      "diagonal",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "yellow brick",
+      "blue sky",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "creatures among us",
+      "commuting"
+    ],
+    "mood": [
+      "sunny",
+      "playful",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 24",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph taken from the F train.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "ditmas",
+      "F train",
+      "hooded pods",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

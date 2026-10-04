@@ -144,7 +144,6 @@
     ],
     "composition": [
       "central figure",
-      "figure over pattern",
       "bare ground"
     ],
     "line": [
@@ -164,13 +163,13 @@
       "painted on wood"
     ],
     "themes": [
-      "surprise",
+      "character story",
       "character study"
     ],
     "mood": [
       "playful",
       "loud",
-      "startled"
+      "strange"
     ],
     "text_in_image": {
       "present": false,

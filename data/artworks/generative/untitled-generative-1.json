@@ -138,13 +138,11 @@
     "composition": [
       "all over",
       "dense",
-      "field",
       "no horizon"
     ],
     "line": [
       "pencil scribble underlayer",
-      "no fill",
-      "layered strokes"
+      "no fill"
     ],
     "color_words": [
       "grayscale",
@@ -154,17 +152,16 @@
     "style": [
       "generative",
       "abstract",
-      "scribble",
+      "doodle",
       "process art"
     ],
     "themes": [
       "process",
       "variation",
-      "noise",
-      "traces"
+      "noise"
     ],
     "mood": [
-      "restless",
+      "busy",
       "quiet"
     ],
     "text_in_image": {

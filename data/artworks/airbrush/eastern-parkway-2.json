@@ -130,7 +130,7 @@
     ],
     "characters": [],
     "elements": [
-      "cloud",
+      "outlined cloud",
       "kerb",
       "road",
       "plaid overlay",
@@ -144,7 +144,7 @@
     "composition": [
       "one point perspective",
       "low horizon",
-      "white sky"
+      "white ground"
     ],
     "line": [
       "airbrush gradient",

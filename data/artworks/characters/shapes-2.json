@@ -149,7 +149,7 @@
       "airbrush gradient",
       "no outline",
       "stencil edge",
-      "striped spray"
+      "crosshatch spray"
     ],
     "color_words": [
       "neon",
@@ -164,14 +164,13 @@
       "psychedelic"
     ],
     "themes": [
-      "floating",
+      "flight",
       "crowded life",
-      "light"
+      "night"
     ],
     "mood": [
       "joyful",
-      "energetic",
-      "giddy"
+      "energetic"
     ],
     "text_in_image": {
       "present": false,

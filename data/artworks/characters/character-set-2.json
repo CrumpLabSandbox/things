@@ -146,8 +146,7 @@
     ],
     "line": [
       "airbrush gradient",
-      "no outline",
-      "freehand spray"
+      "no outline"
     ],
     "color_words": [
       "grayscale",
@@ -156,13 +155,12 @@
       "smoky"
     ],
     "style": [
-      "airbrush",
-      "character design",
-      "sprite sheet"
+      "stencil airbrush",
+      "character design"
     ],
     "themes": [
       "character study",
-      "movement",
+      "journey",
       "variation"
     ],
     "mood": [

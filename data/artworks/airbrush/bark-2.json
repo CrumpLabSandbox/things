@@ -138,7 +138,6 @@
     ],
     "composition": [
       "all over",
-      "pattern",
       "centre glow"
     ],
     "line": [
@@ -154,13 +153,10 @@
     ],
     "style": [
       "abstract",
-      "stencil airbrush",
-      "organic pattern"
+      "stencil airbrush"
     ],
     "themes": [
-      "texture",
-      "nature up close",
-      "cells"
+      "texture"
     ],
     "mood": [
       "calm",

@@ -124,7 +124,7 @@
     "description": "A square oil painting on canvas. At the centre a figure in an orange and red striped suit stands with legs apart, wearing a large purple helmet ringed with coloured dots, the face inside drawn as circles and crosses. Around it, stacked pastel blocks with arched windows fill the left, orange and red flame shapes and blue and yellow sail or feather forms rise at the right, and a green ringed oval sits at lower right. Thick black outlines, thick juicy paint, and a bright palette of orange, lilac, mint and red.",
     "impression": "The one figure in the series that stands alone and faces us, in a helmet that is also a bubble of awareness. The title puns on ship and awareness, and the picture is the small self in the middle of noise. It is oddly touching, a space traveller who has just landed.",
     "subjects": [
-      "figure",
+      "figures",
       "helmet",
       "blocks",
       "flames"
@@ -136,7 +136,7 @@
     "elements": [
       "ringed helmet",
       "flame",
-      "arched window",
+      "arched windows",
       "sail shape",
       "dots"
     ],
@@ -145,7 +145,7 @@
     ],
     "composition": [
       "central figure",
-      "dense background"
+      "dense"
     ],
     "line": [
       "thick black outline",
@@ -164,8 +164,7 @@
     ],
     "themes": [
       "self",
-      "awareness",
-      "arrival"
+      "waiting"
     ],
     "mood": [
       "playful",

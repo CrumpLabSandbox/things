@@ -127,7 +127,6 @@
       "huts",
       "mountains",
       "lake",
-      "cliffs",
       "buildings",
       "clouds",
       "trees"
@@ -169,7 +168,7 @@
     ],
     "style": [
       "psychedelic",
-      "pen and ink",
+      "study",
       "map like",
       "ink and airbrush"
     ],
@@ -177,12 +176,12 @@
       "imaginary worlds",
       "settlement",
       "nature meets built",
-      "density"
+      "crowded life"
     ],
     "mood": [
       "dreamy",
       "busy",
-      "giddy"
+      "energetic"
     ],
     "text_in_image": {
       "present": false,

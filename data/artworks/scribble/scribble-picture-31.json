@@ -116,8 +116,94 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-31.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of Brooklyn Bridge Park with a large tree whose leaves are redrawn as flat yellow green lobes, the Manhattan skyline behind, and a crowd of people with cartoon outlined bodies and blank faces on the pier, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. A tree fills the upper left two thirds, its leaves redrawn as flat lobed clusters of yellow green, olive and cream with black outlines, like hands or coral. Behind it the lower Manhattan skyline stands under a blue sky with a few real clouds, and a pier pavilion sits at right. On the paved pier a crowd of people stand and walk, all redrawn with flat outlined bodies in blue, grey, cream and orange with blank faces: two men in the foreground at left, one in a blue shirt, a woman at right in a pink top with a backpack and a bag, and dozens of smaller figures in the distance. The pavement is warm tan with soft shadows.",
+    "impression": "A September afternoon on the pier with the tree turned into a cartoon of itself, every leaf a little mitten. The people are drawn with more care than in earlier pieces, outlined and shaded so they look like figures in a comic rather than photographs with blanks. Calm, bright and leafy, the park as a page.",
+    "subjects": [
+      "park",
+      "trees",
+      "city",
+      "crowd",
+      "people",
+      "pier",
+      "sky"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "flat tree",
+      "lobed leaves",
+      "skyline",
+      "pier",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Brooklyn Bridge Park"
+    ],
+    "composition": [
+      "central feature",
+      "figures in foreground",
+      "layered depth",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "soft shading"
+    ],
+    "color_words": [
+      "yellow green",
+      "blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "leisure",
+      "crowded life",
+      "nature"
+    ],
+    "mood": [
+      "calm",
+      "sunny",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 24",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "brooklyn bridge park",
+      "cartoon tree",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-37",
+      "note": "Brooklyn Bridge Park, shot in November.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

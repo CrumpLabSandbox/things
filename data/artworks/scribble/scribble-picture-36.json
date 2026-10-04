@@ -116,8 +116,101 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-36.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of a downtown Brooklyn street with a hat vendor's table, where a large pale blue cartoon dinosaur with a long neck stands over a green cartoon bus body, blue luggage creatures sit on the sidewalk, and small creatures hang on a lamp post, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. Office towers and a gold glass tower under construction rise under a blue sky at the top, with a tree at upper right. A low commercial building with a red shop sign sits at centre. A large cartoon creature dominates the right half: a pale blue long necked dinosaur head on a green rounded bus like body with grey legs and a tiny blue figure on its back, standing beside a torn blue and pink patch drawn over the wall at right. In the foreground two blue and cream cartoon creatures shaped like suitcases or coolers with handles, feet and single eyes sit on the sidewalk, one with a small drawn pipe. At left a vendor's table of baseball caps, a cardboard box with a creature face and a chair. A lamp post at centre carries drawn panels and small creatures hanging from it, and faceless pedestrians and a cyclist pass at the crossing. The light is warm and bleached.",
+    "impression": "Dinosaur bus, as the process note says: a long neck on a bus body, parked beside a hat stall as if waiting for a fare. The luggage creatures in front look like its passengers. The drawing has started inventing whole animals rather than modifying what is there. Bright, odd and good natured.",
+    "subjects": [
+      "street",
+      "city",
+      "dinosaurs",
+      "bus",
+      "creatures",
+      "vendor",
+      "hats",
+      "skyscrapers",
+      "lamp post",
+      "people"
+    ],
+    "characters": [
+      "long necked creature",
+      "luggage creature",
+      "faceless figure",
+      "one eyed creature"
+    ],
+    "elements": [
+      "dinosaur bus",
+      "hat table",
+      "cardboard box face",
+      "lamp post",
+      "torn patch",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Downtown Brooklyn"
+    ],
+    "composition": [
+      "central feature",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "pale blue and tan",
+      "bleached",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "creatures among us",
+      "vehicles as creatures",
+      "market"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "strange"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 24",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "downtown brooklyn",
+      "dinosaur bus",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "towns/about-town-5",
+      "note": "The long necked dinosaur creature from the 2011 town paintings.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

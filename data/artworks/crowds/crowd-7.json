@@ -145,9 +145,7 @@
       "white highlight line"
     ],
     "setting": [
-      "invented landscape",
-      "outdoors",
-      "sunset"
+      "invented landscape"
     ],
     "composition": [
       "crowd",
@@ -174,14 +172,13 @@
     ],
     "themes": [
       "crowded life",
-      "sleep",
-      "sunset",
+      "stillness",
+      "night",
       "monsters"
     ],
     "mood": [
       "calm",
-      "tender",
-      "sleepy"
+      "tender"
     ],
     "text_in_image": {
       "present": false,

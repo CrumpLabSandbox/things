@@ -128,7 +128,7 @@
       "dinosaurs",
       "valley",
       "terraces",
-      "tower",
+      "towers",
       "clouds"
     ],
     "characters": [
@@ -170,9 +170,8 @@
       "town world"
     ],
     "themes": [
-      "exploration",
-      "creatures among us",
-      "journey"
+      "journey",
+      "creatures among us"
     ],
     "mood": [
       "calm",

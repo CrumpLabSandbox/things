@@ -135,7 +135,7 @@
     "elements": [
       "signature",
       "white border",
-      "puffy cloud",
+      "outlined cloud",
       "smoke plume",
       "pine tree",
       "chimney",
@@ -151,14 +151,13 @@
       "aerial view",
       "high horizon",
       "layered depth",
-      "border framed",
-      "calm foreground"
+      "border framed"
     ],
     "line": [
       "thin black outline",
       "flat fill",
       "soft shading",
-      "printed texture"
+      "printed"
     ],
     "color_words": [
       "naturalistic",
@@ -168,19 +167,17 @@
     ],
     "style": [
       "cartoon",
-      "storybook",
-      "landscape painting tradition",
+      "naive",
       "ai assisted"
     ],
     "themes": [
       "imaginary worlds",
-      "revisiting",
+      "variation",
       "nature",
       "stillness"
     ],
     "mood": [
       "calm",
-      "serene",
       "nostalgic"
     ],
     "text_in_image": {

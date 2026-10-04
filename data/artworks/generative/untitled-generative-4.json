@@ -134,7 +134,7 @@
     "elements": [
       "domed hut",
       "fire escape",
-      "parked car",
+      "outlined car",
       "cloud lobe",
       "flat sky",
       "thin black outline"
@@ -142,7 +142,7 @@
     "setting": [
       "NYC street",
       "Brooklyn",
-      "city"
+      "invented city"
     ],
     "composition": [
       "one point perspective",
@@ -153,8 +153,7 @@
     "line": [
       "thin black outline",
       "flat fill",
-      "fine mesh",
-      "photo derived"
+      "flat fill over photo"
     ],
     "color_words": [
       "rainbow",
@@ -165,7 +164,6 @@
     "style": [
       "generative",
       "photo collage",
-      "mosaic",
       "process art"
     ],
     "themes": [

@@ -115,7 +115,93 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-17.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a midtown Manhattan avenue with cartoon clouds drawn down the sky, creatures peeking from a yellow brick tower's windows, a rainbow checkered pavement, and a bronze statue given a cartoon head, signed 2023.",
+    "description": "A portrait format digital piece on a photograph inside a white border, signed 2023 at lower right. A tall thin supertall tower rises at centre top, wrapped in a column of outlined white cartoon clouds that descends to the street. A brown stone building at left has drawn boxes and antennae on its roof and a flat beige tower drawn beside it. A yellow brick tower at right has small grey cartoon creatures with eyes, horns and ears peeking from a dozen windows, and a triangle drawn on its facade. In the street, faceless pedestrians walk past a bronze statue of a seated figure whose head has been replaced by a grey cartoon head with a finger raised. A food cart with a red umbrella and a bus stand at right. The pavement in the foreground is redrawn as a checkerboard of pastel pink, blue, green, yellow and lilac tiles.",
+    "impression": "The creatures are creeping in, as the process note says: they have moved into the windows of a midtown tower and are watching the street. The cloud column and the rainbow pavement make the avenue a stage, and the statue with the cartoon head is the master of ceremonies. This is where the Scribble series turns from annotating photographs to colonising them.",
+    "subjects": [
+      "street",
+      "city",
+      "skyscrapers",
+      "clouds",
+      "creatures",
+      "statue",
+      "people",
+      "food carts",
+      "pavement"
+    ],
+    "characters": [
+      "faceless figure",
+      "hidden face",
+      "horned creature"
+    ],
+    "elements": [
+      "outlined cloud",
+      "window creatures",
+      "checkered pavement",
+      "statue",
+      "food cart",
+      "umbrella",
+      "white border",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Midtown"
+    ],
+    "composition": [
+      "vertical",
+      "central feature",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "ochre and pastel",
+      "washed",
+      "rainbow pavement"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "creatures among us",
+      "hidden creatures",
+      "watching"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "wondrous"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "signature 2023",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border. Process notes discuss a 24 by 36 inch print target. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "window creatures",
+      "cloud column",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

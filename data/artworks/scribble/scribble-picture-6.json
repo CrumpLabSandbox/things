@@ -127,7 +127,7 @@
       "landmark",
       "clouds",
       "plaza",
-      "umbrellas",
+      "umbrella",
       "kiosk",
       "people"
     ],
@@ -174,8 +174,7 @@
     "themes": [
       "city",
       "landmarks",
-      "transformation",
-      "drawing over reality"
+      "transformation"
     ],
     "mood": [
       "sunny",

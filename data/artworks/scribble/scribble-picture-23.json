@@ -117,7 +117,95 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-23.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a Brooklyn farmers market at Church and Beverley with a lamp post, white umbrellas and a brick building, where a pink two legged creature sits on the plaza, small creatures stand on the pavement, and a faceless man walks past, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. A grey street lamp with a drawn curved head rises at left, its pole covered in drawn stickers and panels, with green street signs reading Church Av and Beverley. Outlined cartoon clouds float in a blue sky beside a large green tree. A brick corner building with a decorative gable stands at right, and a red brick row with a 99 sign at left. White market umbrellas shade tables of fruit and vegetables in the middle distance with a striped awning at right. On the painted plaza in the foreground a pink rounded creature with a red button eye sits with its back to the viewer, an orange traffic cone and red case sit beside the lamp base, which has a drawn face. Small grey and green pod creatures stand along the pavement, a tan one sits on a chair at right, and a man in a grey shirt walks past at right with his head replaced by a cream cartoon shape. A white metal bench sits at lower right.",
+    "impression": "Back on Church Avenue a year later and the creatures have settled in: the pink one is just sitting watching the market like everybody else. The lamp post wears a face and the plaza is painted, so the whole corner feels like a stage after a parade. The first of the 2024 Scribbles, and warmer and busier with inhabitants than the 2023 ones.",
+    "subjects": [
+      "street",
+      "city",
+      "market",
+      "umbrella",
+      "lamp post",
+      "trees",
+      "creatures",
+      "people",
+      "buildings",
+      "clouds"
+    ],
+    "characters": [
+      "pod creature",
+      "faceless figure",
+      "blob figure"
+    ],
+    "elements": [
+      "street sign",
+      "umbrella",
+      "outlined cloud",
+      "traffic cone",
+      "bench",
+      "lamp post face",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Church Avenue",
+      "farmers market"
+    ],
+    "composition": [
+      "street corner",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "creatures among us",
+      "market"
+    ],
+    "mood": [
+      "sunny",
+      "playful",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Church Av; Beverley; 99; Matt Crump 24",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. First Scribble picture after a year's gap.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "church ave",
+      "market",
+      "creatures",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

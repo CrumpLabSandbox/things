@@ -115,7 +115,88 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-20.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of downtown Vancouver with a sky filled by outlined cartoon clouds, a group of faceless travellers with suitcases in the foreground, and a yellow green cartoon tree, signed 2023.",
+    "description": "A portrait format digital piece on a photograph inside a white border, signed 2023 at lower left. The upper half is a pale sky completely filled with outlined white cartoon cumulus clouds, drawn over and between glass and brick office towers, including a copper coloured tower at centre and a blue glass tower at right. A street sign reads Howe St. In the foreground on a brick plaza a group of travellers stand with their heads replaced by grey, tan and white cartoon shapes: a family of four at left, a figure in a yellow safety vest, a figure in a white hat with a camera, and a figure in a cap pulling a silver suitcase. At right a faceless figure in a brown shirt and jeans pulls a red suitcase while raising an arm. A lime green cartoon tree is drawn beside a tower at centre right, and outlined cars sit in the road.",
+    "impression": "Pretend clouds, as the process note says, and they take over the sky like a crowd of their own. Below them the real crowd of tourists with suitcases stand around deciding where to go. The outlined clouds against the glass towers make the city look like a pop up book. Cheerful and a little lost, like the first hour in a new city.",
+    "subjects": [
+      "city",
+      "skyscrapers",
+      "clouds",
+      "people",
+      "travellers",
+      "suitcases",
+      "plaza",
+      "trees"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "outlined cloud",
+      "suitcase",
+      "street sign",
+      "flat tree",
+      "outlined car",
+      "white border",
+      "signature"
+    ],
+    "setting": [
+      "Vancouver",
+      "invented city",
+      "Downtown Brooklyn"
+    ],
+    "composition": [
+      "figures in foreground",
+      "sky dominant",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "copper and blue",
+      "washed",
+      "white clouds"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "travel",
+      "anonymity",
+      "fake nature",
+      "waiting"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "anticipation"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Howe St; signature 2023",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a photograph taken in Vancouver, print layout with white border.",
+    "free_tags": [
+      "scribble series",
+      "vancouver",
+      "pretend clouds",
+      "faceless people",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

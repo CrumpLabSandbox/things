@@ -135,19 +135,18 @@
       "faces"
     ],
     "characters": [
-      "sun face",
-      "smiling face"
+      "sun face"
     ],
     "elements": [
       "bubble letters",
       "sailboat",
-      "cloud",
+      "outlined cloud",
       "bus",
       "road"
     ],
     "setting": [
       "invented landscape",
-      "small town"
+      "village"
     ],
     "composition": [
       "all over",
@@ -168,13 +167,12 @@
     "style": [
       "graffiti",
       "cartoon",
-      "lettering",
-      "memory map"
+      "map like"
     ],
     "themes": [
-      "place names",
+      "place",
       "personal story",
-      "music",
+      "character story",
       "crowded life"
     ],
     "mood": [

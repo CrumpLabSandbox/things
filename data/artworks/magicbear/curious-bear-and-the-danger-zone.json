@@ -131,13 +131,13 @@
     "characters": [
       "magic bear",
       "curious bear",
-      "bulb nosed creature"
+      "blob figure"
     ],
     "elements": [
       "bubble letters",
       "star burst",
-      "cloud",
-      "smoke puff"
+      "outlined cloud",
+      "smoke plume"
     ],
     "setting": [
       "no place"
@@ -159,13 +159,10 @@
     ],
     "style": [
       "graffiti",
-      "cartoon",
-      "lettering",
-      "comic"
+      "cartoon"
     ],
     "themes": [
       "character story",
-      "super powers",
       "flight",
       "words as pictures"
     ],

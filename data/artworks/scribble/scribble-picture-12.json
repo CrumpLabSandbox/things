@@ -124,11 +124,11 @@
     "subjects": [
       "street",
       "city",
-      "building",
+      "buildings",
       "deli",
       "lamp post",
       "traffic lights",
-      "car",
+      "cars",
       "people"
     ],
     "characters": [

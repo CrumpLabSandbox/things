@@ -126,7 +126,7 @@
       "city",
       "buildings",
       "figures",
-      "tree",
+      "trees",
       "rooftops"
     ],
     "characters": [
@@ -161,8 +161,7 @@
     ],
     "style": [
       "stencil airbrush",
-      "cartoon",
-      "city sketch"
+      "cartoon"
     ],
     "themes": [
       "city",

@@ -115,7 +115,93 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-46.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of the DUMBO flea market under the Manhattan Bridge anchorage arch, where the shoppers have cartoon heads, a boxy creature sits in the foreground, and a horned creature with a backpack sits on a bench at right, labelled SP 46 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned SP 46 2024 at lower left and MATT CRUMP at lower right. The huge stone anchorage of the Manhattan Bridge with its colonnade and great arched tunnel fills the upper two thirds, with a red brick warehouse at right under a pale sky. Below, white market tents and stalls with clothes, a red striped umbrella and a Village Eyewear banner. Shoppers mill about in jeans and jackets, each with a grey, tan or cream cartoon head. In the foreground a cream rounded box creature with two dot eyes sits at lower left with a tan creature on top, a grey horned creature with a round face and a backpack sits on a bench at lower right beside a faceless figure in a white jacket, and a small white figure peeks over a curved tan shape at the bottom centre.",
+    "impression": "A quick one, as the process note says, and it shows in the lightness: the arch does the heavy lifting and the creatures are few and sit politely. The grey horned one on the bench with its backpack looks like it bought something. A return to the flea market of Scribble 30 with a calmer crowd.",
+    "subjects": [
+      "market",
+      "bridge",
+      "arch",
+      "crowd",
+      "people",
+      "creatures",
+      "tents",
+      "warehouses"
+    ],
+    "characters": [
+      "faceless figure",
+      "horned creature",
+      "luggage creature"
+    ],
+    "elements": [
+      "stone arch",
+      "colonnade",
+      "market tent",
+      "umbrella",
+      "bench",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "DUMBO",
+      "flea market"
+    ],
+    "composition": [
+      "central feature",
+      "crowd",
+      "foreground objects",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm stone",
+      "brick red",
+      "pale sky",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "market",
+      "landmarks",
+      "creatures among us"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "SP 46 2024; MATT CRUMP; Village Eyewear banner",
+      "role": "caption and found signage"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "dumbo",
+      "flea market",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -129,7 +129,7 @@
     "elements": [
       "spines",
       "lobe",
-      "black outline",
+      "thin black outline",
       "sketchbook spiral"
     ],
     "setting": [
@@ -142,7 +142,7 @@
     ],
     "line": [
       "thick black outline",
-      "streaky brushwork",
+      "visible brushwork",
       "painted"
     ],
     "color_words": [
@@ -152,13 +152,10 @@
     ],
     "style": [
       "cartoon",
-      "study",
-      "gouache",
-      "sketchbook"
+      "study"
     ],
     "themes": [
       "plants as creatures",
-      "reaching",
       "growth"
     ],
     "mood": [

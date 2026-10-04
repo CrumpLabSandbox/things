@@ -129,7 +129,7 @@
     ],
     "characters": [],
     "elements": [
-      "cloud",
+      "outlined cloud",
       "kerb",
       "road",
       "white gap"
@@ -156,10 +156,8 @@
       "warm"
     ],
     "style": [
-      "vinyl cut",
-      "poster",
-      "pop",
-      "print making"
+      "print making",
+      "pop"
     ],
     "themes": [
       "city",
@@ -168,7 +166,7 @@
     ],
     "mood": [
       "joyful",
-      "bold"
+      "energetic"
     ],
     "text_in_image": {
       "present": false,

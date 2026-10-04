@@ -116,7 +116,96 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-22.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph from the High Line of a Chelsea street with a colourful mural of Mother Teresa and Gandhi, where a rooftop has a cartoon mountain drawn on it, buses and cars are redrawn as cartoons, and scribbled text covers a wall, signed 23.",
+    "description": "A portrait format digital piece on a photograph inside a white border, signed Matt Crump 23 at lower right. Looking down from the High Line onto an avenue: glass towers at upper left, brick apartment blocks, and at right a building whose side wall carries a real colourful mural of two faces with a rainbow geometric pattern. Above it, a cream wall carries scribbled grey text like a fake inscription, and on the rooftop a cartoon has been drawn of a brown and blue mountain with a cloud and a chimney, with a drawn smoke plume rising into the real sky. In the street, cars and a bus are redrawn as white, grey and blue cartoon shapes, with a large blue and white cartoon bus and a yellow cab at the lower right beside a green construction fence. A small cartoon figure stands on the sidewalk at centre, and faceless pedestrians walk near the bus. Autumn trees line the avenue.",
+    "impression": "The city already had a mural, so the drawing answers it with a mountain on the roof and fake scripture on the wall. The smoke plume rising into the real clouds is the nicest trick, a cartoon chimney feeding the actual sky. The soft bus in the corner keeps it friendly. A picture about a city covered in pictures.",
+    "subjects": [
+      "street",
+      "city",
+      "mural",
+      "buildings",
+      "cars",
+      "bus",
+      "mountains",
+      "smoke",
+      "people",
+      "trees"
+    ],
+    "characters": [
+      "vehicle creature",
+      "faceless figure"
+    ],
+    "elements": [
+      "found mural",
+      "fake mountains",
+      "smoke plume",
+      "scribble tag",
+      "outlined car",
+      "bus",
+      "white border",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Chelsea",
+      "High Line"
+    ],
+    "composition": [
+      "aerial view",
+      "layered depth",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "rainbow mural",
+      "warm"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "pictures within pictures",
+      "fake nature",
+      "layers"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "wry"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled inscription on wall; found mural; Matt Crump 23",
+      "role": "scribble and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "high line",
+      "mural",
+      "fake mountains",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

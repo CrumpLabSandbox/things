@@ -127,10 +127,10 @@
       "houses",
       "creatures",
       "vehicles",
-      "town"
+      "village"
     ],
     "characters": [
-      "spiky creature",
+      "horned creature",
       "hooded pod figure"
     ],
     "elements": [
@@ -142,7 +142,6 @@
     ],
     "setting": [
       "invented landscape",
-      "town",
       "village"
     ],
     "composition": [

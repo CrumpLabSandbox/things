@@ -127,18 +127,18 @@
       "bear",
       "lettering",
       "spaceship",
-      "robot",
+      "robots",
       "clouds"
     ],
     "characters": [
       "magic bear",
       "curious bear",
       "robot",
-      "grey faced creature"
+      "blob figure"
     ],
     "elements": [
       "bubble letters",
-      "cloud",
+      "outlined cloud",
       "spaceship",
       "porthole",
       "cake"
@@ -164,9 +164,7 @@
     ],
     "style": [
       "graffiti",
-      "cartoon",
-      "lettering",
-      "comic"
+      "cartoon"
     ],
     "themes": [
       "character story",

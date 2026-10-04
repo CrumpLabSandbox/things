@@ -133,7 +133,7 @@
     "elements": [
       "stripe fill",
       "gear disc",
-      "horn",
+      "horns",
       "snout",
       "pegs"
     ],
@@ -141,7 +141,6 @@
       "no place"
     ],
     "composition": [
-      "loose ring",
       "central cluster",
       "white ground"
     ],
@@ -149,7 +148,7 @@
       "airbrush gradient",
       "no outline",
       "stencil edge",
-      "striped spray"
+      "crosshatch spray"
     ],
     "color_words": [
       "grayscale",
@@ -162,7 +161,6 @@
       "study"
     ],
     "themes": [
-      "parts and wholes",
       "process",
       "character study"
     ],

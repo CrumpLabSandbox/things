@@ -136,7 +136,7 @@
       "horned creature",
       "round headed figure",
       "dragon",
-      "bottle figure"
+      "blob figure"
     ],
     "elements": [
       "airship",
@@ -144,7 +144,7 @@
       "terrace",
       "windows",
       "sun",
-      "cloud"
+      "outlined cloud"
     ],
     "setting": [
       "invented landscape",
@@ -154,7 +154,6 @@
     "composition": [
       "layered depth",
       "mid horizon",
-      "stepped ground",
       "scattered figures"
     ],
     "line": [

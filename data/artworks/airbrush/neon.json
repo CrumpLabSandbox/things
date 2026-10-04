@@ -142,7 +142,6 @@
       "plaza"
     ],
     "composition": [
-      "skyline",
       "low horizon",
       "scattered figures"
     ],
@@ -164,13 +163,12 @@
     ],
     "themes": [
       "city as toy",
-      "light",
+      "night",
       "crowded life"
     ],
     "mood": [
       "energetic",
-      "joyful",
-      "giddy"
+      "joyful"
     ],
     "text_in_image": {
       "present": false,

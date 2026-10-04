@@ -127,7 +127,7 @@
       "monsters",
       "faces",
       "teeth",
-      "patterns"
+      "pattern"
     ],
     "characters": [
       "toothy monster"
@@ -165,7 +165,7 @@
     ],
     "themes": [
       "monsters",
-      "chaos",
+      "noise",
       "faces in things"
     ],
     "mood": [

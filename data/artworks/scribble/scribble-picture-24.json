@@ -116,7 +116,91 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-24.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A night photograph of the neon sign at Katz's Delicatessen on Ludlow Street, with the lettering replaced by scribbled pink neon squiggles and a queue of people with blank cartoon heads along the sidewalk, signed 24.",
+    "description": "A portrait format digital piece on a night photograph, signed Matt Crump 24 at lower left. A brick building at dusk with a glass tower behind, lit by warm wall lamps. The famous red neon sign along the facade has been replaced with pink and red neon scribbles, and the vertical sign at left is also overwritten with scribbled pink glyphs. A Ludlow St sign is visible at left. Lit windows glow orange below the sign. A long queue of people waits along the sidewalk and around the corner, every head replaced with a grey, white or tan cartoon shape: a figure in a tan jacket at centre, one in a floral shirt, one in blue shorts and a grey shirt at right, one in an orange skirt. The sky above is deep blue.",
+    "impression": "The first night Scribble, and the neon was made for it: the famous name is scribbled out so the glow says nothing and everything. The faceless queue waiting for pastrami reads as a pilgrimage. Warm orange against deep blue, with a buzz of neon pink: the richest colour in the series so far.",
+    "subjects": [
+      "street",
+      "city",
+      "neon",
+      "restaurant",
+      "queue",
+      "people",
+      "night"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "scribble tag",
+      "street sign",
+      "lit windows",
+      "wall lamp",
+      "queue",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Lower East Side",
+      "night"
+    ],
+    "composition": [
+      "low angle",
+      "crowd",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "neon",
+      "orange and blue",
+      "night",
+      "saturated"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "graffiti"
+    ],
+    "themes": [
+      "city",
+      "night",
+      "landmarks",
+      "waiting",
+      "erasure"
+    ],
+    "mood": [
+      "energetic",
+      "warm",
+      "moody"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Ludlow St; neon sign replaced by scribbles; Matt Crump 24",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 night photograph. First night time Scribble picture. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "katz's",
+      "night",
+      "neon",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -145,8 +145,7 @@
     ],
     "line": [
       "thick black outline",
-      "airbrush gradient",
-      "sprayed"
+      "airbrush gradient"
     ],
     "color_words": [
       "rainbow",
@@ -155,13 +154,10 @@
       "saturated"
     ],
     "style": [
-      "graffiti",
-      "lettering",
-      "wildstyle"
+      "graffiti"
     ],
     "themes": [
-      "celebration",
-      "names",
+      "gathering",
       "personal story"
     ],
     "mood": [

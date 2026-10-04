@@ -126,13 +126,13 @@
     "subjects": [
       "rocket",
       "houses",
-      "figure",
+      "figures",
       "spheres",
       "flames"
     ],
     "characters": [
       "globe headed figure",
-      "pilot face"
+      "hash face"
     ],
     "elements": [
       "rocket",
@@ -167,10 +167,8 @@
       "superland world"
     ],
     "themes": [
-      "departure",
       "flight",
-      "space travel",
-      "being left behind"
+      "waiting"
     ],
     "mood": [
       "energetic",

@@ -123,13 +123,13 @@
     "subjects": [
       "cactus",
       "plants",
-      "crystal"
+      "crystals"
     ],
     "characters": [],
     "elements": [
       "facets",
       "branching arms",
-      "black outline",
+      "thin black outline",
       "sketchbook spiral"
     ],
     "setting": [
@@ -137,7 +137,7 @@
     ],
     "composition": [
       "central figure",
-      "fan",
+      "radial",
       "rising from bottom",
       "white ground"
     ],
@@ -153,18 +153,16 @@
     "style": [
       "cartoon",
       "study",
-      "marker",
-      "sketchbook",
-      "faceted"
+      "painted on wood",
+      "cubist"
     ],
     "themes": [
       "plants as creatures",
-      "reaching",
-      "crystal"
+      "growth",
+      "pattern"
     ],
     "mood": [
-      "energetic",
-      "tough"
+      "energetic"
     ],
     "text_in_image": {
       "present": false,

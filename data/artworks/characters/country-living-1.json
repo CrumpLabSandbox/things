@@ -128,7 +128,7 @@
       "figures",
       "trees",
       "clouds",
-      "cliffs"
+      "mountains"
     ],
     "characters": [
       "blob animal",
@@ -151,8 +151,7 @@
     ],
     "line": [
       "airbrush gradient",
-      "no outline",
-      "freehand spray"
+      "no outline"
     ],
     "color_words": [
       "grayscale",
@@ -161,13 +160,13 @@
       "smoky"
     ],
     "style": [
-      "airbrush",
+      "stencil airbrush",
       "cartoon",
-      "cave painting"
+      "naive"
     ],
     "themes": [
-      "countryside",
-      "animals",
+      "nature",
+      "creatures among us",
       "stillness"
     ],
     "mood": [

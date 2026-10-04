@@ -126,7 +126,7 @@
     "subjects": [
       "houses",
       "creatures",
-      "town"
+      "village"
     ],
     "characters": [
       "one eyed creature",
@@ -141,7 +141,6 @@
     ],
     "setting": [
       "invented landscape",
-      "town",
       "village"
     ],
     "composition": [
@@ -172,7 +171,6 @@
     ],
     "mood": [
       "calm",
-      "cosy",
       "whimsical"
     ],
     "text_in_image": {

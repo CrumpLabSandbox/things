@@ -117,7 +117,93 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-26.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a Greenwich Village corner shop beneath a billboard, where the billboard has been repainted as a cartoon of a hand, a second billboard shows a cartoon suitcase, a yellow cab is redrawn as a cartoon, and small creatures perch on the building, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower left. A low tan brick corner building with a red framed shop at its base sits beneath a red brick wall. A large billboard on a frame above has been replaced with a cartoon painting of an orange hand reaching into a green and blue abstract with a scribbled slogan. Below it a second white billboard carries a drawing of a rounded white box or case shape with a triangle like a sail beside it. Small creatures perch on the building: a tan one at the top right corner, a white winged one on the wall, a long eared one at right. A traffic light at right is redrawn in flat yellow and pink, a no trucks sign and arrows hang on a drawn lamp post. The shop signs are blanked to cream panels with scribbles. A yellow cab is redrawn as a rounded cartoon car with a horn on its roof at lower left, and three pedestrians with blank faces walk at the crossing on the right. The sky is blue with soft clouds.",
+    "impression": "Advertising replaced by doodles: the hand on the billboard sells nothing and the white billboard shows a suitcase daydream. The cab has a horn, which makes it a creature rather than a car. The whole corner has been gently repurposed as a gallery for the drawing, and the people walk through as if nothing happened.",
+    "subjects": [
+      "street",
+      "city",
+      "billboard",
+      "shop",
+      "taxis",
+      "creatures",
+      "people",
+      "traffic lights",
+      "signs"
+    ],
+    "characters": [
+      "faceless figure",
+      "vehicle creature",
+      "bird creature",
+      "rooftop creature"
+    ],
+    "elements": [
+      "fake billboard",
+      "blank sign",
+      "outlined taxi",
+      "traffic light",
+      "lamp post",
+      "scribble tag",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Greenwich Village"
+    ],
+    "composition": [
+      "street corner",
+      "stacked",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "warm",
+      "orange and blue",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "advertising",
+      "pictures within pictures",
+      "creatures among us"
+    ],
+    "mood": [
+      "playful",
+      "sunny",
+      "wry"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled slogan on billboard; no trucks sign; Matt Crump 24",
+      "role": "scribble and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "greenwich village",
+      "billboard",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

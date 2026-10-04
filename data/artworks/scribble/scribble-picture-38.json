@@ -116,7 +116,86 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-38.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A low angle photograph from beneath the Brooklyn Bridge roadway, its steel underside filling the top half, with a plaza of walking people below redrawn as outlined cartoon figures, labelled SP38.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP38 at lower left. The underside of the Brooklyn Bridge, a lattice of rust coloured steel beams and girders, sweeps diagonally across the upper two thirds against a bright blue sky with a soft cloud. Below, brick and stone warehouse buildings in gold and red, trees and bushes in autumn colours. A wide paved plaza in the foreground is crossed by people redrawn as outlined cartoon figures with flat fills and blank faces: a couple at left, a pair at centre in grey and blue, a figure in a cream coat at right, a figure in a green hoodie at far right, and more in the distance near the trees. Shadows on the plaza are long. Nothing else is drawn.",
+    "impression": "The bridge as a ceiling: the steel underside takes up most of the picture and the cartoon people walk beneath it like figures in an architectural rendering. The restraint is total, only the people are touched. It is a picture about scale and the strange privilege of standing under a famous thing.",
+    "subjects": [
+      "bridge",
+      "steel",
+      "plaza",
+      "people",
+      "buildings",
+      "trees",
+      "sky"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "bridge underside",
+      "girders",
+      "plaza",
+      "autumn trees",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "DUMBO",
+      "under the Brooklyn Bridge"
+    ],
+    "composition": [
+      "low angle",
+      "diagonal",
+      "figures in foreground",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "rust and blue",
+      "saturated",
+      "warm",
+      "crisp"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "landmarks",
+      "scale",
+      "walking"
+    ],
+    "mood": [
+      "calm",
+      "wondrous",
+      "crisp"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 24 SP38",
+      "role": "caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "dumbo",
+      "brooklyn bridge",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

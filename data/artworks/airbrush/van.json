@@ -131,7 +131,7 @@
     "elements": [
       "lobed shape",
       "white gap",
-      "headlight",
+      "headlights",
       "glow",
       "double stencil"
     ],
@@ -140,8 +140,7 @@
     ],
     "composition": [
       "all over",
-      "pattern",
-      "hidden figure",
+      "central feature",
       "centre glow"
     ],
     "line": [
@@ -159,11 +158,11 @@
       "abstract",
       "stencil airbrush",
       "pop",
-      "hidden image"
+      "seek and find density"
     ],
     "themes": [
-      "hidden things",
-      "vehicles",
+      "hidden creatures",
+      "vehicles as creatures",
       "texture"
     ],
     "mood": [

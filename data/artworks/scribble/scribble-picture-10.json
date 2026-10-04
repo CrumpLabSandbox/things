@@ -126,7 +126,7 @@
       "theatre",
       "landmark",
       "cars",
-      "tree",
+      "trees",
       "lamp post",
       "signs"
     ],
@@ -136,7 +136,7 @@
     "elements": [
       "marquee",
       "outlined car",
-      "street lamp",
+      "lamp post",
       "banner",
       "scribble tag",
       "grass tuft",

@@ -117,8 +117,98 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-29.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of a cobblestone SoHo street with cast iron buildings, where the parked cars have become a row of fish like creatures with fins and eyes, one in iridescent pink and orange in the foreground, labelled SP 29 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned SP 29 2024 at lower left and MATT CRUMP at lower right. A narrow cobblestone street recedes between red brick and cast iron loft buildings with fire escapes, toward glass towers under a blue sky with one large outlined cloud. The parked cars on both sides have been redrawn as rounded fish like creatures with eyes, fins and tails in grey, white and tan, and a few long legged yellow creatures stand in the roadway at the far end. The nearest car at lower left is a large creature in iridescent pink, orange and lilac with a white fin and a curled tail. Shop signs along the street are blanked to pale rectangles. The cobbles are left photographic.",
+    "impression": "SoHo as an aquarium: the parked cars have evolved fins and are waiting for the tide. The iridescent one in front is the prize fish. Blanking the shop signs removes the brands and leaves the street to the creatures. The cobbles and cast iron give it a weight the drawing plays against. One of the most resolved of the series.",
+    "subjects": [
+      "street",
+      "city",
+      "cars",
+      "creatures",
+      "buildings",
+      "fire escapes",
+      "cobblestones",
+      "clouds"
+    ],
+    "characters": [
+      "fish car creature",
+      "blob figure"
+    ],
+    "elements": [
+      "fins",
+      "iridescent fill",
+      "blank sign",
+      "outlined cloud",
+      "cast iron facade",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "SoHo"
+    ],
+    "composition": [
+      "one point perspective",
+      "foreground objects",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm brick",
+      "iridescent pink",
+      "blue sky",
+      "saturated"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "vehicles as creatures",
+      "erasure",
+      "transformation"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "wondrous"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "SP 29 2024; MATT CRUMP",
+      "role": "caption and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border and typed caption. First piece using the SP numbering caption.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "soho",
+      "fish cars",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "scribble/scribble-picture-7",
+      "note": "Cars as soft creatures, now fully evolved into fish.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

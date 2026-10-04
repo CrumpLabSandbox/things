@@ -126,7 +126,7 @@
       "people",
       "cafe",
       "skyscrapers",
-      "umbrellas",
+      "umbrella",
       "signs"
     ],
     "characters": [
@@ -178,7 +178,7 @@
     "mood": [
       "dreamy",
       "calm",
-      "uncanny"
+      "strange"
     ],
     "text_in_image": {
       "present": true,

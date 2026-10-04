@@ -126,16 +126,16 @@
     "subjects": [
       "lettering",
       "faces",
-      "robot",
-      "tree",
+      "robots",
+      "trees",
       "bear",
       "planets"
     ],
     "characters": [
       "magic bear",
       "robot",
-      "grinning face",
-      "tooth figure",
+      "toothy monster",
+      "blob figure",
       "sun face"
     ],
     "elements": [
@@ -168,7 +168,6 @@
     "style": [
       "graffiti",
       "cartoon",
-      "lettering",
       "doodle",
       "seek and find density"
     ],

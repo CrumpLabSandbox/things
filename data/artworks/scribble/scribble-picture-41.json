@@ -117,7 +117,88 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-41.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph at Bedford Avenue and Sullivan Place in Brooklyn beside the old Ebbets Field site, with a woman in a blue dress walking away with a cartoon head, a lamp post covered in drawn signals and signs, apartment towers outlined in white, and cartoon cars, labelled SP41.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP41 on a drawn box at lower left. A tall traffic pole at left carries green street signs reading Bedford Av and Sullivan Pl, a white arrow sign, and traffic signals redrawn as flat yellow and blue cartoon boxes, with a yellow sign bearing a pink blob and a small drawn hand. Tan brick apartment towers with balconies fill the background, their rooflines and windows outlined in white and grey, with an Ebbets Field sign on a fence and autumn trees. A second lamp post stands at centre right. Cars along the far kerb are redrawn as soft blue and grey rounded shapes. In the foreground a woman in a blue dress with a tan bag walks away, her head drawn as a grey rounded cartoon shape, and a tan bin creature with wings sits on the sidewalk at right. The sky is bright blue.",
+    "impression": "An ordinary corner on a bright autumn day with the signals turned into toys and one walker turned into a drawing. The Ebbets Field sign is the historical footnote, the baseball field that is now apartment towers. The winged bin at the right is the only creature, keeping it company. Clear and quiet.",
+    "subjects": [
+      "street",
+      "city",
+      "apartment towers",
+      "lamp post",
+      "signs",
+      "people",
+      "cars",
+      "trees"
+    ],
+    "characters": [
+      "faceless figure",
+      "bin creature"
+    ],
+    "elements": [
+      "street sign",
+      "traffic light",
+      "outlined car",
+      "balcony tower",
+      "autumn trees",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Crown Heights",
+      "Ebbets Field"
+    ],
+    "composition": [
+      "figure from behind",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "tan and blue",
+      "crisp"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "walking",
+      "place"
+    ],
+    "mood": [
+      "calm",
+      "crisp",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Bedford Av; Sullivan Pl; Ebbets Field; M 24 SP41",
+      "role": "found signage and caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "ebbets field",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

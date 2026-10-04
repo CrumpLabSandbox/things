@@ -143,13 +143,12 @@
     "composition": [
       "all over",
       "dense",
-      "field",
       "no horizon"
     ],
     "line": [
       "pencil scribble underlayer",
-      "thin grey line",
-      "faint wash"
+      "thin black outline",
+      "soft shading"
     ],
     "color_words": [
       "pale",
@@ -159,20 +158,20 @@
     ],
     "style": [
       "generative",
-      "scribble",
+      "doodle",
       "map like",
       "process art"
     ],
     "themes": [
       "settlement",
-      "multiplication",
+      "repetition",
       "process",
-      "density"
+      "crowded life"
     ],
     "mood": [
       "quiet",
       "dreamy",
-      "overwhelming"
+      "busy"
     ],
     "text_in_image": {
       "present": false,

@@ -122,7 +122,7 @@
     "description": "A square oil painting on wood, signed crump 17 at lower left. A ragged island floats in a flat turquoise sky, its underside a tan rock mass. The island's surface is patched in pink, orange, yellow, lime, lilac and blue, and covered in hundreds of small white domed huts with dark arched doors, a few larger domes at centre with faces like eyes and mouths, white standing stones, cones and tents. Two columns of smoke rise from the middle. Behind, pink and orange mountains and layers of outlined pink and white clouds fill the upper third. Thick black outlines over brushy colour.",
     "impression": "An entire civilisation on a flying rock, with every hut as small and white as a tooth. The domes with faces at the centre suggest the town is also a creature. It is the most ambitious of the town paintings, a whole world in one square, and the one that most directly anticipates the dense valleys of the Colorlands drawings.",
     "subjects": [
-      "town",
+      "village",
       "island",
       "huts",
       "clouds",
@@ -130,7 +130,7 @@
       "sky"
     ],
     "characters": [
-      "hut face"
+      "hidden face"
     ],
     "elements": [
       "domed hut",

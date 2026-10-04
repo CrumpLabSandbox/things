@@ -141,13 +141,11 @@
     "composition": [
       "all over",
       "dense",
-      "field",
       "no horizon"
     ],
     "line": [
       "thin black outline",
-      "flat fill",
-      "fine mesh"
+      "flat fill"
     ],
     "color_words": [
       "rainbow",
@@ -158,18 +156,15 @@
     "style": [
       "generative",
       "abstract",
-      "mosaic",
       "process art"
     ],
     "themes": [
       "process",
       "variation",
-      "crowded life",
-      "fragments"
+      "crowded life"
     ],
     "mood": [
       "busy",
-      "restless",
       "joyful"
     ],
     "text_in_image": {

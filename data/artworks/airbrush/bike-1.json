@@ -124,10 +124,10 @@
     "subjects": [
       "street",
       "city",
-      "bicycle",
+      "bicycles",
       "cyclist",
       "buildings",
-      "pedestrians"
+      "people"
     ],
     "characters": [
       "cyclist"
@@ -141,11 +141,11 @@
     ],
     "setting": [
       "NYC street",
-      "city"
+      "invented city"
     ],
     "composition": [
       "one point perspective",
-      "figure in foreground",
+      "figures in foreground",
       "stencil cells"
     ],
     "line": [

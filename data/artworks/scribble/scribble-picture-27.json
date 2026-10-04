@@ -115,7 +115,92 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-27.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a Canal Street sidewalk handbag market where the shoppers have cartoon heads, the handbags have grown horns and eyes, the cars are soft cartoon shapes, and a smoke plume rises behind a stone bank building, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. A grand limestone bank building with carved lettering and an arched doorway stands across the street at centre, with office towers behind and a drawn white smoke plume rising from a chimney at upper left. A small creature peeks over the bank's roofline. In the street, cars are redrawn as rounded tan, grey and white cartoon shapes with blank faced drivers; cyclists pass at right. On the near sidewalk, vendors and shoppers crowd around handbags laid on blankets: a man in a maroon shirt and a woman in white at left, a woman with blonde hair and a pink bag at centre whose head is a large cream cartoon shape, and more figures at right, all with cartoon heads. Many of the handbags have been given eyes, horns and ears so they look like small creatures, and a few blob creatures with single eyes sit among them. The light is warm and golden.",
+    "impression": "Canal Street with the counterfeit bags come alive, each one a small horned animal waiting to be bought. The shoppers' cartoon heads make them one species with the bags. The dignified bank across the road watches it all with a chimney smoking like a cartoon. Busy, warm and sly.",
+    "subjects": [
+      "street",
+      "city",
+      "market",
+      "handbags",
+      "people",
+      "cars",
+      "bank building",
+      "creatures",
+      "cyclist"
+    ],
+    "characters": [
+      "faceless figure",
+      "handbag creature",
+      "one eyed creature",
+      "vehicle creature"
+    ],
+    "elements": [
+      "handbags with eyes",
+      "smoke plume",
+      "outlined car",
+      "carved lettering",
+      "blanket",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Canal Street"
+    ],
+    "composition": [
+      "crowd",
+      "central feature",
+      "photo base",
+      "dense"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "golden",
+      "tan and brown",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "market",
+      "objects as creatures",
+      "crowded life"
+    ],
+    "mood": [
+      "busy",
+      "playful",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "carved bank lettering; Matt Crump 24",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "canal street",
+      "handbag creatures",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

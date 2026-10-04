@@ -117,7 +117,87 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-15.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a midtown Manhattan street near Central Park overlaid with a tangle of thin rainbow scribble lines, where pedestrians and a pedicab rider have blank cartoon faces, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower right. Tall office towers line both sides of a street receding to a teal and white sky. A web of thin scribbled lines in red, green, yellow and blue is drawn across the entire image, densest on the building facades, like coloured wire. In the foreground at left a pedicab with two passengers and a rider, all with blank skin toned faces and outlined bodies, waits at the crosswalk. At right an older couple walk toward the viewer, one in a cream shirt with a cane and one in a blue jacket with a bag, with blank faces. Across the street a crowd of small faceless figures waits at the corner, with outlined grey rocks or cars at the curb and trees redrawn as green outlines.",
+    "impression": "The city seen through a nest of coloured scribble, as if the air itself were drawn on. The couple walking arm in arm with a cane are the emotional centre, two blank faces that read as tender anyway. The scribble layer is a different kind of mark from the flat fills and gives this one a nervous energy the others lack.",
+    "subjects": [
+      "street",
+      "city",
+      "skyscrapers",
+      "people",
+      "pedicab",
+      "crowd",
+      "scribbles"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "rainbow scribble overlay",
+      "blank face",
+      "pedicab",
+      "crosswalk",
+      "cane",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Midtown"
+    ],
+    "composition": [
+      "one point perspective",
+      "figures in foreground",
+      "photo base",
+      "all over"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "washed",
+      "rainbow lines",
+      "teal sky",
+      "warm"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "doodle"
+    ],
+    "themes": [
+      "city",
+      "anonymity",
+      "community",
+      "noise"
+    ],
+    "mood": [
+      "busy",
+      "tender"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "signature 2023",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "manhattan",
+      "scribble overlay",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

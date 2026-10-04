@@ -117,8 +117,105 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-48.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "An aerial photograph of midtown Manhattan from a glass tower, with cartoon clouds on the horizon and dozens of cartoon creatures and blocks floating among the skyscrapers, including a totem tower, a grey shark and a snow capped building, labelled DSNYC 1/1 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned DSNYC 1/1 2024 at lower left and MATT CRUMP at lower right. A view from high in a glass tower, with the curved glass wall visible at the right edge, looking south over midtown to the downtown skyline, the rivers and the horizon, where a line of outlined cartoon clouds is drawn. Scattered through the real skyline are dozens of drawn objects: a tall totem pole of stacked faces with horns and wings at upper right, a grey shark shape with an eye at centre right, a skyscraper topped with drawn snow and icicles at lower left, a pink horned cone at lower left, a green striped cylinder at lower right, a pale blue cone, a blue cloth shape, small coloured cubes, a yellow fish, a blue paper plane, a cluster of pale blue mountains at upper left, and small creatures on rooftops. A copper roofed building fills the lower centre.",
+    "impression": "Dominant species in NYC, the caption says, and the species seem to be the creatures: they have taken over the rooftops and the air above midtown like a migrating flock. The totem of faces beside the tower is the Superland totem poles come to Manhattan. A commission, and the grandest of the Scribbles, a whole city as a seek and find.",
+    "subjects": [
+      "city",
+      "skyscrapers",
+      "creatures",
+      "clouds",
+      "totem",
+      "shark",
+      "river"
+    ],
+    "characters": [
+      "totem face",
+      "fish car creature",
+      "horned creature",
+      "one eyed creature",
+      "rooftop creature"
+    ],
+    "elements": [
+      "floating cube",
+      "snow cap",
+      "icicles",
+      "fake mountains",
+      "paper plane",
+      "outlined cloud",
+      "glass wall",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Midtown"
+    ],
+    "composition": [
+      "aerial view",
+      "all over",
+      "dense",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "pale blue",
+      "bleached",
+      "pastel",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "seek and find density",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "creatures among us",
+      "scale",
+      "crowded life"
+    ],
+    "mood": [
+      "wondrous",
+      "playful",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "DSNYC 1/1 2024; MATT CRUMP",
+      "role": "caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border. Special commission, captioned as an edition of one.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "aerial",
+      "commission",
+      "totem",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "superland/totem-pole-spirit-land",
+      "note": "A totem pole of stacked faces beside a Manhattan tower.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

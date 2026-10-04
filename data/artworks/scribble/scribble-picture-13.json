@@ -117,7 +117,94 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-13.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of Flatbush Avenue in Brooklyn with cartoon snowy mountains drawn over the skyline, a one eyed creature on a tower, outlined cars in traffic, and a faceless cyclist waiting at the crosswalk, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower right. Huge pale blue cartoon mountains with snow caps are drawn across the upper left, rising behind downtown Brooklyn glass towers. A yellow one eyed creature with spiky lashes perches on top of the tallest tower. A red and orange patterned residential tower stands at upper right beside a tall grey traffic pole. Drawn traffic signals, a no left turn sign, a street sign reading North Flatbush Avenue and a white outlined truck hang over the road. Trees along the avenue are redrawn in flat sage green. The road is full of cars redrawn as soft white, grey and blue cartoon shapes. At lower right a cyclist with a blank brown face waits on a bike at the kerb, with faceless pedestrians at the crossing behind. The crosswalk stripes are redrawn in flat white.",
+    "impression": "Brooklyn with the Rockies behind it, and a one eyed sentinel keeping watch from the tallest tower. The fake mountains are so cheerfully wrong that they make the real towers look like toys too. The cyclist waiting at the light is the viewer's stand in, about to ride into a cartoon. The first Scribble picture where the drawing invents scenery rather than just outlining it.",
+    "subjects": [
+      "street",
+      "city",
+      "mountains",
+      "skyscrapers",
+      "cars",
+      "traffic",
+      "cyclist",
+      "people",
+      "creatures",
+      "signs"
+    ],
+    "characters": [
+      "faceless figure",
+      "one eyed creature",
+      "cyclist",
+      "vehicle creature"
+    ],
+    "elements": [
+      "fake mountains",
+      "outlined car",
+      "traffic light",
+      "street sign",
+      "crosswalk",
+      "flat tree",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Flatbush"
+    ],
+    "composition": [
+      "one point perspective",
+      "figures in foreground",
+      "photo base",
+      "layered depth"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "pale blue mountains",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "fake nature",
+      "creatures among us",
+      "waiting"
+    ],
+    "mood": [
+      "playful",
+      "sunny",
+      "anticipation"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "North Flatbush Avenue; no left turn; signature 2023",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "flatbush",
+      "fake mountains",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

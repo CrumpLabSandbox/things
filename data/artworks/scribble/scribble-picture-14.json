@@ -116,7 +116,92 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-14.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a Brooklyn corner near the 7th Avenue subway with a red brick building, where the trees, planters, a hydrant, bikes and a car are redrawn in flat sage and tan cartoon shapes, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 2023 at lower left. A tree trunk at left rises to a canopy redrawn as flat sage, olive and grey leaf clumps with black outlines. A three storey red brick corner building with a cornice stands at centre, with the 7 Avenue Station subway entrance and a green glass kiosk at its base, and a graffiti covered wall. Two pedestrians with blank faces cross at the corner. A plum coloured cartoon car with a round window intrudes from the right. In the foreground, planters full of redrawn flat plants in olive and tan, a row of outlined bicycles, a grey fire hydrant, a cream bollard and a striped pot are drawn over the real sidewalk. The light is warm and washed.",
+    "impression": "A corner in Park Slope made of paper cutouts, with the plants doing most of the acting. The tree canopy as flat clumps gives it a storybook feel and the car looks like it drove in from a different cartoon. Warm, leafy and companionable.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "trees",
+      "planters",
+      "bicycles",
+      "subway entrance",
+      "people",
+      "cars",
+      "hydrant"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "flat tree",
+      "planter",
+      "bicycle",
+      "hydrant",
+      "bollard",
+      "outlined car",
+      "subway sign",
+      "found graffiti",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Park Slope"
+    ],
+    "composition": [
+      "street corner",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "sage and brick",
+      "washed",
+      "earth tones"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "plants as creatures",
+      "daily life"
+    ],
+    "mood": [
+      "calm",
+      "warm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "7 Avenue Station; found graffiti; Matt Crump 2023",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "park slope",
+      "plants",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

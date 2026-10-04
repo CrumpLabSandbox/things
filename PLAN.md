@@ -237,3 +237,62 @@ explore.qmd              layer 5
 
 Scripts never overwrite hand edited or described fields. The catalog script
 refreshes only the factual block of each record and leaves the rest alone.
+
+## Status (end of first session, 2026-10-04)
+
+Done and pushed on this branch:
+
+- Layer 1 and 2: all 169 pieces have catalog and measured blocks and a 256 px
+  thumbnail.
+- Layer 3: all 169 pieces have a described block (alt text, neutral
+  description, interpretive impression, ten tag facets, text in image, format
+  notes, free tags, confidence) and 60 hand written relations between pieces.
+  `data/vocabulary.json` holds the resulting 1049 tags with glosses for the
+  recurring characters and core styles. Nothing is verified yet.
+- Layer 4: `data/public/similarity.json` with eight neighbours per piece under
+  tag, text and visual measures, plus a 2D MDS map.
+- Layer 5: `explore.qmd` plus `explore/explore.js` and `explore.css`, added to
+  the sidebar. Facet filters, search, sort, grid and map views, a detail panel
+  with palette, tags, relations and three "similar" strips.
+- The local editor in `tools/edit/`.
+
+## How to run things
+
+```
+# refresh factual fields after adding images and running make_qmds.R
+python3 scripts/build_catalog.py
+python3 scripts/measure_images.py          # only new records; --force for all
+
+# edit descriptions in a browser (from the repo root)
+node tools/edit/server.js                  # then open http://localhost:8787
+
+# after editing
+python3 scripts/validate.py                # --adopt to add new tags to the vocabulary
+python3 scripts/build_similarity.py
+python3 scripts/build_public.py            # writes data/public/, read by explore.qmd
+
+# optional, on a machine with PyTorch
+python3 scripts/embed_clip.py && python3 scripts/build_similarity.py
+
+# then render the site as usual
+quarto render
+```
+
+Python needs Pillow and numpy (`pip install Pillow numpy`). The edit tool
+needs only Node.
+
+## Things to look at first
+
+1. The vocabulary. Open `data/vocabulary.json` or filter in the explore page.
+   Tags I was unsure about are in the `free_tags` of each record rather than
+   the facets.
+2. Desertland has one piece whose page had no title, now `desertland/fiona`,
+   and one with only a 256 px source image (`land-shape`), marked low
+   confidence.
+3. Dates. Several pieces are signed a year earlier than the file date (the
+   Colorlands say 2021, the towns say 2011 but the files say 2019). The
+   catalog keeps the file date; the signed year is in `format_notes` and
+   `free_tags` as `signed 2011` and so on. A `year_made` field could be added
+   once you confirm which is right.
+4. Relations are sparse on purpose. The similarity neighbours do most of the
+   work; hand relations are for lineage (source of, revisits, variation of).

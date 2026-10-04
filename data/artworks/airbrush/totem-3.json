@@ -123,9 +123,9 @@
     "impression": "The totem overgrown: green with rust showing through, as if it had been standing in a jungle for a long time. Of the four colourways this is the one that looks most like an actual artefact. Earthy and patient.",
     "subjects": [
       "totem",
-      "figure",
-      "mask",
-      "headdress"
+      "figures",
+      "masks",
+      "headdresses"
     ],
     "characters": [
       "totem figure"
@@ -166,12 +166,11 @@
       "idol",
       "symmetry",
       "same image many colourways",
-      "age"
+      "stillness"
     ],
     "mood": [
       "solemn",
-      "calm",
-      "earthy"
+      "calm"
     ],
     "text_in_image": {
       "present": false,

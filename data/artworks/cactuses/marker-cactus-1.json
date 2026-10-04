@@ -128,7 +128,7 @@
     "elements": [
       "spines",
       "branching arms",
-      "black outline",
+      "thin black outline",
       "sketchbook spiral"
     ],
     "setting": [
@@ -136,7 +136,7 @@
     ],
     "composition": [
       "central figure",
-      "filling frame",
+      "central cluster",
       "white ground"
     ],
     "line": [
@@ -151,16 +151,15 @@
     "style": [
       "cartoon",
       "study",
-      "marker",
-      "sketchbook"
+      "painted on wood"
     ],
     "themes": [
       "plants as creatures",
-      "armour"
+      "pattern"
     ],
     "mood": [
       "calm",
-      "tough"
+      "energetic"
     ],
     "text_in_image": {
       "present": false,

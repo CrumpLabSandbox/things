@@ -142,8 +142,7 @@
     ],
     "setting": [
       "invented landscape",
-      "countryside",
-      "plain"
+      "countryside"
     ],
     "composition": [
       "layered depth",
@@ -152,8 +151,7 @@
     ],
     "line": [
       "airbrush gradient",
-      "no outline",
-      "freehand spray"
+      "no outline"
     ],
     "color_words": [
       "grayscale",
@@ -162,14 +160,13 @@
       "smoky"
     ],
     "style": [
-      "airbrush",
+      "stencil airbrush",
       "cartoon"
     ],
     "themes": [
-      "countryside",
-      "foraging",
-      "animals",
-      "weather"
+      "nature",
+      "journey",
+      "creatures among us"
     ],
     "mood": [
       "calm",

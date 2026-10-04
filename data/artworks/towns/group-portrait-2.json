@@ -130,8 +130,7 @@
       "castle"
     ],
     "characters": [
-      "dragon",
-      "castle creature"
+      "dragon"
     ],
     "elements": [
       "grated mouth",
@@ -146,7 +145,7 @@
     "composition": [
       "central cluster",
       "pile",
-      "flat ground",
+      "bare ground",
       "group portrait"
     ],
     "line": [
@@ -165,7 +164,7 @@
       "town world"
     ],
     "themes": [
-      "family",
+      "community",
       "portrait",
       "creatures as architecture"
     ],

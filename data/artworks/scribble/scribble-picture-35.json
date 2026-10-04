@@ -117,7 +117,95 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-35.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A low angle photograph of downtown Brooklyn towers and a domed bank from Fulton Mall, with cartoon clouds, a huge horned creature peeking from behind a tower, a dragon on the plaza, pod creatures in the street, and a tall cream creature at right, labelled SP35.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP35 on a drawn bin at lower right. Glass and concrete towers rise on both sides of a plaza under a bright blue sky with outlined white cartoon clouds drawn across the top and spilling down the right hand tower. A huge blue grey creature with pink horns and a blank square face peers from behind the central tower, its hand drawn over the facade, and a smaller white creature with rabbit ears sits on a tower behind. A tall cream and tan creature with a tongue and a hat stands along the right edge. A domed classical bank building with columns sits at centre right with a yellow creature flying beside it and small figures drawn on it. On the street, a scaffolded building with a Dime sign at left, outlined pod creatures and a dog walker cross the plaza, a green dragon like creature sits at right, and small creatures climb out of puddles drawn on the asphalt at the bottom.",
+    "impression": "Downtown Brooklyn invaded by friendly giants: one hides behind a tower like a child behind a curtain. The process note says it needed something in the sky, so the clouds were added, and they tie the giants to the street. The small creatures emerging from puddles at the bottom are a new idea, the ground itself hatching. Grand, sunny and silly.",
+    "subjects": [
+      "city",
+      "skyscrapers",
+      "bank",
+      "plaza",
+      "creatures",
+      "clouds",
+      "people",
+      "dragons"
+    ],
+    "characters": [
+      "giant creature",
+      "horned creature",
+      "rabbit eared figure",
+      "dragon",
+      "hooded pod figure",
+      "blob figure"
+    ],
+    "elements": [
+      "outlined cloud",
+      "giant hand",
+      "puddle",
+      "scaffolding",
+      "dome",
+      "columns",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Downtown Brooklyn",
+      "Fulton Mall"
+    ],
+    "composition": [
+      "low angle",
+      "giant figures above",
+      "dense",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "creatures among us",
+      "scale",
+      "hidden creatures"
+    ],
+    "mood": [
+      "playful",
+      "wondrous",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 24 SP35; Dime sign",
+      "role": "caption and found signage"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Process note says clouds were added after a first version felt empty.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "downtown brooklyn",
+      "giant creatures",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

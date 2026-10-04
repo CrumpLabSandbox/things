@@ -116,8 +116,95 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-43.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of a narrow yellow brick corner building in Brooklyn with an orange fire escape and a pharmacy at street level, where the pharmacy sign is scribbled out, the window posters blanked to pastel panels, and a figure in a yellow jacket walks away at right, labelled SP 43 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned SP 43 2024 at lower left and MATT CRUMP at lower right. A tall narrow yellow brick building on a corner fills the frame under a blue sky with real wispy clouds, with an orange painted fire escape on its left face. At street level the pharmacy's sign has been overwritten with pink scribbled letters, its awnings and lintels redrawn in flat grey and cream, and the posters in its window replaced with flat pink, blue and cream panels. A grey lamp post and drawn signs stand at right, and small drawn boxes sit on the brick. A figure in a yellow jacket walks away down the sidewalk at right with a tiny drawn creature beside them, and autumn trees stand in the distance. The pavement is bleached warm.",
+    "impression": "A building portrait with minimal cartooning, as the process note says: just enough to erase the brand and blank the posters, so the corner becomes a stage set of itself. The yellow jacket walking away is the one spot of life. Clean, warm and architectural, closer to a photograph than most of the series.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "pharmacy",
+      "fire escapes",
+      "signs",
+      "people",
+      "trees"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "scribble tag",
+      "blank poster",
+      "fire escape",
+      "lamp post",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn"
+    ],
+    "composition": [
+      "central feature",
+      "frontal",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "yellow brick",
+      "blue sky",
+      "warm",
+      "pastel panels"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "architecture",
+      "erasure",
+      "neighbourhood"
+    ],
+    "mood": [
+      "calm",
+      "sunny",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled pharmacy sign; SP 43 2024; MATT CRUMP",
+      "role": "scribble and caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border and typed caption.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "pharmacy",
+      "minimal",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "scribble/scribble-picture-12",
+      "note": "Both are corner building portraits with a shop at the base.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

@@ -117,8 +117,100 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-16.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of an orange brick Brooklyn building with a red deli at street level, where the awning is blanked to pale blue, the window lintels and air conditioners are outlined in cream, and a grey hooded creature stands by a lamp post, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 2023 at lower left. An orange brick three storey building fills the frame, its window lintels and sills redrawn as flat cream cartoon shapes and its air conditioners as white boxes. The deli below has a bright red frame, and its awning has been replaced with a flat pale blue rectangle with faint scribbles. The shop window shows outlined food posters and a blank face in the glass. A lamp post at left has a blue bulb head and a striped banner, and a small grey hooded creature with a tan face stands at its base. A grey sign post at right has a blank panel. A faceless man in a white shirt walks away at left, past an outlined white van and cartoon cars. Found graffiti reading OGUN marks the red shutter at right.",
+    "impression": "A building portrait in which the sign has been wiped clean, so the deli could be any deli. The little hooded creature by the pole is the series' first proper cartoon resident, standing in for all the pod people of the earlier paintings. Orange and red and sunny, a love letter to a corner store.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "deli",
+      "lamp post",
+      "creatures",
+      "people",
+      "cars",
+      "signs"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "faceless figure"
+    ],
+    "elements": [
+      "blank awning",
+      "window lintel",
+      "air conditioner",
+      "lamp post",
+      "found graffiti",
+      "outlined car",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Church Avenue"
+    ],
+    "composition": [
+      "central feature",
+      "frontal",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "orange and red",
+      "warm",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "erasure",
+      "creatures among us"
+    ],
+    "mood": [
+      "sunny",
+      "calm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "found graffiti OGUN; Matt Crump 2023",
+      "role": "found graffiti and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "church ave",
+      "deli",
+      "hooded pods",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "characters/character-set-1",
+      "note": "The hooded pod figure returns at the lamp post.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

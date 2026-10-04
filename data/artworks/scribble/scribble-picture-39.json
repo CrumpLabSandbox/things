@@ -117,7 +117,89 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-39.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph beneath the FDR Drive on the lower Manhattan greenway, with the sky packed with outlined cartoon clouds above glass towers and a tower under construction, and a crowd of walkers redrawn as outlined cartoon figures in warm tones, labelled SP39.",
+    "description": "A portrait format digital piece on a photograph, signed M 23 SP39 at lower right. A purple grey elevated highway crosses the middle of the image on steel columns, with a hot dog cart under yellow umbrellas at left. Above it, glass towers and a tall concrete tower under construction rise into a bright blue sky that is packed with outlined white cartoon clouds, drawn around and in front of the buildings. Below the highway, a crowd of walkers on the greenway are redrawn as outlined cartoon figures with flat warm fills in tan, orange, grey and blue and blank faces: a woman with a ponytail and a bag at centre left, a figure in a long dress at centre, a figure in a pink shirt at right, and many more receding. Street signs and a Medina sign sit under the highway.",
+    "impression": "The greenway under the FDR, with the sky doing all the work: the cartoon clouds crowd the towers like a second city. The walkers are drawn in warm orange and tan, as if the late light had soaked into the drawing. It is the moment the series starts filling whole skies with clouds, and it feels like a parade.",
+    "subjects": [
+      "street",
+      "city",
+      "highway",
+      "skyscrapers",
+      "clouds",
+      "crowd",
+      "people",
+      "food carts"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "outlined cloud",
+      "elevated highway",
+      "umbrella",
+      "construction tower",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "greenway",
+      "under the FDR"
+    ],
+    "composition": [
+      "crowd",
+      "sky dominant",
+      "layered depth",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "orange and blue",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "crowded life",
+      "fake nature",
+      "walking"
+    ],
+    "mood": [
+      "busy",
+      "sunny",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 23 SP39; Medina sign",
+      "role": "caption and found signage"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Signed 23 although numbered after the 2024 pieces. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "greenway",
+      "FDR",
+      "cloud sky",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -123,7 +123,7 @@
     "subjects": [
       "street",
       "city",
-      "truck",
+      "trucks",
       "cars",
       "bins",
       "traffic lights",
@@ -146,8 +146,7 @@
     ],
     "setting": [
       "Toronto",
-      "city",
-      "avenue"
+      "invented city"
     ],
     "composition": [
       "foreground objects",

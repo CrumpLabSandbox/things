@@ -119,13 +119,13 @@
     "impression": "A fake product catalogue page for an apparatus from a real and unsettling line of sensory deprivation research. The deadpan commercial layout, the seal and the citation turn a historical experiment into a parody advertisement. It is funny and chilling in equal measure, and very much a cognitive psychologist's joke.",
     "subjects": [
       "lettering",
-      "figure",
+      "figures",
       "apparatus",
       "brain",
       "diagram"
     ],
     "characters": [
-      "scientist"
+      "faceless figure"
     ],
     "elements": [
       "headline type",
@@ -145,7 +145,6 @@
     ],
     "line": [
       "hard edge",
-      "high contrast",
       "printed"
     ],
     "color_words": [
@@ -154,21 +153,15 @@
       "high contrast"
     ],
     "style": [
-      "screen print",
-      "vintage advertisement",
-      "parody",
-      "poster"
+      "print making",
+      "parody"
     ],
     "themes": [
-      "psychology",
-      "science history",
-      "satire",
-      "the body"
+      "science history"
     ],
     "mood": [
-      "deadpan",
-      "uneasy",
-      "wry"
+      "wry",
+      "uneasy"
     ],
     "text_in_image": {
       "present": true,

@@ -124,7 +124,7 @@
     "description": "A square oil painting on canvas. A dark navy sky fills the top, spattered with pink, orange and blue splash shapes that each hold a striped sphere, on long wavy stalks. In the centre a tall striped tower, like a stack of decks with windows, rises from a boxy machine at the bottom with three large round lenses in blue, pink and green. Boxy buildings with window slots crowd the sides, and orange and pink splashes lap the lower corners. Thick black outlines and bright flat fills.",
     "impression": "A night launch or a carnival ride: the tower is both rocket and lighthouse, and the spheres in the sky are fireworks frozen mid burst. The darkness is unusual for the series and makes the colours glow. The three lenses at the base stare out like headlights.",
     "subjects": [
-      "tower",
+      "towers",
       "machinery",
       "spheres",
       "splashes",
@@ -164,12 +164,11 @@
     ],
     "themes": [
       "machines as places",
-      "portals",
       "night"
     ],
     "mood": [
       "energetic",
-      "mysterious",
+      "dreamy",
       "celebratory"
     ],
     "text_in_image": {

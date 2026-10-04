@@ -130,7 +130,7 @@
     "elements": [
       "pot",
       "stripes",
-      "black outline",
+      "thin black outline",
       "bleed through",
       "sketchbook spiral"
     ],
@@ -139,12 +139,11 @@
     ],
     "composition": [
       "central figure",
-      "small in frame",
       "white ground"
     ],
     "line": [
       "thick black outline",
-      "streaky brushwork",
+      "visible brushwork",
       "painted"
     ],
     "color_words": [
@@ -154,14 +153,12 @@
     ],
     "style": [
       "cartoon",
-      "study",
-      "gouache",
-      "sketchbook"
+      "study"
     ],
     "themes": [
       "plants as creatures",
-      "domestic",
-      "traces"
+      "home",
+      "process"
     ],
     "mood": [
       "playful",

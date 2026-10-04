@@ -117,7 +117,91 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-40.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of Barclays Center and a gold glass tower on Atlantic Avenue with the sky filled by outlined cartoon clouds, and a dense crowd of pedestrians crossing the street redrawn as outlined cartoon figures with blank faces, labelled SP40.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP40 at lower left. A tall gold and green glass tower rises at upper left into a sky packed with outlined white cartoon clouds that also wrap the tower. The rust coloured curved roof of Barclays Center fills the middle right, with its sign and lettering scribbled over in white, and an American flag and street lamps on drawn poles. A dense crowd crosses a wide striped crosswalk toward the viewer, every figure redrawn as an outlined cartoon with flat fills and a blank face: a woman with a backpack in a blue jacket at centre left, a figure in a pink top at centre, a figure in a grey jacket at right, a figure in a yellow vest in the distance, and hundreds more filling the plaza. Cars at the edges are redrawn as cartoon shapes.",
+    "impression": "Rush hour at Atlantic Terminal with everyone made into a comic book crowd, so many figures that the drawing becomes a texture. The arena's name is scribbled out and the clouds press down on the tower. It has the energy of a sports crowd leaving a game, and it is the busiest of the human crowd Scribbles.",
+    "subjects": [
+      "street",
+      "city",
+      "arena",
+      "skyscrapers",
+      "crowd",
+      "people",
+      "clouds",
+      "crosswalk",
+      "cars"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "outlined cloud",
+      "crosswalk",
+      "scribble tag",
+      "flag",
+      "lamp post",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Atlantic Avenue",
+      "Barclays Center"
+    ],
+    "composition": [
+      "crowd",
+      "sky dominant",
+      "dense",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "warm",
+      "gold and blue",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "crowded life",
+      "landmarks",
+      "commuting"
+    ],
+    "mood": [
+      "busy",
+      "energetic",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 24 SP40; scribbled arena sign",
+      "role": "caption and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "atlantic avenue",
+      "barclays",
+      "crowd",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,
