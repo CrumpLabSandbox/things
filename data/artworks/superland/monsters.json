@@ -1,0 +1,128 @@
+{
+  "id": "superland/monsters",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Monsters",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2009-07-17 21:22:07",
+    "year": 2009,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (18).jpg",
+      "width": 573,
+      "height": 569,
+      "aspect": 1.007,
+      "orientation": "square",
+      "bytes": 205015,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Monsters.qmd",
+      "html": "things/Superland/Monsters.html",
+      "url": "https://crumplab.com/things/things/Superland/Monsters.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone",
+        "datetime": "2009:07:17 21:22:07",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Monsters",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#cfbeba",
+        "fraction": 0.2442
+      },
+      {
+        "hex": "#261925",
+        "fraction": 0.2286
+      },
+      {
+        "hex": "#504254",
+        "fraction": 0.2058
+      },
+      {
+        "hex": "#7593b3",
+        "fraction": 0.1436
+      },
+      {
+        "hex": "#d5827c",
+        "fraction": 0.1073
+      },
+      {
+        "hex": "#798172",
+        "fraction": 0.0706
+      }
+    ],
+    "hue_histogram": [
+      0.1947,
+      0.1231,
+      0.0109,
+      0.0063,
+      0.0127,
+      0.0156,
+      0.0157,
+      0.1843,
+      0.0857,
+      0.0819,
+      0.1109,
+      0.1582
+    ],
+    "dominant_hues": [
+      "red",
+      "blue",
+      "pink"
+    ],
+    "warm_fraction": 0.5512,
+    "mean_saturation": 0.3284,
+    "mean_value": 0.5446,
+    "mean_lightness": 0.4708,
+    "contrast": 0.2652,
+    "colorfulness": 51.49,
+    "mean_chroma": 17.33,
+    "is_monochrome": false,
+    "dark_fraction": 0.2188,
+    "light_fraction": 0.0129,
+    "edge_density": 0.3763,
+    "busyness": 0.1971,
+    "has_white_border": false,
+    "phash": "51ca4a0a2ef560fb",
+    "analysis_size": [
+      512,
+      508
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/monsters.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

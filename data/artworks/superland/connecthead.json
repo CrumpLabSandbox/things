@@ -1,0 +1,128 @@
+{
+  "id": "superland/connecthead",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Connecthead",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:06:44",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (2).jpg",
+      "width": 1280,
+      "height": 1272,
+      "aspect": 1.0063,
+      "orientation": "square",
+      "bytes": 841155,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Connecthead.qmd",
+      "html": "things/Superland/Connecthead.html",
+      "url": "https://crumplab.com/things/things/Superland/Connecthead.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:06:44",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Connecthead",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c2bfb2",
+        "fraction": 0.3679
+      },
+      {
+        "hex": "#322b2c",
+        "fraction": 0.1868
+      },
+      {
+        "hex": "#ac8384",
+        "fraction": 0.1495
+      },
+      {
+        "hex": "#a6944d",
+        "fraction": 0.1219
+      },
+      {
+        "hex": "#678999",
+        "fraction": 0.1109
+      },
+      {
+        "hex": "#cd5637",
+        "fraction": 0.0629
+      }
+    ],
+    "hue_histogram": [
+      0.1985,
+      0.2847,
+      0.2191,
+      0.0093,
+      0.0002,
+      0.0006,
+      0.0486,
+      0.1287,
+      0.0203,
+      0.0171,
+      0.0172,
+      0.0558
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.769,
+    "mean_saturation": 0.2928,
+    "mean_value": 0.6259,
+    "mean_lightness": 0.5749,
+    "contrast": 0.2277,
+    "colorfulness": 62.8,
+    "mean_chroma": 19.22,
+    "is_monochrome": false,
+    "dark_fraction": 0.1118,
+    "light_fraction": 0.0051,
+    "edge_density": 0.3765,
+    "busyness": 0.1744,
+    "has_white_border": false,
+    "phash": "20691079da89dbbe",
+    "analysis_size": [
+      512,
+      509
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/connecthead.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

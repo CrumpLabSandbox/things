@@ -1,0 +1,128 @@
+{
+  "id": "magicbear/curious-bear-and-the-danger-zone",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Curious Bear And The Danger Zone",
+    "series": "Magicbear",
+    "series_slug": "magicbear",
+    "medium": "acrylic",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "acryclic on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2010-01-25 08:32:46",
+    "year": 2010,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Magicbear/Curious bear and the danger zone.jpg",
+      "width": 555,
+      "height": 556,
+      "aspect": 0.9982,
+      "orientation": "square",
+      "bytes": 206210,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Magicbear/Curious_Bear_And_The_Danger_Zone.qmd",
+      "html": "things/Magicbear/Curious_Bear_And_The_Danger_Zone.html",
+      "url": "https://crumplab.com/things/things/Magicbear/Curious_Bear_And_The_Danger_Zone.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone",
+        "datetime": "2010:01:25 08:32:46",
+        "image_description": "acryclic on wood"
+      },
+      "iptc": {
+        "object_name": "Curious bear and the danger zone",
+        "caption": "acryclic on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#a1abbc",
+        "fraction": 0.3377
+      },
+      {
+        "hex": "#1e1418",
+        "fraction": 0.2535
+      },
+      {
+        "hex": "#a3ab59",
+        "fraction": 0.1138
+      },
+      {
+        "hex": "#555bac",
+        "fraction": 0.1114
+      },
+      {
+        "hex": "#cf6c82",
+        "fraction": 0.1024
+      },
+      {
+        "hex": "#db6f3b",
+        "fraction": 0.0811
+      }
+    ],
+    "hue_histogram": [
+      0.1919,
+      0.138,
+      0.0586,
+      0.0653,
+      0.0137,
+      0.0058,
+      0.032,
+      0.1188,
+      0.1722,
+      0.0587,
+      0.0211,
+      0.124
+    ],
+    "dominant_hues": [
+      "red",
+      "indigo",
+      "orange"
+    ],
+    "warm_fraction": 0.5256,
+    "mean_saturation": 0.4383,
+    "mean_value": 0.5995,
+    "mean_lightness": 0.4903,
+    "contrast": 0.272,
+    "colorfulness": 82.73,
+    "mean_chroma": 27.18,
+    "is_monochrome": false,
+    "dark_fraction": 0.2269,
+    "light_fraction": 0.0041,
+    "edge_density": 0.2977,
+    "busyness": 0.204,
+    "has_white_border": false,
+    "phash": "04e16da157346b73",
+    "analysis_size": [
+      511,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/magicbear/curious-bear-and-the-danger-zone.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

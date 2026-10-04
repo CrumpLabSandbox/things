@@ -1,0 +1,124 @@
+{
+  "id": "scribble/scribble-picture-20",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 20",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-09-12 09:54:27",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Vancouver. Pretend clouds.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 20.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 1525516,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_20.qmd",
+      "html": "things/Scribble/Scribble_Picture_20.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_20.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:08:21 15:40:34",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f0eee9",
+        "fraction": 0.4627
+      },
+      {
+        "hex": "#ddba88",
+        "fraction": 0.2371
+      },
+      {
+        "hex": "#47423c",
+        "fraction": 0.098
+      },
+      {
+        "hex": "#9a9180",
+        "fraction": 0.0935
+      },
+      {
+        "hex": "#a06c3f",
+        "fraction": 0.0864
+      },
+      {
+        "hex": "#5b94a1",
+        "fraction": 0.0223
+      }
+    ],
+    "hue_histogram": [
+      0.0248,
+      0.8554,
+      0.0347,
+      0.006,
+      0.0042,
+      0.0107,
+      0.0264,
+      0.0343,
+      0.0016,
+      0.0004,
+      0.0003,
+      0.0011
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 0.9162,
+    "mean_saturation": 0.2068,
+    "mean_value": 0.7955,
+    "mean_lightness": 0.758,
+    "contrast": 0.2245,
+    "colorfulness": 49.93,
+    "mean_chroma": 14.08,
+    "is_monochrome": false,
+    "dark_fraction": 0.015,
+    "light_fraction": 0.3853,
+    "edge_density": 0.3333,
+    "busyness": 0.1421,
+    "has_white_border": true,
+    "phash": "3bc0843eb239c35d",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-20.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

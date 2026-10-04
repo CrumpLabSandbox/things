@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-23",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 23",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Church Ave",
+    "caption": "Church Ave",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-15 00:00:00",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Almost a year since the last scribble picture. Church Ave, Brooklyn.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 23.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 1242239,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_23.qmd",
+      "html": "things/Scribble/Scribble_Picture_23.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_23.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:15 08:30:51",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 23",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240915",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#bac3c5",
+        "fraction": 0.2291
+      },
+      {
+        "hex": "#5a5f59",
+        "fraction": 0.2243
+      },
+      {
+        "hex": "#6ac6db",
+        "fraction": 0.191
+      },
+      {
+        "hex": "#ccb49a",
+        "fraction": 0.1655
+      },
+      {
+        "hex": "#b1a756",
+        "fraction": 0.1182
+      },
+      {
+        "hex": "#b3714b",
+        "fraction": 0.0719
+      }
+    ],
+    "hue_histogram": [
+      0.0567,
+      0.3242,
+      0.1725,
+      0.031,
+      0.0069,
+      0.0112,
+      0.2821,
+      0.114,
+      0.0007,
+      0.0,
+      0.0,
+      0.0005
+    ],
+    "dominant_hues": [
+      "orange",
+      "cyan",
+      "yellow"
+    ],
+    "warm_fraction": 0.554,
+    "mean_saturation": 0.3152,
+    "mean_value": 0.699,
+    "mean_lightness": 0.6527,
+    "contrast": 0.1822,
+    "colorfulness": 74.04,
+    "mean_chroma": 20.0,
+    "is_monochrome": false,
+    "dark_fraction": 0.0091,
+    "light_fraction": 0.0289,
+    "edge_density": 0.3145,
+    "busyness": 0.1162,
+    "has_white_border": false,
+    "phash": "2ffe95710321ce60",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-23.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

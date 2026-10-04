@@ -1,0 +1,128 @@
+{
+  "id": "desertland/in-the-city",
+  "schema_version": 1,
+  "catalog": {
+    "title": "In The City",
+    "series": "Desertland",
+    "series_slug": "desertland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 07:45:23",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "24 x 24",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Desertland/In the city.jpg",
+      "width": 639,
+      "height": 640,
+      "aspect": 0.9984,
+      "orientation": "square",
+      "bytes": 180087,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Desertland/In_The_City.qmd",
+      "html": "things/Desertland/In_The_City.html",
+      "url": "https://crumplab.com/things/things/Desertland/In_The_City.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 07:45:23",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "In the city",
+        "caption": "oil on canvas",
+        "keywords": [
+          "24 x 24"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dddcdc",
+        "fraction": 0.3191
+      },
+      {
+        "hex": "#9eb0c6",
+        "fraction": 0.225
+      },
+      {
+        "hex": "#c987a3",
+        "fraction": 0.1467
+      },
+      {
+        "hex": "#554e4f",
+        "fraction": 0.1371
+      },
+      {
+        "hex": "#b9c475",
+        "fraction": 0.13
+      },
+      {
+        "hex": "#ca7a2d",
+        "fraction": 0.042
+      }
+    ],
+    "hue_histogram": [
+      0.073,
+      0.1266,
+      0.1824,
+      0.055,
+      0.008,
+      0.0223,
+      0.0372,
+      0.2011,
+      0.023,
+      0.0735,
+      0.0503,
+      0.1476
+    ],
+    "dominant_hues": [
+      "blue",
+      "yellow",
+      "pink"
+    ],
+    "warm_fraction": 0.5487,
+    "mean_saturation": 0.259,
+    "mean_value": 0.7667,
+    "mean_lightness": 0.7051,
+    "contrast": 0.1914,
+    "colorfulness": 61.93,
+    "mean_chroma": 20.98,
+    "is_monochrome": false,
+    "dark_fraction": 0.0149,
+    "light_fraction": 0.1236,
+    "edge_density": 0.3361,
+    "busyness": 0.1427,
+    "has_white_border": false,
+    "phash": "50fc98c9c7385366",
+    "analysis_size": [
+      511,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/desertland/in-the-city.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

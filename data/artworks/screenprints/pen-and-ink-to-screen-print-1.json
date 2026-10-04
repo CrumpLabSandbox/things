@@ -1,0 +1,122 @@
+{
+  "id": "screenprints/pen-and-ink-to-screen-print-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Pen And Ink To Screen Print 1",
+    "series": "screenprints",
+    "series_slug": "screenprints",
+    "medium": "ink",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "ink on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2017-01-11 20:04:59",
+    "year": 2017,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/screenprints/Pen and Ink to Screen print 1.jpg",
+      "width": 1280,
+      "height": 960,
+      "aspect": 1.3333,
+      "orientation": "landscape",
+      "bytes": 396067,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/screenprints/Pen_And_Ink_To_Screen_Print_1.qmd",
+      "html": "things/screenprints/Pen_And_Ink_To_Screen_Print_1.html",
+      "url": "https://crumplab.com/things/things/screenprints/Pen_And_Ink_To_Screen_Print_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2017:01:11 20:04:59",
+        "image_description": "ink on paper"
+      },
+      "iptc": {
+        "object_name": "Pen and Ink to Screen print 1",
+        "caption": "ink on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dddddd",
+        "fraction": 0.477
+      },
+      {
+        "hex": "#ececec",
+        "fraction": 0.3
+      },
+      {
+        "hex": "#131313",
+        "fraction": 0.0692
+      },
+      {
+        "hex": "#a2a2a2",
+        "fraction": 0.0551
+      },
+      {
+        "hex": "#3b3b3b",
+        "fraction": 0.0501
+      },
+      {
+        "hex": "#6b6b6b",
+        "fraction": 0.0486
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [],
+    "warm_fraction": 0.0,
+    "mean_saturation": 0.0,
+    "mean_value": 0.7616,
+    "mean_lightness": 0.7744,
+    "contrast": 0.2633,
+    "colorfulness": 0.0,
+    "mean_chroma": 0.0,
+    "is_monochrome": true,
+    "dark_fraction": 0.0834,
+    "light_fraction": 0.3605,
+    "edge_density": 0.3614,
+    "busyness": 0.1959,
+    "has_white_border": false,
+    "phash": "7ed795688858c513",
+    "analysis_size": [
+      512,
+      384
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/screenprints/pen-and-ink-to-screen-print-1.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

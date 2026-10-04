@@ -1,0 +1,126 @@
+{
+  "id": "airbrush/totem-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Totem 1",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-17 11:57:57",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/Totem 1.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 409380,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Totem_1.qmd",
+      "html": "things/airbrush/Totem_1.html",
+      "url": "https://crumplab.com/things/things/airbrush/Totem_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:17 11:57:57",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Totem 1",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e6e4df",
+        "fraction": 0.5927
+      },
+      {
+        "hex": "#5c9795",
+        "fraction": 0.1197
+      },
+      {
+        "hex": "#425145",
+        "fraction": 0.1132
+      },
+      {
+        "hex": "#77ac5f",
+        "fraction": 0.0621
+      },
+      {
+        "hex": "#b9864c",
+        "fraction": 0.0617
+      },
+      {
+        "hex": "#ab4b64",
+        "fraction": 0.0507
+      }
+    ],
+    "hue_histogram": [
+      0.0945,
+      0.1899,
+      0.0557,
+      0.1097,
+      0.0865,
+      0.0633,
+      0.3221,
+      0.0246,
+      0.0,
+      0.0,
+      0.0037,
+      0.0499
+    ],
+    "dominant_hues": [
+      "cyan",
+      "orange",
+      "yellow-green"
+    ],
+    "warm_fraction": 0.3937,
+    "mean_saturation": 0.2059,
+    "mean_value": 0.7693,
+    "mean_lightness": 0.7465,
+    "contrast": 0.2189,
+    "colorfulness": 52.01,
+    "mean_chroma": 13.48,
+    "is_monochrome": false,
+    "dark_fraction": 0.0114,
+    "light_fraction": 0.4789,
+    "edge_density": 0.1358,
+    "busyness": 0.1007,
+    "has_white_border": false,
+    "phash": "3dcee264c324cd34",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/totem-1.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

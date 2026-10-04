@@ -1,0 +1,128 @@
+{
+  "id": "superland/chocolate-power-sauce",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Chocolate Power Sauce",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:06:18",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (12).jpg",
+      "width": 1280,
+      "height": 1275,
+      "aspect": 1.0039,
+      "orientation": "square",
+      "bytes": 816149,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Chocolate_Power_Sauce.qmd",
+      "html": "things/Superland/Chocolate_Power_Sauce.html",
+      "url": "https://crumplab.com/things/things/Superland/Chocolate_Power_Sauce.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:06:18",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Chocolate power sauce",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#bcbcbe",
+        "fraction": 0.2697
+      },
+      {
+        "hex": "#2d2626",
+        "fraction": 0.2518
+      },
+      {
+        "hex": "#686f84",
+        "fraction": 0.1434
+      },
+      {
+        "hex": "#b7603a",
+        "fraction": 0.1235
+      },
+      {
+        "hex": "#88997f",
+        "fraction": 0.1089
+      },
+      {
+        "hex": "#c5bd64",
+        "fraction": 0.1028
+      }
+    ],
+    "hue_histogram": [
+      0.1629,
+      0.2934,
+      0.1675,
+      0.0267,
+      0.0036,
+      0.0172,
+      0.0797,
+      0.14,
+      0.0405,
+      0.0147,
+      0.0108,
+      0.0429
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.6731,
+    "mean_saturation": 0.315,
+    "mean_value": 0.5769,
+    "mean_lightness": 0.5229,
+    "contrast": 0.2537,
+    "colorfulness": 66.91,
+    "mean_chroma": 19.95,
+    "is_monochrome": false,
+    "dark_fraction": 0.1785,
+    "light_fraction": 0.019,
+    "edge_density": 0.3987,
+    "busyness": 0.1943,
+    "has_white_border": false,
+    "phash": "66c41e323147f1e3",
+    "analysis_size": [
+      512,
+      510
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/chocolate-power-sauce.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

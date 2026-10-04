@@ -1,0 +1,128 @@
+{
+  "id": "superland/operations-of-the-symbol-manipulator",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Operations Of The Symbol Manipulator",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:08:47",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (11).jpg",
+      "width": 1265,
+      "height": 1280,
+      "aspect": 0.9883,
+      "orientation": "square",
+      "bytes": 806269,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Operations_Of_The_Symbol_Manipulator.qmd",
+      "html": "things/Superland/Operations_Of_The_Symbol_Manipulator.html",
+      "url": "https://crumplab.com/things/things/Superland/Operations_Of_The_Symbol_Manipulator.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:08:47",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Operations of the symbol manipulator",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#403935",
+        "fraction": 0.2386
+      },
+      {
+        "hex": "#c2b5b1",
+        "fraction": 0.2339
+      },
+      {
+        "hex": "#64a6a4",
+        "fraction": 0.1502
+      },
+      {
+        "hex": "#bd583e",
+        "fraction": 0.1454
+      },
+      {
+        "hex": "#b9b462",
+        "fraction": 0.124
+      },
+      {
+        "hex": "#5b6490",
+        "fraction": 0.108
+      }
+    ],
+    "hue_histogram": [
+      0.1787,
+      0.2296,
+      0.1314,
+      0.0208,
+      0.019,
+      0.0416,
+      0.1169,
+      0.1351,
+      0.0319,
+      0.0151,
+      0.0165,
+      0.0635
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.6149,
+    "mean_saturation": 0.4161,
+    "mean_value": 0.621,
+    "mean_lightness": 0.54,
+    "contrast": 0.2252,
+    "colorfulness": 81.69,
+    "mean_chroma": 26.37,
+    "is_monochrome": false,
+    "dark_fraction": 0.0913,
+    "light_fraction": 0.0155,
+    "edge_density": 0.5161,
+    "busyness": 0.1924,
+    "has_white_border": false,
+    "phash": "4eaf007136f71ca1",
+    "analysis_size": [
+      506,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/operations-of-the-symbol-manipulator.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

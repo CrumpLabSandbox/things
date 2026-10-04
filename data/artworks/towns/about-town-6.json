@@ -1,0 +1,128 @@
+{
+  "id": "towns/about-town-6",
+  "schema_version": 1,
+  "catalog": {
+    "title": "About Town 6",
+    "series": "towns",
+    "series_slug": "towns",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood panel",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:32:36",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "10 x 10",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/towns/About town 6.jpg",
+      "width": 432,
+      "height": 432,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 96097,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/towns/About_Town_6.qmd",
+      "html": "things/towns/About_Town_6.html",
+      "url": "https://crumplab.com/things/things/towns/About_Town_6.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:32:36",
+        "image_description": "oil on wood panel"
+      },
+      "iptc": {
+        "object_name": "About town 6",
+        "caption": "oil on wood panel",
+        "keywords": [
+          "10 x 10"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#65c0a9",
+        "fraction": 0.2978
+      },
+      {
+        "hex": "#548bd2",
+        "fraction": 0.2162
+      },
+      {
+        "hex": "#beb0c0",
+        "fraction": 0.1815
+      },
+      {
+        "hex": "#d55d5f",
+        "fraction": 0.1379
+      },
+      {
+        "hex": "#272526",
+        "fraction": 0.11
+      },
+      {
+        "hex": "#b9b658",
+        "fraction": 0.0566
+      }
+    ],
+    "hue_histogram": [
+      0.1433,
+      0.0415,
+      0.0429,
+      0.0141,
+      0.038,
+      0.1203,
+      0.2137,
+      0.2483,
+      0.0098,
+      0.0529,
+      0.0136,
+      0.0618
+    ],
+    "dominant_hues": [
+      "blue",
+      "cyan",
+      "red"
+    ],
+    "warm_fraction": 0.2937,
+    "mean_saturation": 0.4936,
+    "mean_value": 0.7252,
+    "mean_lightness": 0.6037,
+    "contrast": 0.1979,
+    "colorfulness": 102.95,
+    "mean_chroma": 33.3,
+    "is_monochrome": false,
+    "dark_fraction": 0.0725,
+    "light_fraction": 0.0126,
+    "edge_density": 0.2413,
+    "busyness": 0.1339,
+    "has_white_border": false,
+    "phash": "065a14954b7acae7",
+    "analysis_size": [
+      432,
+      432
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/towns/about-town-6.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

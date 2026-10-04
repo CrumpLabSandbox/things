@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-39",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 39",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "Greenway",
+    "caption": "Greenway",
+    "camera": null,
+    "date": "2023-09-15 15:31:15",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Greenway",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-39",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 39.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 742309,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_39.qmd",
+      "html": "things/Scribble/Scribble_Picture_39.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_39.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": "Copyright Matthew Crump 2023"
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#eaedeb",
+        "fraction": 0.3074
+      },
+      {
+        "hex": "#554248",
+        "fraction": 0.1882
+      },
+      {
+        "hex": "#a78778",
+        "fraction": 0.1817
+      },
+      {
+        "hex": "#ebc58a",
+        "fraction": 0.1675
+      },
+      {
+        "hex": "#53c4eb",
+        "fraction": 0.1039
+      },
+      {
+        "hex": "#3f7094",
+        "fraction": 0.0513
+      }
+    ],
+    "hue_histogram": [
+      0.1008,
+      0.4997,
+      0.017,
+      0.0006,
+      0.0003,
+      0.0005,
+      0.0819,
+      0.1825,
+      0.0109,
+      0.0085,
+      0.0293,
+      0.0681
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "red"
+    ],
+    "warm_fraction": 0.7055,
+    "mean_saturation": 0.3025,
+    "mean_value": 0.7611,
+    "mean_lightness": 0.6893,
+    "contrast": 0.246,
+    "colorfulness": 73.98,
+    "mean_chroma": 19.06,
+    "is_monochrome": false,
+    "dark_fraction": 0.0165,
+    "light_fraction": 0.2686,
+    "edge_density": 0.3678,
+    "busyness": 0.1767,
+    "has_white_border": false,
+    "phash": "77a3a047ceb0686c",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-39.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

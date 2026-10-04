@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-26",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 26",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Greenwich village",
+    "caption": "Greenwich village",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-19 20:30:02",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Greenwich Village",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 26.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 1245718,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_26.qmd",
+      "html": "things/Scribble/Scribble_Picture_26.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_26.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:19 20:30:02",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 26",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240919",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#cdd7d7",
+        "fraction": 0.4007
+      },
+      {
+        "hex": "#ab4a25",
+        "fraction": 0.1648
+      },
+      {
+        "hex": "#dcab73",
+        "fraction": 0.1454
+      },
+      {
+        "hex": "#3c2a21",
+        "fraction": 0.1421
+      },
+      {
+        "hex": "#947a68",
+        "fraction": 0.1226
+      },
+      {
+        "hex": "#6aab72",
+        "fraction": 0.0244
+      }
+    ],
+    "hue_histogram": [
+      0.1815,
+      0.6111,
+      0.0134,
+      0.0061,
+      0.0297,
+      0.0076,
+      0.0451,
+      0.1004,
+      0.002,
+      0.0008,
+      0.0006,
+      0.0017
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.8081,
+    "mean_saturation": 0.3793,
+    "mean_value": 0.7171,
+    "mean_lightness": 0.6276,
+    "contrast": 0.251,
+    "colorfulness": 77.56,
+    "mean_chroma": 24.08,
+    "is_monochrome": false,
+    "dark_fraction": 0.0742,
+    "light_fraction": 0.1773,
+    "edge_density": 0.3091,
+    "busyness": 0.1477,
+    "has_white_border": false,
+    "phash": "4099edc6910e376d",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-26.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

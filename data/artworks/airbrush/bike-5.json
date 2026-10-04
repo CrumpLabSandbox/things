@@ -1,0 +1,126 @@
+{
+  "id": "airbrush/bike-5",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Bike 5",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-01 10:54:20",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/bike 5.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 558790,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Bike_5.qmd",
+      "html": "things/airbrush/Bike_5.html",
+      "url": "https://crumplab.com/things/things/airbrush/Bike_5.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:01 10:54:20",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "bike 5",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d4dbd5",
+        "fraction": 0.3554
+      },
+      {
+        "hex": "#3c322f",
+        "fraction": 0.2059
+      },
+      {
+        "hex": "#95877e",
+        "fraction": 0.1281
+      },
+      {
+        "hex": "#6b5466",
+        "fraction": 0.128
+      },
+      {
+        "hex": "#a74c66",
+        "fraction": 0.0983
+      },
+      {
+        "hex": "#6d663d",
+        "fraction": 0.0843
+      }
+    ],
+    "hue_histogram": [
+      0.2543,
+      0.1989,
+      0.1972,
+      0.0041,
+      0.0005,
+      0.0006,
+      0.0022,
+      0.0347,
+      0.0288,
+      0.0241,
+      0.043,
+      0.2115
+    ],
+    "dominant_hues": [
+      "red",
+      "pink",
+      "orange"
+    ],
+    "warm_fraction": 0.8921,
+    "mean_saturation": 0.228,
+    "mean_value": 0.5911,
+    "mean_lightness": 0.5567,
+    "contrast": 0.264,
+    "colorfulness": 41.6,
+    "mean_chroma": 13.5,
+    "is_monochrome": false,
+    "dark_fraction": 0.0792,
+    "light_fraction": 0.1184,
+    "edge_density": 0.2483,
+    "busyness": 0.1645,
+    "has_white_border": false,
+    "phash": "60f090cf8e1fd196",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/bike-5.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

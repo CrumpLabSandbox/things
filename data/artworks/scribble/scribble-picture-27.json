@@ -1,0 +1,124 @@
+{
+  "id": "scribble/scribble-picture-27",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 27",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Canal St",
+    "caption": "Canal St",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-21 17:49:04",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Walked down Canal street.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 27.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 496634,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_27.qmd",
+      "html": "things/Scribble/Scribble_Picture_27.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_27.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:21 17:49:04",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 27",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240921",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e9c79a",
+        "fraction": 0.3135
+      },
+      {
+        "hex": "#e3dfd9",
+        "fraction": 0.1562
+      },
+      {
+        "hex": "#d99c50",
+        "fraction": 0.1557
+      },
+      {
+        "hex": "#503a2e",
+        "fraction": 0.1476
+      },
+      {
+        "hex": "#955c2e",
+        "fraction": 0.1148
+      },
+      {
+        "hex": "#9b8778",
+        "fraction": 0.1123
+      }
+    ],
+    "hue_histogram": [
+      0.035,
+      0.9346,
+      0.0076,
+      0.0019,
+      0.0004,
+      0.0002,
+      0.0016,
+      0.0129,
+      0.0016,
+      0.0012,
+      0.0014,
+      0.0015
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 0.9793,
+    "mean_saturation": 0.3925,
+    "mean_value": 0.7413,
+    "mean_lightness": 0.6554,
+    "contrast": 0.2266,
+    "colorfulness": 61.99,
+    "mean_chroma": 26.32,
+    "is_monochrome": false,
+    "dark_fraction": 0.0402,
+    "light_fraction": 0.0883,
+    "edge_density": 0.371,
+    "busyness": 0.1549,
+    "has_white_border": false,
+    "phash": "09e6c2628279efb2",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-27.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

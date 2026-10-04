@@ -1,0 +1,128 @@
+{
+  "id": "characters/in-living-color-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "In Living Color 1",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 04:03:24",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/In living color 1.jpg",
+      "width": 850,
+      "height": 850,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 172705,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/In_Living_Color_1.qmd",
+      "html": "things/characters/In_Living_Color_1.html",
+      "url": "https://crumplab.com/things/things/characters/In_Living_Color_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 04:03:24",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "In living color 1",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dbcbb6",
+        "fraction": 0.2925
+      },
+      {
+        "hex": "#a1a096",
+        "fraction": 0.1832
+      },
+      {
+        "hex": "#c18d62",
+        "fraction": 0.1522
+      },
+      {
+        "hex": "#654c3a",
+        "fraction": 0.1449
+      },
+      {
+        "hex": "#aeae7a",
+        "fraction": 0.1243
+      },
+      {
+        "hex": "#b06b63",
+        "fraction": 0.1028
+      }
+    ],
+    "hue_histogram": [
+      0.1754,
+      0.5795,
+      0.1743,
+      0.0463,
+      0.0036,
+      0.0026,
+      0.0058,
+      0.0119,
+      0.0,
+      0.0,
+      0.0,
+      0.0005
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "warm_fraction": 0.9297,
+    "mean_saturation": 0.3012,
+    "mean_value": 0.7027,
+    "mean_lightness": 0.6478,
+    "contrast": 0.1714,
+    "colorfulness": 48.05,
+    "mean_chroma": 20.6,
+    "is_monochrome": false,
+    "dark_fraction": 0.0095,
+    "light_fraction": 0.0005,
+    "edge_density": 0.0667,
+    "busyness": 0.0643,
+    "has_white_border": false,
+    "phash": "6b2694f8cc939546",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/in-living-color-1.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "commissions/the-cliffs-of-volcano-ball-lake",
+  "schema_version": 1,
+  "catalog": {
+    "title": "The Cliffs Of Volcano Ball Lake",
+    "series": "commissions",
+    "series_slug": "commissions",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "DIgital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 23:56:32",
+    "year": 2022,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/commissions/Cliffs-of-Volcano-ball-lake.jpg",
+      "width": 2000,
+      "height": 2000,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 667603,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/commissions/The_Cliffs_Of_Volcano_Ball_Lake.qmd",
+      "html": "things/commissions/The_Cliffs_Of_Volcano_Ball_Lake.html",
+      "url": "https://crumplab.com/things/things/commissions/The_Cliffs_Of_Volcano_Ball_Lake.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:59:43",
+        "image_description": "DIgital Work"
+      },
+      "iptc": {
+        "object_name": "The Cliffs of Volcano Ball Lake",
+        "caption": "DIgital Work",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#edf3f1",
+        "fraction": 0.3024
+      },
+      {
+        "hex": "#515246",
+        "fraction": 0.1943
+      },
+      {
+        "hex": "#76bb96",
+        "fraction": 0.1596
+      },
+      {
+        "hex": "#91cb54",
+        "fraction": 0.1439
+      },
+      {
+        "hex": "#858ec5",
+        "fraction": 0.104
+      },
+      {
+        "hex": "#d17664",
+        "fraction": 0.0959
+      }
+    ],
+    "hue_histogram": [
+      0.0944,
+      0.1119,
+      0.126,
+      0.1412,
+      0.117,
+      0.0902,
+      0.1121,
+      0.0861,
+      0.0181,
+      0.0211,
+      0.0284,
+      0.0534
+    ],
+    "dominant_hues": [
+      "yellow-green",
+      "yellow",
+      "green"
+    ],
+    "warm_fraction": 0.4016,
+    "mean_saturation": 0.3451,
+    "mean_value": 0.7589,
+    "mean_lightness": 0.6999,
+    "contrast": 0.2422,
+    "colorfulness": 86.07,
+    "mean_chroma": 27.72,
+    "is_monochrome": false,
+    "dark_fraction": 0.0284,
+    "light_fraction": 0.2758,
+    "edge_density": 0.512,
+    "busyness": 0.1757,
+    "has_white_border": true,
+    "phash": "3b9596c6a721e161",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/commissions/the-cliffs-of-volcano-ball-lake.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

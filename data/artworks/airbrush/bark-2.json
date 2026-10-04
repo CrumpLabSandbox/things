@@ -1,0 +1,126 @@
+{
+  "id": "airbrush/bark-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Bark 2",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-01 09:07:26",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/Bark 2.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 538764,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Bark_2.qmd",
+      "html": "things/airbrush/Bark_2.html",
+      "url": "https://crumplab.com/things/things/airbrush/Bark_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:01 09:07:26",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Bark 2",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c8c2c6",
+        "fraction": 0.255
+      },
+      {
+        "hex": "#df83a7",
+        "fraction": 0.2045
+      },
+      {
+        "hex": "#d8a391",
+        "fraction": 0.1857
+      },
+      {
+        "hex": "#433f3e",
+        "fraction": 0.1401
+      },
+      {
+        "hex": "#8fbdb2",
+        "fraction": 0.1335
+      },
+      {
+        "hex": "#62ca71",
+        "fraction": 0.0813
+      }
+    ],
+    "hue_histogram": [
+      0.2409,
+      0.1257,
+      0.0169,
+      0.0125,
+      0.0747,
+      0.1186,
+      0.1115,
+      0.0068,
+      0.0014,
+      0.0019,
+      0.0134,
+      0.2757
+    ],
+    "dominant_hues": [
+      "pink",
+      "red",
+      "orange"
+    ],
+    "warm_fraction": 0.6706,
+    "mean_saturation": 0.2872,
+    "mean_value": 0.7468,
+    "mean_lightness": 0.6639,
+    "contrast": 0.1836,
+    "colorfulness": 70.68,
+    "mean_chroma": 23.84,
+    "is_monochrome": false,
+    "dark_fraction": 0.0458,
+    "light_fraction": 0.0005,
+    "edge_density": 0.3117,
+    "busyness": 0.1473,
+    "has_white_border": false,
+    "phash": "6af85cc265d40e78",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/bark-2.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

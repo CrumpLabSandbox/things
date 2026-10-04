@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-16",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 16",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-08-09 17:50:49",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Church Ave Deli",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-16",
+    "print_note": "Digitally signed open edition, print alone or framed print:",
+    "image": {
+      "path": "images/Scribble/Scribble Picture 16.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 403657,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_16.qmd",
+      "html": "things/Scribble/Scribble_Picture_16.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_16.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:08:09 17:50:49",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 16",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230809",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f4bd76",
+        "fraction": 0.2311
+      },
+      {
+        "hex": "#eedec4",
+        "fraction": 0.2056
+      },
+      {
+        "hex": "#c9e3eb",
+        "fraction": 0.1981
+      },
+      {
+        "hex": "#9e8674",
+        "fraction": 0.1438
+      },
+      {
+        "hex": "#51453f",
+        "fraction": 0.1354
+      },
+      {
+        "hex": "#e1714e",
+        "fraction": 0.0858
+      }
+    ],
+    "hue_histogram": [
+      0.1076,
+      0.7519,
+      0.0305,
+      0.0005,
+      0.0008,
+      0.0019,
+      0.0173,
+      0.0857,
+      0.0011,
+      0.0002,
+      0.0011,
+      0.0013
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.8923,
+    "mean_saturation": 0.3122,
+    "mean_value": 0.804,
+    "mean_lightness": 0.719,
+    "contrast": 0.215,
+    "colorfulness": 77.09,
+    "mean_chroma": 23.87,
+    "is_monochrome": false,
+    "dark_fraction": 0.0181,
+    "light_fraction": 0.2176,
+    "edge_density": 0.328,
+    "busyness": 0.1492,
+    "has_white_border": false,
+    "phash": "7cf60065953a629d",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-16.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

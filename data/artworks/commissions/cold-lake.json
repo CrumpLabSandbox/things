@@ -1,0 +1,128 @@
+{
+  "id": "commissions/cold-lake",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Cold Lake",
+    "series": "commissions",
+    "series_slug": "commissions",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2009-09-11 20:57:13",
+    "year": 2009,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/commissions/Cold Lake.jpg",
+      "width": 1172,
+      "height": 524,
+      "aspect": 2.2366,
+      "orientation": "landscape",
+      "bytes": 358047,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/commissions/Cold_Lake.qmd",
+      "html": "things/commissions/Cold_Lake.html",
+      "url": "https://crumplab.com/things/things/commissions/Cold_Lake.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone",
+        "datetime": "2009:09:11 20:57:13",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "Cold Lake",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c2b57c",
+        "fraction": 0.2293
+      },
+      {
+        "hex": "#e1d9cf",
+        "fraction": 0.1835
+      },
+      {
+        "hex": "#af6448",
+        "fraction": 0.1612
+      },
+      {
+        "hex": "#523a40",
+        "fraction": 0.1505
+      },
+      {
+        "hex": "#c68c96",
+        "fraction": 0.1401
+      },
+      {
+        "hex": "#678c9d",
+        "fraction": 0.1355
+      }
+    ],
+    "hue_histogram": [
+      0.2088,
+      0.3606,
+      0.0755,
+      0.0382,
+      0.0263,
+      0.0272,
+      0.0418,
+      0.0757,
+      0.0227,
+      0.0144,
+      0.0266,
+      0.0821
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "pink"
+    ],
+    "warm_fraction": 0.743,
+    "mean_saturation": 0.3721,
+    "mean_value": 0.7062,
+    "mean_lightness": 0.6164,
+    "contrast": 0.2135,
+    "colorfulness": 72.24,
+    "mean_chroma": 26.01,
+    "is_monochrome": false,
+    "dark_fraction": 0.036,
+    "light_fraction": 0.0863,
+    "edge_density": 0.5392,
+    "busyness": 0.1764,
+    "has_white_border": false,
+    "phash": "018592f6d4b257b6",
+    "analysis_size": [
+      512,
+      229
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/commissions/cold-lake.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

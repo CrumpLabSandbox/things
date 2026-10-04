@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-29",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 29",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Soho",
+    "caption": "Soho",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-22 14:53:57",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Walked around soho",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 29.jpeg",
+      "width": 1000,
+      "height": 1409,
+      "aspect": 0.7097,
+      "orientation": "portrait",
+      "bytes": 621417,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_29.qmd",
+      "html": "things/Scribble/Scribble_Picture_29.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_29.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fdfcfb",
+        "fraction": 0.342
+      },
+      {
+        "hex": "#cdd0ce",
+        "fraction": 0.1882
+      },
+      {
+        "hex": "#a5948e",
+        "fraction": 0.1561
+      },
+      {
+        "hex": "#493d3e",
+        "fraction": 0.1457
+      },
+      {
+        "hex": "#9d533b",
+        "fraction": 0.092
+      },
+      {
+        "hex": "#db9e73",
+        "fraction": 0.0761
+      }
+    ],
+    "hue_histogram": [
+      0.3238,
+      0.4623,
+      0.0123,
+      0.0004,
+      0.0001,
+      0.0007,
+      0.0564,
+      0.0917,
+      0.0221,
+      0.0052,
+      0.0051,
+      0.02
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.8217,
+    "mean_saturation": 0.1887,
+    "mean_value": 0.7692,
+    "mean_lightness": 0.7253,
+    "contrast": 0.2645,
+    "colorfulness": 47.33,
+    "mean_chroma": 11.47,
+    "is_monochrome": false,
+    "dark_fraction": 0.0345,
+    "light_fraction": 0.3491,
+    "edge_density": 0.324,
+    "busyness": 0.1222,
+    "has_white_border": true,
+    "phash": "3b19c4c6e425c5c7",
+    "analysis_size": [
+      363,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-29.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

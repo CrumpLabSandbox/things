@@ -1,0 +1,125 @@
+{
+  "id": "scribble/scribble-picture-8",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 8",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-07-16 09:29:16",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Toronto, same process as other scribble pictures.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 8.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 338046,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_8.qmd",
+      "html": "things/Scribble/Scribble_Picture_8.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_8.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:07:16 09:29:16",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 8",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230716",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e2e4dd",
+        "fraction": 0.4408
+      },
+      {
+        "hex": "#c5b39d",
+        "fraction": 0.1829
+      },
+      {
+        "hex": "#868c8a",
+        "fraction": 0.1316
+      },
+      {
+        "hex": "#565655",
+        "fraction": 0.1257
+      },
+      {
+        "hex": "#917e6b",
+        "fraction": 0.106
+      },
+      {
+        "hex": "#ecc96e",
+        "fraction": 0.0131
+      }
+    ],
+    "hue_histogram": [
+      0.0316,
+      0.7425,
+      0.092,
+      0.003,
+      0.0009,
+      0.0004,
+      0.0742,
+      0.0544,
+      0.0003,
+      0.0001,
+      0.0001,
+      0.0005
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.8667,
+    "mean_saturation": 0.1241,
+    "mean_value": 0.7306,
+    "mean_lightness": 0.7211,
+    "contrast": 0.2019,
+    "colorfulness": 29.98,
+    "mean_chroma": 8.35,
+    "is_monochrome": false,
+    "dark_fraction": 0.0107,
+    "light_fraction": 0.2791,
+    "edge_density": 0.2436,
+    "busyness": 0.1071,
+    "has_white_border": false,
+    "phash": "1e9e91c164e6c2b3",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-8.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

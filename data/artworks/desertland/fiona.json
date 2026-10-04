@@ -1,0 +1,126 @@
+{
+  "id": "desertland/fiona",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Fiona",
+    "series": "Desertland",
+    "series_slug": "desertland",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "Oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-10-10 00:00:00",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Desertland/fiona.jpg",
+      "width": 1200,
+      "height": 1206,
+      "aspect": 0.995,
+      "orientation": "square",
+      "bytes": 493547,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Desertland/NA.qmd",
+      "html": "things/Desertland/NA.html",
+      "url": "https://crumplab.com/things/things/Desertland/NA.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d6c2b9",
+        "fraction": 0.2655
+      },
+      {
+        "hex": "#d0c385",
+        "fraction": 0.2366
+      },
+      {
+        "hex": "#88766d",
+        "fraction": 0.1383
+      },
+      {
+        "hex": "#8babb7",
+        "fraction": 0.1226
+      },
+      {
+        "hex": "#da8369",
+        "fraction": 0.1196
+      },
+      {
+        "hex": "#372926",
+        "fraction": 0.1175
+      }
+    ],
+    "hue_histogram": [
+      0.2067,
+      0.3632,
+      0.2397,
+      0.0205,
+      0.0002,
+      0.0036,
+      0.0209,
+      0.0823,
+      0.0009,
+      0.0012,
+      0.0053,
+      0.0555
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.8685,
+    "mean_saturation": 0.3029,
+    "mean_value": 0.7108,
+    "mean_lightness": 0.6486,
+    "contrast": 0.2146,
+    "colorfulness": 61.4,
+    "mean_chroma": 21.34,
+    "is_monochrome": false,
+    "dark_fraction": 0.0627,
+    "light_fraction": 0.0566,
+    "edge_density": 0.3042,
+    "busyness": 0.1642,
+    "has_white_border": false,
+    "phash": "1b9904eb3e81b66c",
+    "analysis_size": [
+      509,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/desertland/fiona.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

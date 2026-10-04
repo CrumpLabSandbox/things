@@ -1,0 +1,126 @@
+{
+  "id": "colorlands/meeting-of-the-mountains",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Meeting Of The Mountains",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 18:45:39",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Meeting-of-the-mountains.jpg",
+      "width": 2475,
+      "height": 2475,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 720437,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Meeting_Of_The_Mountains.qmd",
+      "html": "things/Colorlands/Meeting_Of_The_Mountains.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Meeting_Of_The_Mountains.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:51:26",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Meeting of the mountains",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f7f7f6",
+        "fraction": 0.3901
+      },
+      {
+        "hex": "#292928",
+        "fraction": 0.1729
+      },
+      {
+        "hex": "#90b9b4",
+        "fraction": 0.1543
+      },
+      {
+        "hex": "#aee274",
+        "fraction": 0.108
+      },
+      {
+        "hex": "#b084c6",
+        "fraction": 0.0969
+      },
+      {
+        "hex": "#d89a67",
+        "fraction": 0.0777
+      }
+    ],
+    "hue_histogram": [
+      0.0718,
+      0.1313,
+      0.1348,
+      0.0881,
+      0.0734,
+      0.0817,
+      0.1041,
+      0.0976,
+      0.0401,
+      0.0443,
+      0.0537,
+      0.0791
+    ],
+    "dominant_hues": [
+      "yellow",
+      "orange",
+      "cyan"
+    ],
+    "warm_fraction": 0.4462,
+    "mean_saturation": 0.2674,
+    "mean_value": 0.7808,
+    "mean_lightness": 0.7281,
+    "contrast": 0.2992,
+    "colorfulness": 70.78,
+    "mean_chroma": 20.45,
+    "is_monochrome": false,
+    "dark_fraction": 0.1031,
+    "light_fraction": 0.3994,
+    "edge_density": 0.4723,
+    "busyness": 0.2077,
+    "has_white_border": true,
+    "phash": "2fddd4e1d183902c",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/meeting-of-the-mountains.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

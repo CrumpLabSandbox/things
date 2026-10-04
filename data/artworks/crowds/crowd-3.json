@@ -1,0 +1,128 @@
+{
+  "id": "crowds/crowd-3",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Crowd 3",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:48:58",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/crowd 3.jpg",
+      "width": 751,
+      "height": 379,
+      "aspect": 1.9815,
+      "orientation": "landscape",
+      "bytes": 163089,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Crowd_3.qmd",
+      "html": "things/crowds/Crowd_3.html",
+      "url": "https://crumplab.com/things/things/crowds/Crowd_3.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:48:58",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "crowd 3",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#201720",
+        "fraction": 0.2828
+      },
+      {
+        "hex": "#c2c7e0",
+        "fraction": 0.219
+      },
+      {
+        "hex": "#a98e58",
+        "fraction": 0.1787
+      },
+      {
+        "hex": "#c8654d",
+        "fraction": 0.1274
+      },
+      {
+        "hex": "#637474",
+        "fraction": 0.1205
+      },
+      {
+        "hex": "#763e42",
+        "fraction": 0.0717
+      }
+    ],
+    "hue_histogram": [
+      0.238,
+      0.2293,
+      0.0666,
+      0.0345,
+      0.014,
+      0.0102,
+      0.0292,
+      0.1296,
+      0.0796,
+      0.0508,
+      0.041,
+      0.0771
+    ],
+    "dominant_hues": [
+      "red",
+      "orange",
+      "blue"
+    ],
+    "warm_fraction": 0.6364,
+    "mean_saturation": 0.4358,
+    "mean_value": 0.5513,
+    "mean_lightness": 0.4639,
+    "contrast": 0.2792,
+    "colorfulness": 68.88,
+    "mean_chroma": 22.75,
+    "is_monochrome": false,
+    "dark_fraction": 0.2592,
+    "light_fraction": 0.0235,
+    "edge_density": 0.308,
+    "busyness": 0.2141,
+    "has_white_border": false,
+    "phash": "5e2fa19f76525028",
+    "analysis_size": [
+      512,
+      258
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/crowd-3.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

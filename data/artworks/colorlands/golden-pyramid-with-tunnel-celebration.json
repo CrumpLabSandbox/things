@@ -1,0 +1,126 @@
+{
+  "id": "colorlands/golden-pyramid-with-tunnel-celebration",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Golden Pyramid With Tunnel Celebration",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 18:46:30",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Golden-pyramid-with-tunnel-celebration.jpg",
+      "width": 2475,
+      "height": 2475,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 597844,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Golden_Pyramid_With_Tunnel_Celebration.qmd",
+      "html": "things/Colorlands/Golden_Pyramid_With_Tunnel_Celebration.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Golden_Pyramid_With_Tunnel_Celebration.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:50:41",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Golden pyramid with tunnel celebration",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f1f7f3",
+        "fraction": 0.4108
+      },
+      {
+        "hex": "#919e96",
+        "fraction": 0.1539
+      },
+      {
+        "hex": "#1d1a19",
+        "fraction": 0.1366
+      },
+      {
+        "hex": "#b9db77",
+        "fraction": 0.1313
+      },
+      {
+        "hex": "#e79674",
+        "fraction": 0.1173
+      },
+      {
+        "hex": "#cb65d2",
+        "fraction": 0.0501
+      }
+    ],
+    "hue_histogram": [
+      0.1212,
+      0.1927,
+      0.1474,
+      0.1019,
+      0.0771,
+      0.0557,
+      0.0743,
+      0.0403,
+      0.0242,
+      0.0396,
+      0.0555,
+      0.07
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.5598,
+    "mean_saturation": 0.2687,
+    "mean_value": 0.7888,
+    "mean_lightness": 0.7322,
+    "contrast": 0.2977,
+    "colorfulness": 74.99,
+    "mean_chroma": 21.65,
+    "is_monochrome": false,
+    "dark_fraction": 0.1039,
+    "light_fraction": 0.3919,
+    "edge_density": 0.3684,
+    "busyness": 0.2001,
+    "has_white_border": true,
+    "phash": "3e95913cd1629587",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/golden-pyramid-with-tunnel-celebration.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

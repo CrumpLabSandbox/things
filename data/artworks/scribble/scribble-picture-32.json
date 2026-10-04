@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-32",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 32",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, Ditmas Ave",
+    "caption": "Ditmas Ave",
+    "camera": null,
+    "date": "2024-10-01 18:04:16",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Looking out on Ditmas Ave from F train",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 32.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 480241,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_32.qmd",
+      "html": "things/Scribble/Scribble_Picture_32.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_32.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:10:01 18:04:16",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 32",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20241001",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d6ab75",
+        "fraction": 0.2575
+      },
+      {
+        "hex": "#e7e7e3",
+        "fraction": 0.1807
+      },
+      {
+        "hex": "#e9d2ae",
+        "fraction": 0.1605
+      },
+      {
+        "hex": "#967f66",
+        "fraction": 0.1441
+      },
+      {
+        "hex": "#52b8db",
+        "fraction": 0.1371
+      },
+      {
+        "hex": "#494745",
+        "fraction": 0.1202
+      }
+    ],
+    "hue_histogram": [
+      0.0158,
+      0.7338,
+      0.0217,
+      0.0045,
+      0.0011,
+      0.0003,
+      0.0819,
+      0.1378,
+      0.0023,
+      0.0002,
+      0.0001,
+      0.0005
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "cyan"
+    ],
+    "warm_fraction": 0.7719,
+    "mean_saturation": 0.3294,
+    "mean_value": 0.772,
+    "mean_lightness": 0.7026,
+    "contrast": 0.1978,
+    "colorfulness": 78.34,
+    "mean_chroma": 21.3,
+    "is_monochrome": false,
+    "dark_fraction": 0.0155,
+    "light_fraction": 0.1556,
+    "edge_density": 0.3106,
+    "busyness": 0.1376,
+    "has_white_border": false,
+    "phash": "51a8a95e6267b89a",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-32.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

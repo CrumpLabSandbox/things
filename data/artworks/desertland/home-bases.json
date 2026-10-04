@@ -1,0 +1,126 @@
+{
+  "id": "desertland/home-bases",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Home Bases",
+    "series": "Desertland",
+    "series_slug": "desertland",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-25 19:26:30",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Desertland/Home bases.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 113307,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Desertland/Home_Bases.qmd",
+      "html": "things/Desertland/Home_Bases.html",
+      "url": "https://crumplab.com/things/things/Desertland/Home_Bases.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:25 19:26:30",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "Home bases",
+        "caption": "oil on wood",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#ddd4be",
+        "fraction": 0.3069
+      },
+      {
+        "hex": "#a1b197",
+        "fraction": 0.2396
+      },
+      {
+        "hex": "#c7be70",
+        "fraction": 0.1757
+      },
+      {
+        "hex": "#dda1a2",
+        "fraction": 0.1182
+      },
+      {
+        "hex": "#564531",
+        "fraction": 0.0934
+      },
+      {
+        "hex": "#ee8e4f",
+        "fraction": 0.0663
+      }
+    ],
+    "hue_histogram": [
+      0.1637,
+      0.3128,
+      0.352,
+      0.1082,
+      0.0196,
+      0.0078,
+      0.0174,
+      0.0151,
+      0.0001,
+      0.0,
+      0.0002,
+      0.0031
+    ],
+    "dominant_hues": [
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.8318,
+    "mean_saturation": 0.3026,
+    "mean_value": 0.7746,
+    "mean_lightness": 0.7229,
+    "contrast": 0.1629,
+    "colorfulness": 63.36,
+    "mean_chroma": 24.72,
+    "is_monochrome": false,
+    "dark_fraction": 0.0184,
+    "light_fraction": 0.0337,
+    "edge_density": 0.2386,
+    "busyness": 0.1215,
+    "has_white_border": false,
+    "phash": "1f889c806693e5d7",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/desertland/home-bases.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

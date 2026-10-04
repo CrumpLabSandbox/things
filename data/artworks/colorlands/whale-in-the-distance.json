@@ -1,0 +1,126 @@
+{
+  "id": "colorlands/whale-in-the-distance",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Whale In The Distance",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 18:39:48",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Whale-in-the-distance-copy.jpg",
+      "width": 2475,
+      "height": 2475,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 563982,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Whale_In_The_Distance.qmd",
+      "html": "things/Colorlands/Whale_In_The_Distance.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Whale_In_The_Distance.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:49:43",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Whale in the distance",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f6f4f5",
+        "fraction": 0.5055
+      },
+      {
+        "hex": "#202121",
+        "fraction": 0.127
+      },
+      {
+        "hex": "#7dd0cd",
+        "fraction": 0.1168
+      },
+      {
+        "hex": "#cce67f",
+        "fraction": 0.1156
+      },
+      {
+        "hex": "#ac8075",
+        "fraction": 0.084
+      },
+      {
+        "hex": "#d172ce",
+        "fraction": 0.0512
+      }
+    ],
+    "hue_histogram": [
+      0.0688,
+      0.1118,
+      0.1539,
+      0.05,
+      0.0989,
+      0.0536,
+      0.2154,
+      0.0331,
+      0.0194,
+      0.054,
+      0.0877,
+      0.0533
+    ],
+    "dominant_hues": [
+      "cyan",
+      "yellow",
+      "orange"
+    ],
+    "warm_fraction": 0.4419,
+    "mean_saturation": 0.2164,
+    "mean_value": 0.8226,
+    "mean_lightness": 0.7778,
+    "contrast": 0.2898,
+    "colorfulness": 71.28,
+    "mean_chroma": 17.81,
+    "is_monochrome": false,
+    "dark_fraction": 0.0826,
+    "light_fraction": 0.515,
+    "edge_density": 0.3752,
+    "busyness": 0.2078,
+    "has_white_border": true,
+    "phash": "2fe4c41b931b8c6c",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/whale-in-the-distance.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

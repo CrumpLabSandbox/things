@@ -1,0 +1,126 @@
+{
+  "id": "commissions/untitled",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Untitled",
+    "series": "commissions",
+    "series_slug": "commissions",
+    "medium": "spray paint",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "spraypaint on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2022-09-18 00:00:00",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/commissions/Mitzvah.jpeg",
+      "width": 806,
+      "height": 1280,
+      "aspect": 0.6297,
+      "orientation": "portrait",
+      "bytes": 918127,
+      "format": "MPO"
+    },
+    "page": {
+      "qmd": "things/commissions/untitled_mitzvah.qmd",
+      "html": "things/commissions/untitled_mitzvah.html",
+      "url": "https://crumplab.com/things/things/commissions/untitled_mitzvah.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "15.5",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 13 Pro",
+        "datetime": "2022:08:05 20:49:04",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d3c7b0",
+        "fraction": 0.2569
+      },
+      {
+        "hex": "#131010",
+        "fraction": 0.2065
+      },
+      {
+        "hex": "#d0bc55",
+        "fraction": 0.1883
+      },
+      {
+        "hex": "#736447",
+        "fraction": 0.1632
+      },
+      {
+        "hex": "#6ea5b5",
+        "fraction": 0.1093
+      },
+      {
+        "hex": "#d86d69",
+        "fraction": 0.0758
+      }
+    ],
+    "hue_histogram": [
+      0.1269,
+      0.3713,
+      0.2114,
+      0.0354,
+      0.0166,
+      0.0181,
+      0.0854,
+      0.0618,
+      0.0216,
+      0.006,
+      0.0062,
+      0.0392
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.7534,
+    "mean_saturation": 0.4092,
+    "mean_value": 0.6105,
+    "mean_lightness": 0.5498,
+    "contrast": 0.2948,
+    "colorfulness": 78.55,
+    "mean_chroma": 25.47,
+    "is_monochrome": false,
+    "dark_fraction": 0.1855,
+    "light_fraction": 0.0547,
+    "edge_density": 0.573,
+    "busyness": 0.2495,
+    "has_white_border": false,
+    "phash": "3ab9ea60c033d90f",
+    "analysis_size": [
+      322,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/commissions/untitled.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "crowds/reassembled-crowd-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Reassembled Crowd 2",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:54:44",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/Reassembled crowd 2.jpg",
+      "width": 1000,
+      "height": 1003,
+      "aspect": 0.997,
+      "orientation": "square",
+      "bytes": 376915,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Reassembled_Crowd_2.qmd",
+      "html": "things/crowds/Reassembled_Crowd_2.html",
+      "url": "https://crumplab.com/things/things/crowds/Reassembled_Crowd_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:54:44",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "Reassembled crowd 2",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c7d6d8",
+        "fraction": 0.2537
+      },
+      {
+        "hex": "#c6b962",
+        "fraction": 0.2117
+      },
+      {
+        "hex": "#2f2427",
+        "fraction": 0.15
+      },
+      {
+        "hex": "#d3683c",
+        "fraction": 0.1406
+      },
+      {
+        "hex": "#7796bf",
+        "fraction": 0.1365
+      },
+      {
+        "hex": "#be7590",
+        "fraction": 0.1075
+      }
+    ],
+    "hue_histogram": [
+      0.1476,
+      0.2072,
+      0.1598,
+      0.0672,
+      0.0151,
+      0.0278,
+      0.0516,
+      0.1376,
+      0.0251,
+      0.0473,
+      0.024,
+      0.0897
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.62,
+    "mean_saturation": 0.4267,
+    "mean_value": 0.7225,
+    "mean_lightness": 0.622,
+    "contrast": 0.2415,
+    "colorfulness": 90.67,
+    "mean_chroma": 31.0,
+    "is_monochrome": false,
+    "dark_fraction": 0.0992,
+    "light_fraction": 0.0986,
+    "edge_density": 0.3377,
+    "busyness": 0.197,
+    "has_white_border": false,
+    "phash": "2397144b9cd84fe8",
+    "analysis_size": [
+      510,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/reassembled-crowd-2.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

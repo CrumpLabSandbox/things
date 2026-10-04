@@ -1,0 +1,128 @@
+{
+  "id": "commissions/where-the-magic-bears-live",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Where The Magic Bears Live",
+    "series": "commissions",
+    "series_slug": "commissions",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2015-08-06 09:34:16",
+    "year": 2015,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/commissions/Where the magic bears live.jpg",
+      "width": 1280,
+      "height": 846,
+      "aspect": 1.513,
+      "orientation": "landscape",
+      "bytes": 488658,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/commissions/Where_The_Magic_Bears_Live.qmd",
+      "html": "things/commissions/Where_The_Magic_Bears_Live.html",
+      "url": "https://crumplab.com/things/things/commissions/Where_The_Magic_Bears_Live.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2015:08:06 09:34:16",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "Where the magic bears live",
+        "caption": "oil on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#b8bec4",
+        "fraction": 0.2647
+      },
+      {
+        "hex": "#a6b48d",
+        "fraction": 0.1799
+      },
+      {
+        "hex": "#798071",
+        "fraction": 0.1737
+      },
+      {
+        "hex": "#5f94c1",
+        "fraction": 0.1548
+      },
+      {
+        "hex": "#bb776e",
+        "fraction": 0.1187
+      },
+      {
+        "hex": "#9ea448",
+        "fraction": 0.1081
+      }
+    ],
+    "hue_histogram": [
+      0.0931,
+      0.1876,
+      0.1799,
+      0.0909,
+      0.0339,
+      0.0463,
+      0.0497,
+      0.2475,
+      0.0083,
+      0.0211,
+      0.0108,
+      0.0309
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.4985,
+    "mean_saturation": 0.3215,
+    "mean_value": 0.7099,
+    "mean_lightness": 0.6546,
+    "contrast": 0.1216,
+    "colorfulness": 69.16,
+    "mean_chroma": 23.3,
+    "is_monochrome": false,
+    "dark_fraction": 0.0002,
+    "light_fraction": 0.0031,
+    "edge_density": 0.2875,
+    "busyness": 0.094,
+    "has_white_border": false,
+    "phash": "05aed37a67261a46",
+    "analysis_size": [
+      512,
+      338
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/commissions/where-the-magic-bears-live.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

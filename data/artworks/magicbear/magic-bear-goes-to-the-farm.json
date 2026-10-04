@@ -1,0 +1,128 @@
+{
+  "id": "magicbear/magic-bear-goes-to-the-farm",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Magic Bear Goes To The Farm",
+    "series": "Magicbear",
+    "series_slug": "magicbear",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "Marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2009-03-04 11:09:03",
+    "year": 2009,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Magicbear/Magic bear goes to the farm.jpg",
+      "width": 590,
+      "height": 586,
+      "aspect": 1.0068,
+      "orientation": "square",
+      "bytes": 217770,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Magicbear/Magic_Bear_Goes_To_The_Farm.qmd",
+      "html": "things/Magicbear/Magic_Bear_Goes_To_The_Farm.html",
+      "url": "https://crumplab.com/things/things/Magicbear/Magic_Bear_Goes_To_The_Farm.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone",
+        "datetime": "2009:03:04 11:09:03",
+        "image_description": "Marker on wood"
+      },
+      "iptc": {
+        "object_name": "Magic bear goes to the farm",
+        "caption": "Marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c4b5c2",
+        "fraction": 0.3231
+      },
+      {
+        "hex": "#190f2a",
+        "fraction": 0.186
+      },
+      {
+        "hex": "#7e8dad",
+        "fraction": 0.1782
+      },
+      {
+        "hex": "#4d4266",
+        "fraction": 0.1779
+      },
+      {
+        "hex": "#bf4f56",
+        "fraction": 0.0716
+      },
+      {
+        "hex": "#ca77a2",
+        "fraction": 0.0631
+      }
+    ],
+    "hue_histogram": [
+      0.137,
+      0.0432,
+      0.0125,
+      0.0052,
+      0.0011,
+      0.0025,
+      0.0105,
+      0.1287,
+      0.2776,
+      0.1698,
+      0.0799,
+      0.132
+    ],
+    "dominant_hues": [
+      "indigo",
+      "purple",
+      "red"
+    ],
+    "warm_fraction": 0.3669,
+    "mean_saturation": 0.3839,
+    "mean_value": 0.5973,
+    "mean_lightness": 0.4935,
+    "contrast": 0.2645,
+    "colorfulness": 58.87,
+    "mean_chroma": 22.69,
+    "is_monochrome": false,
+    "dark_fraction": 0.1943,
+    "light_fraction": 0.0122,
+    "edge_density": 0.4883,
+    "busyness": 0.2146,
+    "has_white_border": false,
+    "phash": "53c63225548da6bb",
+    "analysis_size": [
+      512,
+      509
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/magicbear/magic-bear-goes-to-the-farm.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

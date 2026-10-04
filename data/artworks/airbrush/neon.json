@@ -1,0 +1,126 @@
+{
+  "id": "airbrush/neon",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Neon",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-01 09:08:54",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/neon.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 368892,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Neon.qmd",
+      "html": "things/airbrush/Neon.html",
+      "url": "https://crumplab.com/things/things/airbrush/Neon.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:01 09:08:54",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "neon",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#9889a6",
+        "fraction": 0.2867
+      },
+      {
+        "hex": "#b5ab9a",
+        "fraction": 0.2213
+      },
+      {
+        "hex": "#8bba64",
+        "fraction": 0.1816
+      },
+      {
+        "hex": "#5a9d98",
+        "fraction": 0.1379
+      },
+      {
+        "hex": "#cf5293",
+        "fraction": 0.1009
+      },
+      {
+        "hex": "#d98257",
+        "fraction": 0.0717
+      }
+    ],
+    "hue_histogram": [
+      0.0753,
+      0.1219,
+      0.0821,
+      0.0967,
+      0.0772,
+      0.0629,
+      0.1002,
+      0.0296,
+      0.0474,
+      0.1167,
+      0.0365,
+      0.1534
+    ],
+    "dominant_hues": [
+      "pink",
+      "orange",
+      "purple"
+    ],
+    "warm_fraction": 0.4498,
+    "mean_saturation": 0.3522,
+    "mean_value": 0.7164,
+    "mean_lightness": 0.638,
+    "contrast": 0.088,
+    "colorfulness": 80.71,
+    "mean_chroma": 30.2,
+    "is_monochrome": false,
+    "dark_fraction": 0.0,
+    "light_fraction": 0.0,
+    "edge_density": 0.0384,
+    "busyness": 0.0398,
+    "has_white_border": false,
+    "phash": "41b10c727ea5695b",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/neon.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

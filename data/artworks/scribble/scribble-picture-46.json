@@ -1,0 +1,124 @@
+{
+  "id": "scribble/scribble-picture-46",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 46",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "People at DUMBO Fleamarket",
+    "caption": "People at DUMBO Fleamarket",
+    "camera": null,
+    "date": "2024-11-17 00:00:00",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Quick one",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-46",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 46.jpg",
+      "width": 1000,
+      "height": 1409,
+      "aspect": 0.7097,
+      "orientation": "portrait",
+      "bytes": 645273,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_46.qmd",
+      "html": "things/Scribble/Scribble_Picture_46.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_46.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fafaf9",
+        "fraction": 0.4513
+      },
+      {
+        "hex": "#f0d8c0",
+        "fraction": 0.2236
+      },
+      {
+        "hex": "#dd9e64",
+        "fraction": 0.1259
+      },
+      {
+        "hex": "#bda8a0",
+        "fraction": 0.1045
+      },
+      {
+        "hex": "#654f47",
+        "fraction": 0.0847
+      },
+      {
+        "hex": "#527097",
+        "fraction": 0.01
+      }
+    ],
+    "hue_histogram": [
+      0.0785,
+      0.8587,
+      0.0058,
+      0.0005,
+      0.0,
+      0.0001,
+      0.0049,
+      0.0341,
+      0.012,
+      0.0017,
+      0.0009,
+      0.0028
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 0.9462,
+    "mean_saturation": 0.1687,
+    "mean_value": 0.8835,
+    "mean_lightness": 0.8358,
+    "contrast": 0.1953,
+    "colorfulness": 50.12,
+    "mean_chroma": 12.32,
+    "is_monochrome": false,
+    "dark_fraction": 0.0039,
+    "light_fraction": 0.5063,
+    "edge_density": 0.265,
+    "busyness": 0.1013,
+    "has_white_border": true,
+    "phash": "6a909966c4c9e567",
+    "analysis_size": [
+      363,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-46.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

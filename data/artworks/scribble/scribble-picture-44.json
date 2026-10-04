@@ -1,0 +1,125 @@
+{
+  "id": "scribble/scribble-picture-44",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 44",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "People reflecting in a mirror room",
+    "caption": "People reflecting in a mirror room",
+    "camera": null,
+    "date": "2024-11-12 11:20:13",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "People reflecting in a mirror room",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-44",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 44.jpeg",
+      "width": 1000,
+      "height": 1409,
+      "aspect": 0.7097,
+      "orientation": "portrait",
+      "bytes": 708633,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_44.qmd",
+      "html": "things/Scribble/Scribble_Picture_44.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_44.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fcfcfa",
+        "fraction": 0.3673
+      },
+      {
+        "hex": "#d6bc8f",
+        "fraction": 0.1708
+      },
+      {
+        "hex": "#c9ccc2",
+        "fraction": 0.1419
+      },
+      {
+        "hex": "#92897a",
+        "fraction": 0.1098
+      },
+      {
+        "hex": "#9c7848",
+        "fraction": 0.1097
+      },
+      {
+        "hex": "#4e4135",
+        "fraction": 0.1007
+      }
+    ],
+    "hue_histogram": [
+      0.0233,
+      0.8018,
+      0.1052,
+      0.0077,
+      0.0022,
+      0.0042,
+      0.0225,
+      0.0285,
+      0.0025,
+      0.0008,
+      0.0004,
+      0.001
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.9315,
+    "mean_saturation": 0.1968,
+    "mean_value": 0.788,
+    "mean_lightness": 0.7604,
+    "contrast": 0.2351,
+    "colorfulness": 41.92,
+    "mean_chroma": 12.77,
+    "is_monochrome": false,
+    "dark_fraction": 0.0184,
+    "light_fraction": 0.3788,
+    "edge_density": 0.4285,
+    "busyness": 0.1395,
+    "has_white_border": true,
+    "phash": "2fc9d03293b2c5e4",
+    "analysis_size": [
+      363,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-44.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

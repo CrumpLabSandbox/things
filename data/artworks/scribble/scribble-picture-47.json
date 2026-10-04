@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-47",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 47",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "Street under construction",
+    "caption": "Street under construction",
+    "camera": null,
+    "date": "2024-11-19 00:00:00",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Minimal cartooning",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-46",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 47.jpeg",
+      "width": 1000,
+      "height": 1409,
+      "aspect": 0.7097,
+      "orientation": "portrait",
+      "bytes": 591580,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_47.qmd",
+      "html": "things/Scribble/Scribble_Picture_47.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_47.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fdfdfc",
+        "fraction": 0.312
+      },
+      {
+        "hex": "#5e5852",
+        "fraction": 0.2152
+      },
+      {
+        "hex": "#8d979c",
+        "fraction": 0.1865
+      },
+      {
+        "hex": "#c7ae76",
+        "fraction": 0.1593
+      },
+      {
+        "hex": "#bbdae7",
+        "fraction": 0.0834
+      },
+      {
+        "hex": "#d54f40",
+        "fraction": 0.0435
+      }
+    ],
+    "hue_histogram": [
+      0.1307,
+      0.4583,
+      0.0734,
+      0.0259,
+      0.0098,
+      0.0067,
+      0.0277,
+      0.2568,
+      0.0068,
+      0.0004,
+      0.0002,
+      0.0032
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "red"
+    ],
+    "warm_fraction": 0.6657,
+    "mean_saturation": 0.1895,
+    "mean_value": 0.7505,
+    "mean_lightness": 0.7145,
+    "contrast": 0.2403,
+    "colorfulness": 55.78,
+    "mean_chroma": 13.14,
+    "is_monochrome": false,
+    "dark_fraction": 0.0007,
+    "light_fraction": 0.332,
+    "edge_density": 0.2543,
+    "busyness": 0.102,
+    "has_white_border": true,
+    "phash": "7b85e5d894709562",
+    "analysis_size": [
+      363,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-47.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

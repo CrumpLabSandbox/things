@@ -1,0 +1,126 @@
+{
+  "id": "generative/untitled-generative-3",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Untitled Generative 3",
+    "series": "Generative",
+    "series_slug": "generative",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital",
+    "caption": null,
+    "camera": null,
+    "date": "2022-11-28 08:20:05",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Generative/Untitled Generative 3.jpeg",
+      "width": 1280,
+      "height": 960,
+      "aspect": 1.3333,
+      "orientation": "landscape",
+      "bytes": 740147,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Generative/Untitled_Generative_3.qmd",
+      "html": "things/Generative/Untitled_Generative_3.html",
+      "url": "https://crumplab.com/things/things/Generative/Untitled_Generative_3.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:11:28 08:20:05",
+        "image_description": "Digital"
+      },
+      "iptc": {
+        "object_name": "Untitled Generative 3",
+        "caption": "Digital",
+        "keywords": [],
+        "date_created": "20221128",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fafbfa",
+        "fraction": 0.3923
+      },
+      {
+        "hex": "#e1e2e3",
+        "fraction": 0.2127
+      },
+      {
+        "hex": "#c9c9c7",
+        "fraction": 0.1689
+      },
+      {
+        "hex": "#ababaa",
+        "fraction": 0.1145
+      },
+      {
+        "hex": "#ececd9",
+        "fraction": 0.0649
+      },
+      {
+        "hex": "#878786",
+        "fraction": 0.0466
+      }
+    ],
+    "hue_histogram": [
+      0.0246,
+      0.1075,
+      0.4399,
+      0.0804,
+      0.0267,
+      0.05,
+      0.1118,
+      0.1499,
+      0.0,
+      0.0021,
+      0.0034,
+      0.0038
+    ],
+    "dominant_hues": [
+      "yellow",
+      "blue",
+      "cyan"
+    ],
+    "warm_fraction": 0.5766,
+    "mean_saturation": 0.0369,
+    "mean_value": 0.8799,
+    "mean_lightness": 0.8806,
+    "contrast": 0.1215,
+    "colorfulness": 11.26,
+    "mean_chroma": 3.16,
+    "is_monochrome": true,
+    "dark_fraction": 0.0,
+    "light_fraction": 0.5474,
+    "edge_density": 0.5486,
+    "busyness": 0.1231,
+    "has_white_border": false,
+    "phash": "7a54ba45fc2289aa",
+    "analysis_size": [
+      512,
+      384
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/generative/untitled-generative-3.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

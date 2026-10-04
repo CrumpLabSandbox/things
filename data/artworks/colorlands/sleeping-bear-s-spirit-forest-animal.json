@@ -1,0 +1,126 @@
+{
+  "id": "colorlands/sleeping-bear-s-spirit-forest-animal",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Sleeping Bear's Spirit Forest Animal",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 18:44:38",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Sleeping-bear’s-spirit-forest-anima.l.jpg",
+      "width": 2475,
+      "height": 2475,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 620652,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Sleeping_Bear's_Spirit_Forest_Animal.qmd",
+      "html": "things/Colorlands/Sleeping_Bear's_Spirit_Forest_Animal.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Sleeping_Bear's_Spirit_Forest_Animal.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:52:14",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Sleeping Bear's spirit forest animal",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#ecf5f5",
+        "fraction": 0.4096
+      },
+      {
+        "hex": "#829681",
+        "fraction": 0.1512
+      },
+      {
+        "hex": "#a3dc6e",
+        "fraction": 0.1429
+      },
+      {
+        "hex": "#333030",
+        "fraction": 0.1206
+      },
+      {
+        "hex": "#c07cc3",
+        "fraction": 0.0993
+      },
+      {
+        "hex": "#df936d",
+        "fraction": 0.0765
+      }
+    ],
+    "hue_histogram": [
+      0.0746,
+      0.1341,
+      0.1372,
+      0.1357,
+      0.1087,
+      0.0674,
+      0.0773,
+      0.0578,
+      0.0276,
+      0.0411,
+      0.0516,
+      0.0868
+    ],
+    "dominant_hues": [
+      "yellow",
+      "yellow-green",
+      "orange"
+    ],
+    "warm_fraction": 0.4661,
+    "mean_saturation": 0.2721,
+    "mean_value": 0.7975,
+    "mean_lightness": 0.7439,
+    "contrast": 0.2623,
+    "colorfulness": 77.51,
+    "mean_chroma": 23.2,
+    "is_monochrome": false,
+    "dark_fraction": 0.0574,
+    "light_fraction": 0.3742,
+    "edge_density": 0.3987,
+    "busyness": 0.1665,
+    "has_white_border": true,
+    "phash": "6ec885b79037d0e1",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/sleeping-bear-s-spirit-forest-animal.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

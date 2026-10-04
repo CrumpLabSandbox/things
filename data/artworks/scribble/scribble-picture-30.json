@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-30",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 30",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Dumbo Flea Market",
+    "caption": "Dumbo Flea Market",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-28 05:33:52",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Dumbo flea market",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-30",
+    "print_note": "Digitally signed open edition, print alone or framed print:",
+    "image": {
+      "path": "images/Scribble/Scribble Picture 30.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 488270,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_30.qmd",
+      "html": "things/Scribble/Scribble_Picture_30.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_30.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:28 05:33:52",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 30",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240928",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f0e9df",
+        "fraction": 0.2851
+      },
+      {
+        "hex": "#52423b",
+        "fraction": 0.2444
+      },
+      {
+        "hex": "#a8633a",
+        "fraction": 0.1883
+      },
+      {
+        "hex": "#9c8e86",
+        "fraction": 0.1142
+      },
+      {
+        "hex": "#e1c39c",
+        "fraction": 0.1053
+      },
+      {
+        "hex": "#8ec0d7",
+        "fraction": 0.0628
+      }
+    ],
+    "hue_histogram": [
+      0.1135,
+      0.7595,
+      0.0087,
+      0.0038,
+      0.0003,
+      0.0004,
+      0.0067,
+      0.0953,
+      0.0059,
+      0.0015,
+      0.0009,
+      0.0035
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.8857,
+    "mean_saturation": 0.2947,
+    "mean_value": 0.6915,
+    "mean_lightness": 0.6284,
+    "contrast": 0.2553,
+    "colorfulness": 58.6,
+    "mean_chroma": 17.75,
+    "is_monochrome": false,
+    "dark_fraction": 0.0214,
+    "light_fraction": 0.2191,
+    "edge_density": 0.3557,
+    "busyness": 0.1524,
+    "has_white_border": false,
+    "phash": "4349cbc89ab1987b",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-30.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

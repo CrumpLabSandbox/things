@@ -1,0 +1,127 @@
+{
+  "id": "characters/country-living-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Country Living 2",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-24 22:03:36",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/Country living 2.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 369318,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/Country_Living_2.qmd",
+      "html": "things/characters/Country_Living_2.html",
+      "url": "https://crumplab.com/things/things/characters/Country_Living_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:24 22:03:36",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Country living 2",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e1d8c5",
+        "fraction": 0.226
+      },
+      {
+        "hex": "#a39a8a",
+        "fraction": 0.2077
+      },
+      {
+        "hex": "#857d6f",
+        "fraction": 0.189
+      },
+      {
+        "hex": "#c2b9a7",
+        "fraction": 0.1833
+      },
+      {
+        "hex": "#605a4e",
+        "fraction": 0.1119
+      },
+      {
+        "hex": "#333027",
+        "fraction": 0.0821
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.8606,
+      0.1354,
+      0.004,
+      0.0001,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.9959,
+    "mean_saturation": 0.1569,
+    "mean_value": 0.6271,
+    "mean_lightness": 0.6239,
+    "contrast": 0.203,
+    "colorfulness": 11.39,
+    "mean_chroma": 9.23,
+    "is_monochrome": false,
+    "dark_fraction": 0.0417,
+    "light_fraction": 0.0219,
+    "edge_density": 0.0654,
+    "busyness": 0.07,
+    "has_white_border": false,
+    "phash": "2ac0d53ed671a64c",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/country-living-2.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

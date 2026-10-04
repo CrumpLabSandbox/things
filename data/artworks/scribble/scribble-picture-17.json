@@ -1,0 +1,124 @@
+{
+  "id": "scribble/scribble-picture-17",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 17",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-08-10 09:54:27",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "The creatures are creeping in.\n\nHaving fun with these scribble pictures. I didn't expect to get to the 17th one already.\n\nNone of them have been printed yet. I'm looking at a target print size of 24x36. This scribble picture was adjusted to hit that poster size. I'm likely to print with a border, so now there is room for a digital signature outside of the print.",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-17",
+    "print_note": "Digitally signed open edition, print alone or framed print:",
+    "image": {
+      "path": "images/Scribble/Scribble Picture 17.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 384514,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_17.qmd",
+      "html": "things/Scribble/Scribble_Picture_17.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_17.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:08:10 09:54:27",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 17",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230810",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fbfaf8",
+        "fraction": 0.3475
+      },
+      {
+        "hex": "#e4cfb1",
+        "fraction": 0.189
+      },
+      {
+        "hex": "#e2b270",
+        "fraction": 0.1267
+      },
+      {
+        "hex": "#5c4e43",
+        "fraction": 0.1242
+      },
+      {
+        "hex": "#b78c67",
+        "fraction": 0.115
+      },
+      {
+        "hex": "#b29f9f",
+        "fraction": 0.0975
+      }
+    ],
+    "hue_histogram": [
+      0.029,
+      0.8765,
+      0.0243,
+      0.0255,
+      0.0019,
+      0.004,
+      0.0058,
+      0.0023,
+      0.0003,
+      0.0027,
+      0.0068,
+      0.0211
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 0.9541,
+    "mean_saturation": 0.2128,
+    "mean_value": 0.8199,
+    "mean_lightness": 0.7726,
+    "contrast": 0.2171,
+    "colorfulness": 49.28,
+    "mean_chroma": 15.12,
+    "is_monochrome": false,
+    "dark_fraction": 0.0065,
+    "light_fraction": 0.3611,
+    "edge_density": 0.3382,
+    "busyness": 0.1352,
+    "has_white_border": true,
+    "phash": "4bc3e36490b14cbe",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-17.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

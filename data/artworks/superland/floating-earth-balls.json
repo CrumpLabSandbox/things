@@ -1,0 +1,128 @@
+{
+  "id": "superland/floating-earth-balls",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Floating Earth Balls",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:10:12",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (8).jpg",
+      "width": 1280,
+      "height": 840,
+      "aspect": 1.5238,
+      "orientation": "landscape",
+      "bytes": 509829,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Floating_Earth_Balls.qmd",
+      "html": "things/Superland/Floating_Earth_Balls.html",
+      "url": "https://crumplab.com/things/things/Superland/Floating_Earth_Balls.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:10:12",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Floating earth balls",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c5c7c6",
+        "fraction": 0.2477
+      },
+      {
+        "hex": "#312a27",
+        "fraction": 0.2416
+      },
+      {
+        "hex": "#63718e",
+        "fraction": 0.1724
+      },
+      {
+        "hex": "#817e56",
+        "fraction": 0.1341
+      },
+      {
+        "hex": "#b74f2e",
+        "fraction": 0.1116
+      },
+      {
+        "hex": "#c2b033",
+        "fraction": 0.0925
+      }
+    ],
+    "hue_histogram": [
+      0.1392,
+      0.2628,
+      0.2112,
+      0.0486,
+      0.0134,
+      0.0064,
+      0.0401,
+      0.1404,
+      0.048,
+      0.0312,
+      0.0179,
+      0.0408
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "blue"
+    ],
+    "warm_fraction": 0.6654,
+    "mean_saturation": 0.3672,
+    "mean_value": 0.5739,
+    "mean_lightness": 0.5111,
+    "contrast": 0.247,
+    "colorfulness": 78.29,
+    "mean_chroma": 23.46,
+    "is_monochrome": false,
+    "dark_fraction": 0.1417,
+    "light_fraction": 0.0378,
+    "edge_density": 0.4318,
+    "busyness": 0.1861,
+    "has_white_border": false,
+    "phash": "1ea36a7855a44eb4",
+    "analysis_size": [
+      512,
+      336
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/floating-earth-balls.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

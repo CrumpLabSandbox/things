@@ -1,0 +1,128 @@
+{
+  "id": "superland/edible-story-land",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Edible Story Land",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:04:06",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (14).jpg",
+      "width": 1278,
+      "height": 1280,
+      "aspect": 0.9984,
+      "orientation": "square",
+      "bytes": 759123,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Edible_Story_Land.qmd",
+      "html": "things/Superland/Edible_Story_Land.html",
+      "url": "https://crumplab.com/things/things/Superland/Edible_Story_Land.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:04:06",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Edible story land",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#2f2a2c",
+        "fraction": 0.3033
+      },
+      {
+        "hex": "#b3beb5",
+        "fraction": 0.2527
+      },
+      {
+        "hex": "#36679c",
+        "fraction": 0.1229
+      },
+      {
+        "hex": "#85a951",
+        "fraction": 0.1201
+      },
+      {
+        "hex": "#bb5b34",
+        "fraction": 0.1021
+      },
+      {
+        "hex": "#b78494",
+        "fraction": 0.0989
+      }
+    ],
+    "hue_histogram": [
+      0.1687,
+      0.1722,
+      0.132,
+      0.0208,
+      0.0281,
+      0.0352,
+      0.0616,
+      0.2022,
+      0.0383,
+      0.0321,
+      0.0253,
+      0.0835
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.571,
+    "mean_saturation": 0.3939,
+    "mean_value": 0.5648,
+    "mean_lightness": 0.4896,
+    "contrast": 0.2552,
+    "colorfulness": 77.91,
+    "mean_chroma": 24.47,
+    "is_monochrome": false,
+    "dark_fraction": 0.2064,
+    "light_fraction": 0.0078,
+    "edge_density": 0.335,
+    "busyness": 0.1777,
+    "has_white_border": false,
+    "phash": "500c0ce6581f8ff7",
+    "analysis_size": [
+      511,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/edible-story-land.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

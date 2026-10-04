@@ -1,0 +1,125 @@
+{
+  "id": "airbrush/layers",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Layers",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-03-30 18:06:50",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/Layers.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 406423,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Layers.qmd",
+      "html": "things/airbrush/Layers.html",
+      "url": "https://crumplab.com/things/things/airbrush/Layers.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2016:03:30 18:06:50",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Layers",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dad8d6",
+        "fraction": 0.4417
+      },
+      {
+        "hex": "#88bdca",
+        "fraction": 0.3646
+      },
+      {
+        "hex": "#65848c",
+        "fraction": 0.0873
+      },
+      {
+        "hex": "#d2a78d",
+        "fraction": 0.0507
+      },
+      {
+        "hex": "#cb9aaf",
+        "fraction": 0.0336
+      },
+      {
+        "hex": "#99c597",
+        "fraction": 0.022
+      }
+    ],
+    "hue_histogram": [
+      0.0467,
+      0.0673,
+      0.0138,
+      0.0056,
+      0.0117,
+      0.0131,
+      0.6078,
+      0.1973,
+      0.0029,
+      0.0038,
+      0.0063,
+      0.0237
+    ],
+    "dominant_hues": [
+      "cyan",
+      "blue"
+    ],
+    "warm_fraction": 0.1556,
+    "mean_saturation": 0.2025,
+    "mean_value": 0.8099,
+    "mean_lightness": 0.7726,
+    "contrast": 0.111,
+    "colorfulness": 52.28,
+    "mean_chroma": 12.45,
+    "is_monochrome": false,
+    "dark_fraction": 0.0001,
+    "light_fraction": 0.0731,
+    "edge_density": 0.0816,
+    "busyness": 0.0666,
+    "has_white_border": false,
+    "phash": "4ee4e5a6d0529b85",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/layers.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

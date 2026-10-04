@@ -1,0 +1,128 @@
+{
+  "id": "superland/totem-pole-spirit-land",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Totem Pole Spirit Land",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-04 11:22:40",
+    "year": 2008,
+    "availability": "not for sale",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (7).jpg",
+      "width": 1280,
+      "height": 1274,
+      "aspect": 1.0047,
+      "orientation": "square",
+      "bytes": 677310,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Totem_Pole_Spirit_Land.qmd",
+      "html": "things/Superland/Totem_Pole_Spirit_Land.html",
+      "url": "https://crumplab.com/things/things/Superland/Totem_Pole_Spirit_Land.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:04 11:22:40",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Totem pole spirit land",
+        "caption": "oil on canvas",
+        "keywords": [
+          "NFS"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#231f24",
+        "fraction": 0.3376
+      },
+      {
+        "hex": "#9ea9b9",
+        "fraction": 0.1882
+      },
+      {
+        "hex": "#47615b",
+        "fraction": 0.1377
+      },
+      {
+        "hex": "#934737",
+        "fraction": 0.1369
+      },
+      {
+        "hex": "#436197",
+        "fraction": 0.1182
+      },
+      {
+        "hex": "#979c55",
+        "fraction": 0.0815
+      }
+    ],
+    "hue_histogram": [
+      0.174,
+      0.128,
+      0.0781,
+      0.0147,
+      0.011,
+      0.0383,
+      0.0682,
+      0.2255,
+      0.0906,
+      0.0531,
+      0.0355,
+      0.0831
+    ],
+    "dominant_hues": [
+      "blue",
+      "red",
+      "orange"
+    ],
+    "warm_fraction": 0.4848,
+    "mean_saturation": 0.4246,
+    "mean_value": 0.458,
+    "mean_lightness": 0.3826,
+    "contrast": 0.2324,
+    "colorfulness": 63.39,
+    "mean_chroma": 21.11,
+    "is_monochrome": false,
+    "dark_fraction": 0.2908,
+    "light_fraction": 0.0004,
+    "edge_density": 0.4614,
+    "busyness": 0.1835,
+    "has_white_border": false,
+    "phash": "14eb2e243afb809b",
+    "analysis_size": [
+      512,
+      510
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/totem-pole-spirit-land.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

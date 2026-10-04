@@ -1,0 +1,125 @@
+{
+  "id": "cactuses/gouache-cactus-3",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Gouache Cactus 3",
+    "series": "cactuses",
+    "series_slug": "cactuses",
+    "medium": "gouache",
+    "surface": "paper",
+    "medium_source": "title",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2014-08-18 08:45:16",
+    "year": 2014,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/cactuses/gouache cactus 3.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 74478,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/cactuses/Gouache_Cactus_3.qmd",
+      "html": "things/cactuses/Gouache_Cactus_3.html",
+      "url": "https://crumplab.com/things/things/cactuses/Gouache_Cactus_3.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2014:08:18 08:45:16",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "gouache cactus 3",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c0d4ed",
+        "fraction": 0.5454
+      },
+      {
+        "hex": "#826854",
+        "fraction": 0.2143
+      },
+      {
+        "hex": "#40413f",
+        "fraction": 0.1104
+      },
+      {
+        "hex": "#4ebe8c",
+        "fraction": 0.0664
+      },
+      {
+        "hex": "#c2c067",
+        "fraction": 0.0344
+      },
+      {
+        "hex": "#505397",
+        "fraction": 0.0291
+      }
+    ],
+    "hue_histogram": [
+      0.0169,
+      0.2493,
+      0.0273,
+      0.009,
+      0.0081,
+      0.0461,
+      0.0294,
+      0.5575,
+      0.0267,
+      0.0155,
+      0.0043,
+      0.0101
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange"
+    ],
+    "warm_fraction": 0.3057,
+    "mean_saturation": 0.2903,
+    "mean_value": 0.7422,
+    "mean_lightness": 0.6716,
+    "contrast": 0.2209,
+    "colorfulness": 57.72,
+    "mean_chroma": 19.2,
+    "is_monochrome": false,
+    "dark_fraction": 0.0243,
+    "light_fraction": 0.0003,
+    "edge_density": 0.0915,
+    "busyness": 0.0724,
+    "has_white_border": false,
+    "phash": "61921e6c3ae96ab4",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/cactuses/gouache-cactus-3.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

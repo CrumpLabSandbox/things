@@ -1,0 +1,125 @@
+{
+  "id": "airbrush/eastern-parkway-3",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Eastern Parkway 3",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-17 12:01:16",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/Eastern Parkway 3.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 510717,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Eastern_Parkway_3.qmd",
+      "html": "things/airbrush/Eastern_Parkway_3.html",
+      "url": "https://crumplab.com/things/things/airbrush/Eastern_Parkway_3.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:17 12:01:16",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Eastern Parkway 3",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e1dacd",
+        "fraction": 0.2871
+      },
+      {
+        "hex": "#a2cecd",
+        "fraction": 0.2164
+      },
+      {
+        "hex": "#afaa9e",
+        "fraction": 0.1578
+      },
+      {
+        "hex": "#6d6f67",
+        "fraction": 0.1247
+      },
+      {
+        "hex": "#6aa7aa",
+        "fraction": 0.108
+      },
+      {
+        "hex": "#45443e",
+        "fraction": 0.1059
+      }
+    ],
+    "hue_histogram": [
+      0.0001,
+      0.1848,
+      0.0186,
+      0.0005,
+      0.0003,
+      0.011,
+      0.7844,
+      0.0003,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [
+      "cyan",
+      "orange"
+    ],
+    "warm_fraction": 0.2035,
+    "mean_saturation": 0.1683,
+    "mean_value": 0.6985,
+    "mean_lightness": 0.6921,
+    "contrast": 0.1954,
+    "colorfulness": 39.61,
+    "mean_chroma": 10.35,
+    "is_monochrome": false,
+    "dark_fraction": 0.011,
+    "light_fraction": 0.1141,
+    "edge_density": 0.0752,
+    "busyness": 0.0782,
+    "has_white_border": false,
+    "phash": "798e5299c066937a",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/eastern-parkway-3.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

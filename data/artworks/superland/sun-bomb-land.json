@@ -1,0 +1,128 @@
+{
+  "id": "superland/sun-bomb-land",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Sun Bomb Land",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 01:55:43",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (17).jpg",
+      "width": 1280,
+      "height": 760,
+      "aspect": 1.6842,
+      "orientation": "landscape",
+      "bytes": 556634,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Sun_Bomb_Land.qmd",
+      "html": "things/Superland/Sun_Bomb_Land.html",
+      "url": "https://crumplab.com/things/things/Superland/Sun_Bomb_Land.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 01:55:43",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Sun bomb land",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#90b7d2",
+        "fraction": 0.2439
+      },
+      {
+        "hex": "#323044",
+        "fraction": 0.2418
+      },
+      {
+        "hex": "#b681a4",
+        "fraction": 0.1573
+      },
+      {
+        "hex": "#477d68",
+        "fraction": 0.1338
+      },
+      {
+        "hex": "#b5b160",
+        "fraction": 0.1178
+      },
+      {
+        "hex": "#b03b29",
+        "fraction": 0.1055
+      }
+    ],
+    "hue_histogram": [
+      0.1439,
+      0.0985,
+      0.0793,
+      0.0354,
+      0.0126,
+      0.0467,
+      0.1011,
+      0.2095,
+      0.0616,
+      0.0643,
+      0.0366,
+      0.1103
+    ],
+    "dominant_hues": [
+      "blue",
+      "red",
+      "pink"
+    ],
+    "warm_fraction": 0.4517,
+    "mean_saturation": 0.4853,
+    "mean_value": 0.6229,
+    "mean_lightness": 0.5194,
+    "contrast": 0.2331,
+    "colorfulness": 84.95,
+    "mean_chroma": 29.65,
+    "is_monochrome": false,
+    "dark_fraction": 0.1083,
+    "light_fraction": 0.034,
+    "edge_density": 0.5887,
+    "busyness": 0.1924,
+    "has_white_border": false,
+    "phash": "139d3aea68693591",
+    "analysis_size": [
+      512,
+      304
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/sun-bomb-land.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

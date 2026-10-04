@@ -1,0 +1,126 @@
+{
+  "id": "characters/character-set-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Character Set 2",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-24 22:03:12",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/character set 2.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 288529,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/Character_Set_2.qmd",
+      "html": "things/characters/Character_Set_2.html",
+      "url": "https://crumplab.com/things/things/characters/Character_Set_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:24 22:03:12",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "character set 2",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d6ccbf",
+        "fraction": 0.4657
+      },
+      {
+        "hex": "#dbd2c3",
+        "fraction": 0.3632
+      },
+      {
+        "hex": "#9d9489",
+        "fraction": 0.0473
+      },
+      {
+        "hex": "#756e64",
+        "fraction": 0.0459
+      },
+      {
+        "hex": "#49453f",
+        "fraction": 0.0411
+      },
+      {
+        "hex": "#bfb6aa",
+        "fraction": 0.0369
+      }
+    ],
+    "hue_histogram": [
+      0.0018,
+      0.9561,
+      0.0416,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0004
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 1.0,
+    "mean_saturation": 0.1133,
+    "mean_value": 0.793,
+    "mean_lightness": 0.7828,
+    "contrast": 0.1342,
+    "colorfulness": 9.87,
+    "mean_chroma": 8.07,
+    "is_monochrome": false,
+    "dark_fraction": 0.0017,
+    "light_fraction": 0.0,
+    "edge_density": 0.0826,
+    "busyness": 0.0604,
+    "has_white_border": false,
+    "phash": "2ad5d55a9399843a",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/character-set-2.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

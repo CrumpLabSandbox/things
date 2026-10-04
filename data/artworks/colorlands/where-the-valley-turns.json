@@ -1,0 +1,126 @@
+{
+  "id": "colorlands/where-the-valley-turns",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Where The Valley Turns",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-22 08:10:41",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Where the valley turns.jpeg",
+      "width": 1080,
+      "height": 1080,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 897308,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Where_The_Valley_Turns.qmd",
+      "html": "things/Colorlands/Where_The_Valley_Turns.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Where_The_Valley_Turns.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.3 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:05:22 13:52:04",
+        "image_description": "Digital"
+      },
+      "iptc": {
+        "object_name": "Where the valley turns",
+        "caption": "Digital",
+        "keywords": [],
+        "date_created": "20220222",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e6e4e4",
+        "fraction": 0.2389
+      },
+      {
+        "hex": "#94d26b",
+        "fraction": 0.1852
+      },
+      {
+        "hex": "#8cd6c9",
+        "fraction": 0.1713
+      },
+      {
+        "hex": "#d7a356",
+        "fraction": 0.1393
+      },
+      {
+        "hex": "#6c6b5c",
+        "fraction": 0.1374
+      },
+      {
+        "hex": "#c37fb3",
+        "fraction": 0.1279
+      }
+    ],
+    "hue_histogram": [
+      0.069,
+      0.1534,
+      0.1521,
+      0.1188,
+      0.0911,
+      0.0942,
+      0.1281,
+      0.0371,
+      0.0184,
+      0.0306,
+      0.0459,
+      0.0613
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "cyan"
+    ],
+    "warm_fraction": 0.4617,
+    "mean_saturation": 0.3503,
+    "mean_value": 0.8067,
+    "mean_lightness": 0.7406,
+    "contrast": 0.1799,
+    "colorfulness": 88.79,
+    "mean_chroma": 31.47,
+    "is_monochrome": false,
+    "dark_fraction": 0.0074,
+    "light_fraction": 0.2019,
+    "edge_density": 0.3725,
+    "busyness": 0.1233,
+    "has_white_border": true,
+    "phash": "3fcce0df9124e190",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/where-the-valley-turns.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

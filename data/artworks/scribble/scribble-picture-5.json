@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-5",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 5",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital FujiFilm XH2",
+    "caption": null,
+    "camera": "Fujifilm X-H2",
+    "date": "2023-07-12 15:31:15",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Walk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\n\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 5.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 376796,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_5.qmd",
+      "html": "things/Scribble/Scribble_Picture_5.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_5.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:07:12 15:31:15",
+        "image_description": "Digital FujiFilm XH2"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 5",
+        "caption": "Digital FujiFilm XH2",
+        "keywords": [],
+        "date_created": "20230712",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f1f0f1",
+        "fraction": 0.2072
+      },
+      {
+        "hex": "#817e7a",
+        "fraction": 0.1879
+      },
+      {
+        "hex": "#9f9c98",
+        "fraction": 0.1812
+      },
+      {
+        "hex": "#646260",
+        "fraction": 0.1643
+      },
+      {
+        "hex": "#c4bfb9",
+        "fraction": 0.1354
+      },
+      {
+        "hex": "#e6e0d5",
+        "fraction": 0.124
+      }
+    ],
+    "hue_histogram": [
+      0.223,
+      0.5867,
+      0.1677,
+      0.0118,
+      0.0002,
+      0.0013,
+      0.0006,
+      0.0078,
+      0.0,
+      0.0,
+      0.0002,
+      0.0006
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "warm_fraction": 0.9783,
+    "mean_saturation": 0.054,
+    "mean_value": 0.688,
+    "mean_lightness": 0.6963,
+    "contrast": 0.1967,
+    "colorfulness": 11.66,
+    "mean_chroma": 3.55,
+    "is_monochrome": true,
+    "dark_fraction": 0.0016,
+    "light_fraction": 0.2567,
+    "edge_density": 0.2828,
+    "busyness": 0.1079,
+    "has_white_border": false,
+    "phash": "4fda856632d511cc",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-5.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

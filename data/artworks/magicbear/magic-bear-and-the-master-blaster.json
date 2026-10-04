@@ -1,0 +1,128 @@
+{
+  "id": "magicbear/magic-bear-and-the-master-blaster",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Magic Bear And The Master Blaster",
+    "series": "Magicbear",
+    "series_slug": "magicbear",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2009-03-16 02:02:06",
+    "year": 2009,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Magicbear/Magic bear and the master blaster.jpg",
+      "width": 1000,
+      "height": 519,
+      "aspect": 1.9268,
+      "orientation": "landscape",
+      "bytes": 362485,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Magicbear/Magic_Bear_And_The_Master_Blaster.qmd",
+      "html": "things/Magicbear/Magic_Bear_And_The_Master_Blaster.html",
+      "url": "https://crumplab.com/things/things/Magicbear/Magic_Bear_And_The_Master_Blaster.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2009:03:16 02:02:06",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "Magic bear and the master blaster",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#241c1c",
+        "fraction": 0.2615
+      },
+      {
+        "hex": "#6b6868",
+        "fraction": 0.2346
+      },
+      {
+        "hex": "#c9c5c3",
+        "fraction": 0.2056
+      },
+      {
+        "hex": "#cb8e51",
+        "fraction": 0.1161
+      },
+      {
+        "hex": "#a44234",
+        "fraction": 0.0979
+      },
+      {
+        "hex": "#9d9b4a",
+        "fraction": 0.0844
+      }
+    ],
+    "hue_histogram": [
+      0.1747,
+      0.3773,
+      0.1412,
+      0.0397,
+      0.0061,
+      0.0122,
+      0.0282,
+      0.0774,
+      0.0493,
+      0.0378,
+      0.0192,
+      0.0368
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "warm_fraction": 0.7405,
+    "mean_saturation": 0.4093,
+    "mean_value": 0.5345,
+    "mean_lightness": 0.4679,
+    "contrast": 0.2632,
+    "colorfulness": 68.38,
+    "mean_chroma": 21.75,
+    "is_monochrome": false,
+    "dark_fraction": 0.2058,
+    "light_fraction": 0.0454,
+    "edge_density": 0.6286,
+    "busyness": 0.2252,
+    "has_white_border": false,
+    "phash": "55c172dc1ae5249b",
+    "analysis_size": [
+      512,
+      266
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/magicbear/magic-bear-and-the-master-blaster.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

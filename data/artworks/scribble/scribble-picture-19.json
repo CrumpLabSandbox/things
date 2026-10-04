@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-19",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 19",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-09-11 09:54:27",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Stanley park.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 19.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 1364834,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_19.qmd",
+      "html": "things/Scribble/Scribble_Picture_19.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_19.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:08:19 12:14:25",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f6ede3",
+        "fraction": 0.4002
+      },
+      {
+        "hex": "#c9a066",
+        "fraction": 0.2432
+      },
+      {
+        "hex": "#675c49",
+        "fraction": 0.1241
+      },
+      {
+        "hex": "#568e9c",
+        "fraction": 0.1154
+      },
+      {
+        "hex": "#a7a89f",
+        "fraction": 0.1065
+      },
+      {
+        "hex": "#d76a4b",
+        "fraction": 0.0106
+      }
+    ],
+    "hue_histogram": [
+      0.0179,
+      0.658,
+      0.1031,
+      0.0089,
+      0.0014,
+      0.0012,
+      0.1744,
+      0.0344,
+      0.0005,
+      0.0,
+      0.0,
+      0.0002
+    ],
+    "dominant_hues": [
+      "orange",
+      "cyan",
+      "yellow"
+    ],
+    "warm_fraction": 0.7793,
+    "mean_saturation": 0.2602,
+    "mean_value": 0.7834,
+    "mean_lightness": 0.7375,
+    "contrast": 0.2,
+    "colorfulness": 59.79,
+    "mean_chroma": 17.13,
+    "is_monochrome": false,
+    "dark_fraction": 0.0005,
+    "light_fraction": 0.325,
+    "edge_density": 0.174,
+    "busyness": 0.0756,
+    "has_white_border": true,
+    "phash": "2f9e95a5c363e048",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-19.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

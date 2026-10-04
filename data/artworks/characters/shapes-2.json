@@ -1,0 +1,128 @@
+{
+  "id": "characters/shapes-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Shapes 2",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-22 10:04:10",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/shapes 2.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 400696,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/Shapes_2.qmd",
+      "html": "things/characters/Shapes_2.html",
+      "url": "https://crumplab.com/things/things/characters/Shapes_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:22 10:04:10",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "shapes 2",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dfdad3",
+        "fraction": 0.3286
+      },
+      {
+        "hex": "#a1b992",
+        "fraction": 0.1684
+      },
+      {
+        "hex": "#9c9fa0",
+        "fraction": 0.1601
+      },
+      {
+        "hex": "#5c5350",
+        "fraction": 0.1353
+      },
+      {
+        "hex": "#be8a81",
+        "fraction": 0.1245
+      },
+      {
+        "hex": "#d66882",
+        "fraction": 0.083
+      }
+    ],
+    "hue_histogram": [
+      0.2549,
+      0.169,
+      0.114,
+      0.0666,
+      0.0731,
+      0.082,
+      0.049,
+      0.0323,
+      0.0034,
+      0.0041,
+      0.0095,
+      0.1421
+    ],
+    "dominant_hues": [
+      "red",
+      "orange",
+      "pink"
+    ],
+    "warm_fraction": 0.6864,
+    "mean_saturation": 0.2077,
+    "mean_value": 0.7328,
+    "mean_lightness": 0.6859,
+    "contrast": 0.1835,
+    "colorfulness": 51.63,
+    "mean_chroma": 16.5,
+    "is_monochrome": false,
+    "dark_fraction": 0.0054,
+    "light_fraction": 0.0926,
+    "edge_density": 0.114,
+    "busyness": 0.0639,
+    "has_white_border": false,
+    "phash": "3f929579d00c9327",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/shapes-2.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

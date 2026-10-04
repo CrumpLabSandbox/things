@@ -1,0 +1,126 @@
+{
+  "id": "desertland/off-to-work",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Off To Work",
+    "series": "Desertland",
+    "series_slug": "desertland",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-25 19:26:30",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Desertland/Off to work.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 113774,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Desertland/Off_To_Work.qmd",
+      "html": "things/Desertland/Off_To_Work.html",
+      "url": "https://crumplab.com/things/things/Desertland/Off_To_Work.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:25 19:26:30",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "Off to work",
+        "caption": "oil on wood",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c0b4aa",
+        "fraction": 0.2651
+      },
+      {
+        "hex": "#8ebfcc",
+        "fraction": 0.1891
+      },
+      {
+        "hex": "#e08490",
+        "fraction": 0.1734
+      },
+      {
+        "hex": "#ccba6b",
+        "fraction": 0.1733
+      },
+      {
+        "hex": "#462c22",
+        "fraction": 0.1069
+      },
+      {
+        "hex": "#ec8f66",
+        "fraction": 0.0922
+      }
+    ],
+    "hue_histogram": [
+      0.3029,
+      0.2533,
+      0.1849,
+      0.0461,
+      0.0042,
+      0.0063,
+      0.1412,
+      0.0418,
+      0.004,
+      0.0026,
+      0.0015,
+      0.0113
+    ],
+    "dominant_hues": [
+      "red",
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.7535,
+    "mean_saturation": 0.3717,
+    "mean_value": 0.7621,
+    "mean_lightness": 0.6675,
+    "contrast": 0.1823,
+    "colorfulness": 80.56,
+    "mean_chroma": 27.16,
+    "is_monochrome": false,
+    "dark_fraction": 0.0563,
+    "light_fraction": 0.0008,
+    "edge_density": 0.2357,
+    "busyness": 0.1346,
+    "has_white_border": false,
+    "phash": "348b0a8133fffe02",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/desertland/off-to-work.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

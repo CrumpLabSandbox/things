@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-13",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 13",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-08-02 18:28:36",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Fake cartoon mountains",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-13",
+    "print_note": "Digitally signed open edition, print alone or framed print:",
+    "image": {
+      "path": "images/Scribble/Scribble Picture 13.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 437948,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_13.qmd",
+      "html": "things/Scribble/Scribble_Picture_13.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_13.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:08:02 18:28:36",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 13",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230802",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c7b399",
+        "fraction": 0.2477
+      },
+      {
+        "hex": "#e0e1df",
+        "fraction": 0.2321
+      },
+      {
+        "hex": "#8dcee0",
+        "fraction": 0.1845
+      },
+      {
+        "hex": "#43474c",
+        "fraction": 0.1504
+      },
+      {
+        "hex": "#6f8791",
+        "fraction": 0.1458
+      },
+      {
+        "hex": "#b66148",
+        "fraction": 0.0396
+      }
+    ],
+    "hue_histogram": [
+      0.0677,
+      0.3511,
+      0.0563,
+      0.0119,
+      0.0006,
+      0.002,
+      0.2191,
+      0.2855,
+      0.0025,
+      0.0005,
+      0.0004,
+      0.0024
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "cyan"
+    ],
+    "warm_fraction": 0.4777,
+    "mean_saturation": 0.244,
+    "mean_value": 0.7277,
+    "mean_lightness": 0.6819,
+    "contrast": 0.2115,
+    "colorfulness": 56.52,
+    "mean_chroma": 14.16,
+    "is_monochrome": false,
+    "dark_fraction": 0.0191,
+    "light_fraction": 0.1111,
+    "edge_density": 0.3032,
+    "busyness": 0.1435,
+    "has_white_border": false,
+    "phash": "52d61d9a11b764cc",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-13.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

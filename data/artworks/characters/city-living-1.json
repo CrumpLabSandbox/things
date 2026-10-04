@@ -1,0 +1,127 @@
+{
+  "id": "characters/city-living-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "City Living 1",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 04:03:24",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/City living 1.jpg",
+      "width": 850,
+      "height": 850,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 135710,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/City_Living_1.qmd",
+      "html": "things/characters/City_Living_1.html",
+      "url": "https://crumplab.com/things/things/characters/City_Living_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 04:03:24",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "City living 1",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dfd2c5",
+        "fraction": 0.4841
+      },
+      {
+        "hex": "#c9bbb0",
+        "fraction": 0.1618
+      },
+      {
+        "hex": "#ada097",
+        "fraction": 0.1356
+      },
+      {
+        "hex": "#90857e",
+        "fraction": 0.1172
+      },
+      {
+        "hex": "#736964",
+        "fraction": 0.0676
+      },
+      {
+        "hex": "#4f4746",
+        "fraction": 0.0338
+      }
+    ],
+    "hue_histogram": [
+      0.0816,
+      0.9021,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0014,
+      0.001,
+      0.0028,
+      0.0111
+    ],
+    "dominant_hues": [
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.9962,
+    "mean_saturation": 0.1204,
+    "mean_value": 0.7506,
+    "mean_lightness": 0.7334,
+    "contrast": 0.1509,
+    "colorfulness": 11.24,
+    "mean_chroma": 7.51,
+    "is_monochrome": false,
+    "dark_fraction": 0.0017,
+    "light_fraction": 0.0001,
+    "edge_density": 0.0953,
+    "busyness": 0.0726,
+    "has_white_border": false,
+    "phash": "2fccc4c3d109f133",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/city-living-1.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

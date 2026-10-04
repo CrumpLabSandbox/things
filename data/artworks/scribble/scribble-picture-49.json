@@ -1,0 +1,126 @@
+{
+  "id": "scribble/scribble-picture-49",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 49",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "Times Square at Night",
+    "caption": "Times Square at Night",
+    "camera": null,
+    "date": "2024-11-24 00:00:00",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Had to go to a conference in times square. Waited at the conference hotel until night time. Walked home with a camera.",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-49",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 49.jpeg",
+      "width": 1000,
+      "height": 1428,
+      "aspect": 0.7003,
+      "orientation": "portrait",
+      "bytes": 768274,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_49.qmd",
+      "html": "things/Scribble/Scribble_Picture_49.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_49.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#faf6f6",
+        "fraction": 0.2858
+      },
+      {
+        "hex": "#b7767a",
+        "fraction": 0.2507
+      },
+      {
+        "hex": "#59394e",
+        "fraction": 0.1759
+      },
+      {
+        "hex": "#463973",
+        "fraction": 0.15
+      },
+      {
+        "hex": "#ea6e3e",
+        "fraction": 0.0776
+      },
+      {
+        "hex": "#5ab0d3",
+        "fraction": 0.06
+      }
+    ],
+    "hue_histogram": [
+      0.3321,
+      0.0892,
+      0.004,
+      0.0003,
+      0.0004,
+      0.003,
+      0.0334,
+      0.0495,
+      0.0838,
+      0.1328,
+      0.1221,
+      0.1493
+    ],
+    "dominant_hues": [
+      "red",
+      "pink",
+      "purple"
+    ],
+    "warm_fraction": 0.6385,
+    "mean_saturation": 0.3551,
+    "mean_value": 0.7112,
+    "mean_lightness": 0.5966,
+    "contrast": 0.2864,
+    "colorfulness": 81.98,
+    "mean_chroma": 25.36,
+    "is_monochrome": false,
+    "dark_fraction": 0.0921,
+    "light_fraction": 0.2391,
+    "edge_density": 0.3019,
+    "busyness": 0.1321,
+    "has_white_border": true,
+    "phash": "7e6291bd811ec48b",
+    "analysis_size": [
+      359,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-49.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

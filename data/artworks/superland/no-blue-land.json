@@ -1,0 +1,128 @@
+{
+  "id": "superland/no-blue-land",
+  "schema_version": 1,
+  "catalog": {
+    "title": "No Blue Land",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:05:45",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (13).jpg",
+      "width": 1279,
+      "height": 1280,
+      "aspect": 0.9992,
+      "orientation": "square",
+      "bytes": 815730,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/No_Blue_Land.qmd",
+      "html": "things/Superland/No_Blue_Land.html",
+      "url": "https://crumplab.com/things/things/Superland/No_Blue_Land.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:05:45",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "No blue land",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#20191c",
+        "fraction": 0.2165
+      },
+      {
+        "hex": "#c3a2ab",
+        "fraction": 0.2006
+      },
+      {
+        "hex": "#5e5856",
+        "fraction": 0.1609
+      },
+      {
+        "hex": "#b3c8b8",
+        "fraction": 0.1489
+      },
+      {
+        "hex": "#c8af6d",
+        "fraction": 0.1444
+      },
+      {
+        "hex": "#ba684b",
+        "fraction": 0.1286
+      }
+    ],
+    "hue_histogram": [
+      0.2326,
+      0.3359,
+      0.1032,
+      0.0081,
+      0.0036,
+      0.0234,
+      0.0643,
+      0.0211,
+      0.0305,
+      0.0362,
+      0.0516,
+      0.0896
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "warm_fraction": 0.7914,
+    "mean_saturation": 0.3278,
+    "mean_value": 0.5743,
+    "mean_lightness": 0.5127,
+    "contrast": 0.267,
+    "colorfulness": 60.91,
+    "mean_chroma": 20.0,
+    "is_monochrome": false,
+    "dark_fraction": 0.1912,
+    "light_fraction": 0.0093,
+    "edge_density": 0.4175,
+    "busyness": 0.2129,
+    "has_white_border": false,
+    "phash": "5dba3170bcc85ec0",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/no-blue-land.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

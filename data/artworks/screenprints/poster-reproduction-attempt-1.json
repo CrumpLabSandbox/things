@@ -1,0 +1,128 @@
+{
+  "id": "screenprints/poster-reproduction-attempt-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Poster Reproduction Attempt 1",
+    "series": "screenprints",
+    "series_slug": "screenprints",
+    "medium": "ink",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "ink on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2017-01-10 10:16:50",
+    "year": 2017,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/screenprints/Poster Reproduction attempt 1.jpg",
+      "width": 1025,
+      "height": 1280,
+      "aspect": 0.8008,
+      "orientation": "portrait",
+      "bytes": 346094,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/screenprints/Poster_Reproduction_Attempt_1.qmd",
+      "html": "things/screenprints/Poster_Reproduction_Attempt_1.html",
+      "url": "https://crumplab.com/things/things/screenprints/Poster_Reproduction_Attempt_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2017:01:10 10:16:50",
+        "image_description": "ink on paper"
+      },
+      "iptc": {
+        "object_name": "Poster Reproduction attempt 1",
+        "caption": "ink on paper",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d63473",
+        "fraction": 0.2242
+      },
+      {
+        "hex": "#7179a0",
+        "fraction": 0.19
+      },
+      {
+        "hex": "#f2d0a4",
+        "fraction": 0.1774
+      },
+      {
+        "hex": "#a30a5e",
+        "fraction": 0.1535
+      },
+      {
+        "hex": "#dfa082",
+        "fraction": 0.1389
+      },
+      {
+        "hex": "#2c4d81",
+        "fraction": 0.1161
+      }
+    ],
+    "hue_histogram": [
+      0.0405,
+      0.2917,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0003,
+      0.1366,
+      0.1521,
+      0.0041,
+      0.0014,
+      0.3733
+    ],
+    "dominant_hues": [
+      "pink",
+      "orange",
+      "indigo"
+    ],
+    "warm_fraction": 0.7064,
+    "mean_saturation": 0.5662,
+    "mean_value": 0.7544,
+    "mean_lightness": 0.5534,
+    "contrast": 0.1901,
+    "colorfulness": 110.31,
+    "mean_chroma": 41.54,
+    "is_monochrome": false,
+    "dark_fraction": 0.0183,
+    "light_fraction": 0.0128,
+    "edge_density": 0.1379,
+    "busyness": 0.0846,
+    "has_white_border": false,
+    "phash": "500323d585363f7e",
+    "analysis_size": [
+      410,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/screenprints/poster-reproduction-attempt-1.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "scribble/scribble-picture-31",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 31",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, Dumbo/Brooklyn Bridge Ferry Terminal Pier 1",
+    "caption": "Dumbo/Brooklyn Bridge Ferry Terminal Pier 1",
+    "camera": null,
+    "date": "2024-09-29 07:30:57",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Dumbo/Brooklyn Bridge Ferry Terminal Pier 1 in September",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-31",
+    "print_note": "Digitally signed open edition, print alone or framed print:",
+    "image": {
+      "path": "images/Scribble/Scribble Picture 31.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 601030,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_31.qmd",
+      "html": "things/Scribble/Scribble_Picture_31.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_31.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:29 07:30:57",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 31",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240929",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#deccad",
+        "fraction": 0.215
+      },
+      {
+        "hex": "#a4875a",
+        "fraction": 0.194
+      },
+      {
+        "hex": "#d7c86d",
+        "fraction": 0.1927
+      },
+      {
+        "hex": "#b5d9e3",
+        "fraction": 0.1575
+      },
+      {
+        "hex": "#594b39",
+        "fraction": 0.1366
+      },
+      {
+        "hex": "#959085",
+        "fraction": 0.1042
+      }
+    ],
+    "hue_histogram": [
+      0.0097,
+      0.5294,
+      0.3503,
+      0.0057,
+      0.0013,
+      0.0011,
+      0.0617,
+      0.0386,
+      0.0011,
+      0.0004,
+      0.0001,
+      0.0005
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.8901,
+    "mean_saturation": 0.3366,
+    "mean_value": 0.7284,
+    "mean_lightness": 0.6857,
+    "contrast": 0.1945,
+    "colorfulness": 66.66,
+    "mean_chroma": 24.15,
+    "is_monochrome": false,
+    "dark_fraction": 0.0149,
+    "light_fraction": 0.1065,
+    "edge_density": 0.4721,
+    "busyness": 0.1532,
+    "has_white_border": false,
+    "phash": "36a177a4aa305e5c",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-31.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

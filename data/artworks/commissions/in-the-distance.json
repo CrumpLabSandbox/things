@@ -1,0 +1,128 @@
+{
+  "id": "commissions/in-the-distance",
+  "schema_version": 1,
+  "catalog": {
+    "title": "In The Distance",
+    "series": "commissions",
+    "series_slug": "commissions",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2012-06-13 16:22:05",
+    "year": 2012,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/commissions/In the distance.jpg",
+      "width": 890,
+      "height": 895,
+      "aspect": 0.9944,
+      "orientation": "square",
+      "bytes": 387471,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/commissions/In_The_Distance.qmd",
+      "html": "things/commissions/In_The_Distance.html",
+      "url": "https://crumplab.com/things/things/commissions/In_The_Distance.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 4",
+        "datetime": "2012:06:13 16:22:05",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "In the distance",
+        "caption": "oil on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#aab0aa",
+        "fraction": 0.3337
+      },
+      {
+        "hex": "#c1a950",
+        "fraction": 0.1867
+      },
+      {
+        "hex": "#3880b0",
+        "fraction": 0.1451
+      },
+      {
+        "hex": "#56514a",
+        "fraction": 0.1348
+      },
+      {
+        "hex": "#c0819a",
+        "fraction": 0.1295
+      },
+      {
+        "hex": "#b64020",
+        "fraction": 0.0702
+      }
+    ],
+    "hue_histogram": [
+      0.1731,
+      0.1974,
+      0.1641,
+      0.0338,
+      0.0122,
+      0.0511,
+      0.0322,
+      0.2094,
+      0.0143,
+      0.0311,
+      0.0353,
+      0.046
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.6018,
+    "mean_saturation": 0.411,
+    "mean_value": 0.6866,
+    "mean_lightness": 0.5995,
+    "contrast": 0.1714,
+    "colorfulness": 89.26,
+    "mean_chroma": 28.39,
+    "is_monochrome": false,
+    "dark_fraction": 0.0189,
+    "light_fraction": 0.0247,
+    "edge_density": 0.2498,
+    "busyness": 0.1103,
+    "has_white_border": false,
+    "phash": "62131cdfc4a7a958",
+    "analysis_size": [
+      509,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/commissions/in-the-distance.jpg"
+  },
+  "described": {},
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}
