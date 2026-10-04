@@ -117,7 +117,93 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-11.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a Flatbush street with a graffiti covered brick wall, where a dump truck, a worker, traffic lights, trees and shop signs have been redrawn as flat cartoon shapes, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower left. A tan brick wall at upper centre carries real graffiti reading dink, under a blue sky. A traffic light at upper left is redrawn as a flat yellow outlined shape, a tall red sign at left is covered in white scribbled tags, and a grey and red banner at upper right carries a large yellow scribble. Shop fronts at street level have their signs redrawn as flat panels with scribbles. In the middle a white dump truck with a raised yellow arm is redrawn in flat grey and cream outline with a worker in a hard hat and yellow vest standing on its bed, flanked by orange traffic cones. Two small trees are redrawn as lime outlines. A faceless figure with a bag stands at left beside an outlined white car, and a cartoon car intrudes from the right. A crosswalk crosses the bottom.",
+    "impression": "A work crew on Flatbush Avenue, half swallowed by the drawing: the truck and the trees have gone cartoon and the real graffiti on the wall is answered by scribbled fake graffiti on every sign. The picture is about the city's layers of marks, official and not. Busy and bright.",
+    "subjects": [
+      "street",
+      "city",
+      "truck",
+      "worker",
+      "graffiti",
+      "signs",
+      "traffic lights",
+      "trees",
+      "cars"
+    ],
+    "characters": [
+      "faceless figure",
+      "worker"
+    ],
+    "elements": [
+      "dump truck",
+      "traffic cone",
+      "scribble tag",
+      "found graffiti",
+      "traffic light",
+      "outlined car",
+      "crosswalk",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Flatbush"
+    ],
+    "composition": [
+      "street level",
+      "central feature",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "warm",
+      "tan and yellow",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "graffiti"
+    ],
+    "themes": [
+      "city",
+      "work",
+      "graffiti",
+      "layers of marks"
+    ],
+    "mood": [
+      "busy",
+      "sunny",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "found graffiti dink; scribbled tags on signs; signature 2023",
+      "role": "found graffiti and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "flatbush",
+      "construction",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

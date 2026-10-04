@@ -117,7 +117,89 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-6.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of the Empire State Building with a crane, where clouds, water towers, billboards and a kiosk have been outlined and filled with flat cartoon colour, above a plaza of yellow umbrellas, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower right. The Empire State Building rises at centre with a yellow outlined construction crane drawn on its lower floors, against a sky with rainbow streaks. A large white cloud is outlined in black like a cartoon. Beige and brick buildings on the left carry outlined grey water towers and small drawn panels; a tall pale blue block drawn in outline stands at right beside a cartoon tower. A lamp post at centre right carries an outlined banner with a drawing of the Flatiron Building and a pink splat. Below, a brown kiosk with a scribbled sign, yellow umbrellas, trees drawn as green outlines and a few faceless figures fill a plaza, with a white outlined box at lower centre.",
+    "impression": "The city starting to turn into a drawing: the clouds, the water towers and a whole building at right have gone cartoon while the Empire State stays photographic. The hand drawn crane on the landmark is a cheeky touch, as if the picture were repairing it. The most colourful of the first batch and a step toward the later, more drawn Scribble pictures.",
+    "subjects": [
+      "city",
+      "skyscrapers",
+      "landmark",
+      "clouds",
+      "plaza",
+      "umbrellas",
+      "kiosk",
+      "people"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "outlined cloud",
+      "water tower",
+      "crane",
+      "billboard",
+      "umbrella",
+      "kiosk",
+      "scribble tag",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Flatiron"
+    ],
+    "composition": [
+      "central feature",
+      "vertical",
+      "photo base",
+      "layered depth"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "yellow and blue",
+      "washed"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "landmarks",
+      "transformation",
+      "drawing over reality"
+    ],
+    "mood": [
+      "sunny",
+      "playful",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled kiosk sign; signature 2023",
+      "role": "scribble and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "empire state",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -117,7 +117,87 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-4.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A bleached photograph of two people walking away down a Manhattan street, one with a backpack carrying a longboard, their heads replaced by grey cartoon shapes, past the scaffolded Flatiron corner, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower right. Two figures walk away from the viewer down the centre of a street: at left a figure in a black shirt and jeans with a shoulder bag, at right a figure in a black shirt and jeans with a black backpack, carrying a jacket and a longboard. Both have their heads covered by flat grey cartoon shapes. Ahead, more faceless figures in white walk toward the scaffolded curved corner of the Flatiron Building, with a green scaffolding shed, a hanging flower basket, traffic lights and a no left turn sign. Scribbled tags cover a banner and a sign. Planters with pink flowers line the right, and the sky is pale with rainbow haze.",
+    "impression": "Following two friends down a closed street on a summer afternoon, with the city doing its tricks ahead of them. The grey heads make the pair into cartoon stand ins for anyone, and the longboard is the one specific thing that keeps them real. The most narrative of the early Scribble pictures, a walk with somewhere to go.",
+    "subjects": [
+      "street",
+      "city",
+      "people",
+      "landmark",
+      "skateboard",
+      "flowers"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "blank face",
+      "longboard",
+      "backpack",
+      "scaffolding",
+      "flower basket",
+      "traffic light",
+      "scribble tag",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Flatiron"
+    ],
+    "composition": [
+      "figures from behind",
+      "one point perspective",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "bleached",
+      "pastel",
+      "washed",
+      "warm"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "anonymity",
+      "walking",
+      "friendship"
+    ],
+    "mood": [
+      "calm",
+      "wistful",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "signature 2023; scribbled tags on banner",
+      "role": "signature and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "manhattan",
+      "flatiron",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

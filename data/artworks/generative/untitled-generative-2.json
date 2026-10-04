@@ -117,7 +117,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/generative/untitled-generative-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square field of tiny multicoloured scribbled cells in green, purple, blue, pink and orange, like a crowd seen from very far away, signed 2022.",
+    "description": "A square digital image signed and dated 2022 at lower right. The whole surface is a dense mosaic of small cells, each outlined in fine black and filled with a flat colour: lime, grass green, lilac, violet, blue, pink, peach and ochre, with white gaps scattered through. Fragments of figures, faces and hands surface in places but nothing is whole. Greens dominate the middle, blues the lower left, pinks the lower right. The texture is even and extremely fine, like a crowd scene or a field of flowers seen from the air.",
+    "impression": "A Colorland crowd ground down into confetti, every creature cut into pieces and reassembled as a texture. From a distance it is a meadow; close up it is a thousand half faces. It is the most purely abstract piece in the collection and it feels like the data the other drawings are made of.",
+    "subjects": [
+      "abstract forms",
+      "pattern",
+      "crowd"
+    ],
+    "characters": [
+      "hidden face"
+    ],
+    "elements": [
+      "cell",
+      "thin black outline",
+      "signature",
+      "fragments"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "field",
+      "no horizon"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill",
+      "fine mesh"
+    ],
+    "color_words": [
+      "rainbow",
+      "green dominant",
+      "confetti",
+      "saturated"
+    ],
+    "style": [
+      "generative",
+      "abstract",
+      "mosaic",
+      "process art"
+    ],
+    "themes": [
+      "process",
+      "variation",
+      "crowded life",
+      "fragments"
+    ],
+    "mood": [
+      "busy",
+      "restless",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "signature, 2022",
+      "role": "signature"
+    },
+    "format_notes": "Digital, signed 2022.",
+    "free_tags": [
+      "generative",
+      "confetti field"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

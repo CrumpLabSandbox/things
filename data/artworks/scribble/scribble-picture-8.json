@@ -116,7 +116,87 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-8.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a Toronto street where a white truck, cars, traffic lights, banners and two sidewalk bins have been redrawn as flat cartoon shapes, with a faceless pedestrian, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower right. A dark glass tower with a gold crown stands at upper left against a pale sky scratched with fine lines. In the foreground two grey trash and recycling bins are redrawn as rounded cartoon shapes with lid faces, like a pair of squat robots. A white cartoon box truck with black outlines drives at left, followed by outlined cars in white, grey and blue. Traffic lights are redrawn as yellow and orange outlined shapes, a grey outlined tower stands at right, and a lamp post carries outlined banners in pink, blue and yellow. A pedestrian with a blank face walks at right carrying bags, and the shops at left have scribbled signs.",
+    "impression": "A corner where the street furniture has started to come alive: the bins are the real characters, standing like two guards, and the truck is their pet. The pedestrian is the only one not in on the joke. Playful and specific, the drawing picking out what it likes.",
+    "subjects": [
+      "street",
+      "city",
+      "truck",
+      "cars",
+      "bins",
+      "traffic lights",
+      "people",
+      "skyscrapers"
+    ],
+    "characters": [
+      "faceless figure",
+      "bin creature",
+      "vehicle creature"
+    ],
+    "elements": [
+      "outlined car",
+      "box truck",
+      "traffic light",
+      "banner",
+      "bin",
+      "scribble tag",
+      "signature"
+    ],
+    "setting": [
+      "Toronto",
+      "city",
+      "avenue"
+    ],
+    "composition": [
+      "foreground objects",
+      "one point perspective",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "pastel",
+      "muted",
+      "grey and yellow",
+      "washed"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "objects as creatures",
+      "travel"
+    ],
+    "mood": [
+      "playful",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled shop signs; signature 2023",
+      "role": "scribble and signature"
+    },
+    "format_notes": "Digital drawing over a photograph taken in Toronto.",
+    "free_tags": [
+      "scribble series",
+      "toronto",
+      "bins",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

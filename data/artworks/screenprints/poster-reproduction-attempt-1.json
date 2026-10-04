@@ -119,7 +119,79 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/screenprints/poster-reproduction-attempt-1.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A screen print reproduction of a 1930s travel poster, with two cream aeroplanes over blue waves on a magenta sky and the text City of New York Municipal Airports.",
+    "description": "A portrait format screen print in four colours: magenta, cream, blue and dark navy. A cream twin engined aeroplane with pink glowing engine cowls banks across the magenta sky at the top, and a larger cream seaplane with blue underside and a row of portholes sits on stylised blue waves below. The lower third is a blue band with cream art deco lettering reading CITY OF NEW YORK MUNICIPAL AIRPORTS, NO. 1 FLOYD BENNETT FIELD, NO. 2 NORTH BEACH, EAST RIVER SEAPLANE BASES, WALL STREET, 31st STREET, F. H. LaGuardia, John McKenzie. The print shows pinholes and gaps where the stencil did not fully cover.",
+    "impression": "A loving copy of a WPA era poster, flaws and all, made to learn how screen printing works. The pink engine glow and the gaps in the ink give it the warmth of a hand pulled print rather than a reproduction. It belongs to the airbrush years' interest in stencils and flat colour.",
+    "subjects": [
+      "aeroplane",
+      "seaplane",
+      "lettering",
+      "waves",
+      "sky"
+    ],
+    "characters": [],
+    "elements": [
+      "propeller",
+      "porthole",
+      "wave",
+      "art deco lettering",
+      "engine glow"
+    ],
+    "setting": [
+      "real city reimagined",
+      "NYC",
+      "sky"
+    ],
+    "composition": [
+      "poster layout",
+      "diagonal",
+      "text and image"
+    ],
+    "line": [
+      "hard edge",
+      "flat fill",
+      "printed"
+    ],
+    "color_words": [
+      "magenta and cream",
+      "four colour",
+      "bold",
+      "vintage"
+    ],
+    "style": [
+      "screen print",
+      "art deco",
+      "WPA poster",
+      "reproduction"
+    ],
+    "themes": [
+      "flight",
+      "place",
+      "print making",
+      "learning"
+    ],
+    "mood": [
+      "nostalgic",
+      "bold"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CITY OF NEW YORK MUNICIPAL AIRPORTS; NO. 1 FLOYD BENNETT FIELD; NO. 2 NORTH BEACH; EAST RIVER SEAPLANE BASES; WALL STREET; 31st STREET; F. H. LaGuardia; John McKenzie",
+      "role": "poster text"
+    },
+    "format_notes": "Four colour screen print on paper, photographed. A reproduction of a 1930s Federal Art Project poster. Sold.",
+    "free_tags": [
+      "screen print",
+      "reproduction",
+      "WPA",
+      "NYC"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

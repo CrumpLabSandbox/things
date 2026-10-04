@@ -116,8 +116,96 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A bleached photograph of West 27th Street in Manhattan with cafe umbrellas and tall buildings, where the people have blank cartoon faces drawn over them and black scribbles cover the signs, signed 2023.",
+    "description": "A portrait format digital piece built on a photograph, signed with a scrawled signature and 2023 at lower right. A green street sign reading W 27 St hangs across the top. Ornate stone office buildings line the left, a glass tower rises at right, and the sky is bleached to pale yellow with a rainbow haze. In the middle distance black and teal cafe umbrellas shade rows of outdoor tables. Every person has been covered with a flat skin toned or grey cartoon shape with no features: a seated figure in a white shirt at lower left, a standing figure in a blue shirt with arms crossed at centre, a figure in a cap at right, and a dozen smaller figures among the tables. A billboard on a building at centre shows a blank cartoon head, and several signs and a planter carry scribbled black ink marks like graffiti. Stacked folding chairs stand at centre.",
+    "impression": "An ordinary hot afternoon on a Manhattan side street, with everyone's identity rubbed out and replaced by a cartoon blank, so the crowd becomes a cast of extras waiting for faces. The scribbled signs feel like the city's own text being vandalised by the drawing. Bleached and dreamy, with the strangeness of a street you half remember.",
+    "subjects": [
+      "street",
+      "city",
+      "people",
+      "cafe",
+      "skyscrapers",
+      "umbrellas",
+      "signs"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "blank face",
+      "scribble tag",
+      "street sign",
+      "umbrella",
+      "folding chair",
+      "billboard",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Chelsea"
+    ],
+    "composition": [
+      "one point perspective",
+      "figures in foreground",
+      "photo base",
+      "layered depth"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "bleached",
+      "pastel",
+      "washed",
+      "rainbow haze"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "graffiti"
+    ],
+    "themes": [
+      "city",
+      "anonymity",
+      "crowded life",
+      "erasure"
+    ],
+    "mood": [
+      "dreamy",
+      "calm",
+      "uncanny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "W 27 St; W 26 St; scribbled tags; signature 2023",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing in Adobe Fresco over a Fujifilm X-H2 photograph processed in Lightroom. First of the Scribble Picture series.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "manhattan",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-2",
+      "note": "Same block of West 27th Street, shot the same day.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

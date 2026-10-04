@@ -117,7 +117,86 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-5.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A nearly grey photograph of a Manhattan street with a blank sign, skyscrapers, cafe tables, and seated faceless figures in a pedestrian plaza, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, bleached almost to grey, signed 2023 at lower right. A grey blank street sign on a pole dominates the upper left, with a scribbled tag and a red arrow sign below it. Stone and glass office buildings line both sides of the street receding to tall towers. In the middle distance a pedestrian plaza holds metal cafe tables and chairs, a black umbrella with a scribbled tag, and people with blank skin toned faces: a figure in a white shirt seated at centre with another beside it, a figure walking at left, a group standing at right. The pavement has faint rainbow streaks. A motorcycle sits at lower left.",
+    "impression": "The most drained of the Scribble pictures, as if the colour had been left out in the sun. The blank sign at the top is the key: a city whose signs say nothing and whose people have no faces, both waiting to be written on. Quiet and a little melancholy.",
+    "subjects": [
+      "street",
+      "city",
+      "people",
+      "signs",
+      "cafe",
+      "skyscrapers",
+      "motorcycle"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "blank face",
+      "blank sign",
+      "scribble tag",
+      "umbrella",
+      "cafe table",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan"
+    ],
+    "composition": [
+      "one point perspective",
+      "foreground sign",
+      "photo base",
+      "layered depth"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "grayscale",
+      "bleached",
+      "near monochrome",
+      "washed"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "anonymity",
+      "erasure",
+      "signs"
+    ],
+    "mood": [
+      "calm",
+      "melancholy",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "blank sign; scribbled tags; signature 2023",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, pushed nearly to grayscale.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "manhattan",
+      "grayscale",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

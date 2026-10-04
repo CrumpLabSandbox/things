@@ -116,8 +116,96 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-3.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A bleached photograph of the Flatiron Building wrapped in scaffolding, with a faceless woman walking toward the viewer, a row of blue bike share bikes and a red truck, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower right. The Flatiron Building, covered in dark scaffolding, rises at centre against a sky bleached to pale yellow and pink with faint rainbow banding. Older stone buildings flank it. In the foreground a woman in a green top and black shorts walks toward the viewer with a blank cartoon face, a figure in a teal shirt stands at centre with a blank face, and smaller faceless figures stand near a red truck and planters. A row of blue bike share bikes lines the right edge, a red fire truck and a red box truck sit at centre right, and the pavement is tinted pink and yellow. A billboard at left shows a scribbled blank head.",
+    "impression": "A tourist photograph of a famous building with the tourists anonymised, so the scaffolded Flatiron becomes the only one with a face. The pastel pavement and rainbow sky make the plaza look like a stage set. Ordinary and slightly surreal, which is the series' recurring mood.",
+    "subjects": [
+      "street",
+      "city",
+      "skyscrapers",
+      "people",
+      "bicycles",
+      "trucks",
+      "landmark"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "blank face",
+      "scaffolding",
+      "bike share",
+      "fire truck",
+      "planter",
+      "billboard",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Flatiron"
+    ],
+    "composition": [
+      "central feature",
+      "figures in foreground",
+      "photo base",
+      "low horizon"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "bleached",
+      "pastel",
+      "pink and yellow",
+      "washed"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "anonymity",
+      "landmarks",
+      "tourism"
+    ],
+    "mood": [
+      "calm",
+      "dreamy",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "signature 2023; scribbled billboard",
+      "role": "signature and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "manhattan",
+      "flatiron",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-4",
+      "note": "The Flatiron Building from the other side, same walk.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

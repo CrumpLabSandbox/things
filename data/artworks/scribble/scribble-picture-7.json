@@ -117,8 +117,96 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-7.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of a Toronto avenue with glass condo towers, where the traffic has been redrawn as rounded cartoon cars and the street lamps outlined, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower left. Two tall glass condo towers with balconies rise at the top against a pale sky, with pink outlined bands drawn across their rooftops. Below, a low rise shopping street with shop signs, trees outlined in green, and street lamps redrawn in black outline with bell shaped heads. The lower half is a traffic jam of cars redrawn as soft rounded cartoon shapes in white, grey, pale blue and pink with black outlines, filling the road toward the viewer; the nearest is a pale blue car with a large rear window. A white outlined lampshade shape floats at left.",
+    "impression": "Toronto from the middle of the road, with the cars gone soft and friendly as if they were drawn by a child in the back seat. The towers keep their glass and the cars lose theirs. It is the traffic jam of About Town 7 twelve years later, now with a photograph underneath.",
+    "subjects": [
+      "street",
+      "city",
+      "cars",
+      "traffic",
+      "skyscrapers",
+      "lamps",
+      "trees"
+    ],
+    "characters": [
+      "vehicle creature"
+    ],
+    "elements": [
+      "outlined car",
+      "street lamp",
+      "balcony tower",
+      "shop sign",
+      "signature"
+    ],
+    "setting": [
+      "Toronto",
+      "city",
+      "avenue"
+    ],
+    "composition": [
+      "one point perspective",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "pastel",
+      "muted",
+      "grey and blue",
+      "washed"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "traffic",
+      "vehicles as creatures",
+      "travel"
+    ],
+    "mood": [
+      "calm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "signature 2023",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a photograph taken in Toronto.",
+    "free_tags": [
+      "scribble series",
+      "toronto",
+      "cars",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "towns/about-town-7",
+      "note": "A traffic jam of soft rounded vehicles, now over a photograph.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-8",
+      "note": "Same Toronto avenue, next day.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

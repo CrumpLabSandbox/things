@@ -117,8 +117,93 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/generative/untitled-generative-3.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A wide, very dense pencil like drawing of thousands of small domed huts and clouds in faint grey line with pale rainbow tints.",
+    "description": "A landscape format digital image in fine grey line on white with faint washes of pink, blue, yellow and green. The whole sheet is covered in thousands of small arched hut shapes with dark doors, cloud lobes, tent cones and tiny eyes, layered over one another at every scale with no horizon or focal point. The lines are loose and sketchy, like pencil, and the colour is barely there, strongest in a pink patch at upper left and blue at upper right.",
+    "impression": "A hut village that has multiplied until it covers the world, drawn so faintly that it looks like a watermark or a memory of a drawing. The near absence of colour makes it feel like a map of somewhere seen in fog. It is overwhelming and gentle at once.",
+    "subjects": [
+      "huts",
+      "pattern",
+      "clouds",
+      "village"
+    ],
+    "characters": [
+      "hidden face"
+    ],
+    "elements": [
+      "domed hut",
+      "arched door",
+      "cloud lobe",
+      "pencil scribble"
+    ],
+    "setting": [
+      "invented landscape",
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "field",
+      "no horizon"
+    ],
+    "line": [
+      "pencil scribble underlayer",
+      "thin grey line",
+      "faint wash"
+    ],
+    "color_words": [
+      "pale",
+      "near white",
+      "faint rainbow",
+      "low contrast"
+    ],
+    "style": [
+      "generative",
+      "scribble",
+      "map like",
+      "process art"
+    ],
+    "themes": [
+      "settlement",
+      "multiplication",
+      "process",
+      "density"
+    ],
+    "mood": [
+      "quiet",
+      "dreamy",
+      "overwhelming"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Digital, landscape format.",
+    "free_tags": [
+      "generative",
+      "huts",
+      "line layer"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "generative/untitled-generative-4",
+      "note": "Same hut texture, here without the photograph.",
+      "source": "described"
+    },
+    {
+      "type": "series_pair",
+      "target": "towns/floating-earth-town",
+      "note": "The hut village motif taken to its limit.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

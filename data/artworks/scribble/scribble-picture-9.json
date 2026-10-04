@@ -117,8 +117,97 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-9.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A photograph of a Brooklyn corner at Church Avenue with a brick building, a big tree, a red fruit stand umbrella, and faceless pedestrians, where the lamp post, signs and a car are outlined like cartoons, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower left. A bright blue sky with one outlined cartoon cloud sits over a three storey brick building on a corner with a diner style shop at street level with red striped trim. A large green tree spreads across the top, with some branches redrawn in grey outline. A lamp post at centre is outlined in black with a drawn lamp head, and carries green street signs reading E 18 St and Church Av, an outlined round sign, an arrow and a walk signal. A pink and tan ellipse is drawn over the shop sign. At left a red umbrella shades a fruit stand where faceless figures in white shop; a faceless figure pushes a cart at right, two walk with bags at lower left. A pale cartoon car intrudes from the right edge and a crosswalk crosses the bottom.",
+    "impression": "A real Brooklyn corner on a summer morning, lightly cartooned: just enough drawing to make the lamp post and the car feel like characters. The fruit stand and the people with no faces carry on as normal. It is affectionate neighbourhood reportage with the sky turned up.",
+    "subjects": [
+      "street",
+      "city",
+      "people",
+      "tree",
+      "shop",
+      "lamp post",
+      "signs",
+      "car",
+      "fruit stand"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "street sign",
+      "outlined cloud",
+      "umbrella",
+      "crosswalk",
+      "outlined car",
+      "shopping cart",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Church Avenue"
+    ],
+    "composition": [
+      "street corner",
+      "figures in foreground",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "anonymity",
+      "daily life"
+    ],
+    "mood": [
+      "sunny",
+      "calm",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "E 18 St; Church Av; signature 2023",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "brooklyn",
+      "church ave",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-23",
+      "note": "Church Avenue, revisited a year later.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

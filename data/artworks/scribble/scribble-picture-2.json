@@ -115,7 +115,88 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A bleached photograph of a Manhattan street with bentwood cafe chairs, faceless diners at tables, and a tall dark billboard covered in white scribbled graffiti, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed and dated 2023 at lower right. Rows of empty bentwood cafe chairs and small round tables fill the foreground. Behind them, people sit at tables under a teal umbrella, each with a blank skin toned cartoon face: a figure in a white shirt and jeans at centre, a figure in white at lower right, a figure in shorts and a white shirt at right, and more in the distance. Tall brick and stone buildings line the left side, a dark vertical billboard at centre is covered in white scribbled tags, and more black scribbles sit on a shop window, a sidewalk sign and a sandwich board with a smiley face. A green W 27 St sign stands at centre right and skyscrapers fade into a pale sky with rainbow streaks.",
+    "impression": "Lunch hour with the volume turned down: the chairs are waiting, the diners have no faces, and the only loud thing is the graffiti on the billboard, which looks like the drawing's own handwriting taking over the advertising. The bleached light makes it feel like a memory of a hot day. A quietly funny picture about public space.",
+    "subjects": [
+      "street",
+      "city",
+      "people",
+      "cafe",
+      "chairs",
+      "billboard",
+      "signs"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "blank face",
+      "scribble tag",
+      "bentwood chair",
+      "umbrella",
+      "street sign",
+      "sandwich board",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Chelsea"
+    ],
+    "composition": [
+      "one point perspective",
+      "foreground objects",
+      "photo base",
+      "layered depth"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "bleached",
+      "pastel",
+      "washed",
+      "warm"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "graffiti"
+    ],
+    "themes": [
+      "city",
+      "anonymity",
+      "public space",
+      "erasure"
+    ],
+    "mood": [
+      "calm",
+      "dreamy",
+      "wry"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "W 27 St; scribbled tags on billboard and signs; signature 2023",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "manhattan",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

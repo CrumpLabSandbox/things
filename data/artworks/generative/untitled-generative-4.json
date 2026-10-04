@@ -117,8 +117,93 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/generative/untitled-generative-4.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A wide image of a Brooklyn street photograph overlaid with thousands of small coloured hut and cloud shapes, so the buildings seem built from scribbled domes against a cyan sky.",
+    "description": "A landscape format digital image. A photograph of a city street, with brick apartment buildings on both sides, fire escapes, a brownstone row at left, parked black cars at lower left and a few pedestrians, has been covered with a fine texture of small arched hut shapes and cloud lobes in lime, orange, pink, lilac, grey and blue, each outlined in black. The texture follows the photograph so that building facades, trees and the road all appear to be made of tiny domes, while the sky is flat bright cyan with grey and blue cloud cells. The black lines of fire escapes and window frames still read through the texture.",
+    "impression": "The hut texture from the third generative piece draped over a real Brooklyn street, so the neighbourhood looks like it was built by the Colorlands creatures. The cyan sky is the only solid thing in the picture. It is a bridge between the invented worlds and the photographic Scribble pictures that came the next year.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "cars",
+      "huts",
+      "pattern",
+      "sky"
+    ],
+    "characters": [],
+    "elements": [
+      "domed hut",
+      "fire escape",
+      "parked car",
+      "cloud lobe",
+      "flat sky",
+      "thin black outline"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "city"
+    ],
+    "composition": [
+      "one point perspective",
+      "all over",
+      "dense",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill",
+      "fine mesh",
+      "photo derived"
+    ],
+    "color_words": [
+      "rainbow",
+      "cyan sky",
+      "confetti",
+      "saturated"
+    ],
+    "style": [
+      "generative",
+      "photo collage",
+      "mosaic",
+      "process art"
+    ],
+    "themes": [
+      "city",
+      "process",
+      "nature meets built",
+      "transformation"
+    ],
+    "mood": [
+      "busy",
+      "playful",
+      "strange"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Digital, landscape format, built on a photograph.",
+    "free_tags": [
+      "generative",
+      "huts",
+      "photo base",
+      "proto scribble"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "source_of",
+      "target": "scribble/scribble-picture-1",
+      "note": "First use of a street photograph as a base for drawn overlays.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

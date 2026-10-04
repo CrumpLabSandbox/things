@@ -113,8 +113,84 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/generative/untitled-generative-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square field of dense grey pencil like scribbles that resolve into mountains, creatures and fragments of the words Meeting of the Mountains.",
+    "description": "A square digital image in grey and black line on white, with a ragged edge. The entire surface is covered in layered scribbled strokes: short curves, loops, vertical hatching and small eyes and mouths, with darker vertical streaks scattered through. Fragments of hand lettered words appear near the bottom, MEETING, OF THE, MOUNTAINS, repeated and overlapping. The density is even across the sheet and no single object dominates, though mountain peaks and creature faces surface and submerge.",
+    "impression": "What a Colorland drawing looks like if you keep every pencil stroke and throw away the colour: a fog of marks that was once a scene. The repeated title at the bottom gives it away as a generative variation on Meeting of the Mountains. It is the underpainting made visible, and it reads like static with a memory.",
+    "subjects": [
+      "abstract forms",
+      "scribbles",
+      "lettering",
+      "mountains"
+    ],
+    "characters": [
+      "hidden face"
+    ],
+    "elements": [
+      "pencil scribble",
+      "hatching",
+      "repeated title",
+      "ragged edge"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "field",
+      "no horizon"
+    ],
+    "line": [
+      "pencil scribble underlayer",
+      "no fill",
+      "layered strokes"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "grey on white"
+    ],
+    "style": [
+      "generative",
+      "abstract",
+      "scribble",
+      "process art"
+    ],
+    "themes": [
+      "process",
+      "variation",
+      "noise",
+      "traces"
+    ],
+    "mood": [
+      "restless",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "fragments of MEETING OF THE MOUNTAINS, repeated",
+      "role": "lettering"
+    },
+    "format_notes": "Digital, generated from the line layer of Meeting of the Mountains.",
+    "free_tags": [
+      "generative",
+      "scribble field",
+      "line layer"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "colorlands/meeting-of-the-mountains",
+      "note": "Built from the scribble underlayer of that drawing.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

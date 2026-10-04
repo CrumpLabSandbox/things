@@ -117,7 +117,87 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/scribble/scribble-picture-12.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A photograph of a red brick corner building with a deli on Cortelyou Road in Brooklyn, with the awnings, lamp post, traffic light, a car and a figure outlined as flat cartoon shapes under a bright blue sky, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 2023 at lower right. A curved four storey red brick building with cream stone trim stands on a corner under a clear blue sky, with a fire escape on its left face and a yellow brick building beside it at right. The deli at street level has blue shutters and its awnings are redrawn as flat white and cream shapes; the yellow building's cornice is redrawn in flat colour. A lamp post at left and a traffic light arm with yellow outlined signals are drawn over the photograph. A faceless figure in a white top walks at lower left, another sits in the deli doorway, an outlined grey bin stands by the pole, and a pale cartoon car with a blue window sits at right. The street and crosswalks fill the lower third with faint rainbow tyre marks.",
+    "impression": "The quietest kind of Brooklyn corner, drawn with evident affection: the building is allowed to be itself and the drawing just tidies the awnings and the signals. The wide empty street gives it room to breathe. A portrait of a building more than a scene.",
+    "subjects": [
+      "street",
+      "city",
+      "building",
+      "deli",
+      "lamp post",
+      "traffic lights",
+      "car",
+      "people"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "awning",
+      "fire escape",
+      "traffic light",
+      "outlined car",
+      "bin",
+      "crosswalk",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Cortelyou Road"
+    ],
+    "composition": [
+      "central feature",
+      "street corner",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "red brick and blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "architecture",
+      "daily life"
+    ],
+    "mood": [
+      "calm",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 2023",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "cortelyou",
+      "deli",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,
