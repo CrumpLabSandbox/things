@@ -117,7 +117,94 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/colorlands/colorland-3.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A pastel cartoon valley crowded with rounded domes, huts, pods and small creatures along a winding blue river, under distant mountains and a rising sun.",
+    "description": "A square digital drawing with no border or caption. A blue river enters from the top centre between jagged lilac and blue mountains, passes a yellow rising sun and a small striped planet, and winds down through a valley crammed with rounded forms: pink and orange domes, green mounds, striped pods, igloo like huts with arched doors, egg shaped creatures with single eyes, cones and antennae. At lower left is a large pink mound with a purple rimmed crater, and in the centre right a cluster of white domes like a tent camp. Vehicles with bubble windows and small cars appear at left and lower middle. Tiny figures with hats and eyes populate the river banks. Fills are pastel and lightly textured, and a mesh of faint white scribble lines lies over everything, giving a slightly misty surface.",
+    "impression": "Softer and more uniform than the other Colorlands pieces, this feels like an alien settlement seen at dawn, everything rounded and sleepy under a pale sun. The repeated domes and pods make the valley seem inhabited by one species that builds everything in its own shape. It is easy to imagine it as a map for a game.",
+    "subjects": [
+      "landscape",
+      "river",
+      "mountains",
+      "village",
+      "creatures",
+      "vehicles",
+      "sun",
+      "planet"
+    ],
+    "characters": [
+      "egg creature",
+      "one eyed creature",
+      "antenna blob",
+      "hat wearing figure"
+    ],
+    "elements": [
+      "domed building",
+      "hut",
+      "pod",
+      "arched door",
+      "rising sun",
+      "striped planet",
+      "bubble window vehicle",
+      "puffy cloud",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "river",
+      "village"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "winding path",
+      "dense"
+    ],
+    "line": [
+      "thin black outline",
+      "white scribble overlay",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "pastel",
+      "candy",
+      "misty",
+      "pink and mint"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "map like",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement",
+      "crowded life",
+      "faces in things"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "No border, caption or visible signature; the image runs to the edge.",
+    "free_tags": [
+      "colorland",
+      "unsigned"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

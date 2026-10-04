@@ -119,7 +119,91 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/colorlands/modular.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A tall, extremely dense pastel drawing of an isometric city of synthesizer modules, cables, keyboards and tiny creatures, signed 2021.",
+    "description": "A portrait format digital drawing with white border, title MODULAR at bottom left and signature with 2021 at bottom right. The whole sheet is covered in an isometric tangle of blocks, towers and panels drawn as synthesizer modules: rows of knobs, patch cables looping between units, speaker cones, faders, and at the bottom edge several piano keyboards seen in perspective. Between the modules are tiny houses, a black cat at upper left, a white dove shape at centre, bird like and horned creatures, flames, leaves and clouds. The palette is pale mint, lavender, pink and yellow with almost no dark fills apart from the thin black outlines and the cat, so the picture reads as light and even from a distance and only resolves into objects up close. The outlines are thinner than in the square Colorlands pieces.",
+    "impression": "A modular synthesizer turned into a city, or a city that is secretly a patch. Signal seems to flow along the cables between neighbourhoods. The near white palette makes it feel like a blueprint or a sketch of something that is still being wired up. It rewards slow looking, and it is the most diagram like piece in the series.",
+    "subjects": [
+      "city",
+      "synthesizer",
+      "keyboard",
+      "machinery",
+      "creatures",
+      "houses",
+      "cables"
+    ],
+    "characters": [
+      "cat",
+      "bird creature",
+      "horned creature",
+      "dove"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "patch cables",
+      "knobs",
+      "speaker cone",
+      "piano keys",
+      "windows",
+      "flames"
+    ],
+    "setting": [
+      "invented city",
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "isometric",
+      "dense",
+      "grid like",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "pencil scribble underlayer",
+      "flat fill"
+    ],
+    "color_words": [
+      "pastel",
+      "pale",
+      "low contrast",
+      "mint and lavender"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "diagrammatic",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "music",
+      "machines as places",
+      "systems"
+    ],
+    "mood": [
+      "busy",
+      "calm",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "MODULAR; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Portrait print file with white margin. Signed 2021, file dated 2022. Only portrait piece in the series.",
+    "free_tags": [
+      "signed 2021",
+      "colorland",
+      "synthesizer"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

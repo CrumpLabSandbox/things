@@ -117,7 +117,78 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/desertland/home-bases.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square pastel painting of orange and pink domed pod creatures with many legs and bulbous tops, on a lime green plain among tiny cactus stubs.",
+    "description": "A square painting in flat pastel colour with thin dark outlines. A large orange and coral dome with pink and blue bulbs on its roof and a ring of short legs around its base sits at centre, like a tent or a crab. Smaller pods of the same kind in blue, pink and lime are scattered across a lime green plain dotted with tiny cactus stubs. Behind them rise rounded hills and tall blob shapes in yellow green, pink and lilac, patched with oval windows and bulbs. The sky is a thin strip of pale grey green at the top. The surface is matte.",
+    "impression": "A camp of soft tanks, or hermit crabs who have built their own shells. The title says these are homes, and each pod does look sturdy and settled. The whole plain feels like a village for creatures that never need to leave.",
+    "subjects": [
+      "pods",
+      "creatures",
+      "landscape",
+      "cactus",
+      "hills"
+    ],
+    "characters": [
+      "pod creature",
+      "blob figure"
+    ],
+    "elements": [
+      "dome",
+      "bulb",
+      "legs",
+      "oval patch",
+      "cactus stub"
+    ],
+    "setting": [
+      "invented landscape",
+      "desert",
+      "village"
+    ],
+    "composition": [
+      "central feature",
+      "aerial view",
+      "high horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "lime and orange",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "home",
+      "settlement",
+      "creatures as architecture"
+    ],
+    "mood": [
+      "calm",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, photographed.",
+    "free_tags": [
+      "desertland",
+      "pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

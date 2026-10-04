@@ -119,7 +119,75 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/orgplantic-land.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of green plant like creatures with beaked heads and single eyes, growing from striped mounds under a canopy of beaded, flowing shapes.",
+    "description": "A square oil painting on canvas. The lower half is a thicket of green, teal and lime stalk creatures, each ending in a bulbous head with a single round eye and a beak or tongue, growing from red and green striped mounds along the bottom edge. The upper half is a canopy of flowing leaf and tube shapes edged with strings of tiny coloured beads, in mint, blue, tan and purple, with a few orange and red faces at the top corners. Thick black outlines, strong brushwork, dense all over.",
+    "impression": "A greenhouse where the plants have opinions. The beaded edges make the upper forms look like coral or circuitry, and the eyed stalks below look up at them like a congregation. The title's invented word captures the mix of organ, plant and plastic.",
+    "subjects": [
+      "plants",
+      "creatures",
+      "abstract forms"
+    ],
+    "characters": [
+      "one eyed creature",
+      "stalk creature"
+    ],
+    "elements": [
+      "beaded edge",
+      "striped mound",
+      "tongue",
+      "beak"
+    ],
+    "setting": [
+      "invented landscape",
+      "garden"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "upward growth"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "green dominant",
+      "saturated",
+      "cool"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world",
+      "biomorphic"
+    ],
+    "themes": [
+      "growth",
+      "plants as creatures",
+      "faces in things"
+    ],
+    "mood": [
+      "busy",
+      "whimsical",
+      "lush"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "plant creatures"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

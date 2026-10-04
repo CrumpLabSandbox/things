@@ -119,8 +119,83 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/desertland/in-the-city.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square pastel painting of a city of rounded buildings with white window shapes, cars on a grey road, and blob shaped mountains with pale caps behind.",
+    "description": "A square oil painting on canvas in flat pastel colour with thin dark outlines. Rounded buildings in pink, mint, lilac, orange and lime, each with white blob windows, pack the frame from the lower left to the right edge. A grey road with small rounded cars runs down the left side and across the bottom. Behind the city, pale lilac mountains with white and pink caps and a few eye like patches rise under a soft gradient sky of yellow, pink and blue. The surface is matte and the forms soft, like a city made of pillows.",
+    "impression": "Montreal in West Palm Beach without the beach: the same cheerful tower blocks, now smoothed into marshmallows. The mountains look like they might be sleeping giants. It is a city with no hard corners and no bad weather.",
+    "subjects": [
+      "city",
+      "buildings",
+      "cars",
+      "road",
+      "mountains"
+    ],
+    "characters": [],
+    "elements": [
+      "white blob window",
+      "road",
+      "car",
+      "mountain cap",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented city",
+      "city"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "dense"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "rainbow",
+      "candy",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world",
+      "map like"
+    ],
+    "themes": [
+      "city as toy",
+      "settlement",
+      "softness"
+    ],
+    "mood": [
+      "calm",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, 24 by 24 inches. Photographed.",
+    "free_tags": [
+      "desertland",
+      "soft city"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "commissions/montreal-in-west-palm-beach",
+      "note": "Same rounded tower city language, softened.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

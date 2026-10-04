@@ -117,7 +117,91 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/colorlands/whale-in-the-distance.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A crowded cartoon scene with a pink whale shape in the distance, an elephant trunked creature, a yellow domed building and many horned figures, signed 2021.",
+    "description": "A square digital drawing with white border, hand lettered title at bottom left and signature with 2021 at bottom right. The upper middle holds a large pale pink hump with a dark eye, the whale of the title, rising behind a strip of blue water with a row of coloured stalks planted along the shore. Jagged pink mountains and white puffy clouds fill the top left; a vehicle with a cab and a pink hood sits at upper right. The foreground is a crush of figures: a white elephant trunked creature with eyelashes at centre, a blue horned bull like head beside it, a yellow and green cactus plant, a brown creature on legs at left, a yellow and red domed building with arched windows and a spiral tower at lower left, and tall green stalks and a pink and blue cactus at right. The fills are lighter and more washed than in the other Colorlands pieces and the pencil scribble underlayer is more visible.",
+    "impression": "The whale is enormous and calm, and the crowd in front of it is loud and small, which gives the picture a sense of scale the others in the series do not have. It feels like the moment before something arrives, with everyone turned every which way. The elephant creature in the middle looks straight out as if it is the only one who has noticed the viewer.",
+    "subjects": [
+      "landscape",
+      "whale",
+      "creatures",
+      "buildings",
+      "vehicles",
+      "mountains",
+      "clouds",
+      "cactus"
+    ],
+    "characters": [
+      "elephant trunk creature",
+      "horned creature",
+      "antenna blob",
+      "one eyed creature"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "puffy cloud",
+      "domed building",
+      "arched windows",
+      "stalk trees",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented landscape",
+      "lakeside"
+    ],
+    "composition": [
+      "all over",
+      "central feature",
+      "dense",
+      "layered depth",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "candy",
+      "pastel",
+      "rainbow",
+      "washed"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "crowded life",
+      "scale",
+      "faces in things"
+    ],
+    "mood": [
+      "playful",
+      "busy",
+      "anticipation"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "WHALE IN THE DISTANCE; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Print ready file with white margin, hand lettered caption and signature. Signed 2021, file dated 2022.",
+    "free_tags": [
+      "signed 2021",
+      "colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

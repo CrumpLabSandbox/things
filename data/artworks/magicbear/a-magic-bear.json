@@ -119,7 +119,74 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/magicbear/a-magic-bear.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A red bear with a round open mouth throws its grey arms up behind a thicket of grey green crystal shapes, painted on bare plywood.",
+    "description": "A square panel of unpainted plywood, its grain visible as background. A cartoon bear with a red body, a pink square snout, round eyes with gold irises and a wide open mouth showing a tongue rises from the lower half. Its grey arms are flung up and out with gold paw pads. The lower half is a thicket of grey, green and blue faceted shapes like crystals or city blocks with heavy black outlines and white highlight lines. The bear and shapes are outlined with a white halo against the wood.",
+    "impression": "A bear popping out of a jungle gym of rocks, either delighted or alarmed. The bare wood makes the painting feel like a sign or a toy rather than a window. It is the simplest statement of the magic bear: big mouth, big paws, surprise.",
+    "subjects": [
+      "bear",
+      "crystals",
+      "wood grain"
+    ],
+    "characters": [
+      "magic bear"
+    ],
+    "elements": [
+      "open mouth",
+      "paw",
+      "white halo outline",
+      "bare wood",
+      "facet shapes",
+      "white highlight line"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "figure over pattern",
+      "bare ground"
+    ],
+    "line": [
+      "thick black outline",
+      "white highlight line",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "red and grey",
+      "earth tones",
+      "muted"
+    ],
+    "style": [
+      "cartoon",
+      "graffiti character",
+      "painted on wood"
+    ],
+    "themes": [
+      "surprise",
+      "character study"
+    ],
+    "mood": [
+      "playful",
+      "loud",
+      "startled"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker and paint on raw plywood, wood grain left exposed. Photographed.",
+    "free_tags": [
+      "magic bear",
+      "bare plywood"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

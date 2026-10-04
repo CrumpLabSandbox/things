@@ -119,7 +119,85 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/commissions/cold-lake.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A long wide painting of bubbly graffiti lettering, cartoon faces, trees and a lake, photographed on a wall above a sofa.",
+    "description": "A very wide landscape panel, photographed in a room with a patterned sofa visible along the bottom. The surface is covered edge to edge with fat bubble letters and cartoon imagery in flat colour with black outlines: words and names in orange, green, blue, purple and pink, among them SNOW, TUNES, BEACHES, GOING TO TOWN, DOWNTOWN, WELCOME TO THE MUSIC, CRUMP MOBILE, ROAD, PARK and GCHS. In the centre a blue lake with a sailboat sits under mountains and an orange sun face at upper left; outlined trees, a row of small houses and a bus like vehicle sit at right, and a smiling face peeks from behind a cloud at upper left. The lettering flows around the pictures like a map annotated in graffiti.",
+    "impression": "This looks like a memory map made for someone, where places and private jokes become the landscape itself. The words are the scenery. Reading it is like being told a long story about a town in the fastest possible way, with a cheerful shout in every colour.",
+    "subjects": [
+      "lettering",
+      "landscape",
+      "lake",
+      "mountains",
+      "trees",
+      "houses",
+      "vehicles",
+      "sun",
+      "faces"
+    ],
+    "characters": [
+      "sun face",
+      "smiling face"
+    ],
+    "elements": [
+      "bubble letters",
+      "sailboat",
+      "cloud",
+      "bus",
+      "road"
+    ],
+    "setting": [
+      "invented landscape",
+      "small town"
+    ],
+    "composition": [
+      "all over",
+      "panoramic",
+      "dense",
+      "words as landscape"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "warm"
+    ],
+    "style": [
+      "graffiti",
+      "cartoon",
+      "lettering",
+      "memory map"
+    ],
+    "themes": [
+      "place names",
+      "personal story",
+      "music",
+      "crowded life"
+    ],
+    "mood": [
+      "joyful",
+      "busy",
+      "nostalgic"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Many words and names including SNOW, TUNES, BEACHES, GOING TO TOWN, DOWNTOWN, WELCOME TO THE MUSIC, CRUMP MOBILE, GCHS, ROAD, PARK",
+      "role": "lettering"
+    },
+    "format_notes": "Marker on wood, photographed installed in a room; the sofa and wall are visible. Very wide panel, possibly two sections.",
+    "free_tags": [
+      "commission",
+      "wordscape",
+      "installed photo"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

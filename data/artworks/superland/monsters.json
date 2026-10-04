@@ -119,7 +119,75 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/monsters.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square painting of blue, orange and green monster faces with wide toothy mouths swirling around a central eye, in flat colour with black outlines.",
+    "description": "A square painting with a flat, matte surface. Monster heads with huge open mouths full of white teeth, round eyes and striped bodies spiral around a small blue sphere at centre: a blue monster at centre top, a tan one at left, orange and green ones at the bottom. Small striped figures and tongues squeeze between them. The borders are rows of blocky glyphs and spirals like woven patterns. The palette is blue, orange, olive and red with heavy black outlines and almost no shading.",
+    "impression": "A pile of toothy monsters wrestling in a whirlpool, more comic than frightening. The patterned border makes it feel like a rug or a carved panel. It is the only Superland piece that is all teeth, a tantrum in a square.",
+    "subjects": [
+      "monsters",
+      "faces",
+      "teeth",
+      "patterns"
+    ],
+    "characters": [
+      "toothy monster"
+    ],
+    "elements": [
+      "teeth",
+      "open mouth",
+      "spiral",
+      "glyph border",
+      "tongue"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "radial",
+      "all over",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "saturated",
+      "blue and orange",
+      "bold"
+    ],
+    "style": [
+      "cartoon",
+      "graffiti character",
+      "folk art",
+      "superland world"
+    ],
+    "themes": [
+      "monsters",
+      "chaos",
+      "faces in things"
+    ],
+    "mood": [
+      "chaotic",
+      "playful",
+      "loud"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Photographed at low resolution with a dark edge; surface looks flatter than the other oils.",
+    "free_tags": [
+      "superland",
+      "monsters"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

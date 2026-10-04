@@ -117,7 +117,95 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/colorlands/where-the-valley-turns.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A bright cartoon valley seen from above with a turquoise river winding between rainbow hills, villages, a tiny city and smoke plumes, signed 2022.",
+    "description": "A square digital drawing with a thin white border and small hand lettered title and signature with 2022 below. A wide turquoise river enters at the top centre, widens into a lake in the middle and turns toward the lower left. Hills on both banks are stacked in rounded lobes of pink, orange, lime, purple and blue, each outlined in black, with pencil scribbles visible underneath. On the left bank are red rock cliffs, a pink hilltop fortress with a round tower, a yellow cylinder building and an orange hut with windows. On the right bank a green plateau holds a village of domed huts, with a cluster of pastel skyscrapers in the lower centre and a village of small round houses in the foreground. White smoke columns rise from chimneys, a few creatures with eyes sit in the hills, and horizontal rows of tiny cone trees edge the slopes. The horizon is a thin strip of pale sky at the very top.",
+    "impression": "This is the most map like of the Colorlands pictures, a place you could plausibly walk through, following the river from the far mountains down to the foreground town. The rainbow is organised rather than chaotic: each hill is a single colour, so the valley reads as patchwork farmland. The creatures are fewer and more hidden here, which makes finding them more satisfying.",
+    "subjects": [
+      "landscape",
+      "river",
+      "lake",
+      "mountains",
+      "village",
+      "city",
+      "houses",
+      "trees",
+      "creatures"
+    ],
+    "characters": [
+      "horned creature",
+      "sleepy face"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "smoke plume",
+      "puffy cloud",
+      "domed building",
+      "tower",
+      "cone tree",
+      "windows",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "river",
+      "village"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "winding path",
+      "layered depth",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "saturated",
+      "turquoise"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "map like"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement",
+      "journey",
+      "nature meets built"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "WHERE THE VALLEY TURNS; Matt Crump 2022",
+      "role": "title and signature"
+    },
+    "format_notes": "Print file with narrow white margin and small caption. Signed 2022.",
+    "free_tags": [
+      "signed 2022",
+      "colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

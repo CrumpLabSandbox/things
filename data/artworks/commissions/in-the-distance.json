@@ -119,8 +119,93 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/commissions/in-the-distance.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square oil painting of a pastel valley with striped mountains, a blocky city, airships, and round headed creatures on stepped ground.",
+    "description": "A square oil painting on wood in four panels, with the panel seams faintly visible as a cross. At the top, triangular mountains in pink, lavender and tan under a pale pink sky with a yellow sun. Two green and yellow airships with lenses and nozzles fly at upper left and centre. A blue lake crosses the middle with a row of outlined blocky buildings on its far shore. The lower half is stepped platforms of flat colour, orange, pink, yellow and green, with round headed figures: a blue horned creature at centre, a purple striped quadruped, a pink winged dragon at right, a cluster of white and blue bottle shaped figures at left, and arcing pipes with red bands that emerge from the water. Colours are soft and matte with thin dark outlines.",
+    "impression": "A quieter cousin of the Superland paintings, where the crowd has thinned out and the ground has become terraces. The airships give it a slow, floating feeling, and the little creatures look like they are waiting for something to arrive from the mountains. It reads as a landscape of patient toys.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "lake",
+      "buildings",
+      "creatures",
+      "airship",
+      "sun"
+    ],
+    "characters": [
+      "horned creature",
+      "round headed figure",
+      "dragon",
+      "bottle figure"
+    ],
+    "elements": [
+      "airship",
+      "pipe",
+      "terrace",
+      "windows",
+      "sun",
+      "cloud"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "lakeside"
+    ],
+    "composition": [
+      "layered depth",
+      "mid horizon",
+      "stepped ground",
+      "scattered figures"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "muted",
+      "warm",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "superland world"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "waiting",
+      "machines in nature"
+    ],
+    "mood": [
+      "calm",
+      "whimsical",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, four panels joined; seams visible. Photographed, slight glare.",
+    "free_tags": [
+      "commission",
+      "multi panel"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "superland/the-beginning",
+      "note": "Same creature and landscape language as the Superland oil paintings.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

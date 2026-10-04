@@ -117,7 +117,74 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/commissions/untitled.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A tall graffiti style piece of the names Juliana and Jacob repeated in bubble letters of every colour, with the date August 20th 2022.",
+    "description": "A portrait format spray painted canvas, photographed against a light wall. The whole surface is layered graffiti lettering: the names JULIANA and JACOB repeated in bubble, block and wildstyle letters in gold, orange, pink, lime, blue and silver, each with a black outline and a drop shadow. A cloud shaped tag reads August 20th 2022, the word Silver appears in the middle, and smaller handstyle tags are scattered between the big words. Spiky star bursts, arrows and drips surround the letters, and a soft airbrushed rainbow fog fills the background.",
+    "impression": "A celebration banner in the language of a subway wall. The two names chase each other down the canvas in a dozen outfits, which turns a simple dedication into a game of recognition. It is loud and generous, a party in letters.",
+    "subjects": [
+      "lettering",
+      "names"
+    ],
+    "characters": [],
+    "elements": [
+      "bubble letters",
+      "wildstyle letters",
+      "drop shadow",
+      "arrow",
+      "drip",
+      "star burst",
+      "handstyle tag"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "stacked",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "airbrush gradient",
+      "sprayed"
+    ],
+    "color_words": [
+      "rainbow",
+      "neon",
+      "metallic gold",
+      "saturated"
+    ],
+    "style": [
+      "graffiti",
+      "lettering",
+      "wildstyle"
+    ],
+    "themes": [
+      "celebration",
+      "names",
+      "personal story"
+    ],
+    "mood": [
+      "celebratory",
+      "loud",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "JULIANA, JACOB, August 20th 2022, Silver, plus small tags",
+      "role": "lettering"
+    },
+    "format_notes": "Spray paint on canvas, photographed; the canvas edge and wall are visible.",
+    "free_tags": [
+      "commission",
+      "mitzvah",
+      "names"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -117,7 +117,83 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/desertland/fiona.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square pastel painting of a hillside of lobed trees, rocks and hidden faces descending to a lake, with a sun setting behind clouds.",
+    "description": "A square oil painting in pastel colour with thin dark outlines. A pale blue sky with long outlined clouds and a yellow setting sun sits over a strip of blue water. Below it, bands of cream and yellow fields, then a slope of lobed trees and rounded rocks in peach, mint, lilac and green. In the lower right, large rounded forms carry eyes and mouths, like sleeping faces in the hillside. A lilac disc like a flying saucer or a mushroom cap tilts at upper left, and a cluster of pine like spikes rises at centre. The surface is matte with soft, flat colour.",
+    "impression": "A gentle hillside at sunset that turns out to be full of faces when you look at it long enough. It is quieter than the other Desertland pieces and more like a real landscape, with the hidden creatures as a secret for a patient viewer. The title suggests it was made for someone.",
+    "subjects": [
+      "landscape",
+      "hills",
+      "trees",
+      "lake",
+      "sun",
+      "clouds",
+      "faces"
+    ],
+    "characters": [
+      "sleepy face",
+      "hidden face"
+    ],
+    "elements": [
+      "sunset",
+      "lobed tree",
+      "saucer shape",
+      "pine spikes",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented landscape",
+      "lakeside",
+      "hills"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "peach and mint",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "faces in things",
+      "hidden creatures",
+      "stillness",
+      "sunset"
+    ],
+    "mood": [
+      "calm",
+      "dreamy",
+      "tender"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, photographed. Page title was missing, so the id comes from the file name fiona.",
+    "free_tags": [
+      "desertland",
+      "hidden faces",
+      "named for someone"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

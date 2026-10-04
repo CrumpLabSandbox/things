@@ -119,7 +119,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/almost-blueless-spaceland.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of pastel box shaped machines and pods with faces among orange splashes, almost entirely in pink, yellow, mint and lilac.",
+    "description": "A square oil painting on canvas. Boxy machine forms with rounded corners, portholes and arched windows are stacked across the frame in pink, lilac, mint and peach: a large box with a lilac screen at centre, a tower of blocks at left, a stack of rounded units at right. Small faces look out from arches in several blocks. Orange and red splashes like flames or coral burst between the units, and small spheres float at the top. Only one blue star shaped splash and a blue window break the warm palette. Thick black outlines and juicy brushwork.",
+    "impression": "A space station rendered in sorbet colours, with the machinery looking soft enough to eat. The title is a joke about the palette: nearly no blue, which is unusual for space. It feels warm and cheerful, a factory where nothing could go wrong.",
+    "subjects": [
+      "machinery",
+      "pods",
+      "spheres",
+      "splashes",
+      "faces"
+    ],
+    "characters": [
+      "face in window"
+    ],
+    "elements": [
+      "porthole",
+      "arched window",
+      "splash",
+      "sphere",
+      "screen"
+    ],
+    "setting": [
+      "no place",
+      "space"
+    ],
+    "composition": [
+      "all over",
+      "stacked",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "pink and yellow",
+      "candy"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "machines as places",
+      "imaginary worlds"
+    ],
+    "mood": [
+      "joyful",
+      "calm",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "spaceland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

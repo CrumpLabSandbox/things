@@ -119,7 +119,77 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/the-gathering.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of a crowd of figures with ringed helmet heads standing in a street between buildings, looking up at a sky of pink and yellow stripes.",
+    "description": "A square oil painting on canvas. Eight or nine figures with round helmeted heads ringed in mint, pink and blue, their faces a few hash strokes, stand close together in the lower half, dressed in blue, orange, red and olive coats. Behind them a street of brown and olive buildings with window slots recedes toward a central vanishing point. Above the street, radiating stripes of pink, yellow and blue fan out from the horizon like a sunrise or a stage curtain, with green smoke shapes drifting across. Two small screens with squiggles hang on the buildings. Thick black outlines and visible brushwork.",
+    "impression": "The crowd has stopped in the street to watch something happen in the sky, and the viewer stands among them. The fanned stripes could be dawn, an aurora, or a signal. It is the most cinematic Superland painting: a moment of shared attention.",
+    "subjects": [
+      "crowd",
+      "street",
+      "buildings",
+      "sky"
+    ],
+    "characters": [
+      "helmeted figure",
+      "hash face"
+    ],
+    "elements": [
+      "ringed helmet",
+      "radiating stripes",
+      "windows",
+      "screen",
+      "smoke"
+    ],
+    "setting": [
+      "invented city",
+      "street"
+    ],
+    "composition": [
+      "one point perspective",
+      "crowd in foreground",
+      "radial sky"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "saturated",
+      "warm",
+      "pink and olive"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "gathering",
+      "watching",
+      "crowded life",
+      "anticipation"
+    ],
+    "mood": [
+      "anticipation",
+      "calm",
+      "solemn"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "helmets"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

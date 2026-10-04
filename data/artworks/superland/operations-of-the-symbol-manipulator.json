@@ -119,7 +119,84 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/operations-of-the-symbol-manipulator.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of a pastel city of blocks marked with hash symbols, where globe headed figures and robot heads operate among splashes and spheres.",
+    "description": "A square oil painting on canvas. A city of stacked pastel blocks with window slots fills the lower two thirds, many blocks carrying small hash and bracket symbols like glyphs. Figures with striped globe heads stand on the rooftops and in the streets, and two large rounded robot heads with glyph eyes look out, one at centre left with a mint face and one at lower right in green and purple. A boxy machine with a screen face hangs at upper left, a red and blue vehicle with a round window at upper right, and the sky is full of orange, red and blue splashes with striped spheres. Thick black outlines and rich brushwork.",
+    "impression": "A city that runs on symbols: the glyphs on the walls are the operations and the robot heads are the manipulators. It is a cognitive science joke painted as a toy town, with the little globe headed citizens as the data. The splashes overhead look like thoughts popping.",
+    "subjects": [
+      "city",
+      "robots",
+      "figures",
+      "machinery",
+      "splashes",
+      "spheres",
+      "symbols"
+    ],
+    "characters": [
+      "globe headed figure",
+      "robot head",
+      "hash face"
+    ],
+    "elements": [
+      "glyph",
+      "hash marks",
+      "windows",
+      "splash",
+      "striped ball",
+      "screen"
+    ],
+    "setting": [
+      "invented city"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "stacked",
+      "layered depth"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "pastel",
+      "saturated",
+      "rainbow"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world",
+      "seek and find density"
+    ],
+    "themes": [
+      "symbols",
+      "mind",
+      "systems",
+      "machines as places",
+      "crowded life"
+    ],
+    "mood": [
+      "busy",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "glyph like hash and bracket marks on the blocks",
+      "role": "symbols"
+    },
+    "format_notes": "Oil on canvas, photographed. Title refers to the symbol manipulation idea in cognitive science.",
+    "free_tags": [
+      "superland",
+      "globe heads",
+      "symbols"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

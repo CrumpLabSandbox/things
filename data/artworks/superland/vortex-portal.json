@@ -119,7 +119,74 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/vortex-portal.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square painting of a striped tower rising from a machine with three round lenses, surrounded by splashes of spheres against a dark blue sky.",
+    "description": "A square oil painting on canvas. A dark navy sky fills the top, spattered with pink, orange and blue splash shapes that each hold a striped sphere, on long wavy stalks. In the centre a tall striped tower, like a stack of decks with windows, rises from a boxy machine at the bottom with three large round lenses in blue, pink and green. Boxy buildings with window slots crowd the sides, and orange and pink splashes lap the lower corners. Thick black outlines and bright flat fills.",
+    "impression": "A night launch or a carnival ride: the tower is both rocket and lighthouse, and the spheres in the sky are fireworks frozen mid burst. The darkness is unusual for the series and makes the colours glow. The three lenses at the base stare out like headlights.",
+    "subjects": [
+      "tower",
+      "machinery",
+      "spheres",
+      "splashes",
+      "buildings",
+      "night sky"
+    ],
+    "characters": [],
+    "elements": [
+      "striped ball",
+      "splash",
+      "lens",
+      "windows",
+      "stalk"
+    ],
+    "setting": [
+      "invented city",
+      "night"
+    ],
+    "composition": [
+      "central feature",
+      "vertical",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "painted"
+    ],
+    "color_words": [
+      "dark background",
+      "saturated",
+      "neon on navy"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "machines as places",
+      "portals",
+      "night"
+    ],
+    "mood": [
+      "energetic",
+      "mysterious",
+      "celebratory"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed at low resolution.",
+    "free_tags": [
+      "superland",
+      "night scene"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

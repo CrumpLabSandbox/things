@@ -117,7 +117,77 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/desertland/off-to-work.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square pastel painting of knobbly pink, green and orange tower creatures and flying pods against a blue sky, over a pink plain of small figures.",
+    "description": "A square oil painting in flat pastel colour with thin dark outlines. Tall knobbly forms like cactus towers or standing creatures in green, pink, orange and lilac rise on the right, covered in rounded bumps and oval patches. Two flying pods with pointed noses and bumpy bodies cross the blue sky at upper left, and a third flies lower. The lower half is a pink and salmon plain crowded with small rounded figures with dot limbs, like a commuting crowd. The surface is matte.",
+    "impression": "Morning rush in Desertland: the pods are the buses and the bumpy towers are the office blocks. The crowd on the pink plain all seem to face the same direction. It is cheerful about something most people are not cheerful about.",
+    "subjects": [
+      "creatures",
+      "flying pods",
+      "crowd",
+      "landscape",
+      "towers"
+    ],
+    "characters": [
+      "blob figure",
+      "pod creature",
+      "cactus figure"
+    ],
+    "elements": [
+      "bump",
+      "oval patch",
+      "flying pod",
+      "rows of tiny figures"
+    ],
+    "setting": [
+      "invented landscape",
+      "desert"
+    ],
+    "composition": [
+      "layered depth",
+      "mid horizon",
+      "dense foreground"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "pink and green",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "work",
+      "commuting",
+      "crowded life"
+    ],
+    "mood": [
+      "calm",
+      "busy",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, photographed.",
+    "free_tags": [
+      "desertland",
+      "pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

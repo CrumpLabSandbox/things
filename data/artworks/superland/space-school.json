@@ -119,7 +119,79 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/space-school.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of hooded figures with pod shaped heads crowding below a chalkboard screen, while a purple helmeted figure stands on a platform at right.",
+    "description": "A square oil painting on canvas. The lower half is a crowd of hooded figures seen from behind, each a rounded pod shape in olive, orange, blue, pink and green with a visor like opening and heavy black outlines. They face a large framed panel at upper left that shows an interior scene of a figure in a doorway with a globe above it, like a screen or a window. At upper right, a figure in a purple hooded suit with a smiling face stands on a raised platform, pointing, beside a wall with a clock and dials. The space between is divided into coloured panels. Brushwork is visible and the palette is muted purple, olive and orange.",
+    "impression": "A lesson is happening and the class is a crowd of identical hooded pupils, all turned toward the screen. The teacher on the platform looks like an astronaut cheerleader. It plays on the strangeness of a room full of backs of heads, which is what school looks like from the back row.",
+    "subjects": [
+      "crowd",
+      "figures",
+      "interior",
+      "screen",
+      "clock"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "helmeted figure"
+    ],
+    "elements": [
+      "visor",
+      "platform",
+      "clock",
+      "globe",
+      "doorway",
+      "dials"
+    ],
+    "setting": [
+      "interior",
+      "classroom"
+    ],
+    "composition": [
+      "crowd from behind",
+      "dense",
+      "mid horizon",
+      "picture within picture"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "muted",
+      "earth tones",
+      "purple and olive"
+    ],
+    "style": [
+      "cartoon",
+      "cubist",
+      "superland world"
+    ],
+    "themes": [
+      "crowded life",
+      "learning",
+      "watching"
+    ],
+    "mood": [
+      "busy",
+      "whimsical",
+      "uneasy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "hooded figures"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

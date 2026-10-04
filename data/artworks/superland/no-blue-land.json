@@ -119,8 +119,84 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/no-blue-land.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square oil painting of pastel pink, peach, mint and lilac blocks, grid spheres and splash shapes, with small faces in windows and no blue anywhere.",
+    "description": "A square oil painting on canvas. Rounded blocks and machine forms in pink, peach, mint, lilac and mustard are stacked from the lower left, with window slots, portholes and a small figure with a hooded head in a window at lower left. Grid patterned spheres, one large at left and smaller ones scattered, float among coral or splash shapes in the upper half. A curved rail or track sweeps from the left sphere down into the blocks. A small scrawl of hash marks sits at upper right. Thick black outlines and visible brushwork. The palette avoids blue entirely.",
+    "impression": "A companion to Almost Blueless Spaceland, this time with the blue removed completely, so everything is warm and powdery like a pastry shop. The grid spheres are the only hard geometry in a world of soft blocks. It feels like a quiet corner of the Superland factory.",
+    "subjects": [
+      "machinery",
+      "blocks",
+      "spheres",
+      "splashes",
+      "faces"
+    ],
+    "characters": [
+      "face in window",
+      "hooded pod figure"
+    ],
+    "elements": [
+      "grid sphere",
+      "porthole",
+      "splash",
+      "rail",
+      "hash marks",
+      "windows"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "stacked",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "pink and mint",
+      "no blue"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "machines as places",
+      "palette constraint"
+    ],
+    "mood": [
+      "calm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "small hash scrawl at upper right",
+      "role": "symbols"
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "palette constraint"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "superland/almost-blueless-spaceland",
+      "note": "Both are palette constraint pieces about leaving out blue.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

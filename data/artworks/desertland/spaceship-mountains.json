@@ -117,7 +117,79 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/desertland/spaceship-mountains.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square pastel painting of lobed pink, orange and lilac mountains with flying pods, over green fields dotted with small figures, signed crump.",
+    "description": "A square oil painting in flat pastel colour with thin dark outlines, signed crump at lower left. A large pink and orange lobed mountain with a cream face like patch rises at upper right, and a lilac and pink pod shaped form with a pointed nose hovers at upper left like a spaceship. Two smaller green pods fly between them under outlined clouds. Below, rolling fields in lime, mint and salmon are dotted with rows of tiny figures and rounded rocks, with a lilac boulder at lower left. The surface is matte and the forms soft.",
+    "impression": "Mountains that might be ships, or ships that might be mountains, both hovering over a field of tiny onlookers. The ambiguity is the point. It has the quiet of a landscape and the suspense of an arrival.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "flying pods",
+      "fields",
+      "figures",
+      "clouds"
+    ],
+    "characters": [
+      "blob figure",
+      "pod creature"
+    ],
+    "elements": [
+      "flying pod",
+      "oval patch",
+      "cloud",
+      "boulder",
+      "rows of tiny figures",
+      "signature"
+    ],
+    "setting": [
+      "invented landscape",
+      "fields"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "pink and lime",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "arrival",
+      "ambiguity",
+      "imaginary worlds"
+    ],
+    "mood": [
+      "calm",
+      "anticipation",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "crump",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, photographed. Signature at lower left.",
+    "free_tags": [
+      "desertland",
+      "pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -119,8 +119,107 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/commissions/where-the-magic-bears-live.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A wide painting of a pastel valley full of one eyed blob creatures, a faceted crystal mountain, a blocky city, flying saucers and a setting sun.",
+    "description": "A wide oil painting on wood in several panels. A deep blue sky at top fades to a sunset band where a yellow half sun sits on a strip of sea. Flying saucers and winged ships, each with a single eye, hover among outlined clouds at upper left, and a tall cream robot like tower stands at the far left edge. On the right a mountain made of pastel facets like a cut gem rises behind the plain. Below, a blocky pastel city with many windows sits on a hill at left, a river winds through green and orange fields, and dozens of rounded creatures with one large white eye, in blue, pink, orange, yellow and green, stand around the valley. Two larger figures, one blue and one orange, sit near a small island with a flame at lower centre, and a huge pink and red creature with a white eye and antlers occupies the lower right. Thin dark outlines, matte pastel fills.",
+    "impression": "This is the whole Superland cast assembled for a group photo in their valley, with the city, the saucers and the gem mountain as landmarks. The one eyed creatures stand like a patient audience watching the sun go down. It is tender rather than chaotic, a settled world where everybody has a place to stand.",
+    "subjects": [
+      "landscape",
+      "creatures",
+      "city",
+      "mountains",
+      "sun",
+      "sea",
+      "river",
+      "flying saucers",
+      "clouds"
+    ],
+    "characters": [
+      "one eyed creature",
+      "bear",
+      "antlered creature",
+      "flying saucer with eye",
+      "robot tower"
+    ],
+    "elements": [
+      "sunset",
+      "faceted mountain",
+      "flame",
+      "island",
+      "windows",
+      "cloud",
+      "lollipop tree"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "city on horizon"
+    ],
+    "composition": [
+      "aerial view",
+      "panoramic",
+      "mid horizon",
+      "dense",
+      "layered depth"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "muted",
+      "rainbow",
+      "sunset"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "superland world"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "community",
+      "gathering",
+      "home"
+    ],
+    "mood": [
+      "calm",
+      "tender",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "small signature at lower right",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood in multiple panels; seams visible. Photographed.",
+    "free_tags": [
+      "commission",
+      "superland world",
+      "magic bear",
+      "multi panel"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "superland/the-beginning",
+      "note": "The one eyed blob creatures of the Superland paintings.",
+      "source": "described"
+    },
+    {
+      "type": "revisits",
+      "target": "magicbear/a-magic-bear",
+      "note": "Title refers to the magic bear character.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

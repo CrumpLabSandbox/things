@@ -119,7 +119,85 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/magicbear/magic-bear-and-the-master-blaster.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A long wide panel crammed with cartoon faces, bubble letters, trees, a tooth, a robot and a bear, in flat colour on wood.",
+    "description": "A very wide panel in marker and paint on wood, photographed on a wall. Hundreds of bubble letter words and cartoon characters are packed edge to edge: a toothy grinning face at lower left giving a thumbs up, a tree with exposed roots at centre right, a white tooth shaped figure with a red mouth at upper left, a white robot with a grimacing mouth and a long arm at right, planets and a 5 and 6 at the top. Readable fragments include MAGIC, SPACESHIP, WIZARD, GROW, NEVER, ROBOT, MOUNTAIN, CITY, POWER, SUPER DIRT, BEAR and GRUMP. Fills are orange, olive, purple, red and blue with the wood grain showing in places.",
+    "impression": "This is a wall of noise in the best sense, like a notebook margin that took over the whole desk. The words and faces interrupt each other, so reading it is a scavenger hunt. The bear is in there somewhere, which is part of the game.",
+    "subjects": [
+      "lettering",
+      "faces",
+      "robot",
+      "tree",
+      "bear",
+      "planets"
+    ],
+    "characters": [
+      "magic bear",
+      "robot",
+      "grinning face",
+      "tooth figure",
+      "sun face"
+    ],
+    "elements": [
+      "bubble letters",
+      "tree roots",
+      "thumbs up",
+      "planet",
+      "numbers"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "panoramic",
+      "dense",
+      "words as landscape"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "saturated",
+      "warm",
+      "earth tones",
+      "rainbow"
+    ],
+    "style": [
+      "graffiti",
+      "cartoon",
+      "lettering",
+      "doodle",
+      "seek and find density"
+    ],
+    "themes": [
+      "character story",
+      "words as pictures",
+      "crowded life"
+    ],
+    "mood": [
+      "busy",
+      "loud",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "MAGIC, SPACESHIP, WIZARD, GROW, NEVER, ROBOT, MOUNTAIN, CITY, POWER, SUPER DIRT, BEAR, GRUMP and many more fragments",
+      "role": "lettering"
+    },
+    "format_notes": "Marker on wood, very wide panel, photographed leaning against a wall with the ground visible below.",
+    "free_tags": [
+      "magic bear",
+      "wordscape",
+      "installed photo"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

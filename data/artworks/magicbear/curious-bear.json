@@ -119,7 +119,80 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/magicbear/curious-bear.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A wide painting of a blue bear floating among bubble letters that read Curious Bear Can't Stop, with grey faced creatures and a spaceship.",
+    "description": "A wide panel in flat acrylic with black outlines. A blue bear with a grey square face, red mouth and raised arms floats in the upper middle on a white cloud. Around it, fat bubble letters in orange, green, purple and pink spell phrases such as CURIOUS BEAR, CAN'T STOP, THE, ALL, FLY THE, OUT, WATCH and BOOF. At lower left a second grey faced bear hugs a pink cake like object; a small spaceship with portholes sits at centre right; and a white robot head on a blue body stands at far right. Colours are saturated and flat, with hints of the wood ground showing through.",
+    "impression": "A comic page compressed into one frame, with the lettering doing the shouting. The bear seems to be in mid flight and mid sentence. The phrases are fragments, so the viewer builds the story: a bear that cannot stop, something to watch out for, a rocket to catch.",
+    "subjects": [
+      "bear",
+      "lettering",
+      "spaceship",
+      "robot",
+      "clouds"
+    ],
+    "characters": [
+      "magic bear",
+      "curious bear",
+      "robot",
+      "grey faced creature"
+    ],
+    "elements": [
+      "bubble letters",
+      "cloud",
+      "spaceship",
+      "porthole",
+      "cake"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "central figure",
+      "dense",
+      "words as landscape"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "warm"
+    ],
+    "style": [
+      "graffiti",
+      "cartoon",
+      "lettering",
+      "comic"
+    ],
+    "themes": [
+      "character story",
+      "flight",
+      "words as pictures"
+    ],
+    "mood": [
+      "playful",
+      "loud",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CURIOUS BEAR CAN'T STOP, THE, ALL, FLY THE, OUT, WATCH, BOOF and other fragments",
+      "role": "lettering"
+    },
+    "format_notes": "Acrylic on wood panel, photographed with slight glare at left.",
+    "free_tags": [
+      "magic bear",
+      "wordscape"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

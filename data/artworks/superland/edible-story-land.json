@@ -119,7 +119,77 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/edible-story-land.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of a pink figure with a hash face scattering red drops over big round faces and small globe headed children, in bold rainbow segments.",
+    "description": "A square oil painting on canvas. A tall pink figure with a cream round face marked with hash eyes, a striped headband and a blue striped body stands at upper centre, arms spread, scattering red and orange teardrops, with a small grey faced figure at its left shoulder. Below, three large rounded faces with hash eyes and striped rims sit like domes or heads, and small figures with striped globe heads and pod bodies stand in front of them. The ground and sky are segmented into bold wedges of blue, green, yellow, red and purple. Thick black outlines and visible brushwork.",
+    "impression": "A giant seems to be feeding or blessing the crowd with drops of something sweet, and the title says it is food. The big dome faces are either audience or dessert. It is a feast and a sermon at once, in the colours of a stained glass window.",
+    "subjects": [
+      "figures",
+      "faces",
+      "crowd",
+      "drops"
+    ],
+    "characters": [
+      "hash face",
+      "globe headed figure",
+      "giant figure"
+    ],
+    "elements": [
+      "teardrop",
+      "striped rim",
+      "headband",
+      "radiating wedges"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "dense",
+      "giant faces"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "bold"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world",
+      "stained glass"
+    ],
+    "themes": [
+      "food",
+      "giving",
+      "crowded life",
+      "faces in things"
+    ],
+    "mood": [
+      "celebratory",
+      "playful",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "globe heads"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

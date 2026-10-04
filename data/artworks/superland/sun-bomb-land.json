@@ -119,7 +119,83 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/sun-bomb-land.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A wide, very dense oil painting of a crowd of globe headed figures in a city street under an exploding orange sun face, planets and ribbons of colour.",
+    "description": "A landscape format oil painting on canvas. A city of towers and blocks in every colour frames a street crowded with small figures whose round heads carry hash faces and striped helmets, standing on map tile ground. At upper left an orange sun with a scrawled face bursts in a jagged flare; a blue planet and a white sphere float beside it. Ribbons of pink, blue and green stripe the sky, and strings of tiny figures and spheres hang from rods across the top. Large rounded faces and pods crowd the right edge. Thick black outlines over saturated colour with heavy brushwork.",
+    "impression": "The sun has gone off like a bomb and nobody in the crowd seems to mind; they go on standing in the street. It is the busiest of the Superland paintings and reads as a festival, an apocalypse, or both. The ribbons tie the sky to the ground like bunting.",
+    "subjects": [
+      "crowd",
+      "city",
+      "sun face",
+      "planets",
+      "spheres",
+      "towers"
+    ],
+    "characters": [
+      "globe headed figure",
+      "hash face",
+      "sun face",
+      "helmeted figure"
+    ],
+    "elements": [
+      "explosion",
+      "ribbon",
+      "map tiles",
+      "striped ball",
+      "windows",
+      "rod"
+    ],
+    "setting": [
+      "invented city",
+      "street"
+    ],
+    "composition": [
+      "all over",
+      "panoramic",
+      "dense",
+      "layered depth"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "bold"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "catastrophe as festival",
+      "faces in things"
+    ],
+    "mood": [
+      "busy",
+      "celebratory",
+      "chaotic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, landscape format, photographed.",
+    "free_tags": [
+      "superland",
+      "globe heads"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

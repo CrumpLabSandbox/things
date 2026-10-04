@@ -119,7 +119,86 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/commissions/montreal-in-west-palm-beach.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A wide painting of a rainbow coloured city of outlined towers beside a beach and a swirling blue sea, with green parkland behind.",
+    "description": "A wide landscape painting in oil on wood, with faint panel seams. A city of simple outlined towers in every colour, pink, orange, lime, blue and purple, fills the left two thirds, with a large striped drum shaped stadium at left, an oval domed building, and a few recognisable tall spires. Rows of round trees and lollipop trees fill the streets, and a pale river or road curves through the middle. On the right a cream beach with scalloped white surf meets a sea rendered as wavy bands of blue, teal and green. Behind the city, striped fields and clouds roll to the horizon under a pale sky. The forms are flat and outlined in thin brown line, with soft colour gradients inside each block.",
+    "impression": "The title explains the joke: a northern city dropped on a Florida beach, with everything made cheerful and toy sized. It has the feel of a souvenir postcard painted from memory. The stadium and the spires are the clues that it is somewhere real, while the colours insist it is not.",
+    "subjects": [
+      "city",
+      "skyscrapers",
+      "beach",
+      "sea",
+      "trees",
+      "stadium",
+      "river"
+    ],
+    "characters": [],
+    "elements": [
+      "windows",
+      "stadium",
+      "dome",
+      "lollipop tree",
+      "surf",
+      "wave bands",
+      "cloud"
+    ],
+    "setting": [
+      "real city reimagined",
+      "coast",
+      "city"
+    ],
+    "composition": [
+      "aerial view",
+      "panoramic",
+      "high horizon",
+      "dense"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "soft shading",
+      "painted"
+    ],
+    "color_words": [
+      "rainbow",
+      "pastel",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "map like",
+      "folk art"
+    ],
+    "themes": [
+      "place",
+      "city as toy",
+      "travel",
+      "memory"
+    ],
+    "mood": [
+      "joyful",
+      "calm",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood panels; seams visible. Photographed with slight perspective.",
+    "free_tags": [
+      "commission",
+      "montreal",
+      "west palm beach",
+      "multi panel"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

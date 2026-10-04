@@ -119,7 +119,71 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/the-beginning.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of a blue ringed circle with a scrawled face at centre, surrounded by radiating olive, orange and pink forms, bottles and small cubes.",
+    "description": "A square oil painting on canvas. A large circle with a blue rim of dots and a cream centre carrying a few black strokes for a face sits left of centre. Around it radiate tall tapering forms in olive, mustard, pink and orange with white highlight lines, like bottles, feathers or towers, and small cubes with faces float at upper right. The background is pale grey blue at left and pink at right. Thick black outlines and visible brush texture.",
+    "impression": "A sun with a doodled face, or a seed opening. The title says beginning and the shapes do look like they are being born outward from the centre. It sets the Superland vocabulary of round heads, hash faces and radiating forms in one image.",
+    "subjects": [
+      "abstract forms",
+      "sun face",
+      "cubes"
+    ],
+    "characters": [
+      "hash face"
+    ],
+    "elements": [
+      "dotted ring",
+      "white highlight line",
+      "cube",
+      "tapering form"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "radial",
+      "central feature"
+    ],
+    "line": [
+      "thick black outline",
+      "white highlight line",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "muted",
+      "earth tones",
+      "pastel"
+    ],
+    "style": [
+      "abstract",
+      "cubist",
+      "superland world"
+    ],
+    "themes": [
+      "origins",
+      "growth",
+      "faces in things"
+    ],
+    "mood": [
+      "calm",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "radial"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

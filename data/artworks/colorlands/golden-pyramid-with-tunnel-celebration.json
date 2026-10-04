@@ -117,7 +117,89 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/colorlands/golden-pyramid-with-tunnel-celebration.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A crowded cartoon valley of horned creatures, a golden pyramid, a tunnel and a stream, in candy colours with heavy black outlines, signed 2021.",
+    "description": "A square digital drawing with white border, hand lettered title at bottom left and signature with 2021 at bottom right. A pale lime sky sits above a jumble of forms. At upper centre a golden pyramid with a dark cave or tunnel opening sits behind a blue stream that curves down from a waterfall at centre left. Tall green stalks like palm trunks rise at top left; a pair of teal rings loops in the sky. Figures with horns, antennae and single eyes crowd every edge: a striped totem like head at upper left, an orange and pink horned creature at centre, a blue rabbit eared figure at right, a reclining pink creature at lower centre, and a large blue blob with a toothy grin at lower left. The colours are mostly unmixed pinks, greens, oranges and purples, with loose pencil scribbles visible under and around the fills.",
+    "impression": "The title says celebration and it looks like one: the pyramid is the centrepiece and everyone has come to see the tunnel opened. The figures seem to be mid gesture, waving limbs or craning necks, and the stream acts like a parade route through the middle. It feels like a myth drawn by someone who was making the myth up as they went, with the tunnel as the mysterious thing nobody explains.",
+    "subjects": [
+      "landscape",
+      "pyramid",
+      "tunnel",
+      "creatures",
+      "waterfall",
+      "river",
+      "trees"
+    ],
+    "characters": [
+      "horned creature",
+      "antenna blob",
+      "one eyed creature",
+      "rabbit eared figure",
+      "grinning blob"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "waterfall",
+      "ring in sky",
+      "eyes in things",
+      "stalk trees"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley"
+    ],
+    "composition": [
+      "all over",
+      "central feature",
+      "dense",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "saturated",
+      "pastel sky"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "crowded life",
+      "gathering",
+      "faces in things"
+    ],
+    "mood": [
+      "playful",
+      "celebratory",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "GOLDEN PYRAMID WITH TUNNEL CELEBRATION; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Print ready file with white margin, hand lettered caption and signature. Signed 2021, file dated 2022.",
+    "free_tags": [
+      "signed 2021",
+      "colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

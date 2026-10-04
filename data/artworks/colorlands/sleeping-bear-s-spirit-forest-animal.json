@@ -117,8 +117,105 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/colorlands/sleeping-bear-s-spirit-forest-animal.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A candy coloured cartoon valley seen from above, full of horned creatures, smoke, lakes and small houses, with heavy black outlines, signed 2021.",
+    "description": "A square digital drawing with white border, hand lettered title at bottom left and signature with 2021 at bottom right. A thin strip of pale sky and distant mountain line runs along the top; below it a flat lake with wavy reflections and then a steep descent of hills in green, pink, orange and purple. The lower two thirds are packed with forms: a large grey and blue creature with a red horn and a wide mouth at lower left, a pink and green monster face with bared teeth at centre, white smoke plumes rising from chimneys, a small framed landscape picture held inside a creature at right, a green hand like plant waving at upper right, a pink camper van with bulbous windows near the lower right corner, and rows of cone trees and tiny houses along the right slope. Faint pencil scribbles show through the flat fills.",
+    "impression": "The title suggests a dream, and the picture behaves like one: a landscape that keeps turning into animals the longer you look. The big grey creature at lower left seems to be the sleeper, and everything uphill from it could be what it is dreaming. The little framed landscape at right is a picture inside the picture, a quiet joke about the whole thing being imagined.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "lake",
+      "creatures",
+      "houses",
+      "trees",
+      "vehicles"
+    ],
+    "characters": [
+      "horned creature",
+      "monster face",
+      "sleepy face",
+      "antenna blob",
+      "bear"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "smoke plume",
+      "puffy cloud",
+      "picture within picture",
+      "cone tree",
+      "camper van",
+      "eyes in things",
+      "teeth"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "lakeside"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense",
+      "layered depth",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "saturated",
+      "lime green"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "crowded life",
+      "dreams",
+      "faces in things",
+      "animals as landscape"
+    ],
+    "mood": [
+      "playful",
+      "busy",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "SLEEPING BEAR'S SPIRIT FOREST ANIMAL; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Print ready file with white margin, hand lettered caption and signature. Signed 2021, file dated 2022. Title echoes the earlier Magic Bear paintings.",
+    "free_tags": [
+      "signed 2021",
+      "colorland",
+      "bear reference"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "magicbear/a-magic-bear",
+      "note": "Title refers back to the bear character of the Magicbear series.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

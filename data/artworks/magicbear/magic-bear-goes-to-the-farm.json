@@ -119,7 +119,81 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/magicbear/magic-bear-goes-to-the-farm.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square marker drawing on wood packed with cartoon faces, carrots, a spaceship and bubble letters including Magic Bear Goes To The Farm.",
+    "description": "A square panel in marker on wood with the grain showing through. Bubble letters and faces fill every inch: SHIP on a blue rocket at top centre, MAGIC at upper left, HELLO, FUTURE, RIGHT, SMILE and CARROT FARM in the middle and lower left, and MAGIC BEAR GOES TO THE FARM in the lower centre on a blue and orange face. Characters include a tan bear face with a wide red mouth at upper left, a blue faced creature with a red tongue in the centre, a bulb eyed face at lower right, an orange creature at lower right, and a leaning tree at centre right. A row of carrots in pots sits at the bottom left. Colours are olive, tan, blue, red and orange in matte marker.",
+    "impression": "A trip to a farm told as a tangle of signs and faces, where the carrots are the only calm thing. The muted marker colours and the wood ground give it a homemade, hand carved feel, like a pub sign for an imaginary place.",
+    "subjects": [
+      "lettering",
+      "faces",
+      "bear",
+      "carrots",
+      "spaceship",
+      "tree"
+    ],
+    "characters": [
+      "magic bear",
+      "blue faced creature",
+      "bulb eyed face"
+    ],
+    "elements": [
+      "bubble letters",
+      "carrot",
+      "rocket",
+      "tree",
+      "bare wood"
+    ],
+    "setting": [
+      "no place",
+      "farm"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "words as landscape"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker"
+    ],
+    "color_words": [
+      "muted",
+      "earth tones",
+      "warm"
+    ],
+    "style": [
+      "graffiti",
+      "cartoon",
+      "lettering",
+      "doodle",
+      "seek and find density"
+    ],
+    "themes": [
+      "character story",
+      "words as pictures",
+      "crowded life"
+    ],
+    "mood": [
+      "busy",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "MAGIC BEAR GOES TO THE FARM, SHIP, HELLO, FUTURE, RIGHT, SMILE, CARROT FARM and more",
+      "role": "lettering"
+    },
+    "format_notes": "Marker on raw wood, grain visible. Photographed.",
+    "free_tags": [
+      "magic bear",
+      "wordscape",
+      "bare plywood"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

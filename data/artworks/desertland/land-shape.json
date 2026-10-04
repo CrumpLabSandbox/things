@@ -119,7 +119,75 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/desertland/land-shape.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A small square pastel painting of rounded hills and blob creatures by a blue river, with a flying pod and rows of tiny figures.",
+    "description": "A square oil painting on wood, photographed at very low resolution. Rounded pastel hills in orange, pink, green and lilac rise at the top, with a few eye like patches. A blue river curves across the middle, and a flying pod with a pointed nose hovers at upper right. The lower half is a plain of lime and salmon with rows of tiny figures and larger blob creatures in orange, blue and green with small limbs. Thin dark outlines and matte colour.",
+    "impression": "A cousin of the other Desertland scenes with the crowd thinned to a few blobs by a river. The flying pod gives it a sense of visitors arriving. Hard to say more from the small photograph.",
+    "subjects": [
+      "landscape",
+      "hills",
+      "river",
+      "creatures",
+      "flying pod"
+    ],
+    "characters": [
+      "blob figure",
+      "pod creature"
+    ],
+    "elements": [
+      "river",
+      "flying pod",
+      "oval patch",
+      "rows of tiny figures"
+    ],
+    "setting": [
+      "invented landscape",
+      "desert",
+      "river"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement"
+    ],
+    "mood": [
+      "calm",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, 18 by 18 inches. Only a 256 pixel photograph exists, so details are uncertain.",
+    "free_tags": [
+      "desertland",
+      "low resolution source"
+    ],
+    "confidence": "low",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

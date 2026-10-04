@@ -119,7 +119,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/magicbear/curious-bear-and-the-danger-zone.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square painting of bubble letters reading Danger Zone, Home Base, Magic Bear Fly and Super Power around a blue bear leaping with a sword, in flat purple, orange and green.",
+    "description": "A square acrylic painting on wood. Bubble letters in purple, orange, green and pink fill the frame: DANGER ZONE across the top, HOME BASE in a yellow star burst at upper left, MAGIC BEAR FLY and SUPER POWER through the middle, and FLY and ROUTE at right. A blue bear figure with a white face and red mouth leaps across the lower right on a white cloud; a small orange creature with a red bulb nose and an arm holding a stick sits at lower left among grey smoke puffs. The colours are flat and the outlines thick.",
+    "impression": "A superhero splash page: the bear has a home base, a danger zone and a super power, and the picture is the moment it launches. The lettering works as sound effects. It is cheerful in a loud, kids on a sugar high way.",
+    "subjects": [
+      "bear",
+      "lettering",
+      "clouds"
+    ],
+    "characters": [
+      "magic bear",
+      "curious bear",
+      "bulb nosed creature"
+    ],
+    "elements": [
+      "bubble letters",
+      "star burst",
+      "cloud",
+      "smoke puff"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "words as landscape"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "saturated",
+      "purple and orange",
+      "warm"
+    ],
+    "style": [
+      "graffiti",
+      "cartoon",
+      "lettering",
+      "comic"
+    ],
+    "themes": [
+      "character story",
+      "super powers",
+      "flight",
+      "words as pictures"
+    ],
+    "mood": [
+      "playful",
+      "loud",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "DANGER ZONE, HOME BASE, MAGIC BEAR FLY, SUPER POWER, FLY, ROUTE",
+      "role": "lettering"
+    },
+    "format_notes": "Acrylic on wood panel, photographed.",
+    "free_tags": [
+      "magic bear",
+      "wordscape"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

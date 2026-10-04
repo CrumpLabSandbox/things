@@ -117,7 +117,77 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/desertland/cactus-desert-land.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square pastel painting of pink and orange desert hills dotted with rounded cactus figures, under a pale blue sky.",
+    "description": "A square oil painting in soft pastel colour with thin dark outlines. Rounded hills in pink, orange, coral and lilac rise at the top under a pale blue sky, their lobes carrying blue and cream oval patches like eyes or windows. A flat salmon plain in the middle is dotted with rows of tiny figures and cactus stubs. In the foreground, larger rounded cactus like figures in green, pink and mauve stand among yellow green ground, some with arms and hat shapes. Colour is flat and matte with no shading, and every form is a soft blob with a fine outline.",
+    "impression": "A desert where the cactuses and the people are the same species, standing around in the heat. The sweet palette and the blob shapes make it calm and a little funny. It is Superland after a decade of rest: slower, emptier, pastel.",
+    "subjects": [
+      "landscape",
+      "desert",
+      "cactus",
+      "figures",
+      "hills"
+    ],
+    "characters": [
+      "blob figure",
+      "cactus figure"
+    ],
+    "elements": [
+      "oval patch",
+      "hat shape",
+      "rows of tiny figures"
+    ],
+    "setting": [
+      "invented landscape",
+      "desert"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth",
+      "scattered figures"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "pink and orange",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "stillness",
+      "plants as creatures"
+    ],
+    "mood": [
+      "calm",
+      "whimsical",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, photographed.",
+    "free_tags": [
+      "desertland",
+      "blob figures"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

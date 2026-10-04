@@ -119,7 +119,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/floating-earth-balls.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A wide oil painting of small figures with striped globe heads standing on striped balls, beneath spheres on stalks and a yellow smiley sun, in rich saturated colour.",
+    "description": "A landscape format oil painting on canvas. Five or six small figures with striped globe heads and pod bodies stand on striped balls in orange, pink, brown and blue across the lower half. Above them, spheres on stalks and rods rise like lollipops, a yellow smiling sun face sits at upper left, and a large blue and white sphere with a face at centre top. A red and white ringed sphere and a green grid ball float at right. The background is radiating wedges of purple, red, blue and green. Thick black outlines, saturated colour, visible brushwork.",
+    "impression": "Everyone has their own small planet to stand on, which is either freedom or loneliness depending on your mood. The lollipop spheres and the smiley sun keep it cheerful. It is a playground in orbit.",
+    "subjects": [
+      "figures",
+      "spheres",
+      "sun face",
+      "abstract forms"
+    ],
+    "characters": [
+      "globe headed figure",
+      "sun face",
+      "hash face"
+    ],
+    "elements": [
+      "striped ball",
+      "sphere on stalk",
+      "grid sphere",
+      "radiating wedges"
+    ],
+    "setting": [
+      "no place",
+      "space"
+    ],
+    "composition": [
+      "figures in foreground",
+      "radial",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "rich"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "worlds",
+      "standing alone",
+      "play",
+      "faces in things"
+    ],
+    "mood": [
+      "playful",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, landscape format, photographed.",
+    "free_tags": [
+      "superland",
+      "globe heads"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

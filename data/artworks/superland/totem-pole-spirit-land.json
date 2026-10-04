@@ -119,7 +119,82 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/superland/totem-pole-spirit-land.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting of a crowd of pod bodied figures with hash faces walking toward a city of totem poles under a sky of spheres and antennae.",
+    "description": "A square oil painting on canvas. A dense crowd of small figures with striped globe heads and pod bodies fills the middle and lower centre, walking on curved map tile ground. Tall totem poles with stacked faces stand at right and left, the largest at lower right with a blue face and a zigzag mouth. Above, spheres on stalks, antennae, bars and a large blue grid sphere fill a sky of bright patches, with rows of tiny figures along the top edge. A large blue face with hash eyes is cut off at lower left. Everything is outlined in thick black with saturated colour and visible brushwork.",
+    "impression": "A procession into a spirit city where the buildings are faces stacked on faces. The totem poles watch the crowd the way the big planets do in other Superland paintings; here they are grounded and ancestral. The picture is busy but orderly, a pilgrimage rather than a riot.",
+    "subjects": [
+      "crowd",
+      "totem poles",
+      "city",
+      "spheres",
+      "faces"
+    ],
+    "characters": [
+      "globe headed figure",
+      "hash face",
+      "totem face"
+    ],
+    "elements": [
+      "totem pole",
+      "antenna",
+      "striped ball",
+      "map tiles",
+      "grid sphere"
+    ],
+    "setting": [
+      "invented city",
+      "street"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "layered depth",
+      "giant faces above"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "warm"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "procession",
+      "faces in things",
+      "spirits"
+    ],
+    "mood": [
+      "busy",
+      "whimsical",
+      "solemn"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed. Marked not for sale.",
+    "free_tags": [
+      "superland",
+      "globe heads",
+      "totem"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,
