@@ -1,0 +1,213 @@
+{
+  "id": "colorlands/meeting-of-the-mountains",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Meeting Of The Mountains",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 18:45:39",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Meeting-of-the-mountains.jpg",
+      "width": 2475,
+      "height": 2475,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 720437,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Meeting_Of_The_Mountains.qmd",
+      "html": "things/Colorlands/Meeting_Of_The_Mountains.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Meeting_Of_The_Mountains.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:51:26",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Meeting of the mountains",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f7f7f6",
+        "fraction": 0.3901
+      },
+      {
+        "hex": "#292928",
+        "fraction": 0.1729
+      },
+      {
+        "hex": "#90b9b4",
+        "fraction": 0.1543
+      },
+      {
+        "hex": "#aee274",
+        "fraction": 0.108
+      },
+      {
+        "hex": "#b084c6",
+        "fraction": 0.0969
+      },
+      {
+        "hex": "#d89a67",
+        "fraction": 0.0777
+      }
+    ],
+    "hue_histogram": [
+      0.0718,
+      0.1313,
+      0.1348,
+      0.0881,
+      0.0734,
+      0.0817,
+      0.1041,
+      0.0976,
+      0.0401,
+      0.0443,
+      0.0537,
+      0.0791
+    ],
+    "dominant_hues": [
+      "yellow",
+      "orange",
+      "cyan"
+    ],
+    "warm_fraction": 0.4462,
+    "mean_saturation": 0.2674,
+    "mean_value": 0.7808,
+    "mean_lightness": 0.7281,
+    "contrast": 0.2992,
+    "colorfulness": 70.78,
+    "mean_chroma": 20.45,
+    "is_monochrome": false,
+    "dark_fraction": 0.1031,
+    "light_fraction": 0.3994,
+    "edge_density": 0.4723,
+    "busyness": 0.2077,
+    "has_white_border": true,
+    "phash": "2fddd4e1d183902c",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/meeting-of-the-mountains.jpg"
+  },
+  "described": {
+    "alt_text": "A dense cartoon landscape of candy coloured mountains, creatures, clouds and skyscrapers drawn with thick black outlines, signed Matt Crump 2021.",
+    "description": "A square digital drawing filling the frame edge to edge inside a white border, with the title hand lettered at bottom left and the signature and year 2021 at bottom right. Jagged mountain peaks in pink, purple, green and tan are packed together with no empty ground. Along the top edge a pale green sky holds a ringed planet, a cluster of blue and grey skyscrapers at upper right, and small cone shaped trees. Scattered through the mountains are dozens of small creatures: horned heads, a yellow cat like figure riding a cloud at centre, a blue and orange bird with a flaming crest near the middle, pink antennaed blobs and sleepy faces with half closed eyes. White smoke plumes and puffy clouds drift between peaks. Every shape has a heavy black outline and a flat or lightly shaded fill, with faint pencil scribbles visible under the colour.",
+    "impression": "This reads as a whole world crammed into one view, as if several mountain ranges, each with its own residents, had all shown up to the same party. The eye never settles because every pocket of the picture has its own small event, a creature peeking out or a cloud of smoke rising. The city on the horizon feels like a visitor from a different kind of picture, watching the mountains from a distance. The mood is cheerful and a little overwhelming in the way a crowded fairground is.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "creatures",
+      "skyscrapers",
+      "clouds",
+      "planets",
+      "trees"
+    ],
+    "characters": [
+      "horned creature",
+      "sleepy face",
+      "cat",
+      "bird creature",
+      "antenna blob"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "ringed planet",
+      "smoke plume",
+      "outlined cloud",
+      "windows",
+      "eyes in things",
+      "cone tree"
+    ],
+    "setting": [
+      "invented landscape",
+      "mountain range",
+      "city on horizon"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense",
+      "layered depth",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "saturated",
+      "pastel sky"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "crowded life",
+      "faces in things",
+      "nature meets built"
+    ],
+    "mood": [
+      "playful",
+      "busy",
+      "celebratory"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "MEETING OF THE MOUNTAINS; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Print ready file with a white margin, hand lettered caption and signature below the image. Signed 2021 although the file date is 2022.",
+    "free_tags": [
+      "signed 2021",
+      "colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

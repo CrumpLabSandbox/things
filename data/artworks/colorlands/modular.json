@@ -1,0 +1,211 @@
+{
+  "id": "colorlands/modular",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Modular",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-04 00:02:07",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": "18W x 24H",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Modular.jpg",
+      "width": 774,
+      "height": 1000,
+      "aspect": 0.774,
+      "orientation": "portrait",
+      "bytes": 200996,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Modular.qmd",
+      "html": "things/Colorlands/Modular.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Modular.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 19:03:16",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Modular",
+        "caption": "Digital Work",
+        "keywords": [
+          "18W x 24H"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f4f5f4",
+        "fraction": 0.3065
+      },
+      {
+        "hex": "#a0c0bc",
+        "fraction": 0.1804
+      },
+      {
+        "hex": "#6a6d60",
+        "fraction": 0.1553
+      },
+      {
+        "hex": "#cdd1a6",
+        "fraction": 0.1499
+      },
+      {
+        "hex": "#c796ba",
+        "fraction": 0.1253
+      },
+      {
+        "hex": "#9ace7f",
+        "fraction": 0.0827
+      }
+    ],
+    "hue_histogram": [
+      0.0636,
+      0.1079,
+      0.1384,
+      0.1226,
+      0.1222,
+      0.1007,
+      0.1156,
+      0.0449,
+      0.0162,
+      0.0343,
+      0.065,
+      0.0685
+    ],
+    "dominant_hues": [
+      "yellow",
+      "yellow-green",
+      "green"
+    ],
+    "warm_fraction": 0.4155,
+    "mean_saturation": 0.1927,
+    "mean_value": 0.8052,
+    "mean_lightness": 0.7743,
+    "contrast": 0.1911,
+    "colorfulness": 50.58,
+    "mean_chroma": 17.22,
+    "is_monochrome": false,
+    "dark_fraction": 0.0053,
+    "light_fraction": 0.3034,
+    "edge_density": 0.4484,
+    "busyness": 0.1444,
+    "has_white_border": true,
+    "phash": "7bf9c1cdc23c8085",
+    "analysis_size": [
+      396,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/modular.jpg"
+  },
+  "described": {
+    "alt_text": "A tall, extremely dense pastel drawing of an isometric city of synthesizer modules, cables, keyboards and tiny creatures, signed 2021.",
+    "description": "A portrait format digital drawing with white border, title MODULAR at bottom left and signature with 2021 at bottom right. The whole sheet is covered in an isometric tangle of blocks, towers and panels drawn as synthesizer modules: rows of knobs, patch cables looping between units, speaker cones, faders, and at the bottom edge several piano keyboards seen in perspective. Between the modules are tiny houses, a black cat at upper left, a white dove shape at centre, bird like and horned creatures, flames, leaves and clouds. The palette is pale mint, lavender, pink and yellow with almost no dark fills apart from the thin black outlines and the cat, so the picture reads as light and even from a distance and only resolves into objects up close. The outlines are thinner than in the square Colorlands pieces.",
+    "impression": "A modular synthesizer turned into a city, or a city that is secretly a patch. Signal seems to flow along the cables between neighbourhoods. The near white palette makes it feel like a blueprint or a sketch of something that is still being wired up. It rewards slow looking, and it is the most diagram like piece in the series.",
+    "subjects": [
+      "city",
+      "synthesizer",
+      "keyboard",
+      "machinery",
+      "creatures",
+      "houses",
+      "cables"
+    ],
+    "characters": [
+      "cat",
+      "bird creature",
+      "horned creature"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "patch cables",
+      "knobs",
+      "speaker cone",
+      "piano keys",
+      "windows",
+      "flame"
+    ],
+    "setting": [
+      "invented city",
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "isometric",
+      "dense",
+      "grid like",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "pencil scribble underlayer",
+      "flat fill"
+    ],
+    "color_words": [
+      "pastel",
+      "pale",
+      "low contrast",
+      "mint and lavender"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "map like",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "character story",
+      "machines as places",
+      "systems"
+    ],
+    "mood": [
+      "busy",
+      "calm",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "MODULAR; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Portrait print file with white margin. Signed 2021, file dated 2022. Only portrait piece in the series.",
+    "free_tags": [
+      "signed 2021",
+      "colorland",
+      "synthesizer"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

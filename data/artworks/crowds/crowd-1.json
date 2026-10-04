@@ -1,0 +1,202 @@
+{
+  "id": "crowds/crowd-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Crowd 1",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:48:58",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/crowd 1.jpg",
+      "width": 538,
+      "height": 538,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 183913,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Crowd_1.qmd",
+      "html": "things/crowds/Crowd_1.html",
+      "url": "https://crumplab.com/things/things/crowds/Crowd_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:48:58",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "crowd 1",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#190d17",
+        "fraction": 0.3222
+      },
+      {
+        "hex": "#c2b1c8",
+        "fraction": 0.2145
+      },
+      {
+        "hex": "#7f8eba",
+        "fraction": 0.1579
+      },
+      {
+        "hex": "#b55579",
+        "fraction": 0.1097
+      },
+      {
+        "hex": "#ada571",
+        "fraction": 0.1036
+      },
+      {
+        "hex": "#e27f56",
+        "fraction": 0.0921
+      }
+    ],
+    "hue_histogram": [
+      0.1684,
+      0.1232,
+      0.0447,
+      0.0134,
+      0.0099,
+      0.0052,
+      0.0053,
+      0.1008,
+      0.1807,
+      0.0995,
+      0.0596,
+      0.1893
+    ],
+    "dominant_hues": [
+      "pink",
+      "indigo",
+      "red"
+    ],
+    "warm_fraction": 0.558,
+    "mean_saturation": 0.4594,
+    "mean_value": 0.5599,
+    "mean_lightness": 0.4539,
+    "contrast": 0.2937,
+    "colorfulness": 70.87,
+    "mean_chroma": 23.96,
+    "is_monochrome": false,
+    "dark_fraction": 0.3027,
+    "light_fraction": 0.0005,
+    "edge_density": 0.2645,
+    "busyness": 0.2163,
+    "has_white_border": false,
+    "phash": "64af00af745d8a72",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/crowd-1.jpg"
+  },
+  "described": {
+    "alt_text": "A dense marker painting of a crowd of cartoon monster heads with horns, teeth and visors, in pink, blue, orange and green with heavy black outlines.",
+    "description": "A square marker painting on wood, photographed slightly cropped. The surface is packed edge to edge with overlapping cartoon creatures: round and lumpy heads with single eyes, horns, jagged toothy grins, visor like mouths and antennae, in hot pink, sky blue, orange, lime and purple. Thick black outlines divide every shape and white highlight marks sit on the horns and teeth. A yellow bird like head with a sharp beak sits at upper right and a pink face with a tongue at lower left. There is no background, only creatures.",
+    "impression": "A mosh pit of monsters, every one of them grinning. The heavy line and the colour blocks give it the feel of a graffiti wall or a video game crowd scene. It is joyful and claustrophobic at once, and the first of the crowd paintings sets the rule: no empty space allowed.",
+    "subjects": [
+      "crowd",
+      "monsters",
+      "faces",
+      "creatures"
+    ],
+    "characters": [
+      "toothy monster",
+      "one eyed creature",
+      "horned creature",
+      "visor face"
+    ],
+    "elements": [
+      "horns",
+      "teeth",
+      "visor",
+      "antenna",
+      "white highlight line",
+      "tongue"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "candy",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "monsters",
+      "faces in things"
+    ],
+    "mood": [
+      "busy",
+      "playful",
+      "chaotic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, photographed. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "id": "scribble/scribble-picture-28",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 28",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Heading up Atlantic Ave",
+    "caption": "Heading up Atlantic Ave",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-22 07:45:06",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Walked up into Atlantic Ave from Brooklyn Bridge Park.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 28.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 440711,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_28.qmd",
+      "html": "things/Scribble/Scribble_Picture_28.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_28.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:22 07:45:06",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 28",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240922",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#ebc595",
+        "fraction": 0.34
+      },
+      {
+        "hex": "#e6dacb",
+        "fraction": 0.1602
+      },
+      {
+        "hex": "#32352b",
+        "fraction": 0.1583
+      },
+      {
+        "hex": "#db916b",
+        "fraction": 0.1552
+      },
+      {
+        "hex": "#768584",
+        "fraction": 0.0945
+      },
+      {
+        "hex": "#8f4838",
+        "fraction": 0.0919
+      }
+    ],
+    "hue_histogram": [
+      0.1512,
+      0.6616,
+      0.0233,
+      0.0213,
+      0.0354,
+      0.0349,
+      0.032,
+      0.021,
+      0.0021,
+      0.0018,
+      0.0023,
+      0.0131
+    ],
+    "dominant_hues": [
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.8505,
+    "mean_saturation": 0.3709,
+    "mean_value": 0.7344,
+    "mean_lightness": 0.6415,
+    "contrast": 0.2425,
+    "colorfulness": 65.21,
+    "mean_chroma": 25.34,
+    "is_monochrome": false,
+    "dark_fraction": 0.0629,
+    "light_fraction": 0.0672,
+    "edge_density": 0.2794,
+    "busyness": 0.1307,
+    "has_white_border": false,
+    "phash": "676133ba3800a77e",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-28.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph beneath the BQE overpass at Columbia Street with a graffiti mural, where a tall pink signal box has grown horns and a tail, a traffic pole wears a purple creature's body, and the sidewalk is bleached tan, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. A green steel overpass crosses the top with a cream concrete wall at left carrying blue stencil faces and tags. A wall beneath the overpass carries a real colourful graffiti mural with a white arrow drawn pointing at it, and a street sign reads Columbia St. In the foreground a tall salmon pink signal box is redrawn as a creature with white horns, a round white eye, a pink slot mouth and a curling tail at its base. At right a traffic signal pole is drawn with its signals as teal and yellow cartoon boxes and a purple rounded body with feet at its base, with cartoon street signs on the pole. Small tufts of drawn grass sprout from the kerb, and a cartoon figure stands under the overpass in the distance. The sidewalk and road are bleached warm tan and the shadows are flat.",
+    "impression": "Street furniture waking up: the signal box has become a tall shy monster and the traffic pole has grown a purple body. The arrow pointing at the real graffiti is the drawing acknowledging its ancestor. Under the highway on a hot afternoon, with nothing much happening and everything slightly alive.",
+    "subjects": [
+      "street",
+      "overpass",
+      "graffiti",
+      "signal box",
+      "traffic pole",
+      "creatures",
+      "sidewalk",
+      "signs"
+    ],
+    "characters": [
+      "signal box creature",
+      "pole creature",
+      "faceless figure"
+    ],
+    "elements": [
+      "found graffiti",
+      "arrow",
+      "street sign",
+      "horns",
+      "grass tuft",
+      "stencil face",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Columbia Street",
+      "under the BQE"
+    ],
+    "composition": [
+      "foreground objects",
+      "low angle",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "tan and salmon",
+      "bleached",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "objects as creatures",
+      "layers"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Columbia St; found graffiti; Matt Crump 24",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "columbia street",
+      "signal box creature",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

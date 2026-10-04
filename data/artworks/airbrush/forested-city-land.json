@@ -1,0 +1,213 @@
+{
+  "id": "airbrush/forested-city-land",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Forested City Land",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-12-18 09:17:20",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/Forested city land.jpg",
+      "width": 1280,
+      "height": 741,
+      "aspect": 1.7274,
+      "orientation": "landscape",
+      "bytes": 448923,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Forested_City_Land.qmd",
+      "html": "things/airbrush/Forested_City_Land.html",
+      "url": "https://crumplab.com/things/things/airbrush/Forested_City_Land.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2016:12:18 09:17:20",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Forested city land",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#7cbd44",
+        "fraction": 0.2566
+      },
+      {
+        "hex": "#323726",
+        "fraction": 0.1941
+      },
+      {
+        "hex": "#c7cd9f",
+        "fraction": 0.1731
+      },
+      {
+        "hex": "#83b9be",
+        "fraction": 0.1331
+      },
+      {
+        "hex": "#cf7ba8",
+        "fraction": 0.1296
+      },
+      {
+        "hex": "#dc9844",
+        "fraction": 0.1135
+      }
+    ],
+    "hue_histogram": [
+      0.0645,
+      0.1541,
+      0.2013,
+      0.1617,
+      0.0797,
+      0.1096,
+      0.0702,
+      0.032,
+      0.007,
+      0.0143,
+      0.0281,
+      0.0775
+    ],
+    "dominant_hues": [
+      "yellow",
+      "yellow-green",
+      "orange"
+    ],
+    "warm_fraction": 0.5131,
+    "mean_saturation": 0.5276,
+    "mean_value": 0.6958,
+    "mean_lightness": 0.6207,
+    "contrast": 0.2312,
+    "colorfulness": 104.53,
+    "mean_chroma": 40.33,
+    "is_monochrome": false,
+    "dark_fraction": 0.0922,
+    "light_fraction": 0.0168,
+    "edge_density": 0.4603,
+    "busyness": 0.1987,
+    "has_white_border": false,
+    "phash": "76ab802514debb23",
+    "analysis_size": [
+      512,
+      296
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/forested-city-land.jpg"
+  },
+  "described": {
+    "alt_text": "A wide, very dense airbrush and ink landscape of rainbow coloured rocks, trees, towers and a winding road, with every shape outlined in black.",
+    "description": "A landscape format painting in airbrush and ink on paper. A hillside crammed with forms rises from the bottom to a line of jagged mountains along the top under a thin blue sky: rounded rock towers, bushy trees, cone and lollipop trees, blocks like buildings, and a winding road and river that thread through the middle. Every form is outlined in black ink and filled with soft airbrush gradients in lime, pink, orange, violet, turquoise and yellow, so the whole surface glows. There is no empty space.",
+    "impression": "An entire forested world squeezed into one sheet and lit from inside. The black ink line keeps the airbrush colour from turning to mush, so it reads as a map you could follow. It feels like the ancestor of the later Colorlands drawings, with the same crammed valley and candy palette but no creatures yet.",
+    "subjects": [
+      "landscape",
+      "trees",
+      "mountains",
+      "rocks",
+      "buildings",
+      "road",
+      "river"
+    ],
+    "characters": [],
+    "elements": [
+      "cone tree",
+      "lollipop tree",
+      "winding road",
+      "jagged mountains"
+    ],
+    "setting": [
+      "invented landscape",
+      "forest",
+      "valley"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense",
+      "winding path"
+    ],
+    "line": [
+      "thick black outline",
+      "airbrush gradient",
+      "ink and airbrush"
+    ],
+    "color_words": [
+      "rainbow",
+      "neon",
+      "candy",
+      "saturated"
+    ],
+    "style": [
+      "psychedelic",
+      "cartoon",
+      "map like",
+      "ink and airbrush"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "nature meets built",
+      "crowded life"
+    ],
+    "mood": [
+      "busy",
+      "joyful",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush with ink outline on paper, landscape format, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "ink and airbrush",
+      "proto colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "airbrush/trippy-neon-land",
+      "note": "Both are ink outlined airbrush landscapes from 2016.",
+      "source": "described"
+    },
+    {
+      "type": "source_of",
+      "target": "colorlands/where-the-valley-turns",
+      "note": "Same crammed valley idea, later redrawn digitally with creatures.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

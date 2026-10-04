@@ -1,0 +1,214 @@
+{
+  "id": "scribble/scribble-picture-18",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 18",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-09-10 09:54:27",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Outside near the F train.",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-18",
+    "print_note": "Digitally signed open edition, print alone or framed print:",
+    "image": {
+      "path": "images/Scribble/Scribble Picture 18.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 1572769,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_18.qmd",
+      "html": "things/Scribble/Scribble_Picture_18.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_18.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:08:14 09:46:28",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f8f4f0",
+        "fraction": 0.3043
+      },
+      {
+        "hex": "#e1c8ac",
+        "fraction": 0.2708
+      },
+      {
+        "hex": "#484644",
+        "fraction": 0.1799
+      },
+      {
+        "hex": "#728a8d",
+        "fraction": 0.1166
+      },
+      {
+        "hex": "#a0624a",
+        "fraction": 0.0803
+      },
+      {
+        "hex": "#e2a564",
+        "fraction": 0.0481
+      }
+    ],
+    "hue_histogram": [
+      0.0815,
+      0.7172,
+      0.0209,
+      0.0022,
+      0.0022,
+      0.0104,
+      0.082,
+      0.0788,
+      0.0021,
+      0.0008,
+      0.0004,
+      0.0016
+    ],
+    "dominant_hues": [
+      "orange",
+      "cyan",
+      "red"
+    ],
+    "warm_fraction": 0.8214,
+    "mean_saturation": 0.2076,
+    "mean_value": 0.7513,
+    "mean_lightness": 0.7076,
+    "contrast": 0.2537,
+    "colorfulness": 51.29,
+    "mean_chroma": 13.51,
+    "is_monochrome": false,
+    "dark_fraction": 0.0115,
+    "light_fraction": 0.2914,
+    "edge_density": 0.3323,
+    "busyness": 0.1422,
+    "has_white_border": true,
+    "phash": "3b32e66d9c1a9360",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-18.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph beneath the elevated F train in Brooklyn, with a faceless woman in a blue floral dress, a giant cartoon cloud with a coffee shop sign bursting from a storefront, and small creatures on the corner, signed 2023.",
+    "description": "A portrait format digital piece on a photograph inside a white border, signed 2023 at lower left. Green steel elevated subway tracks cross the top half of the image, with their stairs, girders and a McDonald Avenue street sign. At right a brick building's storefront has an enormous white cartoon cloud drawn bursting from its awning, with the words Coffee Shop and a cup drawn faintly in it and a small grey bird like creature perched on top. A woman in a blue floral dress with a yellow bag stands at centre with her head redrawn as a grey cartoon shape, facing away. Orange and white construction barriers block the crossing, cartoon cars in white and yellow sit at left, a yellow creature with a rounded body stands at far left, and a small grey creature crouches at the lower right by a wall of scribbled tags. A red hydrant is outlined at centre.",
+    "impression": "Under the tracks on a bright day, where a coffee shop has exhaled a cloud the size of a car. The woman in the floral dress is the still centre of the picture, waiting for the light while the drawing happens around her. The creatures are small and shy here, hiding at the edges. Warm and domestic, a neighbourhood Scribble.",
+    "subjects": [
+      "street",
+      "city",
+      "elevated train",
+      "people",
+      "clouds",
+      "shop",
+      "creatures",
+      "cars",
+      "construction"
+    ],
+    "characters": [
+      "faceless figure",
+      "bird creature",
+      "blob figure"
+    ],
+    "elements": [
+      "elevated tracks",
+      "giant cloud",
+      "coffee shop sign",
+      "construction barrier",
+      "outlined car",
+      "hydrant",
+      "scribble tag",
+      "white border",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "under the F train"
+    ],
+    "composition": [
+      "figures in foreground",
+      "layered depth",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "warm",
+      "teal and tan",
+      "washed",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "waiting",
+      "creatures among us"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "McDonald Av; Coffee Shop drawn in cloud; scribbled tags; signature 2023",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "F train",
+      "giant cloud",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

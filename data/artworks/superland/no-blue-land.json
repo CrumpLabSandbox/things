@@ -1,0 +1,204 @@
+{
+  "id": "superland/no-blue-land",
+  "schema_version": 1,
+  "catalog": {
+    "title": "No Blue Land",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:05:45",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (13).jpg",
+      "width": 1279,
+      "height": 1280,
+      "aspect": 0.9992,
+      "orientation": "square",
+      "bytes": 815730,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/No_Blue_Land.qmd",
+      "html": "things/Superland/No_Blue_Land.html",
+      "url": "https://crumplab.com/things/things/Superland/No_Blue_Land.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:05:45",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "No blue land",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#20191c",
+        "fraction": 0.2165
+      },
+      {
+        "hex": "#c3a2ab",
+        "fraction": 0.2006
+      },
+      {
+        "hex": "#5e5856",
+        "fraction": 0.1609
+      },
+      {
+        "hex": "#b3c8b8",
+        "fraction": 0.1489
+      },
+      {
+        "hex": "#c8af6d",
+        "fraction": 0.1444
+      },
+      {
+        "hex": "#ba684b",
+        "fraction": 0.1286
+      }
+    ],
+    "hue_histogram": [
+      0.2326,
+      0.3359,
+      0.1032,
+      0.0081,
+      0.0036,
+      0.0234,
+      0.0643,
+      0.0211,
+      0.0305,
+      0.0362,
+      0.0516,
+      0.0896
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "warm_fraction": 0.7914,
+    "mean_saturation": 0.3278,
+    "mean_value": 0.5743,
+    "mean_lightness": 0.5127,
+    "contrast": 0.267,
+    "colorfulness": 60.91,
+    "mean_chroma": 20.0,
+    "is_monochrome": false,
+    "dark_fraction": 0.1912,
+    "light_fraction": 0.0093,
+    "edge_density": 0.4175,
+    "busyness": 0.2129,
+    "has_white_border": false,
+    "phash": "5dba3170bcc85ec0",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/no-blue-land.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of pastel pink, peach, mint and lilac blocks, grid spheres and splash shapes, with small faces in windows and no blue anywhere.",
+    "description": "A square oil painting on canvas. Rounded blocks and machine forms in pink, peach, mint, lilac and mustard are stacked from the lower left, with window slots, portholes and a small figure with a hooded head in a window at lower left. Grid patterned spheres, one large at left and smaller ones scattered, float among coral or splash shapes in the upper half. A curved rail or track sweeps from the left sphere down into the blocks. A small scrawl of hash marks sits at upper right. Thick black outlines and visible brushwork. The palette avoids blue entirely.",
+    "impression": "A companion to Almost Blueless Spaceland, this time with the blue removed completely, so everything is warm and powdery like a pastry shop. The grid spheres are the only hard geometry in a world of soft blocks. It feels like a quiet corner of the Superland factory.",
+    "subjects": [
+      "machinery",
+      "blocks",
+      "spheres",
+      "splashes",
+      "faces"
+    ],
+    "characters": [
+      "face in window",
+      "hooded pod figure"
+    ],
+    "elements": [
+      "grid sphere",
+      "porthole",
+      "splash",
+      "rail",
+      "hash marks",
+      "windows"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "stacked",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "pink and mint",
+      "no blue"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "machines as places",
+      "variation"
+    ],
+    "mood": [
+      "calm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "small hash scrawl at upper right",
+      "role": "symbols"
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "palette constraint"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "superland/almost-blueless-spaceland",
+      "note": "Both are palette constraint pieces about leaving out blue.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

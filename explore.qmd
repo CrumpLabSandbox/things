@@ -1,0 +1,48 @@
+---
+title: "explore"
+description: "Browse the collection by tag, text and similarity."
+format:
+  html:
+    page-layout: full
+    toc: false
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="explore/explore.css">
+---
+
+```{=html}
+<div id="explore" class="x-app">
+  <aside class="x-side">
+    <input id="x-search" type="search" placeholder="search descriptions, titles, tags" autocomplete="off">
+    <div class="x-controls">
+      <label>sort
+        <select id="x-sort">
+          <option value="date-desc">newest first</option>
+          <option value="date-asc">oldest first</option>
+          <option value="series">by series</option>
+          <option value="saturation">most colourful</option>
+          <option value="edges">most line</option>
+          <option value="busyness">busiest</option>
+          <option value="lightness">lightest</option>
+        </select>
+      </label>
+      <button id="x-clear" type="button">clear filters</button>
+    </div>
+    <div id="x-active" class="x-active"></div>
+    <div id="x-facets"></div>
+  </aside>
+  <main class="x-main">
+    <div class="x-bar">
+      <span id="x-count"></span>
+      <span class="x-views">
+        <button type="button" data-view="grid" class="is-on">grid</button>
+        <button type="button" data-view="map">map</button>
+      </span>
+    </div>
+    <div id="x-grid" class="x-grid"></div>
+    <div id="x-map" class="x-map" hidden></div>
+  </main>
+  <div id="x-detail" class="x-detail" hidden></div>
+</div>
+<script src="explore/explore.js"></script>
+```

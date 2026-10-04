@@ -1,0 +1,206 @@
+{
+  "id": "scribble/scribble-picture-12",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 12",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-07-29 13:18:03",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Cortelyou Rd Deli",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-12",
+    "print_note": "Digitally signed open edition, print alone or framed print:",
+    "image": {
+      "path": "images/Scribble/Scribble Picture 12.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 391546,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_12.qmd",
+      "html": "things/Scribble/Scribble_Picture_12.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_12.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:07:29 13:18:03",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 12",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230729",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dfbd9b",
+        "fraction": 0.3311
+      },
+      {
+        "hex": "#e4e2dd",
+        "fraction": 0.1991
+      },
+      {
+        "hex": "#a0d3e7",
+        "fraction": 0.1465
+      },
+      {
+        "hex": "#988375",
+        "fraction": 0.1124
+      },
+      {
+        "hex": "#4c413d",
+        "fraction": 0.112
+      },
+      {
+        "hex": "#9f4a38",
+        "fraction": 0.0989
+      }
+    ],
+    "hue_histogram": [
+      0.1729,
+      0.6171,
+      0.0131,
+      0.0007,
+      0.0003,
+      0.0003,
+      0.0372,
+      0.1551,
+      0.0012,
+      0.0003,
+      0.0002,
+      0.0016
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.8049,
+    "mean_saturation": 0.284,
+    "mean_value": 0.7695,
+    "mean_lightness": 0.6969,
+    "contrast": 0.2144,
+    "colorfulness": 63.27,
+    "mean_chroma": 18.84,
+    "is_monochrome": false,
+    "dark_fraction": 0.0136,
+    "light_fraction": 0.1092,
+    "edge_density": 0.2925,
+    "busyness": 0.1233,
+    "has_white_border": false,
+    "phash": "1636f8f1c3c844c7",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-12.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a red brick corner building with a deli on Cortelyou Road in Brooklyn, with the awnings, lamp post, traffic light, a car and a figure outlined as flat cartoon shapes under a bright blue sky, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 2023 at lower right. A curved four storey red brick building with cream stone trim stands on a corner under a clear blue sky, with a fire escape on its left face and a yellow brick building beside it at right. The deli at street level has blue shutters and its awnings are redrawn as flat white and cream shapes; the yellow building's cornice is redrawn in flat colour. A lamp post at left and a traffic light arm with yellow outlined signals are drawn over the photograph. A faceless figure in a white top walks at lower left, another sits in the deli doorway, an outlined grey bin stands by the pole, and a pale cartoon car with a blue window sits at right. The street and crosswalks fill the lower third with faint rainbow tyre marks.",
+    "impression": "The quietest kind of Brooklyn corner, drawn with evident affection: the building is allowed to be itself and the drawing just tidies the awnings and the signals. The wide empty street gives it room to breathe. A portrait of a building more than a scene.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "deli",
+      "lamp post",
+      "traffic lights",
+      "cars",
+      "people"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "awning",
+      "fire escape",
+      "traffic light",
+      "outlined car",
+      "bin",
+      "crosswalk",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Cortelyou Road"
+    ],
+    "composition": [
+      "central feature",
+      "street corner",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "red brick and blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "architecture",
+      "daily life"
+    ],
+    "mood": [
+      "calm",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 2023",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "cortelyou",
+      "deli",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "id": "scribble/scribble-picture-27",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 27",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Canal St",
+    "caption": "Canal St",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-21 17:49:04",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Walked down Canal street.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 27.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 496634,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_27.qmd",
+      "html": "things/Scribble/Scribble_Picture_27.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_27.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:21 17:49:04",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 27",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240921",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e9c79a",
+        "fraction": 0.3135
+      },
+      {
+        "hex": "#e3dfd9",
+        "fraction": 0.1562
+      },
+      {
+        "hex": "#d99c50",
+        "fraction": 0.1557
+      },
+      {
+        "hex": "#503a2e",
+        "fraction": 0.1476
+      },
+      {
+        "hex": "#955c2e",
+        "fraction": 0.1148
+      },
+      {
+        "hex": "#9b8778",
+        "fraction": 0.1123
+      }
+    ],
+    "hue_histogram": [
+      0.035,
+      0.9346,
+      0.0076,
+      0.0019,
+      0.0004,
+      0.0002,
+      0.0016,
+      0.0129,
+      0.0016,
+      0.0012,
+      0.0014,
+      0.0015
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 0.9793,
+    "mean_saturation": 0.3925,
+    "mean_value": 0.7413,
+    "mean_lightness": 0.6554,
+    "contrast": 0.2266,
+    "colorfulness": 61.99,
+    "mean_chroma": 26.32,
+    "is_monochrome": false,
+    "dark_fraction": 0.0402,
+    "light_fraction": 0.0883,
+    "edge_density": 0.371,
+    "busyness": 0.1549,
+    "has_white_border": false,
+    "phash": "09e6c2628279efb2",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-27.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a Canal Street sidewalk handbag market where the shoppers have cartoon heads, the handbags have grown horns and eyes, the cars are soft cartoon shapes, and a smoke plume rises behind a stone bank building, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. A grand limestone bank building with carved lettering and an arched doorway stands across the street at centre, with office towers behind and a drawn white smoke plume rising from a chimney at upper left. A small creature peeks over the bank's roofline. In the street, cars are redrawn as rounded tan, grey and white cartoon shapes with blank faced drivers; cyclists pass at right. On the near sidewalk, vendors and shoppers crowd around handbags laid on blankets: a man in a maroon shirt and a woman in white at left, a woman with blonde hair and a pink bag at centre whose head is a large cream cartoon shape, and more figures at right, all with cartoon heads. Many of the handbags have been given eyes, horns and ears so they look like small creatures, and a few blob creatures with single eyes sit among them. The light is warm and golden.",
+    "impression": "Canal Street with the counterfeit bags come alive, each one a small horned animal waiting to be bought. The shoppers' cartoon heads make them one species with the bags. The dignified bank across the road watches it all with a chimney smoking like a cartoon. Busy, warm and sly.",
+    "subjects": [
+      "street",
+      "city",
+      "market",
+      "handbags",
+      "people",
+      "cars",
+      "bank building",
+      "creatures",
+      "cyclist"
+    ],
+    "characters": [
+      "faceless figure",
+      "handbag creature",
+      "one eyed creature",
+      "vehicle creature"
+    ],
+    "elements": [
+      "handbags with eyes",
+      "smoke plume",
+      "outlined car",
+      "carved lettering",
+      "blanket",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Canal Street"
+    ],
+    "composition": [
+      "crowd",
+      "central feature",
+      "photo base",
+      "dense"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "golden",
+      "tan and brown",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "market",
+      "objects as creatures",
+      "crowded life"
+    ],
+    "mood": [
+      "busy",
+      "playful",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "carved bank lettering; Matt Crump 24",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "canal street",
+      "handbag creatures",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

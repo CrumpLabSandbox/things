@@ -1,0 +1,202 @@
+{
+  "id": "crowds/crowd-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Crowd 2",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:48:58",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/crowd 2.jpg",
+      "width": 563,
+      "height": 560,
+      "aspect": 1.0054,
+      "orientation": "square",
+      "bytes": 187147,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Crowd_2.qmd",
+      "html": "things/crowds/Crowd_2.html",
+      "url": "https://crumplab.com/things/things/crowds/Crowd_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:48:58",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "crowd 2",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#a4b0d2",
+        "fraction": 0.2907
+      },
+      {
+        "hex": "#211018",
+        "fraction": 0.2311
+      },
+      {
+        "hex": "#231e44",
+        "fraction": 0.1495
+      },
+      {
+        "hex": "#db7d61",
+        "fraction": 0.1322
+      },
+      {
+        "hex": "#b665a9",
+        "fraction": 0.1167
+      },
+      {
+        "hex": "#9eac57",
+        "fraction": 0.0798
+      }
+    ],
+    "hue_histogram": [
+      0.1394,
+      0.0889,
+      0.0517,
+      0.0183,
+      0.0043,
+      0.0166,
+      0.0138,
+      0.1328,
+      0.2046,
+      0.0887,
+      0.0836,
+      0.1573
+    ],
+    "dominant_hues": [
+      "indigo",
+      "pink",
+      "red"
+    ],
+    "warm_fraction": 0.4914,
+    "mean_saturation": 0.5102,
+    "mean_value": 0.5838,
+    "mean_lightness": 0.454,
+    "contrast": 0.2954,
+    "colorfulness": 83.68,
+    "mean_chroma": 29.71,
+    "is_monochrome": false,
+    "dark_fraction": 0.3295,
+    "light_fraction": 0.0058,
+    "edge_density": 0.3185,
+    "busyness": 0.2336,
+    "has_white_border": false,
+    "phash": "3ff172a25159f408",
+    "analysis_size": [
+      512,
+      509
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/crowd-2.jpg"
+  },
+  "described": {
+    "alt_text": "A dense marker painting of cartoon creature heads with frilled collars, horns and antennae, in rainbow colours with thick black outlines.",
+    "description": "A square marker painting on wood. Overlapping cartoon creatures fill the whole surface: rounded heads and bodies with single eyes, scalloped frill collars like lace, curved horns, antennae with balls on the ends, and wide mouths, in pink, orange, lime, sky blue, purple and yellow. Thick black outlines separate every form and white highlights sit on the frills and horns. A bright blue creature with an open beak sits at left centre, a tall red form at lower right.",
+    "impression": "The monster crowd dressed for a party, with ruffs and antennae like party hats. The frills make every creature look pleased with itself. It reads as a carnival from above, loud and generous, and the rainbow is spread so evenly that no single creature wins.",
+    "subjects": [
+      "crowd",
+      "monsters",
+      "faces",
+      "creatures"
+    ],
+    "characters": [
+      "frilled creature",
+      "one eyed creature",
+      "horned creature",
+      "antenna blob"
+    ],
+    "elements": [
+      "frill collar",
+      "horns",
+      "antenna",
+      "white highlight line",
+      "beak"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "candy",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "monsters",
+      "gathering"
+    ],
+    "mood": [
+      "busy",
+      "celebratory",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, photographed. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd",
+      "frills"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

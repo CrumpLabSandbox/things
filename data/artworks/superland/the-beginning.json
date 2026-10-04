@@ -1,0 +1,191 @@
+{
+  "id": "superland/the-beginning",
+  "schema_version": 1,
+  "catalog": {
+    "title": "The Beginning",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:05:03",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (3).jpg",
+      "width": 1280,
+      "height": 1271,
+      "aspect": 1.0071,
+      "orientation": "square",
+      "bytes": 818412,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/The_Beginning.qmd",
+      "html": "things/Superland/The_Beginning.html",
+      "url": "https://crumplab.com/things/things/Superland/The_Beginning.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:05:03",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "The beginning",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c0b5a5",
+        "fraction": 0.2336
+      },
+      {
+        "hex": "#99adbc",
+        "fraction": 0.2079
+      },
+      {
+        "hex": "#646370",
+        "fraction": 0.1713
+      },
+      {
+        "hex": "#a1854a",
+        "fraction": 0.1487
+      },
+      {
+        "hex": "#211e20",
+        "fraction": 0.1266
+      },
+      {
+        "hex": "#666752",
+        "fraction": 0.112
+      }
+    ],
+    "hue_histogram": [
+      0.0962,
+      0.2381,
+      0.2095,
+      0.0095,
+      0.0276,
+      0.0141,
+      0.0234,
+      0.2488,
+      0.0456,
+      0.0267,
+      0.0206,
+      0.0398
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.5979,
+    "mean_saturation": 0.2607,
+    "mean_value": 0.5717,
+    "mean_lightness": 0.542,
+    "contrast": 0.2141,
+    "colorfulness": 45.82,
+    "mean_chroma": 15.05,
+    "is_monochrome": false,
+    "dark_fraction": 0.0926,
+    "light_fraction": 0.0023,
+    "edge_density": 0.3382,
+    "busyness": 0.1569,
+    "has_white_border": false,
+    "phash": "5e00311fd3ae3b61",
+    "analysis_size": [
+      512,
+      508
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/the-beginning.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of a blue ringed circle with a scrawled face at centre, surrounded by radiating olive, orange and pink forms, bottles and small cubes.",
+    "description": "A square oil painting on canvas. A large circle with a blue rim of dots and a cream centre carrying a few black strokes for a face sits left of centre. Around it radiate tall tapering forms in olive, mustard, pink and orange with white highlight lines, like bottles, feathers or towers, and small cubes with faces float at upper right. The background is pale grey blue at left and pink at right. Thick black outlines and visible brush texture.",
+    "impression": "A sun with a doodled face, or a seed opening. The title says beginning and the shapes do look like they are being born outward from the centre. It sets the Superland vocabulary of round heads, hash faces and radiating forms in one image.",
+    "subjects": [
+      "abstract forms",
+      "sun face",
+      "cubes"
+    ],
+    "characters": [
+      "hash face"
+    ],
+    "elements": [
+      "dotted ring",
+      "white highlight line",
+      "floating cube",
+      "tapering form"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "radial",
+      "central feature"
+    ],
+    "line": [
+      "thick black outline",
+      "white highlight line",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "muted",
+      "earth tones",
+      "pastel"
+    ],
+    "style": [
+      "abstract",
+      "cubist",
+      "superland world"
+    ],
+    "themes": [
+      "growth",
+      "faces in things"
+    ],
+    "mood": [
+      "calm",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "radial"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

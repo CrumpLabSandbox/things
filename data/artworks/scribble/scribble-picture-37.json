@@ -1,0 +1,207 @@
+{
+  "id": "scribble/scribble-picture-37",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 37",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2024-11-11 11:15:40",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "View from Brooklyn Bridge Park",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 37.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 787371,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_37.qmd",
+      "html": "things/Scribble/Scribble_Picture_37.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_37.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 26.2 (20241106.m.2837 f85c071)  (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:11:11 06:48:36",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 37",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dbd3c8",
+        "fraction": 0.3655
+      },
+      {
+        "hex": "#50c3ec",
+        "fraction": 0.2036
+      },
+      {
+        "hex": "#b99561",
+        "fraction": 0.1399
+      },
+      {
+        "hex": "#7f6b4f",
+        "fraction": 0.1143
+      },
+      {
+        "hex": "#e0ae53",
+        "fraction": 0.0886
+      },
+      {
+        "hex": "#484644",
+        "fraction": 0.0882
+      }
+    ],
+    "hue_histogram": [
+      0.0137,
+      0.5828,
+      0.0792,
+      0.0028,
+      0.0002,
+      0.0003,
+      0.1231,
+      0.1916,
+      0.0028,
+      0.0003,
+      0.0002,
+      0.0029
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "cyan"
+    ],
+    "warm_fraction": 0.6789,
+    "mean_saturation": 0.3613,
+    "mean_value": 0.7736,
+    "mean_lightness": 0.6988,
+    "contrast": 0.187,
+    "colorfulness": 91.71,
+    "mean_chroma": 23.03,
+    "is_monochrome": false,
+    "dark_fraction": 0.0074,
+    "light_fraction": 0.1334,
+    "edge_density": 0.3117,
+    "busyness": 0.1079,
+    "has_white_border": false,
+    "phash": "5cf0212937ef4b48",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-37.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of the Manhattan Bridge from Brooklyn Bridge Park's pebble beach, with a cartoon boat on the river and people on the shore redrawn as outlined cartoon figures with blank faces, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. The blue steel span of the Manhattan Bridge sweeps from the upper right down to a stone tower at left, with a tall slim glass tower behind and the Manhattan skyline and the Empire State Building in the distance under a clear blue sky. A grey river fills the middle with a small outlined cartoon boat at left. In the foreground a pebble beach with autumn grasses and pink flowers at right. People on the beach are redrawn as outlined cartoon figures with blank faces and flat fills: a figure in a grey hoodie walking left, a group of four at centre including one in a cream sweater holding a small white dog, a figure with grey hair at right, and a half visible figure at lower left. A tiny figure stands on a rock at far right.",
+    "impression": "A nearly untouched photograph, with only the people and one boat drawn, which makes the bridge and the sky look even more real by contrast. The group on the beach with the little dog are a family outing in cartoon form. The gentlest of the autumn Scribbles, a postcard with the people turned to drawings.",
+    "subjects": [
+      "bridge",
+      "river",
+      "city",
+      "beach",
+      "people",
+      "boat",
+      "flowers",
+      "dog"
+    ],
+    "characters": [
+      "faceless figure",
+      "dog"
+    ],
+    "elements": [
+      "bridge",
+      "outlined boat",
+      "pebble beach",
+      "autumn grass",
+      "skyline",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Brooklyn Bridge Park",
+      "waterfront"
+    ],
+    "composition": [
+      "diagonal",
+      "figures in foreground",
+      "layered depth",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue and tan",
+      "warm",
+      "crisp"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "landmarks",
+      "leisure",
+      "community"
+    ],
+    "mood": [
+      "calm",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 24",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "brooklyn bridge park",
+      "manhattan bridge",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

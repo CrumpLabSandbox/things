@@ -1,0 +1,186 @@
+{
+  "id": "cactuses/gouache-cactus-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Gouache Cactus 2",
+    "series": "cactuses",
+    "series_slug": "cactuses",
+    "medium": "gouache",
+    "surface": "paper",
+    "medium_source": "title",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2014-08-18 08:45:10",
+    "year": 2014,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/cactuses/gouache cactus 2.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 80726,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/cactuses/Gouache_Cactus_2.qmd",
+      "html": "things/cactuses/Gouache_Cactus_2.html",
+      "url": "https://crumplab.com/things/things/cactuses/Gouache_Cactus_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2014:08:18 08:45:10",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "gouache cactus 2",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#bad5ea",
+        "fraction": 0.5124
+      },
+      {
+        "hex": "#7b684d",
+        "fraction": 0.2434
+      },
+      {
+        "hex": "#3d3d4a",
+        "fraction": 0.0984
+      },
+      {
+        "hex": "#be656f",
+        "fraction": 0.0912
+      },
+      {
+        "hex": "#d7b062",
+        "fraction": 0.0312
+      },
+      {
+        "hex": "#6bba79",
+        "fraction": 0.0235
+      }
+    ],
+    "hue_histogram": [
+      0.0727,
+      0.2768,
+      0.0259,
+      0.0033,
+      0.0155,
+      0.0079,
+      0.0239,
+      0.5148,
+      0.0099,
+      0.0048,
+      0.0072,
+      0.0373
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange"
+    ],
+    "warm_fraction": 0.4173,
+    "mean_saturation": 0.3067,
+    "mean_value": 0.7353,
+    "mean_lightness": 0.6577,
+    "contrast": 0.2206,
+    "colorfulness": 59.32,
+    "mean_chroma": 19.7,
+    "is_monochrome": false,
+    "dark_fraction": 0.02,
+    "light_fraction": 0.0009,
+    "edge_density": 0.0996,
+    "busyness": 0.081,
+    "has_white_border": false,
+    "phash": "649b4a683b642f33",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/cactuses/gouache-cactus-2.jpg"
+  },
+  "described": {
+    "alt_text": "A small gouache painting of a cactus with a pink and red trunk and arms in yellow, green and blue, signed crump 14, photographed on a wooden table.",
+    "description": "A square gouache painting on white paper, photographed on a wooden table, with crump 14 written in the upper right. A cactus with a thick pink and red streaked trunk rises from the bottom, topped by pink horns. From it grow a yellow lobed arm at left, a green and blue spiky arm at right, a blue spiky pad at lower right, and a thin branch with small pink spines at upper left. Forms are outlined in black and filled with streaky gouache.",
+    "impression": "A cactus wearing a different colour on every limb, like a plant that cannot decide what it is. The pink trunk gives it a body warmth that makes it feel like an animal. Signed and dated, so it is a finished study rather than a sketch.",
+    "subjects": [
+      "cactus",
+      "plants"
+    ],
+    "characters": [],
+    "elements": [
+      "spines",
+      "branching arms",
+      "thin black outline",
+      "signature"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "white ground",
+      "rising from bottom"
+    ],
+    "line": [
+      "thick black outline",
+      "visible brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "rainbow",
+      "pink and green",
+      "saturated"
+    ],
+    "style": [
+      "cartoon",
+      "study"
+    ],
+    "themes": [
+      "plants as creatures",
+      "growth"
+    ],
+    "mood": [
+      "playful",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "crump 14",
+      "role": "signature"
+    },
+    "format_notes": "Gouache on paper, signed and dated 2014, photographed on a wood table.",
+    "free_tags": [
+      "cactus series",
+      "gouache",
+      "table photo",
+      "signed 2014"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

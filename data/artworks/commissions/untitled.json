@@ -1,0 +1,189 @@
+{
+  "id": "commissions/untitled",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Untitled",
+    "series": "commissions",
+    "series_slug": "commissions",
+    "medium": "spray paint",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "spraypaint on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2022-09-18 00:00:00",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/commissions/Mitzvah.jpeg",
+      "width": 806,
+      "height": 1280,
+      "aspect": 0.6297,
+      "orientation": "portrait",
+      "bytes": 918127,
+      "format": "MPO"
+    },
+    "page": {
+      "qmd": "things/commissions/untitled_mitzvah.qmd",
+      "html": "things/commissions/untitled_mitzvah.html",
+      "url": "https://crumplab.com/things/things/commissions/untitled_mitzvah.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "15.5",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 13 Pro",
+        "datetime": "2022:08:05 20:49:04",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d3c7b0",
+        "fraction": 0.2569
+      },
+      {
+        "hex": "#131010",
+        "fraction": 0.2065
+      },
+      {
+        "hex": "#d0bc55",
+        "fraction": 0.1883
+      },
+      {
+        "hex": "#736447",
+        "fraction": 0.1632
+      },
+      {
+        "hex": "#6ea5b5",
+        "fraction": 0.1093
+      },
+      {
+        "hex": "#d86d69",
+        "fraction": 0.0758
+      }
+    ],
+    "hue_histogram": [
+      0.1269,
+      0.3713,
+      0.2114,
+      0.0354,
+      0.0166,
+      0.0181,
+      0.0854,
+      0.0618,
+      0.0216,
+      0.006,
+      0.0062,
+      0.0392
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.7534,
+    "mean_saturation": 0.4092,
+    "mean_value": 0.6105,
+    "mean_lightness": 0.5498,
+    "contrast": 0.2948,
+    "colorfulness": 78.55,
+    "mean_chroma": 25.47,
+    "is_monochrome": false,
+    "dark_fraction": 0.1855,
+    "light_fraction": 0.0547,
+    "edge_density": 0.573,
+    "busyness": 0.2495,
+    "has_white_border": false,
+    "phash": "3ab9ea60c033d90f",
+    "analysis_size": [
+      322,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/commissions/untitled.jpg"
+  },
+  "described": {
+    "alt_text": "A tall graffiti style piece of the names Juliana and Jacob repeated in bubble letters of every colour, with the date August 20th 2022.",
+    "description": "A portrait format spray painted canvas, photographed against a light wall. The whole surface is layered graffiti lettering: the names JULIANA and JACOB repeated in bubble, block and wildstyle letters in gold, orange, pink, lime, blue and silver, each with a black outline and a drop shadow. A cloud shaped tag reads August 20th 2022, the word Silver appears in the middle, and smaller handstyle tags are scattered between the big words. Spiky star bursts, arrows and drips surround the letters, and a soft airbrushed rainbow fog fills the background.",
+    "impression": "A celebration banner in the language of a subway wall. The two names chase each other down the canvas in a dozen outfits, which turns a simple dedication into a game of recognition. It is loud and generous, a party in letters.",
+    "subjects": [
+      "lettering",
+      "names"
+    ],
+    "characters": [],
+    "elements": [
+      "bubble letters",
+      "wildstyle letters",
+      "drop shadow",
+      "arrow",
+      "drip",
+      "star burst",
+      "handstyle tag"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "stacked",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "airbrush gradient"
+    ],
+    "color_words": [
+      "rainbow",
+      "neon",
+      "metallic gold",
+      "saturated"
+    ],
+    "style": [
+      "graffiti"
+    ],
+    "themes": [
+      "gathering",
+      "personal story"
+    ],
+    "mood": [
+      "celebratory",
+      "loud",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "JULIANA, JACOB, August 20th 2022, Silver, plus small tags",
+      "role": "lettering"
+    },
+    "format_notes": "Spray paint on canvas, photographed; the canvas edge and wall are visible.",
+    "free_tags": [
+      "commission",
+      "mitzvah",
+      "names"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

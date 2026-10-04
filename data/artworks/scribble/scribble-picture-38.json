@@ -1,0 +1,204 @@
+{
+  "id": "scribble/scribble-picture-38",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 38",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "Underneath the Brooklyn Bridge",
+    "caption": "Underneath the Brooklyn Bridge",
+    "camera": null,
+    "date": "2024-11-11 11:17:43",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Underneath Brooklyn Bridge",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-38",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 38.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 839723,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_38.qmd",
+      "html": "things/Scribble/Scribble_Picture_38.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_38.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 26.2 (20241106.m.2837 f85c071)  (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:11:11 06:48:58",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 38",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": "Copyright Matthew Crump 2024"
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#835335",
+        "fraction": 0.2957
+      },
+      {
+        "hex": "#53443c",
+        "fraction": 0.2049
+      },
+      {
+        "hex": "#e0d8ce",
+        "fraction": 0.2049
+      },
+      {
+        "hex": "#7bc1e1",
+        "fraction": 0.1332
+      },
+      {
+        "hex": "#d3a265",
+        "fraction": 0.1228
+      },
+      {
+        "hex": "#ddad39",
+        "fraction": 0.0384
+      }
+    ],
+    "hue_histogram": [
+      0.0737,
+      0.6942,
+      0.0431,
+      0.0087,
+      0.001,
+      0.0003,
+      0.0027,
+      0.1725,
+      0.0023,
+      0.0003,
+      0.0002,
+      0.001
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue"
+    ],
+    "warm_fraction": 0.8121,
+    "mean_saturation": 0.4155,
+    "mean_value": 0.6548,
+    "mean_lightness": 0.5704,
+    "contrast": 0.234,
+    "colorfulness": 77.65,
+    "mean_chroma": 24.16,
+    "is_monochrome": false,
+    "dark_fraction": 0.0143,
+    "light_fraction": 0.1006,
+    "edge_density": 0.2989,
+    "busyness": 0.1148,
+    "has_white_border": false,
+    "phash": "3f7af0509876468c",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-38.jpg"
+  },
+  "described": {
+    "alt_text": "A low angle photograph from beneath the Brooklyn Bridge roadway, its steel underside filling the top half, with a plaza of walking people below redrawn as outlined cartoon figures, labelled SP38.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP38 at lower left. The underside of the Brooklyn Bridge, a lattice of rust coloured steel beams and girders, sweeps diagonally across the upper two thirds against a bright blue sky with a soft cloud. Below, brick and stone warehouse buildings in gold and red, trees and bushes in autumn colours. A wide paved plaza in the foreground is crossed by people redrawn as outlined cartoon figures with flat fills and blank faces: a couple at left, a pair at centre in grey and blue, a figure in a cream coat at right, a figure in a green hoodie at far right, and more in the distance near the trees. Shadows on the plaza are long. Nothing else is drawn.",
+    "impression": "The bridge as a ceiling: the steel underside takes up most of the picture and the cartoon people walk beneath it like figures in an architectural rendering. The restraint is total, only the people are touched. It is a picture about scale and the strange privilege of standing under a famous thing.",
+    "subjects": [
+      "bridge",
+      "steel",
+      "plaza",
+      "people",
+      "buildings",
+      "trees",
+      "sky"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "bridge underside",
+      "girders",
+      "plaza",
+      "autumn trees",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "DUMBO",
+      "under the Brooklyn Bridge"
+    ],
+    "composition": [
+      "low angle",
+      "diagonal",
+      "figures in foreground",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "rust and blue",
+      "saturated",
+      "warm",
+      "crisp"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "landmarks",
+      "scale",
+      "walking"
+    ],
+    "mood": [
+      "calm",
+      "wondrous",
+      "crisp"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 24 SP38",
+      "role": "caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "dumbo",
+      "brooklyn bridge",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "screenprints/poster-reproduction-attempt-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Poster Reproduction Attempt 1",
+    "series": "screenprints",
+    "series_slug": "screenprints",
+    "medium": "ink",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "ink on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2017-01-10 10:16:50",
+    "year": 2017,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/screenprints/Poster Reproduction attempt 1.jpg",
+      "width": 1025,
+      "height": 1280,
+      "aspect": 0.8008,
+      "orientation": "portrait",
+      "bytes": 346094,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/screenprints/Poster_Reproduction_Attempt_1.qmd",
+      "html": "things/screenprints/Poster_Reproduction_Attempt_1.html",
+      "url": "https://crumplab.com/things/things/screenprints/Poster_Reproduction_Attempt_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2017:01:10 10:16:50",
+        "image_description": "ink on paper"
+      },
+      "iptc": {
+        "object_name": "Poster Reproduction attempt 1",
+        "caption": "ink on paper",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d63473",
+        "fraction": 0.2242
+      },
+      {
+        "hex": "#7179a0",
+        "fraction": 0.19
+      },
+      {
+        "hex": "#f2d0a4",
+        "fraction": 0.1774
+      },
+      {
+        "hex": "#a30a5e",
+        "fraction": 0.1535
+      },
+      {
+        "hex": "#dfa082",
+        "fraction": 0.1389
+      },
+      {
+        "hex": "#2c4d81",
+        "fraction": 0.1161
+      }
+    ],
+    "hue_histogram": [
+      0.0405,
+      0.2917,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0003,
+      0.1366,
+      0.1521,
+      0.0041,
+      0.0014,
+      0.3733
+    ],
+    "dominant_hues": [
+      "pink",
+      "orange",
+      "indigo"
+    ],
+    "warm_fraction": 0.7064,
+    "mean_saturation": 0.5662,
+    "mean_value": 0.7544,
+    "mean_lightness": 0.5534,
+    "contrast": 0.1901,
+    "colorfulness": 110.31,
+    "mean_chroma": 41.54,
+    "is_monochrome": false,
+    "dark_fraction": 0.0183,
+    "light_fraction": 0.0128,
+    "edge_density": 0.1379,
+    "busyness": 0.0846,
+    "has_white_border": false,
+    "phash": "500323d585363f7e",
+    "analysis_size": [
+      410,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/screenprints/poster-reproduction-attempt-1.jpg"
+  },
+  "described": {
+    "alt_text": "A screen print reproduction of a 1930s travel poster, with two cream aeroplanes over blue waves on a magenta sky and the text City of New York Municipal Airports.",
+    "description": "A portrait format screen print in four colours: magenta, cream, blue and dark navy. A cream twin engined aeroplane with pink glowing engine cowls banks across the magenta sky at the top, and a larger cream seaplane with blue underside and a row of portholes sits on stylised blue waves below. The lower third is a blue band with cream art deco lettering reading CITY OF NEW YORK MUNICIPAL AIRPORTS, NO. 1 FLOYD BENNETT FIELD, NO. 2 NORTH BEACH, EAST RIVER SEAPLANE BASES, WALL STREET, 31st STREET, F. H. LaGuardia, John McKenzie. The print shows pinholes and gaps where the stencil did not fully cover.",
+    "impression": "A loving copy of a WPA era poster, flaws and all, made to learn how screen printing works. The pink engine glow and the gaps in the ink give it the warmth of a hand pulled print rather than a reproduction. It belongs to the airbrush years' interest in stencils and flat colour.",
+    "subjects": [
+      "aeroplane",
+      "seaplane",
+      "lettering",
+      "waves",
+      "sky"
+    ],
+    "characters": [],
+    "elements": [
+      "propeller",
+      "porthole",
+      "wave",
+      "art deco lettering",
+      "engine glow"
+    ],
+    "setting": [
+      "real city reimagined",
+      "Manhattan",
+      "space"
+    ],
+    "composition": [
+      "poster layout",
+      "diagonal",
+      "text and image"
+    ],
+    "line": [
+      "hard edge",
+      "flat fill",
+      "printed"
+    ],
+    "color_words": [
+      "magenta and cream",
+      "four colour",
+      "bold",
+      "vintage"
+    ],
+    "style": [
+      "print making",
+      "art deco"
+    ],
+    "themes": [
+      "flight",
+      "place",
+      "process",
+      "systems"
+    ],
+    "mood": [
+      "nostalgic",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CITY OF NEW YORK MUNICIPAL AIRPORTS; NO. 1 FLOYD BENNETT FIELD; NO. 2 NORTH BEACH; EAST RIVER SEAPLANE BASES; WALL STREET; 31st STREET; F. H. LaGuardia; John McKenzie",
+      "role": "poster text"
+    },
+    "format_notes": "Four colour screen print on paper, photographed. A reproduction of a 1930s Federal Art Project poster. Sold.",
+    "free_tags": [
+      "screen print",
+      "reproduction",
+      "WPA",
+      "NYC"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

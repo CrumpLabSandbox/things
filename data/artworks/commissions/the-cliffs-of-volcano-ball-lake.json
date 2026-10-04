@@ -1,0 +1,235 @@
+{
+  "id": "commissions/the-cliffs-of-volcano-ball-lake",
+  "schema_version": 1,
+  "catalog": {
+    "title": "The Cliffs Of Volcano Ball Lake",
+    "series": "commissions",
+    "series_slug": "commissions",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "DIgital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 23:56:32",
+    "year": 2022,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/commissions/Cliffs-of-Volcano-ball-lake.jpg",
+      "width": 2000,
+      "height": 2000,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 667603,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/commissions/The_Cliffs_Of_Volcano_Ball_Lake.qmd",
+      "html": "things/commissions/The_Cliffs_Of_Volcano_Ball_Lake.html",
+      "url": "https://crumplab.com/things/things/commissions/The_Cliffs_Of_Volcano_Ball_Lake.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:59:43",
+        "image_description": "DIgital Work"
+      },
+      "iptc": {
+        "object_name": "The Cliffs of Volcano Ball Lake",
+        "caption": "DIgital Work",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#edf3f1",
+        "fraction": 0.3024
+      },
+      {
+        "hex": "#515246",
+        "fraction": 0.1943
+      },
+      {
+        "hex": "#76bb96",
+        "fraction": 0.1596
+      },
+      {
+        "hex": "#91cb54",
+        "fraction": 0.1439
+      },
+      {
+        "hex": "#858ec5",
+        "fraction": 0.104
+      },
+      {
+        "hex": "#d17664",
+        "fraction": 0.0959
+      }
+    ],
+    "hue_histogram": [
+      0.0944,
+      0.1119,
+      0.126,
+      0.1412,
+      0.117,
+      0.0902,
+      0.1121,
+      0.0861,
+      0.0181,
+      0.0211,
+      0.0284,
+      0.0534
+    ],
+    "dominant_hues": [
+      "yellow-green",
+      "yellow",
+      "green"
+    ],
+    "warm_fraction": 0.4016,
+    "mean_saturation": 0.3451,
+    "mean_value": 0.7589,
+    "mean_lightness": 0.6999,
+    "contrast": 0.2422,
+    "colorfulness": 86.07,
+    "mean_chroma": 27.72,
+    "is_monochrome": false,
+    "dark_fraction": 0.0284,
+    "light_fraction": 0.2758,
+    "edge_density": 0.512,
+    "busyness": 0.1757,
+    "has_white_border": true,
+    "phash": "3b9596c6a721e161",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/commissions/the-cliffs-of-volcano-ball-lake.jpg"
+  },
+  "described": {
+    "alt_text": "An extremely dense neon cartoon landscape around a turquoise lake, with red cliffs, a tiny city, a striped volcano and hundreds of creatures, signed 2021.",
+    "description": "A square digital drawing with white border, hand lettered title at bottom left and signature with 2021 at bottom right. A bright blue sky with large outlined clouds and a low yellow sun sits over a turquoise lake in the middle distance. Red layered cliffs drop into the lake at left, a green plateau dotted with small huts sits at right, and a striped purple volcano with a white ball on its summit rises at upper right. Below the lake the land descends through green hills to a tiny pastel city at centre, then into a foreground crammed with creatures: horned heads, eyed blobs, a pink hovering pod with eyes, a red long necked animal at lower centre, striped stalks and antennae, a blue vehicle at far left. Smoke plumes and small clouds drift at every level. Colours are intensely saturated lime, magenta, cyan and orange with heavy black outlines and a visible pencil scribble underlayer.",
+    "impression": "The most packed picture in the collection, where every square inch is a resident. The lake is the only place the eye can rest, and it sits exactly in the middle like a held breath. The volcano with its ball on top is a landmark that the later works keep returning to, so this feels like the founding map of the Colorlands world.",
+    "subjects": [
+      "landscape",
+      "lake",
+      "mountains",
+      "volcano",
+      "city",
+      "creatures",
+      "clouds",
+      "vehicles",
+      "sun"
+    ],
+    "characters": [
+      "horned creature",
+      "one eyed creature",
+      "antenna blob",
+      "sleepy face",
+      "long necked creature"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "outlined cloud",
+      "smoke plume",
+      "volcano",
+      "ball on summit",
+      "hut",
+      "stalk trees",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented landscape",
+      "lakeside",
+      "valley",
+      "city on horizon"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense",
+      "layered depth",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "neon",
+      "candy",
+      "rainbow",
+      "saturated",
+      "lime green"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "crowded life",
+      "faces in things",
+      "nature meets built"
+    ],
+    "mood": [
+      "playful",
+      "busy",
+      "celebratory"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "THE CLIFFS AT VOLCANO BALL LAKE; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Print ready digital file with white margin. Signed 2021, file dated 2022. Lettered title says 'at', page title says 'of'. Source for the 2023 revisit and the playground variations.",
+    "free_tags": [
+      "signed 2021",
+      "colorland",
+      "volcano ball lake",
+      "commission"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "source_of",
+      "target": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "note": "Line art was inverted, varied with Stable Diffusion, and redrawn into the 2023 piece.",
+      "source": "described"
+    },
+    {
+      "type": "series_pair",
+      "target": "colorlands/meeting-of-the-mountains",
+      "note": "Same year, format and world as the Colorlands pieces.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

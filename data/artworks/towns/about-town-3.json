@@ -1,0 +1,200 @@
+{
+  "id": "towns/about-town-3",
+  "schema_version": 1,
+  "catalog": {
+    "title": "About Town 3",
+    "series": "towns",
+    "series_slug": "towns",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood panel",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:32:36",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "10 x 10",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/towns/About town 3.jpg",
+      "width": 432,
+      "height": 432,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 91981,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/towns/About_Town_3.qmd",
+      "html": "things/towns/About_Town_3.html",
+      "url": "https://crumplab.com/things/things/towns/About_Town_3.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:32:36",
+        "image_description": "oil on wood panel"
+      },
+      "iptc": {
+        "object_name": "About town 3",
+        "caption": "oil on wood panel",
+        "keywords": [
+          "10 x 10"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#afb4ce",
+        "fraction": 0.2793
+      },
+      {
+        "hex": "#da7290",
+        "fraction": 0.2336
+      },
+      {
+        "hex": "#849982",
+        "fraction": 0.1649
+      },
+      {
+        "hex": "#e57f60",
+        "fraction": 0.1466
+      },
+      {
+        "hex": "#271b1d",
+        "fraction": 0.1037
+      },
+      {
+        "hex": "#bfbd69",
+        "fraction": 0.0719
+      }
+    ],
+    "hue_histogram": [
+      0.2755,
+      0.1206,
+      0.0688,
+      0.0848,
+      0.041,
+      0.0201,
+      0.0222,
+      0.0988,
+      0.0356,
+      0.0712,
+      0.0271,
+      0.1343
+    ],
+    "dominant_hues": [
+      "red",
+      "pink",
+      "orange"
+    ],
+    "warm_fraction": 0.6079,
+    "mean_saturation": 0.3987,
+    "mean_value": 0.7358,
+    "mean_lightness": 0.61,
+    "contrast": 0.2021,
+    "colorfulness": 87.1,
+    "mean_chroma": 30.41,
+    "is_monochrome": false,
+    "dark_fraction": 0.0765,
+    "light_fraction": 0.0485,
+    "edge_density": 0.2265,
+    "busyness": 0.1305,
+    "has_white_border": false,
+    "phash": "48d2af2d70a0566f",
+    "analysis_size": [
+      432,
+      432
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/towns/about-town-3.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of four horned pastel creatures in front of blocky towers and pink mountains under a rainbow sky, signed crump 11.",
+    "description": "A square oil painting on wood, signed crump 11 at lower right. Four rounded creatures with single eyes and small horns, in orange, lime, purple and blue, sit in the foreground on green ground. Behind them stand blocky towers with large white windows in teal, pink, blue and red, like stacked tram cars, against pink triangular mountains and a sky of pink, yellow and blue bands. Thick black outlines over flat colour.",
+    "impression": "The town's residents posing for a photo in front of their skyline. The creatures are the same family as the Magic Bear and crowd monsters but calmer, sitting like pets. The rainbow sky over pink mountains gives it a holiday postcard feel.",
+    "subjects": [
+      "creatures",
+      "towers",
+      "mountains",
+      "village",
+      "sky"
+    ],
+    "characters": [
+      "one eyed creature",
+      "horned creature"
+    ],
+    "elements": [
+      "horns",
+      "windows",
+      "pink mountains",
+      "banded sky",
+      "signature"
+    ],
+    "setting": [
+      "invented landscape",
+      "village",
+      "city on horizon"
+    ],
+    "composition": [
+      "figures in foreground",
+      "layered depth",
+      "mid horizon"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "rainbow",
+      "pink and teal",
+      "bright"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "town life",
+      "gathering",
+      "portrait"
+    ],
+    "mood": [
+      "calm",
+      "joyful",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "crump 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed 2011. Low resolution photograph.",
+    "free_tags": [
+      "town series",
+      "signed 2011"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

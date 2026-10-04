@@ -1,0 +1,202 @@
+{
+  "id": "crowds/crowd-3",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Crowd 3",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:48:58",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/crowd 3.jpg",
+      "width": 751,
+      "height": 379,
+      "aspect": 1.9815,
+      "orientation": "landscape",
+      "bytes": 163089,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Crowd_3.qmd",
+      "html": "things/crowds/Crowd_3.html",
+      "url": "https://crumplab.com/things/things/crowds/Crowd_3.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:48:58",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "crowd 3",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#201720",
+        "fraction": 0.2828
+      },
+      {
+        "hex": "#c2c7e0",
+        "fraction": 0.219
+      },
+      {
+        "hex": "#a98e58",
+        "fraction": 0.1787
+      },
+      {
+        "hex": "#c8654d",
+        "fraction": 0.1274
+      },
+      {
+        "hex": "#637474",
+        "fraction": 0.1205
+      },
+      {
+        "hex": "#763e42",
+        "fraction": 0.0717
+      }
+    ],
+    "hue_histogram": [
+      0.238,
+      0.2293,
+      0.0666,
+      0.0345,
+      0.014,
+      0.0102,
+      0.0292,
+      0.1296,
+      0.0796,
+      0.0508,
+      0.041,
+      0.0771
+    ],
+    "dominant_hues": [
+      "red",
+      "orange",
+      "blue"
+    ],
+    "warm_fraction": 0.6364,
+    "mean_saturation": 0.4358,
+    "mean_value": 0.5513,
+    "mean_lightness": 0.4639,
+    "contrast": 0.2792,
+    "colorfulness": 68.88,
+    "mean_chroma": 22.75,
+    "is_monochrome": false,
+    "dark_fraction": 0.2592,
+    "light_fraction": 0.0235,
+    "edge_density": 0.308,
+    "busyness": 0.2141,
+    "has_white_border": false,
+    "phash": "5e2fa19f76525028",
+    "analysis_size": [
+      512,
+      258
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/crowd-3.jpg"
+  },
+  "described": {
+    "alt_text": "A wide marker painting of a crowd of rounded cartoon heads in orange, olive, tan and blue with white visor shapes and black outlines on wood.",
+    "description": "A landscape format marker painting on wood with the grain showing through the colour. Overlapping rounded heads and bodies pack the panel: bulbous forms in orange, rust, olive, mustard, sky blue and pink, each with a white visor or window shape, small dots for eyes, and curled white horns or tabs. A pink head with an open mouth and a white speech balloon sits at centre, a blue head with a hat shape at upper right, and a pale blue face with large eyes at lower left. Thick black outlines, flat marker fills.",
+    "impression": "An earthier crowd than the others, in autumn colours on bare wood, like a crowd of acorns and gourds. The white visors make them look like helmets or screens, so the crowd could be a stadium of spectators. Warm and slightly muffled, a crowd at a distance.",
+    "subjects": [
+      "crowd",
+      "faces",
+      "creatures"
+    ],
+    "characters": [
+      "visor face",
+      "one eyed creature",
+      "horned creature"
+    ],
+    "elements": [
+      "visor",
+      "horns",
+      "white highlight line",
+      "speech balloon",
+      "bare wood"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "panoramic",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "earth tones",
+      "orange and olive",
+      "warm",
+      "muted"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density",
+      "painted on wood"
+    ],
+    "themes": [
+      "crowded life",
+      "watching",
+      "faces in things"
+    ],
+    "mood": [
+      "busy",
+      "calm",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, landscape format, wood grain visible. Sold.",
+    "free_tags": [
+      "crowd series",
+      "visor crowd",
+      "bare plywood"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

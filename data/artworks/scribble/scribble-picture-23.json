@@ -1,0 +1,214 @@
+{
+  "id": "scribble/scribble-picture-23",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 23",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Church Ave",
+    "caption": "Church Ave",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-15 00:00:00",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Almost a year since the last scribble picture. Church Ave, Brooklyn.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 23.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 1242239,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_23.qmd",
+      "html": "things/Scribble/Scribble_Picture_23.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_23.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:15 08:30:51",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 23",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240915",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#bac3c5",
+        "fraction": 0.2291
+      },
+      {
+        "hex": "#5a5f59",
+        "fraction": 0.2243
+      },
+      {
+        "hex": "#6ac6db",
+        "fraction": 0.191
+      },
+      {
+        "hex": "#ccb49a",
+        "fraction": 0.1655
+      },
+      {
+        "hex": "#b1a756",
+        "fraction": 0.1182
+      },
+      {
+        "hex": "#b3714b",
+        "fraction": 0.0719
+      }
+    ],
+    "hue_histogram": [
+      0.0567,
+      0.3242,
+      0.1725,
+      0.031,
+      0.0069,
+      0.0112,
+      0.2821,
+      0.114,
+      0.0007,
+      0.0,
+      0.0,
+      0.0005
+    ],
+    "dominant_hues": [
+      "orange",
+      "cyan",
+      "yellow"
+    ],
+    "warm_fraction": 0.554,
+    "mean_saturation": 0.3152,
+    "mean_value": 0.699,
+    "mean_lightness": 0.6527,
+    "contrast": 0.1822,
+    "colorfulness": 74.04,
+    "mean_chroma": 20.0,
+    "is_monochrome": false,
+    "dark_fraction": 0.0091,
+    "light_fraction": 0.0289,
+    "edge_density": 0.3145,
+    "busyness": 0.1162,
+    "has_white_border": false,
+    "phash": "2ffe95710321ce60",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-23.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a Brooklyn farmers market at Church and Beverley with a lamp post, white umbrellas and a brick building, where a pink two legged creature sits on the plaza, small creatures stand on the pavement, and a faceless man walks past, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. A grey street lamp with a drawn curved head rises at left, its pole covered in drawn stickers and panels, with green street signs reading Church Av and Beverley. Outlined cartoon clouds float in a blue sky beside a large green tree. A brick corner building with a decorative gable stands at right, and a red brick row with a 99 sign at left. White market umbrellas shade tables of fruit and vegetables in the middle distance with a striped awning at right. On the painted plaza in the foreground a pink rounded creature with a red button eye sits with its back to the viewer, an orange traffic cone and red case sit beside the lamp base, which has a drawn face. Small grey and green pod creatures stand along the pavement, a tan one sits on a chair at right, and a man in a grey shirt walks past at right with his head replaced by a cream cartoon shape. A white metal bench sits at lower right.",
+    "impression": "Back on Church Avenue a year later and the creatures have settled in: the pink one is just sitting watching the market like everybody else. The lamp post wears a face and the plaza is painted, so the whole corner feels like a stage after a parade. The first of the 2024 Scribbles, and warmer and busier with inhabitants than the 2023 ones.",
+    "subjects": [
+      "street",
+      "city",
+      "market",
+      "umbrella",
+      "lamp post",
+      "trees",
+      "creatures",
+      "people",
+      "buildings",
+      "clouds"
+    ],
+    "characters": [
+      "pod creature",
+      "faceless figure",
+      "blob figure"
+    ],
+    "elements": [
+      "street sign",
+      "umbrella",
+      "outlined cloud",
+      "traffic cone",
+      "bench",
+      "lamp post face",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Church Avenue",
+      "farmers market"
+    ],
+    "composition": [
+      "street corner",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "creatures among us",
+      "market"
+    ],
+    "mood": [
+      "sunny",
+      "playful",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Church Av; Beverley; 99; Matt Crump 24",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. First Scribble picture after a year's gap.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "church ave",
+      "market",
+      "creatures",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

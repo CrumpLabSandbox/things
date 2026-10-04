@@ -1,0 +1,209 @@
+{
+  "id": "scribble/scribble-picture-24",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 24",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Katz's",
+    "caption": "Katz's",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-15 18:17:42",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "First night-time scribble picture. Katz's.",
+    "print_url": "https://crumplab/things/prints",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 24.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 1390663,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_24.qmd",
+      "html": "things/Scribble/Scribble_Picture_24.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_24.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:15 18:17:42",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 24",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240915",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#61484c",
+        "fraction": 0.286
+      },
+      {
+        "hex": "#b77b72",
+        "fraction": 0.2049
+      },
+      {
+        "hex": "#d1b9ab",
+        "fraction": 0.1628
+      },
+      {
+        "hex": "#ad473f",
+        "fraction": 0.1419
+      },
+      {
+        "hex": "#8798b5",
+        "fraction": 0.1286
+      },
+      {
+        "hex": "#daa467",
+        "fraction": 0.0759
+      }
+    ],
+    "hue_histogram": [
+      0.4739,
+      0.303,
+      0.0128,
+      0.0005,
+      0.0001,
+      0.0,
+      0.0009,
+      0.0714,
+      0.0281,
+      0.0293,
+      0.0323,
+      0.0476
+    ],
+    "dominant_hues": [
+      "red",
+      "orange"
+    ],
+    "warm_fraction": 0.8563,
+    "mean_saturation": 0.3682,
+    "mean_value": 0.646,
+    "mean_lightness": 0.5349,
+    "contrast": 0.1754,
+    "colorfulness": 69.8,
+    "mean_chroma": 25.04,
+    "is_monochrome": false,
+    "dark_fraction": 0.0151,
+    "light_fraction": 0.002,
+    "edge_density": 0.3354,
+    "busyness": 0.1264,
+    "has_white_border": false,
+    "phash": "15b867afc6469a50",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-24.jpg"
+  },
+  "described": {
+    "alt_text": "A night photograph of the neon sign at Katz's Delicatessen on Ludlow Street, with the lettering replaced by scribbled pink neon squiggles and a queue of people with blank cartoon heads along the sidewalk, signed 24.",
+    "description": "A portrait format digital piece on a night photograph, signed Matt Crump 24 at lower left. A brick building at dusk with a glass tower behind, lit by warm wall lamps. The famous red neon sign along the facade has been replaced with pink and red neon scribbles, and the vertical sign at left is also overwritten with scribbled pink glyphs. A Ludlow St sign is visible at left. Lit windows glow orange below the sign. A long queue of people waits along the sidewalk and around the corner, every head replaced with a grey, white or tan cartoon shape: a figure in a tan jacket at centre, one in a floral shirt, one in blue shorts and a grey shirt at right, one in an orange skirt. The sky above is deep blue.",
+    "impression": "The first night Scribble, and the neon was made for it: the famous name is scribbled out so the glow says nothing and everything. The faceless queue waiting for pastrami reads as a pilgrimage. Warm orange against deep blue, with a buzz of neon pink: the richest colour in the series so far.",
+    "subjects": [
+      "street",
+      "city",
+      "neon",
+      "restaurant",
+      "queue",
+      "people",
+      "night"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "scribble tag",
+      "street sign",
+      "lit windows",
+      "wall lamp",
+      "queue",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Lower East Side",
+      "night"
+    ],
+    "composition": [
+      "low angle",
+      "crowd",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "neon",
+      "orange and blue",
+      "night",
+      "saturated"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "graffiti"
+    ],
+    "themes": [
+      "city",
+      "night",
+      "landmarks",
+      "waiting",
+      "erasure"
+    ],
+    "mood": [
+      "energetic",
+      "warm",
+      "moody"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Ludlow St; neon sign replaced by scribbles; Matt Crump 24",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 night photograph. First night time Scribble picture. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "katz's",
+      "night",
+      "neon",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

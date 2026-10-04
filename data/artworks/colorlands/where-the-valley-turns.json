@@ -1,0 +1,214 @@
+{
+  "id": "colorlands/where-the-valley-turns",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Where The Valley Turns",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-22 08:10:41",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Where the valley turns.jpeg",
+      "width": 1080,
+      "height": 1080,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 897308,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Where_The_Valley_Turns.qmd",
+      "html": "things/Colorlands/Where_The_Valley_Turns.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Where_The_Valley_Turns.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.3 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:05:22 13:52:04",
+        "image_description": "Digital"
+      },
+      "iptc": {
+        "object_name": "Where the valley turns",
+        "caption": "Digital",
+        "keywords": [],
+        "date_created": "20220222",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e6e4e4",
+        "fraction": 0.2389
+      },
+      {
+        "hex": "#94d26b",
+        "fraction": 0.1852
+      },
+      {
+        "hex": "#8cd6c9",
+        "fraction": 0.1713
+      },
+      {
+        "hex": "#d7a356",
+        "fraction": 0.1393
+      },
+      {
+        "hex": "#6c6b5c",
+        "fraction": 0.1374
+      },
+      {
+        "hex": "#c37fb3",
+        "fraction": 0.1279
+      }
+    ],
+    "hue_histogram": [
+      0.069,
+      0.1534,
+      0.1521,
+      0.1188,
+      0.0911,
+      0.0942,
+      0.1281,
+      0.0371,
+      0.0184,
+      0.0306,
+      0.0459,
+      0.0613
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "cyan"
+    ],
+    "warm_fraction": 0.4617,
+    "mean_saturation": 0.3503,
+    "mean_value": 0.8067,
+    "mean_lightness": 0.7406,
+    "contrast": 0.1799,
+    "colorfulness": 88.79,
+    "mean_chroma": 31.47,
+    "is_monochrome": false,
+    "dark_fraction": 0.0074,
+    "light_fraction": 0.2019,
+    "edge_density": 0.3725,
+    "busyness": 0.1233,
+    "has_white_border": true,
+    "phash": "3fcce0df9124e190",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/where-the-valley-turns.jpg"
+  },
+  "described": {
+    "alt_text": "A bright cartoon valley seen from above with a turquoise river winding between rainbow hills, villages, a tiny city and smoke plumes, signed 2022.",
+    "description": "A square digital drawing with a thin white border and small hand lettered title and signature with 2022 below. A wide turquoise river enters at the top centre, widens into a lake in the middle and turns toward the lower left. Hills on both banks are stacked in rounded lobes of pink, orange, lime, purple and blue, each outlined in black, with pencil scribbles visible underneath. On the left bank are red rock cliffs, a pink hilltop fortress with a round tower, a yellow cylinder building and an orange hut with windows. On the right bank a green plateau holds a village of domed huts, with a cluster of pastel skyscrapers in the lower centre and a village of small round houses in the foreground. White smoke columns rise from chimneys, a few creatures with eyes sit in the hills, and horizontal rows of tiny cone trees edge the slopes. The horizon is a thin strip of pale sky at the very top.",
+    "impression": "This is the most map like of the Colorlands pictures, a place you could plausibly walk through, following the river from the far mountains down to the foreground town. The rainbow is organised rather than chaotic: each hill is a single colour, so the valley reads as patchwork farmland. The creatures are fewer and more hidden here, which makes finding them more satisfying.",
+    "subjects": [
+      "landscape",
+      "river",
+      "lake",
+      "mountains",
+      "village",
+      "city",
+      "houses",
+      "trees",
+      "creatures"
+    ],
+    "characters": [
+      "horned creature",
+      "sleepy face"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "smoke plume",
+      "outlined cloud",
+      "domed building",
+      "tower",
+      "cone tree",
+      "windows",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "river",
+      "village"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "winding path",
+      "layered depth",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "saturated",
+      "turquoise"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "map like"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement",
+      "journey",
+      "nature meets built"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "WHERE THE VALLEY TURNS; Matt Crump 2022",
+      "role": "title and signature"
+    },
+    "format_notes": "Print file with narrow white margin and small caption. Signed 2022.",
+    "free_tags": [
+      "signed 2022",
+      "colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

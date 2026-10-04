@@ -1,0 +1,215 @@
+{
+  "id": "scribble/scribble-picture-25",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 25",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2024-09-16 20:45:56",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Going to get some gelato",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 25.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 1338547,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_25.qmd",
+      "html": "things/Scribble/Scribble_Picture_25.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_25.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:09:16 20:45:56",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 25",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20240916",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d6d2d0",
+        "fraction": 0.2397
+      },
+      {
+        "hex": "#c5a179",
+        "fraction": 0.2055
+      },
+      {
+        "hex": "#80624a",
+        "fraction": 0.1552
+      },
+      {
+        "hex": "#ab5e35",
+        "fraction": 0.1396
+      },
+      {
+        "hex": "#7dc1df",
+        "fraction": 0.13
+      },
+      {
+        "hex": "#342f2f",
+        "fraction": 0.13
+      }
+    ],
+    "hue_histogram": [
+      0.0715,
+      0.676,
+      0.0238,
+      0.0036,
+      0.0016,
+      0.0014,
+      0.0047,
+      0.2121,
+      0.0033,
+      0.0009,
+      0.0003,
+      0.001
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue"
+    ],
+    "warm_fraction": 0.7724,
+    "mean_saturation": 0.3679,
+    "mean_value": 0.6826,
+    "mean_lightness": 0.6016,
+    "contrast": 0.227,
+    "colorfulness": 72.86,
+    "mean_chroma": 21.9,
+    "is_monochrome": false,
+    "dark_fraction": 0.0686,
+    "light_fraction": 0.0327,
+    "edge_density": 0.3254,
+    "busyness": 0.1383,
+    "has_white_border": false,
+    "phash": "0ee8cdb551b2864e",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-25.jpg"
+  },
+  "described": {
+    "alt_text": "A dusk photograph of a Houston Street corner with tenements and a glass tower, where giant cartoon creatures sit on the rooftops, a faceless figure is projected on the tower, bins have grown horns, and a couple stand at the crossing, signed 24.",
+    "description": "A portrait format digital piece on a dusk photograph, signed 24 at lower left. Tenement buildings with fire escapes and a red brick corner building stand under a pale blue evening sky, with a dark glass tower at upper right. On the tower a huge figure with a blank grey cartoon face and a hand on its chin is drawn like a projected advertisement, with scribbled yellow text above it. A giant tan cartoon creature with rabbit ears lies on the rooftop at upper left, a small white rabbit eared creature sits on the next roof, smoke plumes are drawn from chimneys, and a cartoon figure stands on a drawn lamp at right. The traffic lights are redrawn as flat yellow and red shapes. At street level a couple, a man in black and a woman in a floral dress with blank faces, stand at the crosswalk; grey bins at the curb have grown horns and faces, a tan creature sits on the corner, a flat grey creature lies on the road at lower right, a white car intrudes at left and a blurred cyclist crosses the bottom.",
+    "impression": "Houston Street at the blue hour, with the city's giants out: a creature the size of a water tower lounging on a tenement roof and a blank faced colossus on the billboard tower. The couple at the crossing seem to be deciding whether to notice. This is the most populated Scribble to date, and the one where the drawing finally outnumbers the photograph.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "skyscrapers",
+      "creatures",
+      "people",
+      "traffic lights",
+      "bins",
+      "dusk"
+    ],
+    "characters": [
+      "giant creature",
+      "rabbit eared figure",
+      "faceless figure",
+      "bin creature"
+    ],
+    "elements": [
+      "rooftop creature",
+      "smoke plume",
+      "traffic light",
+      "fire escape",
+      "horned bin",
+      "scribble tag",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Lower East Side",
+      "night"
+    ],
+    "composition": [
+      "street corner",
+      "giant figures above",
+      "figures in foreground",
+      "photo base",
+      "dense"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "dusk blue",
+      "warm brick",
+      "saturated",
+      "lit windows"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "creatures among us",
+      "scale",
+      "night"
+    ],
+    "mood": [
+      "playful",
+      "wondrous",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled text on tower; signature 24",
+      "role": "scribble and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "houston street",
+      "giant creatures",
+      "dusk",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

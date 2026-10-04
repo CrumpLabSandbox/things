@@ -1,0 +1,211 @@
+{
+  "id": "towns/going-to-the-subway",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Going To The Subway",
+    "series": "towns",
+    "series_slug": "towns",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood panel",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:32:36",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "10 x 10",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/towns/Going to the subway.jpg",
+      "width": 1080,
+      "height": 1075,
+      "aspect": 1.0047,
+      "orientation": "square",
+      "bytes": 351021,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/towns/Going_To_The_Subway.qmd",
+      "html": "things/towns/Going_To_The_Subway.html",
+      "url": "https://crumplab.com/things/things/towns/Going_To_The_Subway.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:32:36",
+        "image_description": "oil on wood panel"
+      },
+      "iptc": {
+        "object_name": "Going to the subway",
+        "caption": "oil on wood panel",
+        "keywords": [
+          "10 x 10"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dbdbdc",
+        "fraction": 0.3905
+      },
+      {
+        "hex": "#8cbac0",
+        "fraction": 0.154
+      },
+      {
+        "hex": "#d9d398",
+        "fraction": 0.1338
+      },
+      {
+        "hex": "#312e32",
+        "fraction": 0.1292
+      },
+      {
+        "hex": "#9695ca",
+        "fraction": 0.1188
+      },
+      {
+        "hex": "#e58689",
+        "fraction": 0.0738
+      }
+    ],
+    "hue_histogram": [
+      0.1413,
+      0.0747,
+      0.1934,
+      0.0202,
+      0.0031,
+      0.015,
+      0.1276,
+      0.1551,
+      0.1788,
+      0.0479,
+      0.006,
+      0.0369
+    ],
+    "dominant_hues": [
+      "yellow",
+      "indigo",
+      "blue"
+    ],
+    "warm_fraction": 0.4498,
+    "mean_saturation": 0.2244,
+    "mean_value": 0.7737,
+    "mean_lightness": 0.7142,
+    "contrast": 0.2345,
+    "colorfulness": 53.09,
+    "mean_chroma": 17.8,
+    "is_monochrome": false,
+    "dark_fraction": 0.0744,
+    "light_fraction": 0.1709,
+    "edge_density": 0.2428,
+    "busyness": 0.1672,
+    "has_white_border": false,
+    "phash": "09a6bb9689b44ab3",
+    "analysis_size": [
+      512,
+      510
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/towns/going-to-the-subway.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of rounded pastel figures with hooded heads descending stairs beside a mint green subway train, signed CRUMP 11.",
+    "description": "A square oil painting on wood, signed CRUMP 11 at lower left. A mint green subway train with white windows and doors runs along the top and recedes to the right. Below, a crowd of rounded figures in lilac, pink, yellow, mint and green, each with a hooded head topped by a tan or green cap and mitten hands, walks down a platform and a flight of white stairs toward the lower right. One figure at lower right holds a white square like a phone, and one at left looks down with a round pink patch. Thick black outlines over flat pastel colour with visible brushwork.",
+    "impression": "A New York commute translated into the soft creatures of the town series: the puffer jacket crowd going underground. The hoods and caps make everybody anonymous in the way subway crowds are. It is affectionate and specific, a real place made gentle.",
+    "subjects": [
+      "crowd",
+      "figures",
+      "subway",
+      "train",
+      "stairs"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "faceless figure"
+    ],
+    "elements": [
+      "train",
+      "stairs",
+      "windows",
+      "phone",
+      "mitten arms",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "subway",
+      "invented city"
+    ],
+    "composition": [
+      "crowd",
+      "diagonal",
+      "layered depth"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "pastel",
+      "mint and lilac",
+      "soft"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "commuting",
+      "crowded life",
+      "city",
+      "anonymity"
+    ],
+    "mood": [
+      "calm",
+      "busy",
+      "wistful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CRUMP 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed and dated 2011.",
+    "free_tags": [
+      "town series",
+      "signed 2011",
+      "subway",
+      "NYC"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "characters/in-living-color-1",
+      "note": "Commuting crowds of hooded figures.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

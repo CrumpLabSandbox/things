@@ -1,0 +1,201 @@
+{
+  "id": "desertland/fiona",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Fiona",
+    "series": "Desertland",
+    "series_slug": "desertland",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "Oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-10-10 00:00:00",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Desertland/fiona.jpg",
+      "width": 1200,
+      "height": 1206,
+      "aspect": 0.995,
+      "orientation": "square",
+      "bytes": 493547,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Desertland/NA.qmd",
+      "html": "things/Desertland/NA.html",
+      "url": "https://crumplab.com/things/things/Desertland/NA.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d6c2b9",
+        "fraction": 0.2655
+      },
+      {
+        "hex": "#d0c385",
+        "fraction": 0.2366
+      },
+      {
+        "hex": "#88766d",
+        "fraction": 0.1383
+      },
+      {
+        "hex": "#8babb7",
+        "fraction": 0.1226
+      },
+      {
+        "hex": "#da8369",
+        "fraction": 0.1196
+      },
+      {
+        "hex": "#372926",
+        "fraction": 0.1175
+      }
+    ],
+    "hue_histogram": [
+      0.2067,
+      0.3632,
+      0.2397,
+      0.0205,
+      0.0002,
+      0.0036,
+      0.0209,
+      0.0823,
+      0.0009,
+      0.0012,
+      0.0053,
+      0.0555
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.8685,
+    "mean_saturation": 0.3029,
+    "mean_value": 0.7108,
+    "mean_lightness": 0.6486,
+    "contrast": 0.2146,
+    "colorfulness": 61.4,
+    "mean_chroma": 21.34,
+    "is_monochrome": false,
+    "dark_fraction": 0.0627,
+    "light_fraction": 0.0566,
+    "edge_density": 0.3042,
+    "busyness": 0.1642,
+    "has_white_border": false,
+    "phash": "1b9904eb3e81b66c",
+    "analysis_size": [
+      509,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/desertland/fiona.jpg"
+  },
+  "described": {
+    "alt_text": "A square pastel painting of a hillside of lobed trees, rocks and hidden faces descending to a lake, with a sun setting behind clouds.",
+    "description": "A square oil painting in pastel colour with thin dark outlines. A pale blue sky with long outlined clouds and a yellow setting sun sits over a strip of blue water. Below it, bands of cream and yellow fields, then a slope of lobed trees and rounded rocks in peach, mint, lilac and green. In the lower right, large rounded forms carry eyes and mouths, like sleeping faces in the hillside. A lilac disc like a flying saucer or a mushroom cap tilts at upper left, and a cluster of pine like spikes rises at centre. The surface is matte with soft, flat colour.",
+    "impression": "A gentle hillside at sunset that turns out to be full of faces when you look at it long enough. It is quieter than the other Desertland pieces and more like a real landscape, with the hidden creatures as a secret for a patient viewer. The title suggests it was made for someone.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "trees",
+      "lake",
+      "sun",
+      "clouds",
+      "faces"
+    ],
+    "characters": [
+      "sleepy face",
+      "hidden face"
+    ],
+    "elements": [
+      "sunset",
+      "lobed tree",
+      "saucer shape",
+      "pine spikes",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented landscape",
+      "lakeside"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "peach and mint",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "faces in things",
+      "hidden creatures",
+      "stillness",
+      "night"
+    ],
+    "mood": [
+      "calm",
+      "dreamy",
+      "tender"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, photographed. Page title was missing, so the id comes from the file name fiona.",
+    "free_tags": [
+      "desertland",
+      "hidden faces",
+      "named for someone"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

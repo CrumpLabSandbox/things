@@ -1,0 +1,195 @@
+{
+  "id": "generative/untitled-generative-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Untitled Generative 1",
+    "series": "Generative",
+    "series_slug": "generative",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital",
+    "caption": null,
+    "camera": null,
+    "date": "2022-11-23 09:13:25",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Generative/Untitled Generative 1.jpeg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 743623,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Generative/Untitled_Generative_1.qmd",
+      "html": "things/Generative/Untitled_Generative_1.html",
+      "url": "https://crumplab.com/things/things/Generative/Untitled_Generative_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:11:23 09:13:25",
+        "image_description": "Digital"
+      },
+      "iptc": {
+        "object_name": "Untitled Generative 1",
+        "caption": "Digital",
+        "keywords": [],
+        "date_created": "20221123",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fdfdfd",
+        "fraction": 0.4588
+      },
+      {
+        "hex": "#e2e2e2",
+        "fraction": 0.1727
+      },
+      {
+        "hex": "#c5c5c5",
+        "fraction": 0.1377
+      },
+      {
+        "hex": "#a2a2a2",
+        "fraction": 0.0995
+      },
+      {
+        "hex": "#7b7b7b",
+        "fraction": 0.0917
+      },
+      {
+        "hex": "#494949",
+        "fraction": 0.0396
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [],
+    "warm_fraction": 0.0,
+    "mean_saturation": 0.0,
+    "mean_value": 0.8324,
+    "mean_lightness": 0.8451,
+    "contrast": 0.1909,
+    "colorfulness": 0.0,
+    "mean_chroma": 0.0,
+    "is_monochrome": true,
+    "dark_fraction": 0.0048,
+    "light_fraction": 0.5465,
+    "edge_density": 0.5568,
+    "busyness": 0.1558,
+    "has_white_border": true,
+    "phash": "7e9180dbc1ef90a4",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/generative/untitled-generative-1.jpg"
+  },
+  "described": {
+    "alt_text": "A square field of dense grey pencil like scribbles that resolve into mountains, creatures and fragments of the words Meeting of the Mountains.",
+    "description": "A square digital image in grey and black line on white, with a ragged edge. The entire surface is covered in layered scribbled strokes: short curves, loops, vertical hatching and small eyes and mouths, with darker vertical streaks scattered through. Fragments of hand lettered words appear near the bottom, MEETING, OF THE, MOUNTAINS, repeated and overlapping. The density is even across the sheet and no single object dominates, though mountain peaks and creature faces surface and submerge.",
+    "impression": "What a Colorland drawing looks like if you keep every pencil stroke and throw away the colour: a fog of marks that was once a scene. The repeated title at the bottom gives it away as a generative variation on Meeting of the Mountains. It is the underpainting made visible, and it reads like static with a memory.",
+    "subjects": [
+      "abstract forms",
+      "scribbles",
+      "lettering",
+      "mountains"
+    ],
+    "characters": [
+      "hidden face"
+    ],
+    "elements": [
+      "pencil scribble",
+      "hatching",
+      "repeated title",
+      "ragged edge"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "no horizon"
+    ],
+    "line": [
+      "pencil scribble underlayer",
+      "no fill"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "grey on white"
+    ],
+    "style": [
+      "generative",
+      "abstract",
+      "doodle",
+      "process art"
+    ],
+    "themes": [
+      "process",
+      "variation",
+      "noise"
+    ],
+    "mood": [
+      "busy",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "fragments of MEETING OF THE MOUNTAINS, repeated",
+      "role": "lettering"
+    },
+    "format_notes": "Digital, generated from the line layer of Meeting of the Mountains.",
+    "free_tags": [
+      "generative",
+      "scribble field",
+      "line layer"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "colorlands/meeting-of-the-mountains",
+      "note": "Built from the scribble underlayer of that drawing.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

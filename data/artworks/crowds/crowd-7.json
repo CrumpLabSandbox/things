@@ -1,0 +1,205 @@
+{
+  "id": "crowds/crowd-7",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Crowd 7",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:48:58",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/crowd 7.jpg",
+      "width": 535,
+      "height": 530,
+      "aspect": 1.0094,
+      "orientation": "square",
+      "bytes": 126396,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Crowd_7.qmd",
+      "html": "things/crowds/Crowd_7.html",
+      "url": "https://crumplab.com/things/things/crowds/Crowd_7.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:48:58",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "crowd 7",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#261d2c",
+        "fraction": 0.2442
+      },
+      {
+        "hex": "#bdc7e8",
+        "fraction": 0.1951
+      },
+      {
+        "hex": "#746262",
+        "fraction": 0.1925
+      },
+      {
+        "hex": "#ae824f",
+        "fraction": 0.1474
+      },
+      {
+        "hex": "#e07cc6",
+        "fraction": 0.1391
+      },
+      {
+        "hex": "#b7c0a2",
+        "fraction": 0.0817
+      }
+    ],
+    "hue_histogram": [
+      0.105,
+      0.2079,
+      0.0556,
+      0.016,
+      0.015,
+      0.0022,
+      0.0008,
+      0.1089,
+      0.182,
+      0.0562,
+      0.0999,
+      0.1504
+    ],
+    "dominant_hues": [
+      "orange",
+      "indigo",
+      "pink"
+    ],
+    "warm_fraction": 0.5961,
+    "mean_saturation": 0.3559,
+    "mean_value": 0.5988,
+    "mean_lightness": 0.5094,
+    "contrast": 0.2646,
+    "colorfulness": 61.58,
+    "mean_chroma": 23.17,
+    "is_monochrome": false,
+    "dark_fraction": 0.1935,
+    "light_fraction": 0.0288,
+    "edge_density": 0.2185,
+    "busyness": 0.1632,
+    "has_white_border": false,
+    "phash": "748ba7fb020bd429",
+    "analysis_size": [
+      512,
+      507
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/crowd-7.jpg"
+  },
+  "described": {
+    "alt_text": "A square marker painting of a pile of brown and olive cartoon creatures with white frills, horns and closed eyes under a pink sky with a yellow sun burst.",
+    "description": "A square marker painting on wood. Rounded creatures in browns, olive, tan and pink pile up from the bottom against a flat pink sky. A yellow sun burst with spiky rays sits at upper right, half hidden by the crowd. The creatures have single eyes, pale blue eyes with lashes, scalloped white frills, white horns and tabs, and a few closed sleepy eyes with lashes; one at lower left has a squeezed shut face, another at lower right has a sleeping face with a sideways mouth. Pale blue and lilac mitten shapes sit at the bottom. Thick black outlines, flat marker fills.",
+    "impression": "The crowd at sunset, dozing off: the frills and the sleepy faces make it look like the monsters are being tucked in. The brown palette against pink is gentle, almost cocoa and strawberry. It is the tenderest of the crowd paintings and the quietest.",
+    "subjects": [
+      "crowd",
+      "creatures",
+      "monsters",
+      "sun",
+      "sky"
+    ],
+    "characters": [
+      "sleepy face",
+      "frilled creature",
+      "one eyed creature",
+      "horned creature"
+    ],
+    "elements": [
+      "frill collar",
+      "horns",
+      "sun burst",
+      "closed eyes",
+      "flat sky",
+      "white highlight line"
+    ],
+    "setting": [
+      "invented landscape"
+    ],
+    "composition": [
+      "crowd",
+      "dense",
+      "low horizon",
+      "pile"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "brown and pink",
+      "earth tones",
+      "warm",
+      "muted"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "painted on wood"
+    ],
+    "themes": [
+      "crowded life",
+      "stillness",
+      "night",
+      "monsters"
+    ],
+    "mood": [
+      "calm",
+      "tender"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood with grain visible. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd",
+      "sunset",
+      "frills"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

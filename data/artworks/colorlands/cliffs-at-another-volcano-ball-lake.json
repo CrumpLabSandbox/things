@@ -1,0 +1,211 @@
+{
+  "id": "colorlands/cliffs-at-another-volcano-ball-lake",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Cliffs at another volcano ball lake",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital",
+    "caption": null,
+    "camera": null,
+    "date": "2023-10-07 08:10:41",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Currently shown on the work in progress page.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Cliffs at another volcano ball lake.jpeg",
+      "width": 1024,
+      "height": 1024,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 412237,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Cliffs_at_another_volcano_ball_lake.qmd",
+      "html": "things/Colorlands/Cliffs_at_another_volcano_ball_lake.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Cliffs_at_another_volcano_ball_lake.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:10:07 08:01:18",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fdfefe",
+        "fraction": 0.2673
+      },
+      {
+        "hex": "#524736",
+        "fraction": 0.1726
+      },
+      {
+        "hex": "#6f755a",
+        "fraction": 0.1689
+      },
+      {
+        "hex": "#abcccd",
+        "fraction": 0.1396
+      },
+      {
+        "hex": "#68858f",
+        "fraction": 0.1265
+      },
+      {
+        "hex": "#a49865",
+        "fraction": 0.1253
+      }
+    ],
+    "hue_histogram": [
+      0.0304,
+      0.2177,
+      0.2706,
+      0.1128,
+      0.0386,
+      0.0409,
+      0.1506,
+      0.1366,
+      0.001,
+      0.0,
+      0.0001,
+      0.0007
+    ],
+    "dominant_hues": [
+      "yellow",
+      "orange",
+      "cyan"
+    ],
+    "warm_fraction": 0.5194,
+    "mean_saturation": 0.2212,
+    "mean_value": 0.673,
+    "mean_lightness": 0.6588,
+    "contrast": 0.2571,
+    "colorfulness": 40.77,
+    "mean_chroma": 13.01,
+    "is_monochrome": false,
+    "dark_fraction": 0.0154,
+    "light_fraction": 0.2703,
+    "edge_density": 0.2416,
+    "busyness": 0.098,
+    "has_white_border": true,
+    "phash": "6bd894879469d06d",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/cliffs-at-another-volcano-ball-lake.jpg"
+  },
+  "described": {
+    "alt_text": "A naturalistic cartoon landscape of a blue lake between mountains, forested hills, a waterfall and a house with a red roof, signed 2023.",
+    "description": "A square digital drawing inside a white border, with 2023 at bottom left and a signature at bottom right, no title lettering. A pale blue sky with outlined cumulus clouds sits over a distant range of grey blue mountains. A bright turquoise lake fills the middle distance with a small island. In front of it the land descends in hills of green trees, tan rock and pale blue water: a stream and small waterfall at centre left, a red roofed house with a chimney and smoke at centre right under a tall pine, a second house at far left, a lone bare tree at centre, and rocky orange and purple outcrops in the foreground with a red flowering bush at lower centre. Every form is outlined in fine black line and filled with muted natural colour, and the surfaces carry a soft printed texture.",
+    "impression": "Unlike the rest of the series, nothing here has eyes. It is a storybook landscape, Hudson River School by way of a children's book, and it looks like a calm memory of a place rather than a party. Knowing it grew from the earlier Cliffs of Volcano Ball Lake through image generation and redrawing, it reads as the same valley revisited after everyone went home.",
+    "subjects": [
+      "landscape",
+      "lake",
+      "mountains",
+      "trees",
+      "houses",
+      "waterfall",
+      "clouds",
+      "river"
+    ],
+    "characters": [],
+    "elements": [
+      "signature",
+      "white border",
+      "outlined cloud",
+      "smoke plume",
+      "pine tree",
+      "chimney",
+      "rocky outcrop"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "lakeside",
+      "mountain range"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill",
+      "soft shading",
+      "printed"
+    ],
+    "color_words": [
+      "naturalistic",
+      "muted",
+      "earth tones",
+      "turquoise"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "ai assisted"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "variation",
+      "nature",
+      "stillness"
+    ],
+    "mood": [
+      "calm",
+      "nostalgic"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "2023; signature",
+      "role": "signature"
+    },
+    "format_notes": "Print file with white margin. Developed from the 2022 commission through Stable Diffusion variations and hand redrawing, as documented on the work in progress page.",
+    "free_tags": [
+      "signed 2023",
+      "colorland",
+      "volcano ball lake"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "commissions/the-cliffs-of-volcano-ball-lake",
+      "note": "Line art from the commission was inverted, run through Stable Diffusion, and redrawn. See the work in progress page.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

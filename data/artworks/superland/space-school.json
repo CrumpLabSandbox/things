@@ -1,0 +1,200 @@
+{
+  "id": "superland/space-school",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Space School",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2009-07-20 14:14:40",
+    "year": 2009,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19.jpg",
+      "width": 564,
+      "height": 575,
+      "aspect": 0.9809,
+      "orientation": "square",
+      "bytes": 179769,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Space_School.qmd",
+      "html": "things/Superland/Space_School.html",
+      "url": "https://crumplab.com/things/things/Superland/Space_School.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone",
+        "datetime": "2009:07:20 14:14:40",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Space school",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#201622",
+        "fraction": 0.3733
+      },
+      {
+        "hex": "#6c8aab",
+        "fraction": 0.2135
+      },
+      {
+        "hex": "#bd8daa",
+        "fraction": 0.1497
+      },
+      {
+        "hex": "#b49974",
+        "fraction": 0.1149
+      },
+      {
+        "hex": "#d15b5a",
+        "fraction": 0.0895
+      },
+      {
+        "hex": "#367978",
+        "fraction": 0.0592
+      }
+    ],
+    "hue_histogram": [
+      0.1274,
+      0.1135,
+      0.0207,
+      0.0132,
+      0.0052,
+      0.0059,
+      0.0697,
+      0.1902,
+      0.1085,
+      0.093,
+      0.0883,
+      0.1644
+    ],
+    "dominant_hues": [
+      "blue",
+      "pink",
+      "red"
+    ],
+    "warm_fraction": 0.4741,
+    "mean_saturation": 0.4712,
+    "mean_value": 0.502,
+    "mean_lightness": 0.4059,
+    "contrast": 0.2593,
+    "colorfulness": 70.06,
+    "mean_chroma": 22.27,
+    "is_monochrome": false,
+    "dark_fraction": 0.3245,
+    "light_fraction": 0.0001,
+    "edge_density": 0.3667,
+    "busyness": 0.2076,
+    "has_white_border": false,
+    "phash": "369be4ae880161fd",
+    "analysis_size": [
+      502,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/space-school.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of hooded figures with pod shaped heads crowding below a chalkboard screen, while a purple helmeted figure stands on a platform at right.",
+    "description": "A square oil painting on canvas. The lower half is a crowd of hooded figures seen from behind, each a rounded pod shape in olive, orange, blue, pink and green with a visor like opening and heavy black outlines. They face a large framed panel at upper left that shows an interior scene of a figure in a doorway with a globe above it, like a screen or a window. At upper right, a figure in a purple hooded suit with a smiling face stands on a raised platform, pointing, beside a wall with a clock and dials. The space between is divided into coloured panels. Brushwork is visible and the palette is muted purple, olive and orange.",
+    "impression": "A lesson is happening and the class is a crowd of identical hooded pupils, all turned toward the screen. The teacher on the platform looks like an astronaut cheerleader. It plays on the strangeness of a room full of backs of heads, which is what school looks like from the back row.",
+    "subjects": [
+      "crowd",
+      "figures",
+      "interior",
+      "screen",
+      "clock"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "helmeted figure"
+    ],
+    "elements": [
+      "visor",
+      "platform",
+      "clock",
+      "globe",
+      "doorway",
+      "dials"
+    ],
+    "setting": [
+      "interior",
+      "classroom"
+    ],
+    "composition": [
+      "figure from behind",
+      "dense",
+      "mid horizon",
+      "central feature"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "muted",
+      "earth tones",
+      "purple and olive"
+    ],
+    "style": [
+      "cartoon",
+      "cubist",
+      "superland world"
+    ],
+    "themes": [
+      "crowded life",
+      "systems",
+      "watching"
+    ],
+    "mood": [
+      "busy",
+      "whimsical",
+      "uneasy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "hooded figures"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "characters/shapes-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Shapes 2",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-22 10:04:10",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/shapes 2.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 400696,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/Shapes_2.qmd",
+      "html": "things/characters/Shapes_2.html",
+      "url": "https://crumplab.com/things/things/characters/Shapes_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:22 10:04:10",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "shapes 2",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dfdad3",
+        "fraction": 0.3286
+      },
+      {
+        "hex": "#a1b992",
+        "fraction": 0.1684
+      },
+      {
+        "hex": "#9c9fa0",
+        "fraction": 0.1601
+      },
+      {
+        "hex": "#5c5350",
+        "fraction": 0.1353
+      },
+      {
+        "hex": "#be8a81",
+        "fraction": 0.1245
+      },
+      {
+        "hex": "#d66882",
+        "fraction": 0.083
+      }
+    ],
+    "hue_histogram": [
+      0.2549,
+      0.169,
+      0.114,
+      0.0666,
+      0.0731,
+      0.082,
+      0.049,
+      0.0323,
+      0.0034,
+      0.0041,
+      0.0095,
+      0.1421
+    ],
+    "dominant_hues": [
+      "red",
+      "orange",
+      "pink"
+    ],
+    "warm_fraction": 0.6864,
+    "mean_saturation": 0.2077,
+    "mean_value": 0.7328,
+    "mean_lightness": 0.6859,
+    "contrast": 0.1835,
+    "colorfulness": 51.63,
+    "mean_chroma": 16.5,
+    "is_monochrome": false,
+    "dark_fraction": 0.0054,
+    "light_fraction": 0.0926,
+    "edge_density": 0.114,
+    "busyness": 0.0639,
+    "has_white_border": false,
+    "phash": "3f929579d00c9327",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/shapes-2.jpg"
+  },
+  "described": {
+    "alt_text": "An airbrush composition of grey pod figures scattered over a round burst of overlapping striped panels in neon pink, green, blue and yellow.",
+    "description": "A square airbrush painting on white paper. A roughly circular field at the centre is built from overlapping angular panels of sprayed stripes and gradients in hot pink, lime, sky blue, lilac and yellow, radiating from the middle like a shattered kaleidoscope. About sixteen grey pod figures with visor faces are scattered over it, some standing, some upside down, some with arms raised, sprayed in soft grey so they sit on top of the colour. The corners of the sheet are bare.",
+    "impression": "The pod people caught in a disco ball explosion, drifting in zero gravity across the stripes. The grey bodies against the neon make them look like cutouts pasted onto a light show. The companion to Shapes 1 and the more joyful of the two.",
+    "subjects": [
+      "figures",
+      "abstract forms",
+      "pattern"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "stripe fill",
+      "angular panels",
+      "radial burst"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "radial",
+      "central cluster",
+      "scattered figures",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge",
+      "crosshatch spray"
+    ],
+    "color_words": [
+      "neon",
+      "rainbow",
+      "grey figures",
+      "saturated"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush",
+      "pop",
+      "psychedelic"
+    ],
+    "themes": [
+      "flight",
+      "crowded life",
+      "night"
+    ],
+    "mood": [
+      "joyful",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "shapes",
+      "hooded pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

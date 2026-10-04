@@ -1,0 +1,195 @@
+{
+  "id": "superland/orgplantic-land",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Orgplantic Land",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:10:49",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (10).jpg",
+      "width": 1267,
+      "height": 1280,
+      "aspect": 0.9898,
+      "orientation": "square",
+      "bytes": 858055,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Orgplantic_Land.qmd",
+      "html": "things/Superland/Orgplantic_Land.html",
+      "url": "https://crumplab.com/things/things/Superland/Orgplantic_Land.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:10:49",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Orgplantic land",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#2e2c2a",
+        "fraction": 0.3021
+      },
+      {
+        "hex": "#cabaac",
+        "fraction": 0.1836
+      },
+      {
+        "hex": "#5ab294",
+        "fraction": 0.1632
+      },
+      {
+        "hex": "#6b8597",
+        "fraction": 0.1623
+      },
+      {
+        "hex": "#b0c139",
+        "fraction": 0.0971
+      },
+      {
+        "hex": "#c75e37",
+        "fraction": 0.0917
+      }
+    ],
+    "hue_histogram": [
+      0.1327,
+      0.2049,
+      0.1513,
+      0.049,
+      0.0267,
+      0.1134,
+      0.1618,
+      0.0735,
+      0.04,
+      0.0209,
+      0.0059,
+      0.0199
+    ],
+    "dominant_hues": [
+      "orange",
+      "cyan",
+      "yellow"
+    ],
+    "warm_fraction": 0.5122,
+    "mean_saturation": 0.3951,
+    "mean_value": 0.5692,
+    "mean_lightness": 0.5111,
+    "contrast": 0.2572,
+    "colorfulness": 85.11,
+    "mean_chroma": 25.55,
+    "is_monochrome": false,
+    "dark_fraction": 0.1831,
+    "light_fraction": 0.0159,
+    "edge_density": 0.4672,
+    "busyness": 0.2029,
+    "has_white_border": false,
+    "phash": "0ab3d28e217635ba",
+    "analysis_size": [
+      507,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/orgplantic-land.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of green plant like creatures with beaked heads and single eyes, growing from striped mounds under a canopy of beaded, flowing shapes.",
+    "description": "A square oil painting on canvas. The lower half is a thicket of green, teal and lime stalk creatures, each ending in a bulbous head with a single round eye and a beak or tongue, growing from red and green striped mounds along the bottom edge. The upper half is a canopy of flowing leaf and tube shapes edged with strings of tiny coloured beads, in mint, blue, tan and purple, with a few orange and red faces at the top corners. Thick black outlines, strong brushwork, dense all over.",
+    "impression": "A greenhouse where the plants have opinions. The beaded edges make the upper forms look like coral or circuitry, and the eyed stalks below look up at them like a congregation. The title's invented word captures the mix of organ, plant and plastic.",
+    "subjects": [
+      "plants",
+      "creatures",
+      "abstract forms"
+    ],
+    "characters": [
+      "one eyed creature"
+    ],
+    "elements": [
+      "beaded edge",
+      "striped mound",
+      "tongue",
+      "beak"
+    ],
+    "setting": [
+      "invented landscape",
+      "garden"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "rising from bottom"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "green dominant",
+      "saturated",
+      "cool"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world",
+      "abstract"
+    ],
+    "themes": [
+      "growth",
+      "plants as creatures",
+      "faces in things"
+    ],
+    "mood": [
+      "busy",
+      "whimsical",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "plant creatures"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

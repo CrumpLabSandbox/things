@@ -1,0 +1,197 @@
+{
+  "id": "superland/almost-blueless-spaceland",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Almost Blueless Spaceland",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:03:36",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (5).jpg",
+      "width": 1280,
+      "height": 1273,
+      "aspect": 1.0055,
+      "orientation": "square",
+      "bytes": 867143,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Almost_Blueless_Spaceland.qmd",
+      "html": "things/Superland/Almost_Blueless_Spaceland.html",
+      "url": "https://crumplab.com/things/things/Superland/Almost_Blueless_Spaceland.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:03:36",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Almost blueless spaceland",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#bf9baa",
+        "fraction": 0.2304
+      },
+      {
+        "hex": "#96b398",
+        "fraction": 0.1988
+      },
+      {
+        "hex": "#322a27",
+        "fraction": 0.1908
+      },
+      {
+        "hex": "#c7693f",
+        "fraction": 0.1397
+      },
+      {
+        "hex": "#626478",
+        "fraction": 0.1273
+      },
+      {
+        "hex": "#c7bd4e",
+        "fraction": 0.1129
+      }
+    ],
+    "hue_histogram": [
+      0.1813,
+      0.2297,
+      0.1885,
+      0.0225,
+      0.0115,
+      0.0363,
+      0.074,
+      0.0383,
+      0.0456,
+      0.0651,
+      0.0252,
+      0.0821
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.6964,
+    "mean_saturation": 0.3858,
+    "mean_value": 0.6244,
+    "mean_lightness": 0.5484,
+    "contrast": 0.2234,
+    "colorfulness": 80.38,
+    "mean_chroma": 27.25,
+    "is_monochrome": false,
+    "dark_fraction": 0.1166,
+    "light_fraction": 0.0022,
+    "edge_density": 0.3892,
+    "busyness": 0.1759,
+    "has_white_border": false,
+    "phash": "04ff09fc11cc39e8",
+    "analysis_size": [
+      512,
+      509
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/almost-blueless-spaceland.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of pastel box shaped machines and pods with faces among orange splashes, almost entirely in pink, yellow, mint and lilac.",
+    "description": "A square oil painting on canvas. Boxy machine forms with rounded corners, portholes and arched windows are stacked across the frame in pink, lilac, mint and peach: a large box with a lilac screen at centre, a tower of blocks at left, a stack of rounded units at right. Small faces look out from arches in several blocks. Orange and red splashes like flames or coral burst between the units, and small spheres float at the top. Only one blue star shaped splash and a blue window break the warm palette. Thick black outlines and juicy brushwork.",
+    "impression": "A space station rendered in sorbet colours, with the machinery looking soft enough to eat. The title is a joke about the palette: nearly no blue, which is unusual for space. It feels warm and cheerful, a factory where nothing could go wrong.",
+    "subjects": [
+      "machinery",
+      "pods",
+      "spheres",
+      "splashes",
+      "faces"
+    ],
+    "characters": [
+      "face in window"
+    ],
+    "elements": [
+      "porthole",
+      "arched windows",
+      "splash",
+      "striped ball",
+      "screen"
+    ],
+    "setting": [
+      "no place",
+      "space"
+    ],
+    "composition": [
+      "all over",
+      "stacked",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "pink and yellow",
+      "candy"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "machines as places",
+      "imaginary worlds"
+    ],
+    "mood": [
+      "joyful",
+      "calm",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "spaceland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

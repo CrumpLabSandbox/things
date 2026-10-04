@@ -1,0 +1,214 @@
+{
+  "id": "scribble/scribble-picture-35",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 35",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2024-10-06 21:27:54",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "View from Fulton Mall...feels like it needs something more in the sky. maybe not done yet? Added some clouds",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 35.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 832285,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_35.qmd",
+      "html": "things/Scribble/Scribble_Picture_35.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_35.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e0e5e3",
+        "fraction": 0.2584
+      },
+      {
+        "hex": "#43759a",
+        "fraction": 0.2037
+      },
+      {
+        "hex": "#57c6e8",
+        "fraction": 0.1814
+      },
+      {
+        "hex": "#515754",
+        "fraction": 0.1635
+      },
+      {
+        "hex": "#d7c2a8",
+        "fraction": 0.1461
+      },
+      {
+        "hex": "#ccab4f",
+        "fraction": 0.047
+      }
+    ],
+    "hue_histogram": [
+      0.0122,
+      0.2259,
+      0.0497,
+      0.008,
+      0.009,
+      0.0094,
+      0.2183,
+      0.4569,
+      0.0082,
+      0.0009,
+      0.0003,
+      0.0011
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange",
+      "cyan"
+    ],
+    "warm_fraction": 0.2892,
+    "mean_saturation": 0.3452,
+    "mean_value": 0.7465,
+    "mean_lightness": 0.6742,
+    "contrast": 0.2241,
+    "colorfulness": 85.6,
+    "mean_chroma": 19.18,
+    "is_monochrome": false,
+    "dark_fraction": 0.0168,
+    "light_fraction": 0.1783,
+    "edge_density": 0.4228,
+    "busyness": 0.1605,
+    "has_white_border": false,
+    "phash": "4ac919a5f2522dbc",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-35.jpg"
+  },
+  "described": {
+    "alt_text": "A low angle photograph of downtown Brooklyn towers and a domed bank from Fulton Mall, with cartoon clouds, a huge horned creature peeking from behind a tower, a dragon on the plaza, pod creatures in the street, and a tall cream creature at right, labelled SP35.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP35 on a drawn bin at lower right. Glass and concrete towers rise on both sides of a plaza under a bright blue sky with outlined white cartoon clouds drawn across the top and spilling down the right hand tower. A huge blue grey creature with pink horns and a blank square face peers from behind the central tower, its hand drawn over the facade, and a smaller white creature with rabbit ears sits on a tower behind. A tall cream and tan creature with a tongue and a hat stands along the right edge. A domed classical bank building with columns sits at centre right with a yellow creature flying beside it and small figures drawn on it. On the street, a scaffolded building with a Dime sign at left, outlined pod creatures and a dog walker cross the plaza, a green dragon like creature sits at right, and small creatures climb out of puddles drawn on the asphalt at the bottom.",
+    "impression": "Downtown Brooklyn invaded by friendly giants: one hides behind a tower like a child behind a curtain. The process note says it needed something in the sky, so the clouds were added, and they tie the giants to the street. The small creatures emerging from puddles at the bottom are a new idea, the ground itself hatching. Grand, sunny and silly.",
+    "subjects": [
+      "city",
+      "skyscrapers",
+      "bank",
+      "plaza",
+      "creatures",
+      "clouds",
+      "people",
+      "dragons"
+    ],
+    "characters": [
+      "giant creature",
+      "horned creature",
+      "rabbit eared figure",
+      "dragon",
+      "hooded pod figure",
+      "blob figure"
+    ],
+    "elements": [
+      "outlined cloud",
+      "giant hand",
+      "puddle",
+      "scaffolding",
+      "dome",
+      "columns",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Downtown Brooklyn",
+      "Fulton Mall"
+    ],
+    "composition": [
+      "low angle",
+      "giant figures above",
+      "dense",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "creatures among us",
+      "scale",
+      "hidden creatures"
+    ],
+    "mood": [
+      "playful",
+      "wondrous",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 24 SP35; Dime sign",
+      "role": "caption and found signage"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Process note says clouds were added after a first version felt empty.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "downtown brooklyn",
+      "giant creatures",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

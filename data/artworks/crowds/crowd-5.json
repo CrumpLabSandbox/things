@@ -1,0 +1,203 @@
+{
+  "id": "crowds/crowd-5",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Crowd 5",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:48:58",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/crowd 5.jpg",
+      "width": 506,
+      "height": 510,
+      "aspect": 0.9922,
+      "orientation": "square",
+      "bytes": 134632,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Crowd_5.qmd",
+      "html": "things/crowds/Crowd_5.html",
+      "url": "https://crumplab.com/things/things/crowds/Crowd_5.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:48:58",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "crowd 5",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#1c131b",
+        "fraction": 0.3123
+      },
+      {
+        "hex": "#c1b3bf",
+        "fraction": 0.153
+      },
+      {
+        "hex": "#b5bd77",
+        "fraction": 0.1505
+      },
+      {
+        "hex": "#d96b4e",
+        "fraction": 0.1416
+      },
+      {
+        "hex": "#c173af",
+        "fraction": 0.131
+      },
+      {
+        "hex": "#7bb2d0",
+        "fraction": 0.1116
+      }
+    ],
+    "hue_histogram": [
+      0.1617,
+      0.1003,
+      0.1258,
+      0.0357,
+      0.0134,
+      0.0109,
+      0.0326,
+      0.1423,
+      0.0808,
+      0.0843,
+      0.044,
+      0.168
+    ],
+    "dominant_hues": [
+      "pink",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.5848,
+    "mean_saturation": 0.4603,
+    "mean_value": 0.6003,
+    "mean_lightness": 0.4921,
+    "contrast": 0.2928,
+    "colorfulness": 82.14,
+    "mean_chroma": 27.81,
+    "is_monochrome": false,
+    "dark_fraction": 0.291,
+    "light_fraction": 0.0003,
+    "edge_density": 0.2066,
+    "busyness": 0.1996,
+    "has_white_border": false,
+    "phash": "76c131e05993f259",
+    "analysis_size": [
+      506,
+      510
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/crowd-5.jpg"
+  },
+  "described": {
+    "alt_text": "A square marker painting of blocky cartoon faces, horns and small houses crammed together in rainbow colours with thick black outlines.",
+    "description": "A square marker painting on wood. Angular and rounded forms pack the panel: a lime green face with squinting eyes at upper left, white horns and tabs, a pink star burst at right, a cluster of small pink and purple houses with windows at lower left, open mouths with white teeth at the bottom, and striped and spotted panels in orange, teal, yellow and purple. Thick black outlines break every form into flat colour cells, with white highlights on the horns.",
+    "impression": "A crowd that has swallowed a village: the little houses at lower left are the only things not grinning. The angular cells make it look like stained glass, and the lime face at the top seems to be enjoying the noise. Busy, bright and architectural.",
+    "subjects": [
+      "crowd",
+      "faces",
+      "houses",
+      "monsters"
+    ],
+    "characters": [
+      "toothy monster",
+      "sleepy face",
+      "horned creature"
+    ],
+    "elements": [
+      "horns",
+      "teeth",
+      "star burst",
+      "windows",
+      "stripes",
+      "white highlight line"
+    ],
+    "setting": [
+      "no place",
+      "invented city"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "candy",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density",
+      "stained glass"
+    ],
+    "themes": [
+      "crowded life",
+      "faces in things",
+      "nature meets built"
+    ],
+    "mood": [
+      "busy",
+      "playful",
+      "loud"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood. Sold.",
+    "free_tags": [
+      "crowd series",
+      "houses in crowd"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

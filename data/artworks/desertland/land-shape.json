@@ -1,0 +1,196 @@
+{
+  "id": "desertland/land-shape",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Land Shape",
+    "series": "Desertland",
+    "series_slug": "desertland",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 10:13:27",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "18 x 18",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Desertland/Land shape.jpg",
+      "width": 256,
+      "height": 256,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 74798,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Desertland/Land_Shape.qmd",
+      "html": "things/Desertland/Land_Shape.html",
+      "url": "https://crumplab.com/things/things/Desertland/Land_Shape.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone X",
+        "datetime": "2019:05:26 10:13:27",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "Land shape",
+        "caption": "oil on wood",
+        "keywords": [
+          "18 x 18"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d4b491",
+        "fraction": 0.3896
+      },
+      {
+        "hex": "#d2a047",
+        "fraction": 0.1396
+      },
+      {
+        "hex": "#917f4d",
+        "fraction": 0.1358
+      },
+      {
+        "hex": "#51361c",
+        "fraction": 0.1325
+      },
+      {
+        "hex": "#c87262",
+        "fraction": 0.1055
+      },
+      {
+        "hex": "#647f67",
+        "fraction": 0.0971
+      }
+    ],
+    "hue_histogram": [
+      0.0981,
+      0.6644,
+      0.1544,
+      0.0232,
+      0.0199,
+      0.0233,
+      0.0163,
+      0.0002,
+      0.0,
+      0.0,
+      0.0,
+      0.0002
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.9171,
+    "mean_saturation": 0.4536,
+    "mean_value": 0.6893,
+    "mean_lightness": 0.6044,
+    "contrast": 0.1794,
+    "colorfulness": 66.66,
+    "mean_chroma": 30.46,
+    "is_monochrome": false,
+    "dark_fraction": 0.0383,
+    "light_fraction": 0.0,
+    "edge_density": 0.3817,
+    "busyness": 0.1393,
+    "has_white_border": false,
+    "phash": "14aabda5c8fe41a4",
+    "analysis_size": [
+      256,
+      256
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/desertland/land-shape.jpg"
+  },
+  "described": {
+    "alt_text": "A small square pastel painting of rounded hills and blob creatures by a blue river, with a flying pod and rows of tiny figures.",
+    "description": "A square oil painting on wood, photographed at very low resolution. Rounded pastel hills in orange, pink, green and lilac rise at the top, with a few eye like patches. A blue river curves across the middle, and a flying pod with a pointed nose hovers at upper right. The lower half is a plain of lime and salmon with rows of tiny figures and larger blob creatures in orange, blue and green with small limbs. Thin dark outlines and matte colour.",
+    "impression": "A cousin of the other Desertland scenes with the crowd thinned to a few blobs by a river. The flying pod gives it a sense of visitors arriving. Hard to say more from the small photograph.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "river",
+      "creatures",
+      "flying pods"
+    ],
+    "characters": [
+      "blob figure",
+      "pod creature"
+    ],
+    "elements": [
+      "river",
+      "flying pod",
+      "oval patch",
+      "rows of tiny figures"
+    ],
+    "setting": [
+      "invented landscape",
+      "desert",
+      "river"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement"
+    ],
+    "mood": [
+      "calm",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, 18 by 18 inches. Only a 256 pixel photograph exists, so details are uncertain.",
+    "free_tags": [
+      "desertland",
+      "low resolution source"
+    ],
+    "confidence": "low",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

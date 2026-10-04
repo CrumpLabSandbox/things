@@ -1,0 +1,188 @@
+{
+  "id": "airbrush/bark-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Bark 1",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-01 09:06:34",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/Bark 1.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 564217,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Bark_1.qmd",
+      "html": "things/airbrush/Bark_1.html",
+      "url": "https://crumplab.com/things/things/airbrush/Bark_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:01 09:06:34",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Bark 1",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#9c9b98",
+        "fraction": 0.2268
+      },
+      {
+        "hex": "#7d7c7a",
+        "fraction": 0.1767
+      },
+      {
+        "hex": "#dfdfdb",
+        "fraction": 0.1767
+      },
+      {
+        "hex": "#bdbcba",
+        "fraction": 0.1663
+      },
+      {
+        "hex": "#595858",
+        "fraction": 0.1318
+      },
+      {
+        "hex": "#333233",
+        "fraction": 0.1218
+      }
+    ],
+    "hue_histogram": [
+      0.0679,
+      0.3009,
+      0.006,
+      0.0,
+      0.0,
+      0.0,
+      0.0021,
+      0.5126,
+      0.0491,
+      0.0286,
+      0.01,
+      0.0228
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange"
+    ],
+    "warm_fraction": 0.4056,
+    "mean_saturation": 0.0497,
+    "mean_value": 0.5793,
+    "mean_lightness": 0.593,
+    "contrast": 0.2154,
+    "colorfulness": 7.56,
+    "mean_chroma": 2.71,
+    "is_monochrome": true,
+    "dark_fraction": 0.0518,
+    "light_fraction": 0.0679,
+    "edge_density": 0.2332,
+    "busyness": 0.1448,
+    "has_white_border": false,
+    "phash": "6ff2273546b0988c",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/bark-1.jpg"
+  },
+  "described": {
+    "alt_text": "A grayscale airbrush painting of interlocking bark like shapes with soft shaded edges, filling a square sheet.",
+    "description": "A square airbrush painting on paper in black and grey only. Dozens of irregular lobed shapes, like plates of bark or dried mud, fill the sheet edge to edge, each separated from its neighbours by a thin white gap of bare paper. The shapes are shaded from dark at one edge to pale at the other, giving them a soft rounded volume, and inside some are smaller patches with their own gradients. There is no figure or horizon, only the pattern.",
+    "impression": "Tree bark seen so close that it becomes a map, or a cell wall, or a jigsaw. The soft airbrush shading makes the pieces look padded, and the white channels between them read as light leaking through. It is calm and tactile, a texture to get lost in.",
+    "subjects": [
+      "abstract forms",
+      "pattern",
+      "bark"
+    ],
+    "characters": [],
+    "elements": [
+      "lobed shape",
+      "white gap",
+      "gradient shading"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "no horizon"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush"
+    ],
+    "themes": [
+      "texture"
+    ],
+    "mood": [
+      "calm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "bark"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "airbrush/bark-2",
+      "note": "Same bark pattern in colour.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

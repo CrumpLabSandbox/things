@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>things editor</title>
+<style>
+  :root { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; color: #222; }
+  body { margin: 0; display: grid; grid-template-columns: 240px 1fr; height: 100vh; }
+  aside { border-right: 1px solid #ddd; overflow: auto; padding: 0.5rem; }
+  aside input { width: 100%; box-sizing: border-box; padding: 0.3rem; margin-bottom: 0.4rem; }
+  aside .item { display: flex; gap: 0.4rem; align-items: center; padding: 0.2rem; cursor: pointer; border-radius: 3px; }
+  aside .item:hover { background: #f0f0f0; }
+  aside .item.is-on { background: #222; color: #fff; }
+  aside .item img { width: 28px; height: 28px; object-fit: cover; border-radius: 2px; flex: none; }
+  aside .item .t { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  aside .item .v { margin-left: auto; font-size: 0.75rem; opacity: 0.7; }
+  main { overflow: auto; padding: 1rem; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 1rem; align-items: start; }
+  main img.big { width: 100%; height: auto; position: sticky; top: 0; }
+  form { display: grid; gap: 0.5rem; }
+  fieldset { border: 1px solid #ddd; border-radius: 4px; padding: 0.5rem 0.75rem; }
+  legend { font-weight: 600; text-transform: lowercase; color: #666; padding: 0 0.3rem; }
+  label { display: block; margin-bottom: 0.4rem; }
+  label span.k { display: block; font-size: 0.75rem; color: #777; text-transform: lowercase; margin-bottom: 0.1rem; }
+  textarea, input[type=text], select { width: 100%; box-sizing: border-box; padding: 0.3rem; border: 1px solid #ccc; border-radius: 3px; font: inherit; }
+  textarea { min-height: 3.5em; resize: vertical; }
+  textarea.long { min-height: 7em; }
+  .tags { display: flex; flex-wrap: wrap; gap: 0.25rem; align-items: center; }
+  .tag { background: #eee; border-radius: 999px; padding: 0.1rem 0.5rem; cursor: pointer; }
+  .tag:hover { background: #fdd; }
+  .tags input { width: 11em; padding: 0.15rem 0.4rem; border: 1px dashed #bbb; border-radius: 999px; }
+  .bar { position: sticky; top: 0; background: #fff; padding: 0.5rem 0; display: flex; gap: 0.5rem; align-items: center; z-index: 2; border-bottom: 1px solid #eee; grid-column: 1 / -1; }
+  .bar button { padding: 0.35rem 0.8rem; font: inherit; border: 1px solid #222; background: #222; color: #fff; border-radius: 4px; cursor: pointer; }
+  .bar button.secondary { background: #fff; color: #222; }
+  .bar .status { color: #666; }
+  .catalog { font-size: 0.8rem; color: #555; white-space: pre-wrap; }
+  .readonly { background: #fafafa; }
+</style>
+</head>
+<body>
+<aside>
+  <input id="filter" type="search" placeholder="filter by title or series">
+  <div id="list"></div>
+</aside>
+<main>
+  <div class="bar">
+    <button id="save" type="button">save</button>
+    <button id="prev" type="button" class="secondary">‹ prev</button>
+    <button id="next" type="button" class="secondary">next ›</button>
+    <label style="margin:0;display:flex;gap:0.3rem;align-items:center"><input id="verified" type="checkbox"> verified</label>
+    <span class="status" id="status"></span>
+  </div>
+  <div id="left"></div>
+  <div id="right"></div>
+</main>
+<script>
+(function () {
+  var FACETS = ["subjects", "characters", "elements", "setting", "composition", "line", "color_words", "style", "themes", "mood"];
+  var PROSE = ["alt_text", "description", "impression", "format_notes"];
+  var state = { list: [], vocab: null, rec: null, dirty: false, order: [] };
+  var $ = function (id) { return document.getElementById(id); };
+
+  function el(tag, attrs, children) {
+    var e = document.createElement(tag);
+    Object.keys(attrs || {}).forEach(function (k) {
+      if (k === "class") e.className = attrs[k]; else if (k === "text") e.textContent = attrs[k];
+      else if (k.indexOf("on") === 0) e.addEventListener(k.slice(2), attrs[k]); else e.setAttribute(k, attrs[k]);
+    });
+    (children || []).forEach(function (c) { if (c != null) e.appendChild(typeof c === "string" ? document.createTextNode(c) : c); });
+    return e;
+  }
+
+  function setStatus(t) { $("status").textContent = t; }
+
+  function renderList() {
+    var q = $("filter").value.toLowerCase();
+    var box = $("list"); box.innerHTML = "";
+    state.order = [];
+    state.list.forEach(function (it) {
+      if (q && (it.title + " " + it.series).toLowerCase().indexOf(q) < 0) return;
+      state.order.push(it.id);
+      box.appendChild(el("div", { class: "item" + (state.rec && state.rec.id === it.id ? " is-on" : ""), onclick: function () { load(it.id); } }, [
+        el("img", { src: "/" + it.thumbnail, alt: "" }),
+        el("span", { class: "t", text: it.title }),
+        el("span", { class: "v", text: it.verified ? "✓" : (it.described ? "" : "·") })
+      ]));
+    });
+  }
+
+  function tagEditor(facet, values) {
+    var wrap = el("div", { class: "tags" });
+    function draw() {
+      wrap.innerHTML = "";
+      values.forEach(function (t, i) {
+        wrap.appendChild(el("span", { class: "tag", title: "remove", onclick: function () { values.splice(i, 1); state.dirty = true; draw(); } }, [t + " ×"]));
+      });
+      var input = el("input", { type: "text", placeholder: "add tag", list: "dl-" + facet });
+      input.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === ",") {
+          e.preventDefault();
+          var v = input.value.trim(); if (v && values.indexOf(v) < 0) { values.push(v); state.dirty = true; draw(); wrap.querySelector("input").focus(); }
+        }
+      });
+      wrap.appendChild(input);
+    }
+    draw();
+    return wrap;
+  }
+
+  function datalists() {
+    if (!state.vocab) return;
+    FACETS.forEach(function (f) {
+      if (document.getElementById("dl-" + f)) return;
+      var dl = el("datalist", { id: "dl-" + f });
+      (state.vocab.facets[f] || []).forEach(function (t) { dl.appendChild(el("option", { value: t.tag })); });
+      document.body.appendChild(dl);
+    });
+  }
+
+  function renderRecord() {
+    var rec = state.rec, d = rec.described = rec.described || {}, c = rec.catalog;
+    $("left").innerHTML = ""; $("right").innerHTML = "";
+    $("left").appendChild(el("img", { class: "big", src: "/" + c.image.path, alt: c.title }));
+    $("left").appendChild(el("div", { class: "catalog", text:
+      c.title + "\n" + c.series + " · " + (c.medium || "") + (c.surface ? " on " + c.surface : "") + " · " + (c.year || "") +
+      (c.physical_size_in ? " · " + c.physical_size_in + " in" : "") + (c.availability ? " · " + c.availability : "") +
+      "\n" + rec.id + "\n" + (c.process_notes ? "\nprocess notes: " + c.process_notes : "") }));
+    $("verified").checked = !!(rec.author && rec.author.verified);
+
+    var form = el("form", { onsubmit: function (e) { e.preventDefault(); save(); } });
+    var fsProse = el("fieldset", {}, [el("legend", { text: "text" })]);
+    PROSE.forEach(function (k) {
+      var ta = el("textarea", { class: k === "description" || k === "impression" ? "long" : "" });
+      ta.value = d[k] || "";
+      ta.addEventListener("input", function () { d[k] = ta.value; state.dirty = true; });
+      fsProse.appendChild(el("label", {}, [el("span", { class: "k", text: k.replace("_", " ") }), ta]));
+    });
+    form.appendChild(fsProse);
+
+    var fsTags = el("fieldset", {}, [el("legend", { text: "tags" })]);
+    FACETS.forEach(function (f) {
+      d[f] = d[f] || [];
+      fsTags.appendChild(el("label", {}, [el("span", { class: "k", text: f.replace("_", " ") }), tagEditor(f, d[f])]));
+    });
+    var ft = el("label", {}, [el("span", { class: "k", text: "free tags" })]);
+    d.free_tags = d.free_tags || []; ft.appendChild(tagEditor("free_tags", d.free_tags)); fsTags.appendChild(ft);
+    form.appendChild(fsTags);
+
+    var fsText = el("fieldset", {}, [el("legend", { text: "text in image" })]);
+    d.text_in_image = d.text_in_image || { present: false, content: null, role: null };
+    var present = el("input", { type: "checkbox" }); present.checked = !!d.text_in_image.present;
+    present.addEventListener("change", function () { d.text_in_image.present = present.checked; state.dirty = true; });
+    var content = el("input", { type: "text" }); content.value = d.text_in_image.content || "";
+    content.addEventListener("input", function () { d.text_in_image.content = content.value || null; state.dirty = true; });
+    var role = el("input", { type: "text" }); role.value = d.text_in_image.role || "";
+    role.addEventListener("input", function () { d.text_in_image.role = role.value || null; state.dirty = true; });
+    fsText.appendChild(el("label", {}, [present, " present"]));
+    fsText.appendChild(el("label", {}, [el("span", { class: "k", text: "content" }), content]));
+    fsText.appendChild(el("label", {}, [el("span", { class: "k", text: "role" }), role]));
+    var conf = el("select", {}); ["high", "medium", "low"].forEach(function (v) { conf.appendChild(el("option", { value: v, text: v })); });
+    conf.value = d.confidence || "medium"; conf.addEventListener("change", function () { d.confidence = conf.value; state.dirty = true; });
+    fsText.appendChild(el("label", {}, [el("span", { class: "k", text: "confidence" }), conf]));
+    form.appendChild(fsText);
+
+    var fsRel = el("fieldset", {}, [el("legend", { text: "relations (one per line: type | target id | note)" })]);
+    var relTa = el("textarea", { class: "long" });
+    relTa.value = (rec.relations || []).map(function (r) { return [r.type, r.target, r.note || ""].join(" | "); }).join("\n");
+    relTa.addEventListener("input", function () {
+      rec.relations = relTa.value.split("\n").map(function (l) { return l.trim(); }).filter(Boolean).map(function (l) {
+        var p = l.split("|").map(function (s) { return s.trim(); });
+        return { type: p[0], target: p[1], note: p[2] || null, source: "described" };
+      });
+      state.dirty = true;
+    });
+    fsRel.appendChild(relTa);
+    form.appendChild(fsRel);
+
+    var fsAuthor = el("fieldset", {}, [el("legend", { text: "author notes" })]);
+    rec.author = rec.author || { verified: false, notes: null };
+    var notes = el("textarea", {}); notes.value = rec.author.notes || "";
+    notes.addEventListener("input", function () { rec.author.notes = notes.value || null; state.dirty = true; });
+    var hidden = el("input", { type: "checkbox" }); hidden.checked = !!rec.author.hidden;
+    hidden.addEventListener("change", function () { rec.author.hidden = hidden.checked; state.dirty = true; });
+    fsAuthor.appendChild(el("label", {}, [el("span", { class: "k", text: "notes" }), notes]));
+    fsAuthor.appendChild(el("label", {}, [hidden, " hide from the public build"]));
+    form.appendChild(fsAuthor);
+    $("right").appendChild(form);
+    datalists();
+    renderList();
+    setStatus(rec.id);
+  }
+
+  function load(id) {
+    if (state.dirty && !confirm("Discard unsaved changes?")) return;
+    fetch("/api/record?id=" + encodeURIComponent(id)).then(function (r) { return r.json(); }).then(function (rec) {
+      state.rec = rec; state.dirty = false; renderRecord(); location.hash = id;
+    });
+  }
+
+  function save() {
+    if (!state.rec) return;
+    state.rec.author.verified = $("verified").checked;
+    state.rec.described.described_on = state.rec.described.described_on || new Date().toISOString().slice(0, 10);
+    fetch("/api/record", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(state.rec) })
+      .then(function (r) { return r.json(); })
+      .then(function (res) {
+        if (res.ok) { state.dirty = false; setStatus("saved " + new Date().toLocaleTimeString()); refreshList(); }
+        else setStatus("error: " + res.error);
+      });
+  }
+
+  function step(delta) {
+    if (!state.rec) return;
+    var i = state.order.indexOf(state.rec.id);
+    var next = state.order[(i + delta + state.order.length) % state.order.length];
+    if (next) load(next);
+  }
+
+  function refreshList() {
+    return fetch("/api/list").then(function (r) { return r.json(); }).then(function (l) { state.list = l; renderList(); });
+  }
+
+  $("save").addEventListener("click", save);
+  $("prev").addEventListener("click", function () { step(-1); });
+  $("next").addEventListener("click", function () { step(1); });
+  $("filter").addEventListener("input", renderList);
+  $("verified").addEventListener("change", function () { state.dirty = true; });
+  document.addEventListener("keydown", function (e) { if ((e.metaKey || e.ctrlKey) && e.key === "s") { e.preventDefault(); save(); } });
+  window.addEventListener("beforeunload", function (e) { if (state.dirty) { e.preventDefault(); e.returnValue = ""; } });
+
+  Promise.all([refreshList(), fetch("/api/vocabulary").then(function (r) { return r.json(); }).catch(function () { return null; })]).then(function (res) {
+    state.vocab = res[1];
+    var id = decodeURIComponent(location.hash.slice(1));
+    load(id && state.list.some(function (x) { return x.id === id; }) ? id : state.list[0].id);
+  });
+})();
+</script>
+</body>
+</html>

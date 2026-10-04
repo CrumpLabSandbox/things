@@ -1,0 +1,201 @@
+{
+  "id": "characters/character-set-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Character Set 1",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 04:03:24",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/character set 1.jpg",
+      "width": 850,
+      "height": 850,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 95389,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/Character_Set_1.qmd",
+      "html": "things/characters/Character_Set_1.html",
+      "url": "https://crumplab.com/things/things/characters/Character_Set_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 04:03:24",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "character set 1",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dcd6d0",
+        "fraction": 0.5214
+      },
+      {
+        "hex": "#e0d7ce",
+        "fraction": 0.2525
+      },
+      {
+        "hex": "#8e8783",
+        "fraction": 0.0678
+      },
+      {
+        "hex": "#b5ada7",
+        "fraction": 0.0588
+      },
+      {
+        "hex": "#625d59",
+        "fraction": 0.0535
+      },
+      {
+        "hex": "#373332",
+        "fraction": 0.046
+      }
+    ],
+    "hue_histogram": [
+      0.0781,
+      0.8568,
+      0.0104,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0009,
+      0.0432,
+      0.004,
+      0.0066
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 0.954,
+    "mean_saturation": 0.067,
+    "mean_value": 0.7808,
+    "mean_lightness": 0.7777,
+    "contrast": 0.177,
+    "colorfulness": 7.66,
+    "mean_chroma": 4.18,
+    "is_monochrome": true,
+    "dark_fraction": 0.0172,
+    "light_fraction": 0.0004,
+    "edge_density": 0.0896,
+    "busyness": 0.0808,
+    "has_white_border": false,
+    "phash": "6addc62b95268d28",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/character-set-1.jpg"
+  },
+  "described": {
+    "alt_text": "A grid of twenty six small grey airbrushed figures with pointed heads, visor faces and stubby legs, each in a different pose on white paper.",
+    "description": "A square airbrush painting on white paper. Twenty six small figures are arranged in four rows. Each is a soft grey teardrop or pod shape with a pointed or curled top, a darker rectangular visor where a face would be, two stubby arms and two oval feet, sprayed with gradient shading and no outlines. The poses vary: arms up, one leg raised, leaning, waving, two with ear like bumps. There is no background.",
+    "impression": "A sprite sheet for a species: the same little hooded pod drawn in every mood it has. Lined up like this they look like they are dancing or doing calisthenics. It is the character design document for the airbrush city pieces, and it is oddly charming on its own, like a page of stamps.",
+    "subjects": [
+      "figures",
+      "character sheet"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "visor",
+      "stubby legs",
+      "pose variations"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "grid",
+      "character sheet",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "character design"
+    ],
+    "themes": [
+      "character study",
+      "repetition",
+      "variation"
+    ],
+    "mood": [
+      "playful",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "character sheet",
+      "hooded pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "characters/city-living-1",
+      "note": "The pod figures populate the city pieces.",
+      "source": "described"
+    },
+    {
+      "type": "variation_of",
+      "target": "characters/character-set-3",
+      "note": "Same sheet idea in colour with ink outlines.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

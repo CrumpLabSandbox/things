@@ -1,0 +1,198 @@
+{
+  "id": "superland/the-departed-operators",
+  "schema_version": 1,
+  "catalog": {
+    "title": "The Departed Operators",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:02:27",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (6).jpg",
+      "width": 1280,
+      "height": 1277,
+      "aspect": 1.0023,
+      "orientation": "square",
+      "bytes": 872395,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/The_Departed_Operators.qmd",
+      "html": "things/Superland/The_Departed_Operators.html",
+      "url": "https://crumplab.com/things/things/Superland/The_Departed_Operators.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:02:27",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "The departed operators",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#271f1f",
+        "fraction": 0.2773
+      },
+      {
+        "hex": "#a6bfc0",
+        "fraction": 0.2387
+      },
+      {
+        "hex": "#58636f",
+        "fraction": 0.1969
+      },
+      {
+        "hex": "#ceab96",
+        "fraction": 0.1325
+      },
+      {
+        "hex": "#c55d34",
+        "fraction": 0.0934
+      },
+      {
+        "hex": "#b1ab51",
+        "fraction": 0.0611
+      }
+    ],
+    "hue_histogram": [
+      0.1996,
+      0.2879,
+      0.0792,
+      0.0174,
+      0.0089,
+      0.0439,
+      0.086,
+      0.137,
+      0.0387,
+      0.0298,
+      0.0193,
+      0.0524
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.6312,
+    "mean_saturation": 0.3488,
+    "mean_value": 0.5509,
+    "mean_lightness": 0.4882,
+    "contrast": 0.2673,
+    "colorfulness": 68.59,
+    "mean_chroma": 19.81,
+    "is_monochrome": false,
+    "dark_fraction": 0.2123,
+    "light_fraction": 0.0045,
+    "edge_density": 0.4429,
+    "busyness": 0.2101,
+    "has_white_border": false,
+    "phash": "2b95c03bc2735356",
+    "analysis_size": [
+      512,
+      511
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/the-departed-operators.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of a blue and green rocket with pilot faces blasting diagonally over a row of houses, while a child like figure with a globe head watches.",
+    "description": "A square oil painting on canvas. A large rocket in blue, green and yellow with two pilot faces in its windows and a red swirl on its nose crosses the upper half diagonally, trailing orange flame. A row of tall narrow houses in olive, orange and red with arched doors stands at lower centre on a curved ground of coloured map tiles. At lower left a small figure in a yellow suit with a striped globe helmet stands beside a large purple striped sphere, with orange flames and a smaller striped ball behind. Striped balls and a ringed sphere float at left. Thick black outlines, strong colour, visible brushwork.",
+    "impression": "A launch seen from the ground, with one small figure left behind in a helmet that is also a globe. The title gives it a note of loss: the operators have departed and the little one watches the ship go. It is a space age bedtime story in paint.",
+    "subjects": [
+      "rocket",
+      "houses",
+      "figures",
+      "spheres",
+      "flames"
+    ],
+    "characters": [
+      "globe headed figure",
+      "hash face"
+    ],
+    "elements": [
+      "rocket",
+      "flame",
+      "striped ball",
+      "arched door",
+      "map tiles",
+      "ringed sphere"
+    ],
+    "setting": [
+      "invented landscape",
+      "launch site"
+    ],
+    "composition": [
+      "diagonal",
+      "central feature",
+      "layered depth"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "saturated",
+      "warm",
+      "rainbow"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "flight",
+      "waiting"
+    ],
+    "mood": [
+      "energetic",
+      "melancholy",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "rocket"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

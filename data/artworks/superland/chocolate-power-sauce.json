@@ -1,0 +1,197 @@
+{
+  "id": "superland/chocolate-power-sauce",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Chocolate Power Sauce",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:06:18",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (12).jpg",
+      "width": 1280,
+      "height": 1275,
+      "aspect": 1.0039,
+      "orientation": "square",
+      "bytes": 816149,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Chocolate_Power_Sauce.qmd",
+      "html": "things/Superland/Chocolate_Power_Sauce.html",
+      "url": "https://crumplab.com/things/things/Superland/Chocolate_Power_Sauce.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:06:18",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Chocolate power sauce",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#bcbcbe",
+        "fraction": 0.2697
+      },
+      {
+        "hex": "#2d2626",
+        "fraction": 0.2518
+      },
+      {
+        "hex": "#686f84",
+        "fraction": 0.1434
+      },
+      {
+        "hex": "#b7603a",
+        "fraction": 0.1235
+      },
+      {
+        "hex": "#88997f",
+        "fraction": 0.1089
+      },
+      {
+        "hex": "#c5bd64",
+        "fraction": 0.1028
+      }
+    ],
+    "hue_histogram": [
+      0.1629,
+      0.2934,
+      0.1675,
+      0.0267,
+      0.0036,
+      0.0172,
+      0.0797,
+      0.14,
+      0.0405,
+      0.0147,
+      0.0108,
+      0.0429
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.6731,
+    "mean_saturation": 0.315,
+    "mean_value": 0.5769,
+    "mean_lightness": 0.5229,
+    "contrast": 0.2537,
+    "colorfulness": 66.91,
+    "mean_chroma": 19.95,
+    "is_monochrome": false,
+    "dark_fraction": 0.1785,
+    "light_fraction": 0.019,
+    "edge_density": 0.3987,
+    "busyness": 0.1943,
+    "has_white_border": false,
+    "phash": "66c41e323147f1e3",
+    "analysis_size": [
+      512,
+      510
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/chocolate-power-sauce.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of a large circle with a scrawled face above a cluster of small houses, with a pink striped path and a smiling sphere, in brown, cream and pink.",
+    "description": "A square oil painting on canvas. A large pale circle with a doodled face, two hash eyes and a zigzag mouth, sits at upper left inside a thick striped ring of red, orange and grey. A second smaller sphere with a smiling face hangs at upper right. Below, a cluster of narrow houses and towers with window slots in orange, cream, grey and green fills the middle, and a pink striped ribbon road winds through the lower centre. Lollipop spheres on stalks rise between the houses. The background is wedges of blue, mustard and olive with heavy black outlines and thick paint.",
+    "impression": "A sun that is also a cookie, looking down on a village it might eat. The brown and cream palette, and the title, make the whole thing feel like dessert. The ribbon road is the sauce.",
+    "subjects": [
+      "sun face",
+      "houses",
+      "village",
+      "spheres",
+      "road"
+    ],
+    "characters": [
+      "hash face",
+      "sun face"
+    ],
+    "elements": [
+      "striped ring",
+      "ribbon road",
+      "sphere on stalk",
+      "windows",
+      "zigzag mouth"
+    ],
+    "setting": [
+      "invented landscape",
+      "village"
+    ],
+    "composition": [
+      "central feature",
+      "dense",
+      "layered depth"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "brown and cream",
+      "warm",
+      "muted"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "faces in things",
+      "character story",
+      "settlement"
+    ],
+    "mood": [
+      "playful",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "sun face"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "id": "scribble/scribble-picture-9",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 9",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-07-25 14:20:03",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Church Ave",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 9.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 526679,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_9.qmd",
+      "html": "things/Scribble/Scribble_Picture_9.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_9.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:07:25 14:20:03",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 9",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230725",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dfdeda",
+        "fraction": 0.2276
+      },
+      {
+        "hex": "#d7c09a",
+        "fraction": 0.2205
+      },
+      {
+        "hex": "#92874c",
+        "fraction": 0.1851
+      },
+      {
+        "hex": "#514738",
+        "fraction": 0.1392
+      },
+      {
+        "hex": "#9b8373",
+        "fraction": 0.1369
+      },
+      {
+        "hex": "#7ec7e0",
+        "fraction": 0.0906
+      }
+    ],
+    "hue_histogram": [
+      0.0527,
+      0.5001,
+      0.2858,
+      0.0188,
+      0.0022,
+      0.002,
+      0.0272,
+      0.1096,
+      0.0007,
+      0.0002,
+      0.0001,
+      0.0005
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "blue"
+    ],
+    "warm_fraction": 0.8392,
+    "mean_saturation": 0.2892,
+    "mean_value": 0.7049,
+    "mean_lightness": 0.6659,
+    "contrast": 0.2034,
+    "colorfulness": 57.58,
+    "mean_chroma": 19.01,
+    "is_monochrome": false,
+    "dark_fraction": 0.0131,
+    "light_fraction": 0.0998,
+    "edge_density": 0.373,
+    "busyness": 0.1267,
+    "has_white_border": false,
+    "phash": "6663870edc3c903b",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-9.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a Brooklyn corner at Church Avenue with a brick building, a big tree, a red fruit stand umbrella, and faceless pedestrians, where the lamp post, signs and a car are outlined like cartoons, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower left. A bright blue sky with one outlined cartoon cloud sits over a three storey brick building on a corner with a diner style shop at street level with red striped trim. A large green tree spreads across the top, with some branches redrawn in grey outline. A lamp post at centre is outlined in black with a drawn lamp head, and carries green street signs reading E 18 St and Church Av, an outlined round sign, an arrow and a walk signal. A pink and tan ellipse is drawn over the shop sign. At left a red umbrella shades a fruit stand where faceless figures in white shop; a faceless figure pushes a cart at right, two walk with bags at lower left. A pale cartoon car intrudes from the right edge and a crosswalk crosses the bottom.",
+    "impression": "A real Brooklyn corner on a summer morning, lightly cartooned: just enough drawing to make the lamp post and the car feel like characters. The fruit stand and the people with no faces carry on as normal. It is affectionate neighbourhood reportage with the sky turned up.",
+    "subjects": [
+      "street",
+      "city",
+      "people",
+      "trees",
+      "shop",
+      "lamp post",
+      "signs",
+      "cars",
+      "fruit stand"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "street sign",
+      "outlined cloud",
+      "umbrella",
+      "crosswalk",
+      "outlined car",
+      "shopping cart",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Church Avenue"
+    ],
+    "composition": [
+      "street corner",
+      "figures in foreground",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "anonymity",
+      "daily life"
+    ],
+    "mood": [
+      "sunny",
+      "calm",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "E 18 St; Church Av; signature 2023",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "brooklyn",
+      "church ave",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-23",
+      "note": "Church Avenue, revisited a year later.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

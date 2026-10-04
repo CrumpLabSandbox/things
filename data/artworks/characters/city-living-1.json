@@ -1,0 +1,197 @@
+{
+  "id": "characters/city-living-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "City Living 1",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 04:03:24",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/City living 1.jpg",
+      "width": 850,
+      "height": 850,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 135710,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/City_Living_1.qmd",
+      "html": "things/characters/City_Living_1.html",
+      "url": "https://crumplab.com/things/things/characters/City_Living_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 04:03:24",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "City living 1",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dfd2c5",
+        "fraction": 0.4841
+      },
+      {
+        "hex": "#c9bbb0",
+        "fraction": 0.1618
+      },
+      {
+        "hex": "#ada097",
+        "fraction": 0.1356
+      },
+      {
+        "hex": "#90857e",
+        "fraction": 0.1172
+      },
+      {
+        "hex": "#736964",
+        "fraction": 0.0676
+      },
+      {
+        "hex": "#4f4746",
+        "fraction": 0.0338
+      }
+    ],
+    "hue_histogram": [
+      0.0816,
+      0.9021,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0014,
+      0.001,
+      0.0028,
+      0.0111
+    ],
+    "dominant_hues": [
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.9962,
+    "mean_saturation": 0.1204,
+    "mean_value": 0.7506,
+    "mean_lightness": 0.7334,
+    "contrast": 0.1509,
+    "colorfulness": 11.24,
+    "mean_chroma": 7.51,
+    "is_monochrome": false,
+    "dark_fraction": 0.0017,
+    "light_fraction": 0.0001,
+    "edge_density": 0.0953,
+    "busyness": 0.0726,
+    "has_white_border": false,
+    "phash": "2fccc4c3d109f133",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/city-living-1.jpg"
+  },
+  "described": {
+    "alt_text": "A grayscale airbrush scene of small pod figures standing on rooftops and in the street among soft grey apartment buildings, with a bare tree.",
+    "description": "A square airbrush painting on cream paper, grey only. A cluster of apartment buildings with rows of window slots rises in the middle of the sheet, rendered in soft grey gradients with no outlines, including a tower at right with stacked windows, a central block with a zigzag parapet, and lower blocks at left. Small pod figures with visor faces stand on the rooftops, in doorways, and in a group of five along the bottom edge. A bare forked tree grows from a mid level roof and a column of scribbled leaves hangs at the right edge. The buildings sit on a soft grey ground shape that fades to the paper.",
+    "impression": "The pod people at home: a tenement block where everybody is out on the roof or the stoop. Without colour it looks like a dream of a city, or a model city made of felt. Quiet and companionable, a neighbourhood more than a skyline.",
+    "subjects": [
+      "city",
+      "buildings",
+      "figures",
+      "trees",
+      "rooftops"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "windows",
+      "rooftop",
+      "doorway",
+      "bare tree",
+      "zigzag parapet"
+    ],
+    "setting": [
+      "invented city",
+      "apartment block"
+    ],
+    "composition": [
+      "central cluster",
+      "stacked",
+      "white ground",
+      "scattered figures"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "cartoon"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "crowded life"
+    ],
+    "mood": [
+      "calm",
+      "quiet",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "hooded pods",
+      "city living"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

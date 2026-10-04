@@ -1,0 +1,222 @@
+{
+  "id": "colorlands/sleeping-bear-s-spirit-forest-animal",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Sleeping Bear's Spirit Forest Animal",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 18:44:38",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Sleeping-bear’s-spirit-forest-anima.l.jpg",
+      "width": 2475,
+      "height": 2475,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 620652,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Sleeping_Bear's_Spirit_Forest_Animal.qmd",
+      "html": "things/Colorlands/Sleeping_Bear's_Spirit_Forest_Animal.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Sleeping_Bear's_Spirit_Forest_Animal.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:52:14",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Sleeping Bear's spirit forest animal",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#ecf5f5",
+        "fraction": 0.4096
+      },
+      {
+        "hex": "#829681",
+        "fraction": 0.1512
+      },
+      {
+        "hex": "#a3dc6e",
+        "fraction": 0.1429
+      },
+      {
+        "hex": "#333030",
+        "fraction": 0.1206
+      },
+      {
+        "hex": "#c07cc3",
+        "fraction": 0.0993
+      },
+      {
+        "hex": "#df936d",
+        "fraction": 0.0765
+      }
+    ],
+    "hue_histogram": [
+      0.0746,
+      0.1341,
+      0.1372,
+      0.1357,
+      0.1087,
+      0.0674,
+      0.0773,
+      0.0578,
+      0.0276,
+      0.0411,
+      0.0516,
+      0.0868
+    ],
+    "dominant_hues": [
+      "yellow",
+      "yellow-green",
+      "orange"
+    ],
+    "warm_fraction": 0.4661,
+    "mean_saturation": 0.2721,
+    "mean_value": 0.7975,
+    "mean_lightness": 0.7439,
+    "contrast": 0.2623,
+    "colorfulness": 77.51,
+    "mean_chroma": 23.2,
+    "is_monochrome": false,
+    "dark_fraction": 0.0574,
+    "light_fraction": 0.3742,
+    "edge_density": 0.3987,
+    "busyness": 0.1665,
+    "has_white_border": true,
+    "phash": "6ec885b79037d0e1",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/sleeping-bear-s-spirit-forest-animal.jpg"
+  },
+  "described": {
+    "alt_text": "A candy coloured cartoon valley seen from above, full of horned creatures, smoke, lakes and small houses, with heavy black outlines, signed 2021.",
+    "description": "A square digital drawing with white border, hand lettered title at bottom left and signature with 2021 at bottom right. A thin strip of pale sky and distant mountain line runs along the top; below it a flat lake with wavy reflections and then a steep descent of hills in green, pink, orange and purple. The lower two thirds are packed with forms: a large grey and blue creature with a red horn and a wide mouth at lower left, a pink and green monster face with bared teeth at centre, white smoke plumes rising from chimneys, a small framed landscape picture held inside a creature at right, a green hand like plant waving at upper right, a pink camper van with bulbous windows near the lower right corner, and rows of cone trees and tiny houses along the right slope. Faint pencil scribbles show through the flat fills.",
+    "impression": "The title suggests a dream, and the picture behaves like one: a landscape that keeps turning into animals the longer you look. The big grey creature at lower left seems to be the sleeper, and everything uphill from it could be what it is dreaming. The little framed landscape at right is a picture inside the picture, a quiet joke about the whole thing being imagined.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "lake",
+      "creatures",
+      "houses",
+      "trees",
+      "vehicles"
+    ],
+    "characters": [
+      "horned creature",
+      "toothy monster",
+      "sleepy face",
+      "antenna blob",
+      "bear"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "smoke plume",
+      "outlined cloud",
+      "picture within picture",
+      "cone tree",
+      "camper van",
+      "eyes in things",
+      "teeth"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "lakeside"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense",
+      "layered depth",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "saturated",
+      "lime green"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "crowded life",
+      "stillness",
+      "faces in things"
+    ],
+    "mood": [
+      "playful",
+      "busy",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "SLEEPING BEAR'S SPIRIT FOREST ANIMAL; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Print ready file with white margin, hand lettered caption and signature. Signed 2021, file dated 2022. Title echoes the earlier Magic Bear paintings.",
+    "free_tags": [
+      "signed 2021",
+      "colorland",
+      "bear reference"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "magicbear/a-magic-bear",
+      "note": "Title refers back to the bear character of the Magicbear series.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

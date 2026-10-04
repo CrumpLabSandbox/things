@@ -1,0 +1,203 @@
+{
+  "id": "superland/operations-of-the-symbol-manipulator",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Operations Of The Symbol Manipulator",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:08:47",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (11).jpg",
+      "width": 1265,
+      "height": 1280,
+      "aspect": 0.9883,
+      "orientation": "square",
+      "bytes": 806269,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Operations_Of_The_Symbol_Manipulator.qmd",
+      "html": "things/Superland/Operations_Of_The_Symbol_Manipulator.html",
+      "url": "https://crumplab.com/things/things/Superland/Operations_Of_The_Symbol_Manipulator.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:08:47",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Operations of the symbol manipulator",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#403935",
+        "fraction": 0.2386
+      },
+      {
+        "hex": "#c2b5b1",
+        "fraction": 0.2339
+      },
+      {
+        "hex": "#64a6a4",
+        "fraction": 0.1502
+      },
+      {
+        "hex": "#bd583e",
+        "fraction": 0.1454
+      },
+      {
+        "hex": "#b9b462",
+        "fraction": 0.124
+      },
+      {
+        "hex": "#5b6490",
+        "fraction": 0.108
+      }
+    ],
+    "hue_histogram": [
+      0.1787,
+      0.2296,
+      0.1314,
+      0.0208,
+      0.019,
+      0.0416,
+      0.1169,
+      0.1351,
+      0.0319,
+      0.0151,
+      0.0165,
+      0.0635
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.6149,
+    "mean_saturation": 0.4161,
+    "mean_value": 0.621,
+    "mean_lightness": 0.54,
+    "contrast": 0.2252,
+    "colorfulness": 81.69,
+    "mean_chroma": 26.37,
+    "is_monochrome": false,
+    "dark_fraction": 0.0913,
+    "light_fraction": 0.0155,
+    "edge_density": 0.5161,
+    "busyness": 0.1924,
+    "has_white_border": false,
+    "phash": "4eaf007136f71ca1",
+    "analysis_size": [
+      506,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/operations-of-the-symbol-manipulator.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of a pastel city of blocks marked with hash symbols, where globe headed figures and robot heads operate among splashes and spheres.",
+    "description": "A square oil painting on canvas. A city of stacked pastel blocks with window slots fills the lower two thirds, many blocks carrying small hash and bracket symbols like glyphs. Figures with striped globe heads stand on the rooftops and in the streets, and two large rounded robot heads with glyph eyes look out, one at centre left with a mint face and one at lower right in green and purple. A boxy machine with a screen face hangs at upper left, a red and blue vehicle with a round window at upper right, and the sky is full of orange, red and blue splashes with striped spheres. Thick black outlines and rich brushwork.",
+    "impression": "A city that runs on symbols: the glyphs on the walls are the operations and the robot heads are the manipulators. It is a cognitive science joke painted as a toy town, with the little globe headed citizens as the data. The splashes overhead look like thoughts popping.",
+    "subjects": [
+      "city",
+      "robots",
+      "figures",
+      "machinery",
+      "splashes",
+      "spheres",
+      "symbols"
+    ],
+    "characters": [
+      "globe headed figure",
+      "robot",
+      "hash face"
+    ],
+    "elements": [
+      "glyph",
+      "hash marks",
+      "windows",
+      "splash",
+      "striped ball",
+      "screen"
+    ],
+    "setting": [
+      "invented city"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "stacked",
+      "layered depth"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "pastel",
+      "saturated",
+      "rainbow"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world",
+      "seek and find density"
+    ],
+    "themes": [
+      "systems",
+      "machines as places",
+      "crowded life"
+    ],
+    "mood": [
+      "busy",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "glyph like hash and bracket marks on the blocks",
+      "role": "symbols"
+    },
+    "format_notes": "Oil on canvas, photographed. Title refers to the symbol manipulation idea in cognitive science.",
+    "free_tags": [
+      "superland",
+      "globe heads",
+      "symbols"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

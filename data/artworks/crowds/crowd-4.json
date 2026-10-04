@@ -1,0 +1,203 @@
+{
+  "id": "crowds/crowd-4",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Crowd 4",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:48:58",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/crowd 4.jpg",
+      "width": 774,
+      "height": 387,
+      "aspect": 2.0,
+      "orientation": "landscape",
+      "bytes": 163035,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Crowd_4.qmd",
+      "html": "things/crowds/Crowd_4.html",
+      "url": "https://crumplab.com/things/things/crowds/Crowd_4.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:48:58",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "crowd 4",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#aeb3cd",
+        "fraction": 0.3297
+      },
+      {
+        "hex": "#352837",
+        "fraction": 0.2552
+      },
+      {
+        "hex": "#c2b068",
+        "fraction": 0.1571
+      },
+      {
+        "hex": "#9261ae",
+        "fraction": 0.1262
+      },
+      {
+        "hex": "#587b80",
+        "fraction": 0.078
+      },
+      {
+        "hex": "#d3705a",
+        "fraction": 0.0538
+      }
+    ],
+    "hue_histogram": [
+      0.0895,
+      0.1327,
+      0.0991,
+      0.0161,
+      0.0021,
+      0.0091,
+      0.0345,
+      0.134,
+      0.1638,
+      0.1102,
+      0.0739,
+      0.135
+    ],
+    "dominant_hues": [
+      "indigo",
+      "pink",
+      "blue"
+    ],
+    "warm_fraction": 0.4997,
+    "mean_saturation": 0.3896,
+    "mean_value": 0.6365,
+    "mean_lightness": 0.5345,
+    "contrast": 0.2442,
+    "colorfulness": 74.45,
+    "mean_chroma": 27.14,
+    "is_monochrome": false,
+    "dark_fraction": 0.1465,
+    "light_fraction": 0.0041,
+    "edge_density": 0.2926,
+    "busyness": 0.1902,
+    "has_white_border": false,
+    "phash": "2993ce91d1c3627a",
+    "analysis_size": [
+      512,
+      256
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/crowd-4.jpg"
+  },
+  "described": {
+    "alt_text": "A wide marker painting of a crowd of toothy, tongue waving monsters with white horns and teeth, in pink, blue, purple and yellow with thick black outlines.",
+    "description": "A landscape format marker painting on wood. Overlapping cartoon monsters fill the panel: wide open mouths full of white teeth, pink and red tongues, white horns and rabbit ear shapes, eyes with heavy lids, and striped bodies, in magenta, purple, sky blue, yellow and lime. A yellow creature with a wide grin dominates the upper centre, a purple toothy face the lower centre, a blue bulb eyed face the lower left. Thick black outlines with flat marker fills and white highlights.",
+    "impression": "The loudest of the crowd paintings: everyone is shouting, laughing or biting. The teeth and tongues give it a cartoon aggression that stays funny. It could be a concert audience or a monster movie poster, and it is as busy as a painting can be.",
+    "subjects": [
+      "crowd",
+      "monsters",
+      "faces",
+      "teeth"
+    ],
+    "characters": [
+      "toothy monster",
+      "horned creature",
+      "one eyed creature"
+    ],
+    "elements": [
+      "teeth",
+      "tongue",
+      "horns",
+      "rabbit ears",
+      "white highlight line",
+      "stripes"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "crowd",
+      "panoramic",
+      "no background"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "candy",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "monsters",
+      "noise"
+    ],
+    "mood": [
+      "chaotic",
+      "loud",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood, landscape format. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd",
+      "teeth"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

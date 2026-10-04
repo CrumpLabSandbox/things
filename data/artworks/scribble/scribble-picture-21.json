@@ -1,0 +1,215 @@
+{
+  "id": "scribble/scribble-picture-21",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 21",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-10-18 09:54:27",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "NYC, Chelsea",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 21.jpeg",
+      "width": 720,
+      "height": 1080,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 755382,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_21.qmd",
+      "html": "things/Scribble/Scribble_Picture_21.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_21.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e5e5ed",
+        "fraction": 0.3347
+      },
+      {
+        "hex": "#ada2a4",
+        "fraction": 0.2666
+      },
+      {
+        "hex": "#535155",
+        "fraction": 0.1432
+      },
+      {
+        "hex": "#5ebef0",
+        "fraction": 0.1209
+      },
+      {
+        "hex": "#a36a57",
+        "fraction": 0.0796
+      },
+      {
+        "hex": "#c29756",
+        "fraction": 0.0549
+      }
+    ],
+    "hue_histogram": [
+      0.1377,
+      0.2946,
+      0.055,
+      0.0067,
+      0.0026,
+      0.0065,
+      0.0746,
+      0.3256,
+      0.0713,
+      0.0116,
+      0.0032,
+      0.0107
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.4997,
+    "mean_saturation": 0.2255,
+    "mean_value": 0.7612,
+    "mean_lightness": 0.7002,
+    "contrast": 0.2074,
+    "colorfulness": 67.14,
+    "mean_chroma": 14.99,
+    "is_monochrome": false,
+    "dark_fraction": 0.0051,
+    "light_fraction": 0.1749,
+    "edge_density": 0.3261,
+    "busyness": 0.1279,
+    "has_white_border": true,
+    "phash": "0bd1a16ae82ab337",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-21.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph looking down a Manhattan avenue from the High Line toward Hudson Yards, with the traffic redrawn as soft white, grey and blue cartoon cars, two faceless pedestrians at a crossing, and a bright blue sky with real clouds, signed 23.",
+    "description": "A portrait format digital piece on a photograph inside a white border, signed Matt Crump 23 at lower right. The view looks down a long avenue from above: glass towers of Hudson Yards and a curved glass building at upper left, a red brick apartment block and brownstones at right, autumn trees along the median, and a bright blue sky with real white clouds. The road is full of cars and vans redrawn as rounded white, grey, blue, pink and tan cartoon shapes with black outlines, receding into the distance. At lower left two pedestrians cross at the corner with blank faces, one in a red top. A white outlined van sits at centre. Only the vehicles are drawn; the buildings and sky are left photographic.",
+    "impression": "Rush hour on Tenth Avenue seen from the High Line, with every car turned into a soft toy. The restraint is the point: nothing but the vehicles is touched, so the city stays sharp and the traffic goes gentle. It looks like a model railway layout of Manhattan. Clear, cool and autumnal.",
+    "subjects": [
+      "street",
+      "city",
+      "cars",
+      "traffic",
+      "skyscrapers",
+      "trees",
+      "people",
+      "sky"
+    ],
+    "characters": [
+      "vehicle creature",
+      "faceless figure"
+    ],
+    "elements": [
+      "outlined car",
+      "van",
+      "crosswalk",
+      "autumn trees",
+      "white border",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Chelsea",
+      "High Line"
+    ],
+    "composition": [
+      "one point perspective",
+      "aerial view",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "cool",
+      "crisp"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "traffic",
+      "vehicles as creatures",
+      "nature"
+    ],
+    "mood": [
+      "calm",
+      "crisp",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 23",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "high line",
+      "cars",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-22",
+      "note": "Shot from the High Line on consecutive days.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

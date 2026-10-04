@@ -1,0 +1,184 @@
+{
+  "id": "cactuses/gouache-cactus-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Gouache Cactus 1",
+    "series": "cactuses",
+    "series_slug": "cactuses",
+    "medium": "gouache",
+    "surface": "paper",
+    "medium_source": "title",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2014-08-18 08:45:02",
+    "year": 2014,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/cactuses/gouache cactus 1.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 82753,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/cactuses/Gouache_Cactus_1.qmd",
+      "html": "things/cactuses/Gouache_Cactus_1.html",
+      "url": "https://crumplab.com/things/things/cactuses/Gouache_Cactus_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2014:08:18 08:45:02",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "gouache cactus 1",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c3d4ed",
+        "fraction": 0.5679
+      },
+      {
+        "hex": "#393c3f",
+        "fraction": 0.131
+      },
+      {
+        "hex": "#81684c",
+        "fraction": 0.1211
+      },
+      {
+        "hex": "#407173",
+        "fraction": 0.0773
+      },
+      {
+        "hex": "#83b094",
+        "fraction": 0.0614
+      },
+      {
+        "hex": "#79cf85",
+        "fraction": 0.0413
+      }
+    ],
+    "hue_histogram": [
+      0.0023,
+      0.1829,
+      0.006,
+      0.0163,
+      0.0457,
+      0.062,
+      0.0635,
+      0.5899,
+      0.0136,
+      0.0067,
+      0.0056,
+      0.0055
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange"
+    ],
+    "warm_fraction": 0.1997,
+    "mean_saturation": 0.2684,
+    "mean_value": 0.7375,
+    "mean_lightness": 0.6748,
+    "contrast": 0.2287,
+    "colorfulness": 47.9,
+    "mean_chroma": 16.98,
+    "is_monochrome": false,
+    "dark_fraction": 0.0306,
+    "light_fraction": 0.0001,
+    "edge_density": 0.1406,
+    "busyness": 0.0829,
+    "has_white_border": false,
+    "phash": "75ce521d0e611aa7",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/cactuses/gouache-cactus-1.jpg"
+  },
+  "described": {
+    "alt_text": "A small gouache painting of a green tree cactus with many spiky arms and pale spines, outlined in black on white paper, photographed on a wooden table.",
+    "description": "A square gouache painting on white paper, photographed lying on a wooden table. A tall tree like cactus in greens and teal rises from the bottom edge: a thick trunk splitting into upward arms at the top, with lower branches spreading left and right. Every arm is studded with pale green spines drawn as small pointed leaves, and the forms are outlined in black with pink and purple strokes in the shadows. The colour is applied in streaky brush strokes.",
+    "impression": "A cactus drawn with the energy of a creature stretching, arms up like it is cheering. The pink in the shadows keeps the green from being dull. It is the first of the gouache studies and the most like a real plant.",
+    "subjects": [
+      "cactus",
+      "plants"
+    ],
+    "characters": [],
+    "elements": [
+      "spines",
+      "branching arms",
+      "thin black outline"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "white ground",
+      "rising from bottom"
+    ],
+    "line": [
+      "thick black outline",
+      "visible brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "green dominant",
+      "teal",
+      "pink shadows"
+    ],
+    "style": [
+      "cartoon",
+      "study"
+    ],
+    "themes": [
+      "plants as creatures",
+      "growth"
+    ],
+    "mood": [
+      "energetic",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Gouache on paper, photographed on a wood table with the table visible.",
+    "free_tags": [
+      "cactus series",
+      "gouache",
+      "table photo"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

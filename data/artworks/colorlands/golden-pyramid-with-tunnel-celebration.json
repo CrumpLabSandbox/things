@@ -1,0 +1,208 @@
+{
+  "id": "colorlands/golden-pyramid-with-tunnel-celebration",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Golden Pyramid With Tunnel Celebration",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-02-03 18:46:30",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Golden-pyramid-with-tunnel-celebration.jpg",
+      "width": 2475,
+      "height": 2475,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 597844,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Golden_Pyramid_With_Tunnel_Celebration.qmd",
+      "html": "things/Colorlands/Golden_Pyramid_With_Tunnel_Celebration.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Golden_Pyramid_With_Tunnel_Celebration.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 23.1 (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:02:03 18:50:41",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Golden pyramid with tunnel celebration",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f1f7f3",
+        "fraction": 0.4108
+      },
+      {
+        "hex": "#919e96",
+        "fraction": 0.1539
+      },
+      {
+        "hex": "#1d1a19",
+        "fraction": 0.1366
+      },
+      {
+        "hex": "#b9db77",
+        "fraction": 0.1313
+      },
+      {
+        "hex": "#e79674",
+        "fraction": 0.1173
+      },
+      {
+        "hex": "#cb65d2",
+        "fraction": 0.0501
+      }
+    ],
+    "hue_histogram": [
+      0.1212,
+      0.1927,
+      0.1474,
+      0.1019,
+      0.0771,
+      0.0557,
+      0.0743,
+      0.0403,
+      0.0242,
+      0.0396,
+      0.0555,
+      0.07
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.5598,
+    "mean_saturation": 0.2687,
+    "mean_value": 0.7888,
+    "mean_lightness": 0.7322,
+    "contrast": 0.2977,
+    "colorfulness": 74.99,
+    "mean_chroma": 21.65,
+    "is_monochrome": false,
+    "dark_fraction": 0.1039,
+    "light_fraction": 0.3919,
+    "edge_density": 0.3684,
+    "busyness": 0.2001,
+    "has_white_border": true,
+    "phash": "3e95913cd1629587",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/golden-pyramid-with-tunnel-celebration.jpg"
+  },
+  "described": {
+    "alt_text": "A crowded cartoon valley of horned creatures, a golden pyramid, a tunnel and a stream, in candy colours with heavy black outlines, signed 2021.",
+    "description": "A square digital drawing with white border, hand lettered title at bottom left and signature with 2021 at bottom right. A pale lime sky sits above a jumble of forms. At upper centre a golden pyramid with a dark cave or tunnel opening sits behind a blue stream that curves down from a waterfall at centre left. Tall green stalks like palm trunks rise at top left; a pair of teal rings loops in the sky. Figures with horns, antennae and single eyes crowd every edge: a striped totem like head at upper left, an orange and pink horned creature at centre, a blue rabbit eared figure at right, a reclining pink creature at lower centre, and a large blue blob with a toothy grin at lower left. The colours are mostly unmixed pinks, greens, oranges and purples, with loose pencil scribbles visible under and around the fills.",
+    "impression": "The title says celebration and it looks like one: the pyramid is the centrepiece and everyone has come to see the tunnel opened. The figures seem to be mid gesture, waving limbs or craning necks, and the stream acts like a parade route through the middle. It feels like a myth drawn by someone who was making the myth up as they went, with the tunnel as the mysterious thing nobody explains.",
+    "subjects": [
+      "landscape",
+      "pyramid",
+      "tunnel",
+      "creatures",
+      "waterfall",
+      "river",
+      "trees"
+    ],
+    "characters": [
+      "horned creature",
+      "antenna blob",
+      "one eyed creature",
+      "rabbit eared figure",
+      "toothy monster"
+    ],
+    "elements": [
+      "hand lettered title",
+      "signature",
+      "white border",
+      "waterfall",
+      "ring in sky",
+      "eyes in things",
+      "stalk trees"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley"
+    ],
+    "composition": [
+      "all over",
+      "central feature",
+      "dense",
+      "border framed"
+    ],
+    "line": [
+      "thick black outline",
+      "pencil scribble underlayer",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "saturated",
+      "pastel sky"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "psychedelic",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "crowded life",
+      "gathering",
+      "faces in things"
+    ],
+    "mood": [
+      "playful",
+      "celebratory",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "GOLDEN PYRAMID WITH TUNNEL CELEBRATION; Matt Crump 2021",
+      "role": "title and signature"
+    },
+    "format_notes": "Print ready file with white margin, hand lettered caption and signature. Signed 2021, file dated 2022.",
+    "free_tags": [
+      "signed 2021",
+      "colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

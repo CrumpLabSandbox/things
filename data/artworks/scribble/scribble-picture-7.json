@@ -1,0 +1,213 @@
+{
+  "id": "scribble/scribble-picture-7",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 7",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-07-15 17:35:34",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Toronto, same process as other scribble pictures.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 7.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 419153,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_7.qmd",
+      "html": "things/Scribble/Scribble_Picture_7.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_7.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:07:15 17:35:34",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 7",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230715",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e2dfd9",
+        "fraction": 0.3152
+      },
+      {
+        "hex": "#afa293",
+        "fraction": 0.2372
+      },
+      {
+        "hex": "#404d57",
+        "fraction": 0.1816
+      },
+      {
+        "hex": "#809097",
+        "fraction": 0.1717
+      },
+      {
+        "hex": "#b6b987",
+        "fraction": 0.0723
+      },
+      {
+        "hex": "#d08174",
+        "fraction": 0.0219
+      }
+    ],
+    "hue_histogram": [
+      0.046,
+      0.3975,
+      0.0971,
+      0.0564,
+      0.0022,
+      0.0007,
+      0.054,
+      0.338,
+      0.0054,
+      0.0007,
+      0.0004,
+      0.0017
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "yellow"
+    ],
+    "warm_fraction": 0.5425,
+    "mean_saturation": 0.179,
+    "mean_value": 0.6878,
+    "mean_lightness": 0.6652,
+    "contrast": 0.2098,
+    "colorfulness": 35.45,
+    "mean_chroma": 10.58,
+    "is_monochrome": false,
+    "dark_fraction": 0.0162,
+    "light_fraction": 0.1502,
+    "edge_density": 0.3762,
+    "busyness": 0.1444,
+    "has_white_border": false,
+    "phash": "292c2fc3c7c54a93",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-7.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a Toronto avenue with glass condo towers, where the traffic has been redrawn as rounded cartoon cars and the street lamps outlined, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower left. Two tall glass condo towers with balconies rise at the top against a pale sky, with pink outlined bands drawn across their rooftops. Below, a low rise shopping street with shop signs, trees outlined in green, and street lamps redrawn in black outline with bell shaped heads. The lower half is a traffic jam of cars redrawn as soft rounded cartoon shapes in white, grey, pale blue and pink with black outlines, filling the road toward the viewer; the nearest is a pale blue car with a large rear window. A white outlined lampshade shape floats at left.",
+    "impression": "Toronto from the middle of the road, with the cars gone soft and friendly as if they were drawn by a child in the back seat. The towers keep their glass and the cars lose theirs. It is the traffic jam of About Town 7 twelve years later, now with a photograph underneath.",
+    "subjects": [
+      "street",
+      "city",
+      "cars",
+      "traffic",
+      "skyscrapers",
+      "lamp post",
+      "trees"
+    ],
+    "characters": [
+      "vehicle creature"
+    ],
+    "elements": [
+      "outlined car",
+      "lamp post",
+      "balcony tower",
+      "shop sign",
+      "signature"
+    ],
+    "setting": [
+      "Toronto",
+      "invented city"
+    ],
+    "composition": [
+      "one point perspective",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "pastel",
+      "muted",
+      "grey and blue",
+      "washed"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "traffic",
+      "vehicles as creatures",
+      "travel"
+    ],
+    "mood": [
+      "calm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "signature 2023",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a photograph taken in Toronto.",
+    "free_tags": [
+      "scribble series",
+      "toronto",
+      "cars",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "towns/about-town-7",
+      "note": "A traffic jam of soft rounded vehicles, now over a photograph.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-8",
+      "note": "Same Toronto avenue, next day.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

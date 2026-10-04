@@ -1,0 +1,202 @@
+{
+  "id": "cactuses/cactus-growing-out-of-itself",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Cactus Growing Out Of Itself",
+    "series": "cactuses",
+    "series_slug": "cactuses",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 11:04:07",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/cactuses/Cactus growing out of itself.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 395378,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/cactuses/Cactus_Growing_Out_Of_Itself.qmd",
+      "html": "things/cactuses/Cactus_Growing_Out_Of_Itself.html",
+      "url": "https://crumplab.com/things/things/cactuses/Cactus_Growing_Out_Of_Itself.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone X",
+        "datetime": "2019:05:26 11:04:07",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "Cactus growing out of itself",
+        "caption": "oil on wood",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#cdcdca",
+        "fraction": 0.4703
+      },
+      {
+        "hex": "#b2a649",
+        "fraction": 0.1438
+      },
+      {
+        "hex": "#828a74",
+        "fraction": 0.1276
+      },
+      {
+        "hex": "#b3748c",
+        "fraction": 0.0964
+      },
+      {
+        "hex": "#c8591a",
+        "fraction": 0.0939
+      },
+      {
+        "hex": "#5190a6",
+        "fraction": 0.068
+      }
+    ],
+    "hue_histogram": [
+      0.0922,
+      0.2612,
+      0.2572,
+      0.0228,
+      0.0493,
+      0.0193,
+      0.0709,
+      0.0788,
+      0.0006,
+      0.0103,
+      0.0269,
+      0.1105
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "pink"
+    ],
+    "warm_fraction": 0.7315,
+    "mean_saturation": 0.3032,
+    "mean_value": 0.7499,
+    "mean_lightness": 0.6979,
+    "contrast": 0.15,
+    "colorfulness": 77.02,
+    "mean_chroma": 23.0,
+    "is_monochrome": false,
+    "dark_fraction": 0.001,
+    "light_fraction": 0.0327,
+    "edge_density": 0.0883,
+    "busyness": 0.0717,
+    "has_white_border": false,
+    "phash": "7a81f483c17b9b60",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/cactuses/cactus-growing-out-of-itself.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of a cluster of plump multicoloured cactus pads sprouting curled arms from one another, in orange, blue, pink and green on a pale ground.",
+    "description": "A square oil painting on wood. A mass of rounded, cushiony cactus bodies fills the frame from the bottom: an orange and red one at lower left, a blue one at upper left, a grey and olive one at top, a pink and blue one at right, and a green one at bottom. From each body sprout hooked and curled arms like thumbs or sausages in pink, lilac, yellow, teal and grey, and some arms wear bright rings at the base like bracelets. The bodies are modelled with soft blended brushwork and pale outlines, over a pale yellow and pink washed background.",
+    "impression": "A cactus that cannot stop making more of itself, with every new arm wearing a ring as if it had been given a prize for arriving. The colours are those of gummy sweets and the shapes are a little bodily. It is a comedy of growth, cheerful and slightly alarming.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "abstract forms"
+    ],
+    "characters": [],
+    "elements": [
+      "curled arm",
+      "ring",
+      "pad",
+      "blended shading"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central cluster",
+      "soft ground"
+    ],
+    "line": [
+      "thin dark outline",
+      "visible brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "pastel",
+      "soft"
+    ],
+    "style": [
+      "abstract",
+      "cartoon",
+      "naive"
+    ],
+    "themes": [
+      "growth",
+      "plants as creatures",
+      "repetition"
+    ],
+    "mood": [
+      "playful",
+      "joyful",
+      "strange"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, photographed.",
+    "free_tags": [
+      "cactus series",
+      "oil cactus"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "cactuses/plant-in-progress",
+      "note": "Both oil cactus paintings from 2019.",
+      "source": "described"
+    },
+    {
+      "type": "revisits",
+      "target": "cactuses/gouache-cactus-1",
+      "note": "Same spiky cactus arm idea five years later in oil.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

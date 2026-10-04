@@ -1,0 +1,212 @@
+{
+  "id": "scribble/scribble-picture-45",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 45",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "Creatures in a tree",
+    "caption": "Creatures in a tree",
+    "camera": null,
+    "date": "2024-11-15 00:00:00",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-45",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 45.jpeg",
+      "width": 1000,
+      "height": 1409,
+      "aspect": 0.7097,
+      "orientation": "portrait",
+      "bytes": 671412,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_45.qmd",
+      "html": "things/Scribble/Scribble_Picture_45.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_45.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fcfaf8",
+        "fraction": 0.3473
+      },
+      {
+        "hex": "#d0c655",
+        "fraction": 0.1442
+      },
+      {
+        "hex": "#e2c797",
+        "fraction": 0.1373
+      },
+      {
+        "hex": "#6a5a48",
+        "fraction": 0.1268
+      },
+      {
+        "hex": "#da9688",
+        "fraction": 0.1231
+      },
+      {
+        "hex": "#70823e",
+        "fraction": 0.1214
+      }
+    ],
+    "hue_histogram": [
+      0.1398,
+      0.339,
+      0.3744,
+      0.0841,
+      0.0417,
+      0.0015,
+      0.0025,
+      0.005,
+      0.0002,
+      0.0,
+      0.0,
+      0.0119
+    ],
+    "dominant_hues": [
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.8651,
+    "mean_saturation": 0.2939,
+    "mean_value": 0.8068,
+    "mean_lightness": 0.7626,
+    "contrast": 0.2207,
+    "colorfulness": 65.14,
+    "mean_chroma": 23.7,
+    "is_monochrome": false,
+    "dark_fraction": 0.0008,
+    "light_fraction": 0.3657,
+    "edge_density": 0.3906,
+    "busyness": 0.1194,
+    "has_white_border": true,
+    "phash": "6b4dc41fc4f191e0",
+    "analysis_size": [
+      363,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-45.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a Japanese garden in autumn where the pink foliage of a tree has been redrawn as a dense cluster of small pink, peach and cream cartoon creatures with eyes and ears, beside real green maple leaves, labelled SP 45 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned SP 45 2024 at lower left and MATT CRUMP at lower right. A large tree at centre has its left side canopy replaced by a dense mass of small cartoon creatures in pink, salmon, peach, cream, grey and a few blue, each with an eye, ears or a beak, packed together like leaves, with black outlines. The right side of the canopy is real green and yellow Japanese maple foliage. Below, a dark trunk, a small wooden shrine or gate structure at left, a gravel path, mown grass banks and autumn shrubs in gold and rust. The light is bright and warm.",
+    "impression": "Creatures in a tree, as the caption says: the whole pink canopy is a flock, hundreds of small beings pretending to be leaves. It is the seek and find density of the Colorlands drawings landing in a photograph of a garden. From a distance it is a flowering tree; up close it is a crowd. The prettiest of the Scribbles and one of the strangest.",
+    "subjects": [
+      "garden",
+      "trees",
+      "creatures",
+      "foliage",
+      "path",
+      "shrine"
+    ],
+    "characters": [
+      "blob figure",
+      "one eyed creature"
+    ],
+    "elements": [
+      "creature canopy",
+      "maple leaves",
+      "gravel path",
+      "wooden gate",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "garden",
+      "Brooklyn",
+      "Japanese garden"
+    ],
+    "composition": [
+      "central feature",
+      "central cluster",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "pink and green",
+      "pastel",
+      "warm",
+      "autumn"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "seek and find density",
+      "creatures over photo"
+    ],
+    "themes": [
+      "nature",
+      "hidden creatures",
+      "crowded life"
+    ],
+    "mood": [
+      "joyful",
+      "calm",
+      "wondrous"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "SP 45 2024; MATT CRUMP",
+      "role": "caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border. Print available.",
+    "free_tags": [
+      "scribble series",
+      "brooklyn",
+      "botanic garden",
+      "creature tree",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "colorlands/meeting-of-the-mountains",
+      "note": "A dense field of small creatures, now standing in for foliage.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

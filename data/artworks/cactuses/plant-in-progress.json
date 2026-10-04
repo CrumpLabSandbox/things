@@ -1,0 +1,190 @@
+{
+  "id": "cactuses/plant-in-progress",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Plant In Progress",
+    "series": "cactuses",
+    "series_slug": "cactuses",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-02-18 19:56:06",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/cactuses/Plant in progress.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 406449,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/cactuses/Plant_In_Progress.qmd",
+      "html": "things/cactuses/Plant_In_Progress.html",
+      "url": "https://crumplab.com/things/things/cactuses/Plant_In_Progress.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone X",
+        "datetime": "2019:02:18 19:56:06",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "Plant in progress",
+        "caption": "oil on wood",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#b3742e",
+        "fraction": 0.3564
+      },
+      {
+        "hex": "#dba24b",
+        "fraction": 0.2449
+      },
+      {
+        "hex": "#bcb35c",
+        "fraction": 0.1244
+      },
+      {
+        "hex": "#c0bdad",
+        "fraction": 0.1021
+      },
+      {
+        "hex": "#6f8066",
+        "fraction": 0.0991
+      },
+      {
+        "hex": "#c191a4",
+        "fraction": 0.0732
+      }
+    ],
+    "hue_histogram": [
+      0.0401,
+      0.6694,
+      0.1579,
+      0.0461,
+      0.0072,
+      0.0035,
+      0.018,
+      0.0087,
+      0.001,
+      0.0045,
+      0.0092,
+      0.0343
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.906,
+    "mean_saturation": 0.5581,
+    "mean_value": 0.7401,
+    "mean_lightness": 0.6334,
+    "contrast": 0.1151,
+    "colorfulness": 81.22,
+    "mean_chroma": 42.18,
+    "is_monochrome": false,
+    "dark_fraction": 0.0,
+    "light_fraction": 0.0064,
+    "edge_density": 0.027,
+    "busyness": 0.0402,
+    "has_white_border": false,
+    "phash": "1c4f60ad26b16b96",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/cactuses/plant-in-progress.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting on bare wood of a plant made of fat pastel lobes in green, pink, yellow, lilac and orange rising diagonally from the bottom.",
+    "description": "A square oil painting on an unprimed wood panel with the grain showing as a warm orange background. A plant of plump rounded lobes climbs from the lower left to the upper right: a sage green lobed trunk at left, lime and yellow arms, a pink arm at centre, lilac and grey lobes above, an orange base at the bottom and a yellow green lobe at right. The lobes are modelled with soft brushwork and pale edges and overlap like stacked pillows. Much of the panel is left as bare wood.",
+    "impression": "A cactus that has been upholstered. Leaving the wood bare makes the plant look like it is growing out of a tabletop, and the title admits it is unfinished, which suits it: a plant is always in progress. Soft, warm and a little sleepy.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "abstract forms"
+    ],
+    "characters": [],
+    "elements": [
+      "pad",
+      "lobe",
+      "bare wood",
+      "blended shading"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "diagonal",
+      "central figure",
+      "bare ground"
+    ],
+    "line": [
+      "thin dark outline",
+      "visible brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "wood grain",
+      "soft"
+    ],
+    "style": [
+      "abstract",
+      "naive",
+      "painted on wood"
+    ],
+    "themes": [
+      "growth",
+      "process",
+      "plants as creatures"
+    ],
+    "mood": [
+      "calm",
+      "warm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on raw wood panel, grain exposed. Photographed.",
+    "free_tags": [
+      "cactus series",
+      "oil cactus",
+      "bare plywood"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

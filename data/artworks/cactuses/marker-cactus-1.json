@@ -1,0 +1,186 @@
+{
+  "id": "cactuses/marker-cactus-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Marker Cactus 1",
+    "series": "cactuses",
+    "series_slug": "cactuses",
+    "medium": "marker",
+    "surface": "paper",
+    "medium_source": "title",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2014-08-18 11:11:29",
+    "year": 2014,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/cactuses/marker cactus 1.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 90832,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/cactuses/Marker_Cactus_1.qmd",
+      "html": "things/cactuses/Marker_Cactus_1.html",
+      "url": "https://crumplab.com/things/things/cactuses/Marker_Cactus_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2014:08:18 11:11:29",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "marker cactus 1",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e9e5e6",
+        "fraction": 0.4794
+      },
+      {
+        "hex": "#836746",
+        "fraction": 0.1594
+      },
+      {
+        "hex": "#3e4044",
+        "fraction": 0.1318
+      },
+      {
+        "hex": "#c7c4ca",
+        "fraction": 0.1067
+      },
+      {
+        "hex": "#64646e",
+        "fraction": 0.0697
+      },
+      {
+        "hex": "#9997a2",
+        "fraction": 0.053
+      }
+    ],
+    "hue_histogram": [
+      0.0014,
+      0.7528,
+      0.0076,
+      0.0005,
+      0.0001,
+      0.0005,
+      0.0037,
+      0.1559,
+      0.0749,
+      0.0024,
+      0.0001,
+      0.0001
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue"
+    ],
+    "warm_fraction": 0.7621,
+    "mean_saturation": 0.1214,
+    "mean_value": 0.7068,
+    "mean_lightness": 0.6942,
+    "contrast": 0.2536,
+    "colorfulness": 25.02,
+    "mean_chroma": 6.66,
+    "is_monochrome": false,
+    "dark_fraction": 0.0187,
+    "light_fraction": 0.4064,
+    "edge_density": 0.1749,
+    "busyness": 0.1176,
+    "has_white_border": false,
+    "phash": "549c6b4a2d781fe0",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/cactuses/marker-cactus-1.jpg"
+  },
+  "described": {
+    "alt_text": "A grey marker drawing in a spiral sketchbook of a branching cactus with thick arms covered in cone shaped spines.",
+    "description": "A square photograph of a spiral bound sketchbook page on a wooden table. A cactus drawn in grey and black marker fills the page: a thick horizontal arm across the lower half studded with large cone spines, a vertical trunk rising from it at centre that forks into two arms, and a spray of thinner branches at upper left. The spines are drawn as pointed cones with dark shadows, and the arms are shaded in soft grey with black outlines. The background is bare paper.",
+    "impression": "A cactus as a weapon or a piece of coral, all points. The grey marker gives it a stone like weight. It looks like a study for a sculpture, with the spines placed so carefully they read as rivets.",
+    "subjects": [
+      "cactus",
+      "plants"
+    ],
+    "characters": [],
+    "elements": [
+      "spines",
+      "branching arms",
+      "thin black outline",
+      "sketchbook spiral"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "central cluster",
+      "white ground"
+    ],
+    "line": [
+      "thick black outline",
+      "marker shading"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "grey marker"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "painted on wood"
+    ],
+    "themes": [
+      "plants as creatures",
+      "pattern"
+    ],
+    "mood": [
+      "calm",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Grey marker in a spiral sketchbook, photographed on a wood table.",
+    "free_tags": [
+      "cactus series",
+      "marker",
+      "sketchbook",
+      "grayscale"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "scribble/scribble-picture-32",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 32",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, Ditmas Ave",
+    "caption": "Ditmas Ave",
+    "camera": null,
+    "date": "2024-10-01 18:04:16",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Looking out on Ditmas Ave from F train",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 32.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 480241,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_32.qmd",
+      "html": "things/Scribble/Scribble_Picture_32.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_32.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:10:01 18:04:16",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 32",
+        "caption": null,
+        "keywords": [],
+        "date_created": "20241001",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d6ab75",
+        "fraction": 0.2575
+      },
+      {
+        "hex": "#e7e7e3",
+        "fraction": 0.1807
+      },
+      {
+        "hex": "#e9d2ae",
+        "fraction": 0.1605
+      },
+      {
+        "hex": "#967f66",
+        "fraction": 0.1441
+      },
+      {
+        "hex": "#52b8db",
+        "fraction": 0.1371
+      },
+      {
+        "hex": "#494745",
+        "fraction": 0.1202
+      }
+    ],
+    "hue_histogram": [
+      0.0158,
+      0.7338,
+      0.0217,
+      0.0045,
+      0.0011,
+      0.0003,
+      0.0819,
+      0.1378,
+      0.0023,
+      0.0002,
+      0.0001,
+      0.0005
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "cyan"
+    ],
+    "warm_fraction": 0.7719,
+    "mean_saturation": 0.3294,
+    "mean_value": 0.772,
+    "mean_lightness": 0.7026,
+    "contrast": 0.1978,
+    "colorfulness": 78.34,
+    "mean_chroma": 21.3,
+    "is_monochrome": false,
+    "dark_fraction": 0.0155,
+    "light_fraction": 0.1556,
+    "edge_density": 0.3106,
+    "busyness": 0.1376,
+    "has_white_border": false,
+    "phash": "51a8a95e6267b89a",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-32.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph looking down on Ditmas Avenue from the elevated F train, with cartoon clouds filling the sky, pod creatures walking the sidewalk past a yellow brick building, cartoon cars parked along the kerb, and a large grey creature with a green tail at the bottom, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. From above, a yellow brick four storey apartment building with stone lintels fills the left half, with a pink and yellow striped awning over a shop at its base. A long sidewalk runs down the right side toward low shops and trees, with a road beyond. The sky is filled with outlined white cartoon clouds, some drawn over the building's parapet. Pod creatures in blue, grey, tan and cream with hooded heads walk along the sidewalk, one group of four by the shop, and more in the distance. A tall grey creature with a drawn traffic sign stands at centre. Cars along the kerb are redrawn as blue and white cartoon shapes. At lower left a white smoke cloud puffs beside a grey creature and a blue bin creature; at lower right a large grey rounded creature with a green curled tail is seen from above. A grey shadow shape lies in the road.",
+    "impression": "The view from the F train window turned into a creature's eye view of Ditmas Avenue. The pod people are out doing errands and a big grey animal is ambling along below the platform. The cartoon clouds crowd the sky as they do in the later Scribbles. Sunny, high up and friendly.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "sidewalk",
+      "creatures",
+      "cars",
+      "clouds",
+      "shop"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "bin creature",
+      "blob figure",
+      "vehicle creature"
+    ],
+    "elements": [
+      "outlined cloud",
+      "striped awning",
+      "outlined car",
+      "smoke plume",
+      "fire escape",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Ditmas Avenue",
+      "from the F train"
+    ],
+    "composition": [
+      "aerial view",
+      "diagonal",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "yellow brick",
+      "blue sky",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "creatures among us",
+      "commuting"
+    ],
+    "mood": [
+      "sunny",
+      "playful",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 24",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph taken from the F train.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "ditmas",
+      "F train",
+      "hooded pods",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

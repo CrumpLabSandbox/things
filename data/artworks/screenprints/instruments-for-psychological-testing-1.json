@@ -1,0 +1,188 @@
+{
+  "id": "screenprints/instruments-for-psychological-testing-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Instruments For Psychological Testing 1",
+    "series": "screenprints",
+    "series_slug": "screenprints",
+    "medium": "ink",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "ink on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2017-01-20 17:58:23",
+    "year": 2017,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/screenprints/Instruments for Psychological Testing 1.jpg",
+      "width": 1024,
+      "height": 1280,
+      "aspect": 0.8,
+      "orientation": "portrait",
+      "bytes": 285108,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/screenprints/Instruments_For_Psychological_Testing_1.qmd",
+      "html": "things/screenprints/Instruments_For_Psychological_Testing_1.html",
+      "url": "https://crumplab.com/things/things/screenprints/Instruments_For_Psychological_Testing_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2017:01:20 17:58:23",
+        "image_description": "ink on paper"
+      },
+      "iptc": {
+        "object_name": "Instruments for Psychological Testing 1",
+        "caption": "ink on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f1f1f1",
+        "fraction": 0.3836
+      },
+      {
+        "hex": "#e7e7e7",
+        "fraction": 0.2256
+      },
+      {
+        "hex": "#242424",
+        "fraction": 0.1642
+      },
+      {
+        "hex": "#373737",
+        "fraction": 0.1341
+      },
+      {
+        "hex": "#6c6c6c",
+        "fraction": 0.0468
+      },
+      {
+        "hex": "#acacac",
+        "fraction": 0.0457
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [],
+    "warm_fraction": 0.0,
+    "mean_saturation": 0.0,
+    "mean_value": 0.6721,
+    "mean_lightness": 0.6815,
+    "contrast": 0.3455,
+    "colorfulness": 0.0,
+    "mean_chroma": 0.0,
+    "is_monochrome": true,
+    "dark_fraction": 0.1942,
+    "light_fraction": 0.5866,
+    "edge_density": 0.2741,
+    "busyness": 0.2186,
+    "has_white_border": false,
+    "phash": "2be936cd4f92c034",
+    "analysis_size": [
+      410,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/screenprints/instruments-for-psychological-testing-1.jpg"
+  },
+  "described": {
+    "alt_text": "A black and white screen print styled as a vintage advertisement for an Immobilization Chamber, with a man in glasses beside a diagram of a body in a frame, and a brain logo reading Instruments for Psychological Testing.",
+    "description": "A portrait format screen print in black ink on white paper. Bold condensed headline type reads Immobilization Chamber across the top, with DAYS WEEKS MONTHS YEARS stacked at upper right. A high contrast halftone image shows a man with short hair and glasses looking down beside a tall framed apparatus containing a silhouette of a standing human body with a helmet like fixture over the head. Vertical text along the left edge reads Effect of severe immobilization of the body on intellectual and perceptual process. A circular seal at lower right shows a brain with roots like a tree and the words Instruments for Psychological Testing. A box at the bottom reads Zubeck et al, 1963.",
+    "impression": "A fake product catalogue page for an apparatus from a real and unsettling line of sensory deprivation research. The deadpan commercial layout, the seal and the citation turn a historical experiment into a parody advertisement. It is funny and chilling in equal measure, and very much a cognitive psychologist's joke.",
+    "subjects": [
+      "lettering",
+      "figures",
+      "apparatus",
+      "brain",
+      "diagram"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "headline type",
+      "halftone",
+      "seal",
+      "citation",
+      "brain tree logo"
+    ],
+    "setting": [
+      "no place",
+      "laboratory"
+    ],
+    "composition": [
+      "poster layout",
+      "text and image",
+      "frontal"
+    ],
+    "line": [
+      "hard edge",
+      "printed"
+    ],
+    "color_words": [
+      "black and white",
+      "monochrome",
+      "high contrast"
+    ],
+    "style": [
+      "print making",
+      "parody"
+    ],
+    "themes": [
+      "science history"
+    ],
+    "mood": [
+      "wry",
+      "uneasy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Immobilization Chamber; DAYS WEEKS MONTHS YEARS; Effect of severe immobilization of the body on intellectual and perceptual process; Instruments for Psychological Testing; Zubeck et al, 1963",
+      "role": "headline and caption"
+    },
+    "format_notes": "Screen print on paper, photographed. First in a planned Instruments for Psychological Testing series.",
+    "free_tags": [
+      "screen print",
+      "psychology",
+      "parody ad",
+      "zubek"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

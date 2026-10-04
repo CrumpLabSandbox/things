@@ -1,0 +1,198 @@
+{
+  "id": "superland/the-gathering",
+  "schema_version": 1,
+  "catalog": {
+    "title": "The Gathering",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:03:03",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (15).jpg",
+      "width": 1275,
+      "height": 1280,
+      "aspect": 0.9961,
+      "orientation": "square",
+      "bytes": 761207,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/The_Gathering.qmd",
+      "html": "things/Superland/The_Gathering.html",
+      "url": "https://crumplab.com/things/things/Superland/The_Gathering.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:03:03",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "The gathering",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#babfb2",
+        "fraction": 0.2762
+      },
+      {
+        "hex": "#292525",
+        "fraction": 0.247
+      },
+      {
+        "hex": "#79765a",
+        "fraction": 0.1463
+      },
+      {
+        "hex": "#3d84bb",
+        "fraction": 0.131
+      },
+      {
+        "hex": "#c3af41",
+        "fraction": 0.1204
+      },
+      {
+        "hex": "#b34d33",
+        "fraction": 0.0791
+      }
+    ],
+    "hue_histogram": [
+      0.0876,
+      0.2939,
+      0.2041,
+      0.0705,
+      0.0238,
+      0.003,
+      0.0668,
+      0.1943,
+      0.0145,
+      0.0073,
+      0.0063,
+      0.028
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "blue"
+    ],
+    "warm_fraction": 0.6177,
+    "mean_saturation": 0.3786,
+    "mean_value": 0.5796,
+    "mean_lightness": 0.5148,
+    "contrast": 0.2547,
+    "colorfulness": 81.59,
+    "mean_chroma": 24.51,
+    "is_monochrome": false,
+    "dark_fraction": 0.1815,
+    "light_fraction": 0.0116,
+    "edge_density": 0.3424,
+    "busyness": 0.1834,
+    "has_white_border": false,
+    "phash": "01d65d65772d425a",
+    "analysis_size": [
+      510,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/the-gathering.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of a crowd of figures with ringed helmet heads standing in a street between buildings, looking up at a sky of pink and yellow stripes.",
+    "description": "A square oil painting on canvas. Eight or nine figures with round helmeted heads ringed in mint, pink and blue, their faces a few hash strokes, stand close together in the lower half, dressed in blue, orange, red and olive coats. Behind them a street of brown and olive buildings with window slots recedes toward a central vanishing point. Above the street, radiating stripes of pink, yellow and blue fan out from the horizon like a sunrise or a stage curtain, with green smoke shapes drifting across. Two small screens with squiggles hang on the buildings. Thick black outlines and visible brushwork.",
+    "impression": "The crowd has stopped in the street to watch something happen in the sky, and the viewer stands among them. The fanned stripes could be dawn, an aurora, or a signal. It is the most cinematic Superland painting: a moment of shared attention.",
+    "subjects": [
+      "crowd",
+      "street",
+      "buildings",
+      "sky"
+    ],
+    "characters": [
+      "helmeted figure",
+      "hash face"
+    ],
+    "elements": [
+      "ringed helmet",
+      "radiating stripes",
+      "windows",
+      "screen",
+      "smoke plume"
+    ],
+    "setting": [
+      "invented city",
+      "NYC street"
+    ],
+    "composition": [
+      "one point perspective",
+      "crowd",
+      "radial"
+    ],
+    "line": [
+      "thick black outline",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "saturated",
+      "warm",
+      "pink and olive"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "gathering",
+      "watching",
+      "crowded life",
+      "waiting"
+    ],
+    "mood": [
+      "anticipation",
+      "calm",
+      "solemn"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland",
+      "helmets"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

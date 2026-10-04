@@ -1,0 +1,199 @@
+{
+  "id": "characters/shapes-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Shapes 1",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-22 10:03:56",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/shapes 1.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 337699,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/Shapes_1.qmd",
+      "html": "things/characters/Shapes_1.html",
+      "url": "https://crumplab.com/things/things/characters/Shapes_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:22 10:03:56",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "shapes 1",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e1ddd8",
+        "fraction": 0.6405
+      },
+      {
+        "hex": "#cbc7c2",
+        "fraction": 0.1187
+      },
+      {
+        "hex": "#aaa6a2",
+        "fraction": 0.0735
+      },
+      {
+        "hex": "#83817e",
+        "fraction": 0.0587
+      },
+      {
+        "hex": "#353738",
+        "fraction": 0.058
+      },
+      {
+        "hex": "#5b5b59",
+        "fraction": 0.0505
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.0612,
+      0.0285,
+      0.0042,
+      0.0004,
+      0.0004,
+      0.0461,
+      0.8571,
+      0.0021,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [
+      "blue"
+    ],
+    "warm_fraction": 0.0898,
+    "mean_saturation": 0.0439,
+    "mean_value": 0.7706,
+    "mean_lightness": 0.7776,
+    "contrast": 0.1907,
+    "colorfulness": 6.23,
+    "mean_chroma": 2.99,
+    "is_monochrome": true,
+    "dark_fraction": 0.0172,
+    "light_fraction": 0.1112,
+    "edge_density": 0.1511,
+    "busyness": 0.0802,
+    "has_white_border": false,
+    "phash": "7a4cc5a183b6fa42",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/shapes-1.jpg"
+  },
+  "described": {
+    "alt_text": "A grayscale airbrush composition of striped and ribbed blob shapes with small limbs and creature parts clustered in a loose ring on white paper.",
+    "description": "A square airbrush painting on white paper, grey only. A loose ring of soft forms occupies the centre: round and lobed blobs filled with sprayed stripes in several directions, a gear like disc at upper left with stubby pegs, a horned shape at top, a toothed form with hanging tabs at bottom centre, a snout like shape at right, and small pod figures with visor faces at centre and lower left. Striped bars cross between the forms. The shapes overlap and leave the corners of the paper bare.",
+    "impression": "A pile of parts for creatures that have not been assembled yet, with a couple of finished pod people standing in the middle checking the inventory. The stripes make the blobs look like they are moving or vibrating. It is a study in what the airbrush can do with a few stencils and a ruler.",
+    "subjects": [
+      "abstract forms",
+      "creature parts",
+      "figures",
+      "pattern"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "stripe fill",
+      "gear disc",
+      "horns",
+      "snout",
+      "pegs"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central cluster",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge",
+      "crosshatch spray"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush",
+      "study"
+    ],
+    "themes": [
+      "process",
+      "character study"
+    ],
+    "mood": [
+      "playful",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "shapes",
+      "study"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "characters/shapes-2",
+      "note": "Companion study in colour.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

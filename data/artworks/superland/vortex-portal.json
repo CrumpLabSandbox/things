@@ -1,0 +1,194 @@
+{
+  "id": "superland/vortex-portal",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Vortex Portal",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2009-07-20 14:15:24",
+    "year": 2009,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (9).jpg",
+      "width": 585,
+      "height": 588,
+      "aspect": 0.9949,
+      "orientation": "square",
+      "bytes": 216808,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Vortex_Portal.qmd",
+      "html": "things/Superland/Vortex_Portal.html",
+      "url": "https://crumplab.com/things/things/Superland/Vortex_Portal.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone",
+        "datetime": "2009:07:20 14:15:24",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Vortex portal",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#1c1620",
+        "fraction": 0.3015
+      },
+      {
+        "hex": "#99a6b9",
+        "fraction": 0.213
+      },
+      {
+        "hex": "#a49b7f",
+        "fraction": 0.1762
+      },
+      {
+        "hex": "#4d6081",
+        "fraction": 0.1749
+      },
+      {
+        "hex": "#be8194",
+        "fraction": 0.0714
+      },
+      {
+        "hex": "#c56537",
+        "fraction": 0.063
+      }
+    ],
+    "hue_histogram": [
+      0.1316,
+      0.1635,
+      0.023,
+      0.0229,
+      0.0205,
+      0.0099,
+      0.0272,
+      0.2104,
+      0.1986,
+      0.0687,
+      0.0338,
+      0.0899
+    ],
+    "dominant_hues": [
+      "blue",
+      "indigo",
+      "orange"
+    ],
+    "warm_fraction": 0.4289,
+    "mean_saturation": 0.4121,
+    "mean_value": 0.5131,
+    "mean_lightness": 0.4351,
+    "contrast": 0.2568,
+    "colorfulness": 61.89,
+    "mean_chroma": 19.26,
+    "is_monochrome": false,
+    "dark_fraction": 0.2662,
+    "light_fraction": 0.0,
+    "edge_density": 0.4824,
+    "busyness": 0.2174,
+    "has_white_border": false,
+    "phash": "34757569180dbda8",
+    "analysis_size": [
+      509,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/vortex-portal.jpg"
+  },
+  "described": {
+    "alt_text": "A square painting of a striped tower rising from a machine with three round lenses, surrounded by splashes of spheres against a dark blue sky.",
+    "description": "A square oil painting on canvas. A dark navy sky fills the top, spattered with pink, orange and blue splash shapes that each hold a striped sphere, on long wavy stalks. In the centre a tall striped tower, like a stack of decks with windows, rises from a boxy machine at the bottom with three large round lenses in blue, pink and green. Boxy buildings with window slots crowd the sides, and orange and pink splashes lap the lower corners. Thick black outlines and bright flat fills.",
+    "impression": "A night launch or a carnival ride: the tower is both rocket and lighthouse, and the spheres in the sky are fireworks frozen mid burst. The darkness is unusual for the series and makes the colours glow. The three lenses at the base stare out like headlights.",
+    "subjects": [
+      "towers",
+      "machinery",
+      "spheres",
+      "splashes",
+      "buildings",
+      "night sky"
+    ],
+    "characters": [],
+    "elements": [
+      "striped ball",
+      "splash",
+      "lens",
+      "windows",
+      "stalk"
+    ],
+    "setting": [
+      "invented city",
+      "night"
+    ],
+    "composition": [
+      "central feature",
+      "vertical",
+      "dense"
+    ],
+    "line": [
+      "thick black outline",
+      "painted"
+    ],
+    "color_words": [
+      "dark background",
+      "saturated",
+      "neon on navy"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "machines as places",
+      "night"
+    ],
+    "mood": [
+      "energetic",
+      "dreamy",
+      "celebratory"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed at low resolution.",
+    "free_tags": [
+      "superland",
+      "night scene"
+    ],
+    "confidence": "medium",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

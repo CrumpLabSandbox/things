@@ -1,0 +1,212 @@
+{
+  "id": "crowds/reassembled-crowd-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Reassembled Crowd 1",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:54:44",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/Reassembled crowd 1.jpg",
+      "width": 1000,
+      "height": 1008,
+      "aspect": 0.9921,
+      "orientation": "square",
+      "bytes": 357568,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Reassembled_Crowd_1.qmd",
+      "html": "things/crowds/Reassembled_Crowd_1.html",
+      "url": "https://crumplab.com/things/things/crowds/Reassembled_Crowd_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:54:44",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "Reassembled crowd 1",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c8d6d8",
+        "fraction": 0.2556
+      },
+      {
+        "hex": "#c8b960",
+        "fraction": 0.209
+      },
+      {
+        "hex": "#d5693c",
+        "fraction": 0.1499
+      },
+      {
+        "hex": "#372a2b",
+        "fraction": 0.1436
+      },
+      {
+        "hex": "#749cc5",
+        "fraction": 0.1226
+      },
+      {
+        "hex": "#c17b9a",
+        "fraction": 0.1192
+      }
+    ],
+    "hue_histogram": [
+      0.1466,
+      0.204,
+      0.1668,
+      0.0632,
+      0.0159,
+      0.0294,
+      0.0489,
+      0.1406,
+      0.018,
+      0.0442,
+      0.0241,
+      0.0985
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.6323,
+    "mean_saturation": 0.4256,
+    "mean_value": 0.7376,
+    "mean_lightness": 0.6347,
+    "contrast": 0.2322,
+    "colorfulness": 92.75,
+    "mean_chroma": 31.8,
+    "is_monochrome": false,
+    "dark_fraction": 0.0848,
+    "light_fraction": 0.1074,
+    "edge_density": 0.3343,
+    "busyness": 0.1912,
+    "has_white_border": false,
+    "phash": "23c9ab231dfc90c9",
+    "analysis_size": [
+      508,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/reassembled-crowd-1.jpg"
+  },
+  "described": {
+    "alt_text": "A square four panel painting of a mirrored crowd of round cartoon creatures with white horns and teeth, in rainbow washes with thick black outlines.",
+    "description": "A square painting made of four wood panels joined in a cross, the seams visible. The image is roughly mirrored left to right: a tall column of red and pink creatures with white horns runs up the centre, flanked by rounded creatures in orange, yellow, lime, teal, blue and lilac. Every creature has a single eye, white horn and tooth shapes, and dots, and the colour is laid in translucent washes that overlap like stained glass, with thick black outlines dividing every form. A purple round creature sits at centre, a blue globe at upper right.",
+    "impression": "A crowd folded in half and opened again like a Rorschach test, so every monster has a twin. The symmetry calms the chaos into something ceremonial, a totem of creatures. The translucent washes make it glow like a church window, and the cross of the panel seams reads as part of the design.",
+    "subjects": [
+      "crowd",
+      "creatures",
+      "monsters",
+      "pattern"
+    ],
+    "characters": [
+      "one eyed creature",
+      "horned creature",
+      "toothy monster"
+    ],
+    "elements": [
+      "horns",
+      "teeth",
+      "spots",
+      "panel seams",
+      "mirror symmetry",
+      "translucent wash"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "symmetrical",
+      "mirrored",
+      "four panels"
+    ],
+    "line": [
+      "thick black outline",
+      "translucent fill",
+      "marker"
+    ],
+    "color_words": [
+      "rainbow",
+      "stained glass",
+      "saturated",
+      "luminous"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "stained glass",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "symmetry",
+      "reassembly",
+      "monsters"
+    ],
+    "mood": [
+      "busy",
+      "celebratory",
+      "solemn"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on four joined wood panels; seams form a cross. Sold.",
+    "free_tags": [
+      "crowd series",
+      "reassembled",
+      "multi panel",
+      "mirror"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "crowds/reassembled-crowd-2",
+      "note": "Same mirrored four panel method.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

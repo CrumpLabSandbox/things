@@ -1,0 +1,218 @@
+{
+  "id": "scribble/scribble-picture-16",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 16",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-08-09 17:50:49",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Church Ave Deli",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-16",
+    "print_note": "Digitally signed open edition, print alone or framed print:",
+    "image": {
+      "path": "images/Scribble/Scribble Picture 16.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 403657,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_16.qmd",
+      "html": "things/Scribble/Scribble_Picture_16.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_16.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:08:09 17:50:49",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 16",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230809",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f4bd76",
+        "fraction": 0.2311
+      },
+      {
+        "hex": "#eedec4",
+        "fraction": 0.2056
+      },
+      {
+        "hex": "#c9e3eb",
+        "fraction": 0.1981
+      },
+      {
+        "hex": "#9e8674",
+        "fraction": 0.1438
+      },
+      {
+        "hex": "#51453f",
+        "fraction": 0.1354
+      },
+      {
+        "hex": "#e1714e",
+        "fraction": 0.0858
+      }
+    ],
+    "hue_histogram": [
+      0.1076,
+      0.7519,
+      0.0305,
+      0.0005,
+      0.0008,
+      0.0019,
+      0.0173,
+      0.0857,
+      0.0011,
+      0.0002,
+      0.0011,
+      0.0013
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.8923,
+    "mean_saturation": 0.3122,
+    "mean_value": 0.804,
+    "mean_lightness": 0.719,
+    "contrast": 0.215,
+    "colorfulness": 77.09,
+    "mean_chroma": 23.87,
+    "is_monochrome": false,
+    "dark_fraction": 0.0181,
+    "light_fraction": 0.2176,
+    "edge_density": 0.328,
+    "busyness": 0.1492,
+    "has_white_border": false,
+    "phash": "7cf60065953a629d",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-16.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of an orange brick Brooklyn building with a red deli at street level, where the awning is blanked to pale blue, the window lintels and air conditioners are outlined in cream, and a grey hooded creature stands by a lamp post, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 2023 at lower left. An orange brick three storey building fills the frame, its window lintels and sills redrawn as flat cream cartoon shapes and its air conditioners as white boxes. The deli below has a bright red frame, and its awning has been replaced with a flat pale blue rectangle with faint scribbles. The shop window shows outlined food posters and a blank face in the glass. A lamp post at left has a blue bulb head and a striped banner, and a small grey hooded creature with a tan face stands at its base. A grey sign post at right has a blank panel. A faceless man in a white shirt walks away at left, past an outlined white van and cartoon cars. Found graffiti reading OGUN marks the red shutter at right.",
+    "impression": "A building portrait in which the sign has been wiped clean, so the deli could be any deli. The little hooded creature by the pole is the series' first proper cartoon resident, standing in for all the pod people of the earlier paintings. Orange and red and sunny, a love letter to a corner store.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "deli",
+      "lamp post",
+      "creatures",
+      "people",
+      "cars",
+      "signs"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "faceless figure"
+    ],
+    "elements": [
+      "blank awning",
+      "window lintel",
+      "air conditioner",
+      "lamp post",
+      "found graffiti",
+      "outlined car",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Church Avenue"
+    ],
+    "composition": [
+      "central feature",
+      "frontal",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "orange and red",
+      "warm",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "erasure",
+      "creatures among us"
+    ],
+    "mood": [
+      "sunny",
+      "calm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "found graffiti OGUN; Matt Crump 2023",
+      "role": "found graffiti and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "church ave",
+      "deli",
+      "hooded pods",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "characters/character-set-1",
+      "note": "The hooded pod figure returns at the lamp post.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

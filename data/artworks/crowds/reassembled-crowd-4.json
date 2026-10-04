@@ -1,0 +1,208 @@
+{
+  "id": "crowds/reassembled-crowd-4",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Reassembled Crowd 4",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:54:44",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/Reassembled crowd 4.jpg",
+      "width": 1000,
+      "height": 996,
+      "aspect": 1.004,
+      "orientation": "square",
+      "bytes": 419949,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Reassembled_Crowd_4.qmd",
+      "html": "things/crowds/Reassembled_Crowd_4.html",
+      "url": "https://crumplab.com/things/things/crowds/Reassembled_Crowd_4.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:54:44",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "Reassembled crowd 4",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#8c91b5",
+        "fraction": 0.2107
+      },
+      {
+        "hex": "#dbdbe4",
+        "fraction": 0.1776
+      },
+      {
+        "hex": "#c8af50",
+        "fraction": 0.1727
+      },
+      {
+        "hex": "#cc674e",
+        "fraction": 0.1535
+      },
+      {
+        "hex": "#2f2223",
+        "fraction": 0.1497
+      },
+      {
+        "hex": "#93ae8a",
+        "fraction": 0.1358
+      }
+    ],
+    "hue_histogram": [
+      0.1458,
+      0.2047,
+      0.1759,
+      0.0617,
+      0.0174,
+      0.0278,
+      0.0467,
+      0.1443,
+      0.0189,
+      0.0416,
+      0.0213,
+      0.0939
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.6343,
+    "mean_saturation": 0.4174,
+    "mean_value": 0.7014,
+    "mean_lightness": 0.6095,
+    "contrast": 0.2331,
+    "colorfulness": 86.61,
+    "mean_chroma": 29.67,
+    "is_monochrome": false,
+    "dark_fraction": 0.101,
+    "light_fraction": 0.0735,
+    "edge_density": 0.3314,
+    "busyness": 0.1929,
+    "has_white_border": false,
+    "phash": "05de9c446a92e29f",
+    "analysis_size": [
+      512,
+      510
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/reassembled-crowd-4.jpg"
+  },
+  "described": {
+    "alt_text": "A square four panel painting of a mirrored crowd of cartoon creatures with a large blue two eyed creature at centre, in translucent rainbow washes with black outlines.",
+    "description": "A square painting on four joined wood panels with visible seams. Mirrored left to right, with a large sky blue creature with two eyes, a white horn and a visor straddling the centre seam, surrounded by lime, yellow, orange, red, pink and purple creatures with single eyes, white horns and dots. Blue globes at the upper corners, a purple sphere at upper left. Overlapping translucent washes and thick black outlines, with white highlights on horns and tabs.",
+    "impression": "The one reassembled crowd with a clear protagonist: the big blue creature in the middle, made whole by the mirror, looking out with both eyes. The crowd becomes its court. It is the most settled of the four, a monster portrait inside a monster pattern.",
+    "subjects": [
+      "crowd",
+      "creatures",
+      "monsters",
+      "pattern"
+    ],
+    "characters": [
+      "one eyed creature",
+      "horned creature",
+      "visor face",
+      "blob figure"
+    ],
+    "elements": [
+      "horns",
+      "visor",
+      "spots",
+      "panel seams",
+      "mirror symmetry",
+      "translucent wash"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "symmetrical",
+      "mirrored",
+      "four panels",
+      "central figure"
+    ],
+    "line": [
+      "thick black outline",
+      "translucent fill",
+      "marker"
+    ],
+    "color_words": [
+      "rainbow",
+      "stained glass",
+      "blue centre",
+      "luminous"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "stained glass",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "symmetry",
+      "reassembly",
+      "monsters",
+      "portrait"
+    ],
+    "mood": [
+      "busy",
+      "calm",
+      "celebratory"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on four joined wood panels. Sold.",
+    "free_tags": [
+      "crowd series",
+      "reassembled",
+      "multi panel",
+      "mirror"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

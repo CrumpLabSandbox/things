@@ -1,0 +1,197 @@
+{
+  "id": "desertland/spaceship-mountains",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Spaceship Mountains",
+    "series": "Desertland",
+    "series_slug": "desertland",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-25 19:26:30",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Desertland/Spaceship mountains.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 132719,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Desertland/Spaceship_Mountains.qmd",
+      "html": "things/Desertland/Spaceship_Mountains.html",
+      "url": "https://crumplab.com/things/things/Desertland/Spaceship_Mountains.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:25 19:26:30",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "Spaceship mountains",
+        "caption": "oil on wood",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c6caad",
+        "fraction": 0.3982
+      },
+      {
+        "hex": "#cdbc71",
+        "fraction": 0.2149
+      },
+      {
+        "hex": "#d5aba8",
+        "fraction": 0.1337
+      },
+      {
+        "hex": "#e56d68",
+        "fraction": 0.0906
+      },
+      {
+        "hex": "#5b4d37",
+        "fraction": 0.0838
+      },
+      {
+        "hex": "#9388a4",
+        "fraction": 0.0789
+      }
+    ],
+    "hue_histogram": [
+      0.1689,
+      0.3347,
+      0.2898,
+      0.0464,
+      0.0366,
+      0.0155,
+      0.0241,
+      0.0072,
+      0.0168,
+      0.0128,
+      0.0083,
+      0.0388
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.8389,
+    "mean_saturation": 0.317,
+    "mean_value": 0.7793,
+    "mean_lightness": 0.7117,
+    "contrast": 0.1519,
+    "colorfulness": 68.26,
+    "mean_chroma": 26.47,
+    "is_monochrome": false,
+    "dark_fraction": 0.0122,
+    "light_fraction": 0.0216,
+    "edge_density": 0.2066,
+    "busyness": 0.1059,
+    "has_white_border": false,
+    "phash": "0f881ad2f9a9eb24",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/desertland/spaceship-mountains.jpg"
+  },
+  "described": {
+    "alt_text": "A square pastel painting of lobed pink, orange and lilac mountains with flying pods, over green fields dotted with small figures, signed crump.",
+    "description": "A square oil painting in flat pastel colour with thin dark outlines, signed crump at lower left. A large pink and orange lobed mountain with a cream face like patch rises at upper right, and a lilac and pink pod shaped form with a pointed nose hovers at upper left like a spaceship. Two smaller green pods fly between them under outlined clouds. Below, rolling fields in lime, mint and salmon are dotted with rows of tiny figures and rounded rocks, with a lilac boulder at lower left. The surface is matte and the forms soft.",
+    "impression": "Mountains that might be ships, or ships that might be mountains, both hovering over a field of tiny onlookers. The ambiguity is the point. It has the quiet of a landscape and the suspense of an arrival.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "flying pods",
+      "fields",
+      "figures",
+      "clouds"
+    ],
+    "characters": [
+      "blob figure",
+      "pod creature"
+    ],
+    "elements": [
+      "flying pod",
+      "oval patch",
+      "outlined cloud",
+      "boulder",
+      "rows of tiny figures",
+      "signature"
+    ],
+    "setting": [
+      "invented landscape"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "pink and lime",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "waiting",
+      "scale",
+      "imaginary worlds"
+    ],
+    "mood": [
+      "calm",
+      "anticipation",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "crump",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, photographed. Signature at lower left.",
+    "free_tags": [
+      "desertland",
+      "pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

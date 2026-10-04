@@ -1,0 +1,216 @@
+{
+  "id": "scribble/scribble-picture-29",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 29",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work, XH2 Fuji, Soho",
+    "caption": "Soho",
+    "camera": "Fujifilm X-H2",
+    "date": "2024-09-22 14:53:57",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Walked around soho",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 29.jpeg",
+      "width": 1000,
+      "height": 1409,
+      "aspect": 0.7097,
+      "orientation": "portrait",
+      "bytes": 621417,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_29.qmd",
+      "html": "things/Scribble/Scribble_Picture_29.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_29.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fdfcfb",
+        "fraction": 0.342
+      },
+      {
+        "hex": "#cdd0ce",
+        "fraction": 0.1882
+      },
+      {
+        "hex": "#a5948e",
+        "fraction": 0.1561
+      },
+      {
+        "hex": "#493d3e",
+        "fraction": 0.1457
+      },
+      {
+        "hex": "#9d533b",
+        "fraction": 0.092
+      },
+      {
+        "hex": "#db9e73",
+        "fraction": 0.0761
+      }
+    ],
+    "hue_histogram": [
+      0.3238,
+      0.4623,
+      0.0123,
+      0.0004,
+      0.0001,
+      0.0007,
+      0.0564,
+      0.0917,
+      0.0221,
+      0.0052,
+      0.0051,
+      0.02
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.8217,
+    "mean_saturation": 0.1887,
+    "mean_value": 0.7692,
+    "mean_lightness": 0.7253,
+    "contrast": 0.2645,
+    "colorfulness": 47.33,
+    "mean_chroma": 11.47,
+    "is_monochrome": false,
+    "dark_fraction": 0.0345,
+    "light_fraction": 0.3491,
+    "edge_density": 0.324,
+    "busyness": 0.1222,
+    "has_white_border": true,
+    "phash": "3b19c4c6e425c5c7",
+    "analysis_size": [
+      363,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-29.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a cobblestone SoHo street with cast iron buildings, where the parked cars have become a row of fish like creatures with fins and eyes, one in iridescent pink and orange in the foreground, labelled SP 29 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned SP 29 2024 at lower left and MATT CRUMP at lower right. A narrow cobblestone street recedes between red brick and cast iron loft buildings with fire escapes, toward glass towers under a blue sky with one large outlined cloud. The parked cars on both sides have been redrawn as rounded fish like creatures with eyes, fins and tails in grey, white and tan, and a few long legged yellow creatures stand in the roadway at the far end. The nearest car at lower left is a large creature in iridescent pink, orange and lilac with a white fin and a curled tail. Shop signs along the street are blanked to pale rectangles. The cobbles are left photographic.",
+    "impression": "SoHo as an aquarium: the parked cars have evolved fins and are waiting for the tide. The iridescent one in front is the prize fish. Blanking the shop signs removes the brands and leaves the street to the creatures. The cobbles and cast iron give it a weight the drawing plays against. One of the most resolved of the series.",
+    "subjects": [
+      "street",
+      "city",
+      "cars",
+      "creatures",
+      "buildings",
+      "fire escapes",
+      "cobblestones",
+      "clouds"
+    ],
+    "characters": [
+      "fish car creature",
+      "blob figure"
+    ],
+    "elements": [
+      "fins",
+      "iridescent fill",
+      "blank sign",
+      "outlined cloud",
+      "cast iron facade",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "SoHo"
+    ],
+    "composition": [
+      "one point perspective",
+      "foreground objects",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm brick",
+      "iridescent pink",
+      "blue sky",
+      "saturated"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "vehicles as creatures",
+      "erasure",
+      "transformation"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "wondrous"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "SP 29 2024; MATT CRUMP",
+      "role": "caption and signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border and typed caption. First piece using the SP numbering caption.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "soho",
+      "fish cars",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "scribble/scribble-picture-7",
+      "note": "Cars as soft creatures, now fully evolved into fish.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

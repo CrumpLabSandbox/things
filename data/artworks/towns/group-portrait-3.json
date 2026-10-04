@@ -1,0 +1,209 @@
+{
+  "id": "towns/group-portrait-3",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Group Portrait 3",
+    "series": "towns",
+    "series_slug": "towns",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood panel",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:32:36",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/towns/Group portrait 3.jpg",
+      "width": 552,
+      "height": 432,
+      "aspect": 1.2778,
+      "orientation": "landscape",
+      "bytes": 132026,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/towns/Group_Portrait_3.qmd",
+      "html": "things/towns/Group_Portrait_3.html",
+      "url": "https://crumplab.com/things/things/towns/Group_Portrait_3.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:32:36",
+        "image_description": "oil on wood panel"
+      },
+      "iptc": {
+        "object_name": "Group portrait 3",
+        "caption": "oil on wood panel",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#bcd0d5",
+        "fraction": 0.4647
+      },
+      {
+        "hex": "#c9c086",
+        "fraction": 0.1812
+      },
+      {
+        "hex": "#1f1819",
+        "fraction": 0.1134
+      },
+      {
+        "hex": "#c598c1",
+        "fraction": 0.1034
+      },
+      {
+        "hex": "#6c6c69",
+        "fraction": 0.0776
+      },
+      {
+        "hex": "#de6b6f",
+        "fraction": 0.0597
+      }
+    ],
+    "hue_histogram": [
+      0.126,
+      0.1419,
+      0.1558,
+      0.0187,
+      0.0198,
+      0.0296,
+      0.0787,
+      0.2413,
+      0.012,
+      0.0407,
+      0.0739,
+      0.0616
+    ],
+    "dominant_hues": [
+      "blue",
+      "yellow",
+      "orange"
+    ],
+    "warm_fraction": 0.5128,
+    "mean_saturation": 0.273,
+    "mean_value": 0.7292,
+    "mean_lightness": 0.6743,
+    "contrast": 0.2433,
+    "colorfulness": 58.49,
+    "mean_chroma": 18.7,
+    "is_monochrome": false,
+    "dark_fraction": 0.0958,
+    "light_fraction": 0.0286,
+    "edge_density": 0.3198,
+    "busyness": 0.1843,
+    "has_white_border": false,
+    "phash": "3affc0c7b0e18c0c",
+    "analysis_size": [
+      512,
+      401
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/towns/group-portrait-3.jpg"
+  },
+  "described": {
+    "alt_text": "A wide oil painting of fifteen cartoon robot and creature figures with visor faces standing in rows for a group photo, in pastel colours with black outlines, signed CRUMP 11.",
+    "description": "A landscape format oil painting on wood, signed crump 11 vertically at lower left. About fifteen figures stand in three rows on a tan ground against a pale sky, posed like a team photo. The back row are tall figures in lime, red, blue and yellow with caps and visor faces; the middle row includes a large purple round headed figure, a pink and purple visor faced creature, a green and yellow hooded figure with a white chest panel; the front row are small rounded creatures in magenta, teal, lilac, pink and green with white visors and small feet. Several have round chest screens. Thick black outlines over flat pastel colour.",
+    "impression": "The cast of the town paintings assembled for the end of year photo, tall ones at the back, small ones in front, everyone looking at the camera. The visors give them a deadpan uniformity that is funny in a group. It is a key to the whole series: here are the characters, here is who they are.",
+    "subjects": [
+      "figures",
+      "robots",
+      "creatures",
+      "group portrait"
+    ],
+    "characters": [
+      "hooded pod figure",
+      "visor face",
+      "robot",
+      "one eyed creature"
+    ],
+    "elements": [
+      "visor",
+      "cap",
+      "chest panel",
+      "rows",
+      "signature"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "grid",
+      "frontal",
+      "group portrait",
+      "panoramic"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "rainbow",
+      "tan ground",
+      "soft"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world",
+      "character design"
+    ],
+    "themes": [
+      "portrait",
+      "gathering",
+      "character study",
+      "community"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "wry"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "crump 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, landscape format. Signed and dated 2011.",
+    "free_tags": [
+      "town series",
+      "signed 2011",
+      "group portrait",
+      "hooded pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "characters/character-set-1",
+      "note": "Visor faced pod figures, later drawn as an airbrush character sheet.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

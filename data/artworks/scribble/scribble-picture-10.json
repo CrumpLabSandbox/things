@@ -1,0 +1,208 @@
+{
+  "id": "scribble/scribble-picture-10",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 10",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-07-25 18:08:25",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Kings theatre",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 10.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 544467,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_10.qmd",
+      "html": "things/Scribble/Scribble_Picture_10.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_10.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:07:25 18:08:25",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 10",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230725",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#d6cec4",
+        "fraction": 0.2678
+      },
+      {
+        "hex": "#3d372d",
+        "fraction": 0.2182
+      },
+      {
+        "hex": "#8c857b",
+        "fraction": 0.1981
+      },
+      {
+        "hex": "#d5b98e",
+        "fraction": 0.1547
+      },
+      {
+        "hex": "#978549",
+        "fraction": 0.1017
+      },
+      {
+        "hex": "#8bc2d5",
+        "fraction": 0.0595
+      }
+    ],
+    "hue_histogram": [
+      0.0406,
+      0.5363,
+      0.2662,
+      0.037,
+      0.0059,
+      0.0021,
+      0.0328,
+      0.0723,
+      0.0036,
+      0.001,
+      0.0005,
+      0.0017
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.8452,
+    "mean_saturation": 0.238,
+    "mean_value": 0.6325,
+    "mean_lightness": 0.6063,
+    "contrast": 0.2348,
+    "colorfulness": 46.61,
+    "mean_chroma": 14.75,
+    "is_monochrome": false,
+    "dark_fraction": 0.0756,
+    "light_fraction": 0.0463,
+    "edge_density": 0.4033,
+    "busyness": 0.1621,
+    "has_white_border": false,
+    "phash": "2a683cef6ad65188",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-10.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of the Kings Theatre marquee in Brooklyn behind a row of cars redrawn as rounded white cartoon shapes, with a lamp post and a tree outlined, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 on the side of a car at lower centre. The ornate Kings Theatre facade and its lit marquee, reading KINGS THEATRE with scribbled show listings, sit at centre behind a tall grey lamp post with an outlined camera box and banner. A large tree at upper left is photographic while a smaller tree at right is redrawn in flat lime green outlines. The lower half is a row of parked cars and a van redrawn as soft white and cream cartoon shapes with black outlines and pale blue windows, including a large car at centre with the signature on its door. A brick sidewalk and a small drawn grass tuft sit at lower left; a street banner with a photograph of a woman hangs at upper left.",
+    "impression": "A famous Flatbush landmark seen over a row of cars that have turned into marshmallows. The marquee listings have been scribbled out, so the theatre is advertising nothing in particular. The cartoon tree beside the real one is the drawing showing its hand. Warm and local.",
+    "subjects": [
+      "street",
+      "city",
+      "theatre",
+      "landmark",
+      "cars",
+      "trees",
+      "lamp post",
+      "signs"
+    ],
+    "characters": [
+      "vehicle creature"
+    ],
+    "elements": [
+      "marquee",
+      "outlined car",
+      "lamp post",
+      "banner",
+      "scribble tag",
+      "grass tuft",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Flatbush"
+    ],
+    "composition": [
+      "central feature",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "warm",
+      "cream and green",
+      "sunny",
+      "washed"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "landmarks",
+      "vehicles as creatures",
+      "neighbourhood"
+    ],
+    "mood": [
+      "sunny",
+      "playful",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "KINGS THEATRE; scribbled marquee listings; signature 2023",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "flatbush",
+      "kings theatre",
+      "cars",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

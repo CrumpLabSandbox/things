@@ -1,0 +1,197 @@
+{
+  "id": "airbrush/bike-4",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Bike 4",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-01 10:53:57",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/bike 4.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 460300,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Bike_4.qmd",
+      "html": "things/airbrush/Bike_4.html",
+      "url": "https://crumplab.com/things/things/airbrush/Bike_4.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:01 10:53:57",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "bike 4",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e0e1dc",
+        "fraction": 0.2258
+      },
+      {
+        "hex": "#bebfb9",
+        "fraction": 0.1806
+      },
+      {
+        "hex": "#434340",
+        "fraction": 0.1542
+      },
+      {
+        "hex": "#1f1e1e",
+        "fraction": 0.1493
+      },
+      {
+        "hex": "#94948e",
+        "fraction": 0.1453
+      },
+      {
+        "hex": "#6b6b67",
+        "fraction": 0.1448
+      }
+    ],
+    "hue_histogram": [
+      0.0449,
+      0.5002,
+      0.0861,
+      0.007,
+      0.001,
+      0.0012,
+      0.0068,
+      0.1568,
+      0.1398,
+      0.04,
+      0.007,
+      0.0093
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "indigo"
+    ],
+    "warm_fraction": 0.6452,
+    "mean_saturation": 0.0586,
+    "mean_value": 0.5442,
+    "mean_lightness": 0.5564,
+    "contrast": 0.2775,
+    "colorfulness": 7.11,
+    "mean_chroma": 3.0,
+    "is_monochrome": true,
+    "dark_fraction": 0.1444,
+    "light_fraction": 0.0894,
+    "edge_density": 0.2451,
+    "busyness": 0.1708,
+    "has_white_border": false,
+    "phash": "70a980df0f17d592",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/bike-4.jpg"
+  },
+  "described": {
+    "alt_text": "A grayscale stencil airbrush painting of a city street with a cyclist in the foreground, in soft grey blobs on white paper.",
+    "description": "A square stencil airbrush painting on white paper, in black and grey only. The street scene is broken into rounded cells with white gaps: receding buildings with window rows at upper left and right, a wheel with a star shaped hub at lower left, a cyclist from behind at lower centre, pedestrians and a crosswalk in the middle. Each cell is shaded with a soft gradient from dark to pale. The sky is bare paper.",
+    "impression": "The base state of the Bike series, with the stencil doing all the work and no colour to distract. It looks like a halftone photograph melted slightly. The grey makes the city feel like morning before the signs come on.",
+    "subjects": [
+      "street",
+      "city",
+      "bicycles",
+      "cyclist",
+      "buildings",
+      "people"
+    ],
+    "characters": [
+      "cyclist"
+    ],
+    "elements": [
+      "windows",
+      "wheel",
+      "star hub",
+      "crosswalk",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "invented city"
+    ],
+    "composition": [
+      "one point perspective",
+      "figures in foreground",
+      "stencil cells"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "cycling",
+      "same image many colourways"
+    ],
+    "mood": [
+      "calm",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. The grayscale member of the five colourways.",
+    "free_tags": [
+      "airbrush series",
+      "bike stencil",
+      "colourway",
+      "grayscale"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

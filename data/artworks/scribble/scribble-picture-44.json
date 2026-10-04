@@ -1,0 +1,216 @@
+{
+  "id": "scribble/scribble-picture-44",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 44",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "People reflecting in a mirror room",
+    "caption": "People reflecting in a mirror room",
+    "camera": null,
+    "date": "2024-11-12 11:20:13",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "People reflecting in a mirror room",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-44",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 44.jpeg",
+      "width": 1000,
+      "height": 1409,
+      "aspect": 0.7097,
+      "orientation": "portrait",
+      "bytes": 708633,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_44.qmd",
+      "html": "things/Scribble/Scribble_Picture_44.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_44.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fcfcfa",
+        "fraction": 0.3673
+      },
+      {
+        "hex": "#d6bc8f",
+        "fraction": 0.1708
+      },
+      {
+        "hex": "#c9ccc2",
+        "fraction": 0.1419
+      },
+      {
+        "hex": "#92897a",
+        "fraction": 0.1098
+      },
+      {
+        "hex": "#9c7848",
+        "fraction": 0.1097
+      },
+      {
+        "hex": "#4e4135",
+        "fraction": 0.1007
+      }
+    ],
+    "hue_histogram": [
+      0.0233,
+      0.8018,
+      0.1052,
+      0.0077,
+      0.0022,
+      0.0042,
+      0.0225,
+      0.0285,
+      0.0025,
+      0.0008,
+      0.0004,
+      0.001
+    ],
+    "dominant_hues": [
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.9315,
+    "mean_saturation": 0.1968,
+    "mean_value": 0.788,
+    "mean_lightness": 0.7604,
+    "contrast": 0.2351,
+    "colorfulness": 41.92,
+    "mean_chroma": 12.77,
+    "is_monochrome": false,
+    "dark_fraction": 0.0184,
+    "light_fraction": 0.3788,
+    "edge_density": 0.4285,
+    "busyness": 0.1395,
+    "has_white_border": true,
+    "phash": "2fc9d03293b2c5e4",
+    "analysis_size": [
+      363,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-44.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph inside a mirrored observation deck high above Manhattan, with hundreds of visitors reflected on every surface, all redrawn as outlined cartoon figures with blank faces, labelled SP 44 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned SP 44 2024 at lower left and MATT CRUMP at lower right. The interior of a mirrored observation deck: the floor, ceiling and walls are reflective glass, so the crowd of visitors is repeated upside down above and below, with the city skyline visible through the windows at centre and right in warm afternoon light. Every visitor and every reflection has been redrawn as an outlined cartoon figure with flat fills in cream, grey, blue and brown and a blank face, hundreds of them across the floor, on the balcony behind the window, and in the reflections. A figure in a grey shirt walks toward the viewer at lower centre, a figure in a white top and pink trousers at right, and two figures at the lower right corner. The whole surface shimmers gold and blue.",
+    "impression": "People reflecting in a mirror room, as the caption says, and once they are all drawn the room becomes an infinite crowd of the same cartoon. It is the Superland crowds and the marker crowd paintings arriving at a real place. Dizzying, glittering and a little eerie, the busiest image in the whole collection by count of figures.",
+    "subjects": [
+      "interior",
+      "crowd",
+      "people",
+      "reflections",
+      "city"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "mirror floor",
+      "mirror ceiling",
+      "windows",
+      "reflection",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "interior",
+      "Manhattan",
+      "observation deck"
+    ],
+    "composition": [
+      "all over",
+      "dense",
+      "mirrored",
+      "crowd",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "gold and blue",
+      "glittering",
+      "warm",
+      "saturated"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "seek and find density"
+    ],
+    "themes": [
+      "crowded life",
+      "repetition",
+      "travel"
+    ],
+    "mood": [
+      "busy",
+      "wondrous"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "SP 44 2024; MATT CRUMP",
+      "role": "caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "mirror room",
+      "crowd",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "revisits",
+      "target": "crowds/crowd-1",
+      "note": "A crowd that fills the frame edge to edge, now photographic.",
+      "source": "described"
+    },
+    {
+      "type": "revisits",
+      "target": "crowds/reassembled-crowd-1",
+      "note": "Mirrored crowd, here by actual mirrors.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

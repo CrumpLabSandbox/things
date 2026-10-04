@@ -1,0 +1,195 @@
+{
+  "id": "superland/walk-in-the-park",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Walk In The Park",
+    "series": "Superland",
+    "series_slug": "superland",
+    "medium": "oil",
+    "surface": "canvas",
+    "medium_source": "description",
+    "description_raw": "oil on canvas",
+    "caption": null,
+    "camera": null,
+    "date": "2008-11-06 02:04:33",
+    "year": 2008,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Superland/Superland - 1 of 19 (4).jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 585185,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Superland/Walk_In_The_Park.qmd",
+      "html": "things/Superland/Walk_In_The_Park.html",
+      "url": "https://crumplab.com/things/things/Superland/Walk_In_The_Park.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2008:11:06 02:04:33",
+        "image_description": "oil on canvas"
+      },
+      "iptc": {
+        "object_name": "Walk in the park",
+        "caption": "oil on canvas",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#b2b5b4",
+        "fraction": 0.2622
+      },
+      {
+        "hex": "#738280",
+        "fraction": 0.22
+      },
+      {
+        "hex": "#3c3736",
+        "fraction": 0.1664
+      },
+      {
+        "hex": "#98935d",
+        "fraction": 0.1613
+      },
+      {
+        "hex": "#55779d",
+        "fraction": 0.1346
+      },
+      {
+        "hex": "#d15f68",
+        "fraction": 0.0554
+      }
+    ],
+    "hue_histogram": [
+      0.1333,
+      0.1176,
+      0.1778,
+      0.0315,
+      0.0267,
+      0.0355,
+      0.1045,
+      0.2454,
+      0.0583,
+      0.0149,
+      0.0139,
+      0.0406
+    ],
+    "dominant_hues": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "warm_fraction": 0.4785,
+    "mean_saturation": 0.2825,
+    "mean_value": 0.5862,
+    "mean_lightness": 0.5415,
+    "contrast": 0.1853,
+    "colorfulness": 55.86,
+    "mean_chroma": 17.83,
+    "is_monochrome": false,
+    "dark_fraction": 0.0642,
+    "light_fraction": 0.0001,
+    "edge_density": 0.3055,
+    "busyness": 0.129,
+    "has_white_border": false,
+    "phash": "0d027a794e5256f6",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/superland/walk-in-the-park.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of olive green figures with round hash faces walking among tall curved forms, over a pink and blue zigzag background.",
+    "description": "A square oil painting on canvas. Olive and sage green figures with round pale faces drawn as a few hash strokes stand in the lower half, outlined in black with white highlight lines. Behind them rise tall curved forms like leaves, bars and tongues in green, gold and grey, and a checkered brown and green block in the upper left. The background is bands of pink, lilac and blue with zigzag edges. A row of narrow striped bottle shapes stands along the bottom right. Brushwork is visible and the paint is thick.",
+    "impression": "The figures stroll through a park where the trees are as abstract as they are. The zigzag bands behind them feel like a sunset drawn by a seismograph. It is gentle and a little melancholy, a Sunday afternoon for pods.",
+    "subjects": [
+      "figures",
+      "abstract forms",
+      "park"
+    ],
+    "characters": [
+      "hash face",
+      "hooded pod figure"
+    ],
+    "elements": [
+      "zigzag band",
+      "white highlight line",
+      "checkered block",
+      "bottle shape"
+    ],
+    "setting": [
+      "invented landscape",
+      "park"
+    ],
+    "composition": [
+      "figures in foreground",
+      "layered depth",
+      "mid horizon"
+    ],
+    "line": [
+      "thick black outline",
+      "white highlight line",
+      "painted",
+      "visible brushwork"
+    ],
+    "color_words": [
+      "muted",
+      "olive and pink",
+      "pastel"
+    ],
+    "style": [
+      "cubist",
+      "cartoon",
+      "superland world"
+    ],
+    "themes": [
+      "leisure",
+      "walking",
+      "crowded life"
+    ],
+    "mood": [
+      "calm",
+      "melancholy",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on canvas, photographed.",
+    "free_tags": [
+      "superland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

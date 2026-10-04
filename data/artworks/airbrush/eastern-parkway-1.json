@@ -1,0 +1,214 @@
+{
+  "id": "airbrush/eastern-parkway-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Eastern Parkway 1",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-03 10:18:40",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/Eastern Parkway 1.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 336535,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Eastern_Parkway_1.qmd",
+      "html": "things/airbrush/Eastern_Parkway_1.html",
+      "url": "https://crumplab.com/things/things/airbrush/Eastern_Parkway_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:03 10:18:40",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Eastern Parkway 1",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#b9b4b0",
+        "fraction": 0.3356
+      },
+      {
+        "hex": "#746e6b",
+        "fraction": 0.2452
+      },
+      {
+        "hex": "#ab7180",
+        "fraction": 0.1192
+      },
+      {
+        "hex": "#d5a288",
+        "fraction": 0.1176
+      },
+      {
+        "hex": "#e67a9f",
+        "fraction": 0.1044
+      },
+      {
+        "hex": "#cfc670",
+        "fraction": 0.078
+      }
+    ],
+    "hue_histogram": [
+      0.2878,
+      0.2258,
+      0.1479,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3385
+    ],
+    "dominant_hues": [
+      "pink",
+      "red",
+      "orange"
+    ],
+    "warm_fraction": 1.0,
+    "mean_saturation": 0.2033,
+    "mean_value": 0.69,
+    "mean_lightness": 0.6374,
+    "contrast": 0.1426,
+    "colorfulness": 55.02,
+    "mean_chroma": 16.36,
+    "is_monochrome": false,
+    "dark_fraction": 0.0012,
+    "light_fraction": 0.0,
+    "edge_density": 0.0465,
+    "busyness": 0.0492,
+    "has_white_border": false,
+    "phash": "7f8c3143c2b68378",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/eastern-parkway-1.jpg"
+  },
+  "described": {
+    "alt_text": "A stencil airbrush painting of grey blocky buildings along a road under a sky of grey clouds on a pink to yellow gradient.",
+    "description": "A square stencil airbrush painting on paper with an irregular sprayed edge. A sky that grades from hot pink at the top through peach to lemon yellow at the horizon is filled with soft grey cloud shapes. Below, blocky buildings rendered in grey gradients with white gaps between their faces line the right side of a wide grey road that recedes to the lower left, with a kerb and a smaller block at the far left. Everything but the sky is grey.",
+    "impression": "A real Brooklyn street at the moment the sunset goes neon, with the buildings left in black and white as if they had not been told. The contrast between the hot sky and the grey city is the whole picture. Quiet, slightly surreal, like a memory with the colour drained except for the light.",
+    "subjects": [
+      "street",
+      "buildings",
+      "sky",
+      "clouds",
+      "road"
+    ],
+    "characters": [],
+    "elements": [
+      "outlined cloud",
+      "kerb",
+      "road",
+      "gradient sky",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Eastern Parkway"
+    ],
+    "composition": [
+      "one point perspective",
+      "low horizon",
+      "sky dominant"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grey with neon sky",
+      "pink and yellow",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "night",
+      "same image many colourways",
+      "place"
+    ],
+    "mood": [
+      "calm",
+      "wistful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. One of three colourways of the same stencil plus a vinyl version.",
+    "free_tags": [
+      "airbrush series",
+      "eastern parkway stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "airbrush/eastern-parkway-2",
+      "note": "Same stencil, different colourway.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "airbrush/eastern-parkway-3",
+      "note": "Same stencil, different colourway.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "airbrush/eastern-parkway-sticker",
+      "note": "Same scene cut in vinyl.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

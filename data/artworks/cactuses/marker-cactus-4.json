@@ -1,0 +1,202 @@
+{
+  "id": "cactuses/marker-cactus-4",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Marker Cactus 4",
+    "series": "cactuses",
+    "series_slug": "cactuses",
+    "medium": "marker",
+    "surface": "paper",
+    "medium_source": "title",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2014-08-18 11:11:43",
+    "year": 2014,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/cactuses/marker cactus 4.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 108370,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/cactuses/Marker_Cactus_4.qmd",
+      "html": "things/cactuses/Marker_Cactus_4.html",
+      "url": "https://crumplab.com/things/things/cactuses/Marker_Cactus_4.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2014:08:18 11:11:43",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "marker cactus 4",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e5e3e4",
+        "fraction": 0.4385
+      },
+      {
+        "hex": "#393a3e",
+        "fraction": 0.1709
+      },
+      {
+        "hex": "#836745",
+        "fraction": 0.126
+      },
+      {
+        "hex": "#c9c7cc",
+        "fraction": 0.1037
+      },
+      {
+        "hex": "#a19fa9",
+        "fraction": 0.0808
+      },
+      {
+        "hex": "#696970",
+        "fraction": 0.0802
+      }
+    ],
+    "hue_histogram": [
+      0.0034,
+      0.6915,
+      0.0064,
+      0.0002,
+      0.0,
+      0.0005,
+      0.0061,
+      0.2218,
+      0.0662,
+      0.003,
+      0.0001,
+      0.0007
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue"
+    ],
+    "warm_fraction": 0.7021,
+    "mean_saturation": 0.1091,
+    "mean_value": 0.6735,
+    "mean_lightness": 0.6652,
+    "contrast": 0.2636,
+    "colorfulness": 22.58,
+    "mean_chroma": 5.8,
+    "is_monochrome": false,
+    "dark_fraction": 0.0379,
+    "light_fraction": 0.2878,
+    "edge_density": 0.2569,
+    "busyness": 0.1623,
+    "has_white_border": false,
+    "phash": "05d47b0a3f297a0e",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/cactuses/marker-cactus-4.jpg"
+  },
+  "described": {
+    "alt_text": "A grey marker drawing in a spiral sketchbook of a desert valley full of tall cactuses with raised arms, under rounded mountains.",
+    "description": "A square photograph of a spiral bound sketchbook page on a wooden table. A landscape in grey and black marker: rounded mountains along the top with a few tall cactuses on their slopes, a wide valley of rolling ground in the middle, and a crowd of cactuses in the foreground, each a tall body with raised arms and small spines, standing in pools of dark shadow. The cactuses are drawn with black outlines and the ground with loose grey shading.",
+    "impression": "The cactuses finally get a home: a valley where dozens of them stand around with their arms up like a congregation. Each one casts a puddle of shadow that makes it look like it is melting. The direct marker ancestor of the Desertland paintings, and a quiet, companionable scene.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "landscape",
+      "mountains",
+      "desert"
+    ],
+    "characters": [
+      "cactus figure"
+    ],
+    "elements": [
+      "raised arms",
+      "shadow pool",
+      "fake mountains",
+      "sketchbook spiral"
+    ],
+    "setting": [
+      "invented landscape",
+      "desert",
+      "valley"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "thick black outline",
+      "marker shading"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "grey marker"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "painted on wood"
+    ],
+    "themes": [
+      "plants as creatures",
+      "gathering",
+      "imaginary worlds"
+    ],
+    "mood": [
+      "calm",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Grey marker in a spiral sketchbook, photographed on a wood table.",
+    "free_tags": [
+      "cactus series",
+      "marker",
+      "sketchbook",
+      "grayscale",
+      "proto desertland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "source_of",
+      "target": "desertland/cactus-desert-land",
+      "note": "Same crowd of standing cactus figures in a desert valley, later painted in oil.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

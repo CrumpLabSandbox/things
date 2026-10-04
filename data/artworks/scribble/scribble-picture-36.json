@@ -1,0 +1,218 @@
+{
+  "id": "scribble/scribble-picture-36",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 36",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2024-11-11 11:15:02",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Dinosaur bus",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 36.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 726615,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_36.qmd",
+      "html": "things/Scribble/Scribble_Picture_36.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_36.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 26.2 (20241106.m.2837 f85c071)  (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:11:11 06:50:45",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 36",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#ede2d3",
+        "fraction": 0.2296
+      },
+      {
+        "hex": "#a1998e",
+        "fraction": 0.2286
+      },
+      {
+        "hex": "#71bcee",
+        "fraction": 0.1754
+      },
+      {
+        "hex": "#caddec",
+        "fraction": 0.1306
+      },
+      {
+        "hex": "#534c43",
+        "fraction": 0.1258
+      },
+      {
+        "hex": "#cb9d5e",
+        "fraction": 0.1101
+      }
+    ],
+    "hue_histogram": [
+      0.0289,
+      0.4617,
+      0.0755,
+      0.0043,
+      0.0011,
+      0.0066,
+      0.0068,
+      0.4078,
+      0.0039,
+      0.0011,
+      0.0005,
+      0.0018
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue"
+    ],
+    "warm_fraction": 0.5683,
+    "mean_saturation": 0.2591,
+    "mean_value": 0.7741,
+    "mean_lightness": 0.7095,
+    "contrast": 0.198,
+    "colorfulness": 67.54,
+    "mean_chroma": 17.26,
+    "is_monochrome": false,
+    "dark_fraction": 0.0212,
+    "light_fraction": 0.1695,
+    "edge_density": 0.3411,
+    "busyness": 0.1304,
+    "has_white_border": false,
+    "phash": "57d61034b58177b1",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-36.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a downtown Brooklyn street with a hat vendor's table, where a large pale blue cartoon dinosaur with a long neck stands over a green cartoon bus body, blue luggage creatures sit on the sidewalk, and small creatures hang on a lamp post, signed 24.",
+    "description": "A portrait format digital piece on a photograph, signed Matt Crump 24 at lower right. Office towers and a gold glass tower under construction rise under a blue sky at the top, with a tree at upper right. A low commercial building with a red shop sign sits at centre. A large cartoon creature dominates the right half: a pale blue long necked dinosaur head on a green rounded bus like body with grey legs and a tiny blue figure on its back, standing beside a torn blue and pink patch drawn over the wall at right. In the foreground two blue and cream cartoon creatures shaped like suitcases or coolers with handles, feet and single eyes sit on the sidewalk, one with a small drawn pipe. At left a vendor's table of baseball caps, a cardboard box with a creature face and a chair. A lamp post at centre carries drawn panels and small creatures hanging from it, and faceless pedestrians and a cyclist pass at the crossing. The light is warm and bleached.",
+    "impression": "Dinosaur bus, as the process note says: a long neck on a bus body, parked beside a hat stall as if waiting for a fare. The luggage creatures in front look like its passengers. The drawing has started inventing whole animals rather than modifying what is there. Bright, odd and good natured.",
+    "subjects": [
+      "street",
+      "city",
+      "dinosaurs",
+      "bus",
+      "creatures",
+      "vendor",
+      "hats",
+      "skyscrapers",
+      "lamp post",
+      "people"
+    ],
+    "characters": [
+      "long necked creature",
+      "luggage creature",
+      "faceless figure",
+      "one eyed creature"
+    ],
+    "elements": [
+      "dinosaur bus",
+      "hat table",
+      "cardboard box face",
+      "lamp post",
+      "torn patch",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Downtown Brooklyn"
+    ],
+    "composition": [
+      "central feature",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "pale blue and tan",
+      "bleached",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "creatures over photo"
+    ],
+    "themes": [
+      "city",
+      "creatures among us",
+      "vehicles as creatures",
+      "market"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "strange"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Matt Crump 24",
+      "role": "signature"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "downtown brooklyn",
+      "dinosaur bus",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "towns/about-town-5",
+      "note": "The long necked dinosaur creature from the 2011 town paintings.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

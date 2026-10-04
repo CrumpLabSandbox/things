@@ -1,0 +1,203 @@
+{
+  "id": "crowds/crowd-6",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Crowd 6",
+    "series": "crowds",
+    "series_slug": "crowds",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:48:58",
+    "year": 2019,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/crowds/crowd 6.jpg",
+      "width": 535,
+      "height": 544,
+      "aspect": 0.9835,
+      "orientation": "square",
+      "bytes": 121573,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/crowds/Crowd_6.qmd",
+      "html": "things/crowds/Crowd_6.html",
+      "url": "https://crumplab.com/things/things/crowds/Crowd_6.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:48:58",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "crowd 6",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#469dcb",
+        "fraction": 0.2944
+      },
+      {
+        "hex": "#a44b2a",
+        "fraction": 0.2464
+      },
+      {
+        "hex": "#23181d",
+        "fraction": 0.1579
+      },
+      {
+        "hex": "#cf9a5a",
+        "fraction": 0.1473
+      },
+      {
+        "hex": "#4b2419",
+        "fraction": 0.0963
+      },
+      {
+        "hex": "#b29fab",
+        "fraction": 0.0578
+      }
+    ],
+    "hue_histogram": [
+      0.2158,
+      0.3485,
+      0.0361,
+      0.0002,
+      0.0001,
+      0.0001,
+      0.0014,
+      0.3223,
+      0.0119,
+      0.0083,
+      0.0099,
+      0.0453
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "red"
+    ],
+    "warm_fraction": 0.6522,
+    "mean_saturation": 0.6148,
+    "mean_value": 0.6071,
+    "mean_lightness": 0.4604,
+    "contrast": 0.2168,
+    "colorfulness": 105.36,
+    "mean_chroma": 33.45,
+    "is_monochrome": false,
+    "dark_fraction": 0.2075,
+    "light_fraction": 0.0001,
+    "edge_density": 0.1188,
+    "busyness": 0.0993,
+    "has_white_border": false,
+    "phash": "708fcacd44bf2491",
+    "analysis_size": [
+      504,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/crowds/crowd-6.jpg"
+  },
+  "described": {
+    "alt_text": "A square marker painting of a pile of orange, red and yellow cartoon creatures with horns and teeth against a flat blue sky.",
+    "description": "A square marker painting on wood. A heap of rounded creatures in orange, rust, red and yellow rises from the bottom against a flat cyan sky that fills the upper third. The creatures have single white eyes with pink or red pupils, white curled horns and tabs, and one at right has a wide red mouth with white teeth. A spiky yellow burst sits at centre, an antenna with a star at upper centre, and tall white rabbit ears at the top. Thick black outlines, flat marker fills with wood grain visible.",
+    "impression": "The one crowd painting with a sky, which makes it a landscape: a hill of creatures under a hot blue day. The warm palette against cyan is like a desert at noon. The pile seems to be looking up at something off the top of the panel, patiently, like a crowd waiting for fireworks.",
+    "subjects": [
+      "crowd",
+      "creatures",
+      "monsters",
+      "sky"
+    ],
+    "characters": [
+      "one eyed creature",
+      "toothy monster",
+      "horned creature"
+    ],
+    "elements": [
+      "horns",
+      "teeth",
+      "rabbit ears",
+      "antenna",
+      "star",
+      "flat sky",
+      "white highlight line"
+    ],
+    "setting": [
+      "invented landscape"
+    ],
+    "composition": [
+      "crowd",
+      "dense",
+      "low horizon",
+      "pile"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "marker",
+      "white highlight line"
+    ],
+    "color_words": [
+      "orange and blue",
+      "warm on cool",
+      "saturated",
+      "bold"
+    ],
+    "style": [
+      "graffiti character",
+      "cartoon",
+      "painted on wood"
+    ],
+    "themes": [
+      "crowded life",
+      "waiting",
+      "monsters"
+    ],
+    "mood": [
+      "busy",
+      "warm",
+      "anticipation"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker on wood with grain visible. Sold.",
+    "free_tags": [
+      "crowd series",
+      "monster crowd",
+      "sky"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

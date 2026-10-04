@@ -1,0 +1,195 @@
+{
+  "id": "airbrush/totem-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Totem 2",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-17 11:59:03",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/Totem 2.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 429228,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Totem_2.qmd",
+      "html": "things/airbrush/Totem_2.html",
+      "url": "https://crumplab.com/things/things/airbrush/Totem_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:17 11:59:03",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "Totem 2",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#ede5df",
+        "fraction": 0.5675
+      },
+      {
+        "hex": "#38464f",
+        "fraction": 0.1169
+      },
+      {
+        "hex": "#546870",
+        "fraction": 0.098
+      },
+      {
+        "hex": "#608994",
+        "fraction": 0.0856
+      },
+      {
+        "hex": "#9fb2b4",
+        "fraction": 0.0704
+      },
+      {
+        "hex": "#63abb6",
+        "fraction": 0.0616
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.0001,
+      0.0,
+      0.0,
+      0.0,
+      0.0005,
+      0.4612,
+      0.5333,
+      0.0049,
+      0.0001,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [
+      "blue",
+      "cyan"
+    ],
+    "warm_fraction": 0.0001,
+    "mean_saturation": 0.1585,
+    "mean_value": 0.751,
+    "mean_lightness": 0.7328,
+    "contrast": 0.2368,
+    "colorfulness": 34.08,
+    "mean_chroma": 7.6,
+    "is_monochrome": false,
+    "dark_fraction": 0.006,
+    "light_fraction": 0.4662,
+    "edge_density": 0.142,
+    "busyness": 0.1117,
+    "has_white_border": false,
+    "phash": "79c2b49c86e5c469",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/totem-2.jpg"
+  },
+  "described": {
+    "alt_text": "A stencil airbrush painting of a symmetrical totem figure with a feathered headdress, entirely in teal, navy and sky blue on white paper.",
+    "description": "A square stencil airbrush painting on white paper. The same frontal totem figure as the other Totem pieces, feather crown, ear ornaments, headdress band, narrow eyed face, side discs, arms and base, rendered only in blues: teal and navy gradients in the cells with sky blue and aqua highlight patches. Thin white gaps separate the cells.",
+    "impression": "The totem under water, or carved from jade in moonlight. Keeping to one hue makes the stencil read as stone and shadow rather than decoration. The calmest of the four.",
+    "subjects": [
+      "totem",
+      "figures",
+      "masks",
+      "headdresses"
+    ],
+    "characters": [
+      "totem figure"
+    ],
+    "elements": [
+      "feather crown",
+      "ear ornament",
+      "headdress band",
+      "disc",
+      "hands",
+      "white gap"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "symmetrical",
+      "frontal",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "blue monochrome",
+      "teal",
+      "cool",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "mesoamerican reference",
+      "pop"
+    ],
+    "themes": [
+      "idol",
+      "symmetry",
+      "same image many colourways"
+    ],
+    "mood": [
+      "solemn",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. One of four colourways.",
+    "free_tags": [
+      "airbrush series",
+      "totem stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": "magicbear/curious-bear",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Curious Bear",
+    "series": "Magicbear",
+    "series_slug": "magicbear",
+    "medium": "acrylic",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "acryclic on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2009-11-02 06:49:31",
+    "year": 2009,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Magicbear/Curious bear.jpg",
+      "width": 1280,
+      "height": 650,
+      "aspect": 1.9692,
+      "orientation": "landscape",
+      "bytes": 333224,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Magicbear/Curious_Bear.qmd",
+      "html": "things/Magicbear/Curious_Bear.html",
+      "url": "https://crumplab.com/things/things/Magicbear/Curious_Bear.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Canon",
+        "camera_model": "Canon PowerShot SD880 IS",
+        "datetime": "2009:11:02 06:49:31",
+        "image_description": "acryclic on wood"
+      },
+      "iptc": {
+        "object_name": "Curious bear",
+        "caption": "acryclic on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#262429",
+        "fraction": 0.2319
+      },
+      {
+        "hex": "#bab6c2",
+        "fraction": 0.2226
+      },
+      {
+        "hex": "#659cc7",
+        "fraction": 0.1816
+      },
+      {
+        "hex": "#5b5c7b",
+        "fraction": 0.1766
+      },
+      {
+        "hex": "#999c63",
+        "fraction": 0.1095
+      },
+      {
+        "hex": "#a9533c",
+        "fraction": 0.0779
+      }
+    ],
+    "hue_histogram": [
+      0.0609,
+      0.1263,
+      0.0583,
+      0.0619,
+      0.01,
+      0.0049,
+      0.0389,
+      0.3266,
+      0.174,
+      0.0405,
+      0.025,
+      0.0726
+    ],
+    "dominant_hues": [
+      "blue",
+      "indigo",
+      "orange"
+    ],
+    "warm_fraction": 0.3343,
+    "mean_saturation": 0.3587,
+    "mean_value": 0.5683,
+    "mean_lightness": 0.4884,
+    "contrast": 0.2359,
+    "colorfulness": 64.53,
+    "mean_chroma": 20.82,
+    "is_monochrome": false,
+    "dark_fraction": 0.1742,
+    "light_fraction": 0.0011,
+    "edge_density": 0.4565,
+    "busyness": 0.1828,
+    "has_white_border": false,
+    "phash": "080e55e95b48c9df",
+    "analysis_size": [
+      512,
+      260
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/magicbear/curious-bear.jpg"
+  },
+  "described": {
+    "alt_text": "A wide painting of a blue bear floating among bubble letters that read Curious Bear Can't Stop, with grey faced creatures and a spaceship.",
+    "description": "A wide panel in flat acrylic with black outlines. A blue bear with a grey square face, red mouth and raised arms floats in the upper middle on a white cloud. Around it, fat bubble letters in orange, green, purple and pink spell phrases such as CURIOUS BEAR, CAN'T STOP, THE, ALL, FLY THE, OUT, WATCH and BOOF. At lower left a second grey faced bear hugs a pink cake like object; a small spaceship with portholes sits at centre right; and a white robot head on a blue body stands at far right. Colours are saturated and flat, with hints of the wood ground showing through.",
+    "impression": "A comic page compressed into one frame, with the lettering doing the shouting. The bear seems to be in mid flight and mid sentence. The phrases are fragments, so the viewer builds the story: a bear that cannot stop, something to watch out for, a rocket to catch.",
+    "subjects": [
+      "bear",
+      "lettering",
+      "spaceship",
+      "robots",
+      "clouds"
+    ],
+    "characters": [
+      "magic bear",
+      "curious bear",
+      "robot",
+      "blob figure"
+    ],
+    "elements": [
+      "bubble letters",
+      "outlined cloud",
+      "spaceship",
+      "porthole",
+      "cake"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "central figure",
+      "dense",
+      "words as landscape"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "saturated",
+      "rainbow",
+      "warm"
+    ],
+    "style": [
+      "graffiti",
+      "cartoon"
+    ],
+    "themes": [
+      "character story",
+      "flight",
+      "words as pictures"
+    ],
+    "mood": [
+      "playful",
+      "loud",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CURIOUS BEAR CAN'T STOP, THE, ALL, FLY THE, OUT, WATCH, BOOF and other fragments",
+      "role": "lettering"
+    },
+    "format_notes": "Acrylic on wood panel, photographed with slight glare at left.",
+    "free_tags": [
+      "magic bear",
+      "wordscape"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

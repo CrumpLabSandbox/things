@@ -1,0 +1,215 @@
+{
+  "id": "screenprints/pen-and-ink-to-screen-print-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Pen And Ink To Screen Print 1",
+    "series": "screenprints",
+    "series_slug": "screenprints",
+    "medium": "ink",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "ink on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2017-01-11 20:04:59",
+    "year": 2017,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/screenprints/Pen and Ink to Screen print 1.jpg",
+      "width": 1280,
+      "height": 960,
+      "aspect": 1.3333,
+      "orientation": "landscape",
+      "bytes": 396067,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/screenprints/Pen_And_Ink_To_Screen_Print_1.qmd",
+      "html": "things/screenprints/Pen_And_Ink_To_Screen_Print_1.html",
+      "url": "https://crumplab.com/things/things/screenprints/Pen_And_Ink_To_Screen_Print_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2017:01:11 20:04:59",
+        "image_description": "ink on paper"
+      },
+      "iptc": {
+        "object_name": "Pen and Ink to Screen print 1",
+        "caption": "ink on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dddddd",
+        "fraction": 0.477
+      },
+      {
+        "hex": "#ececec",
+        "fraction": 0.3
+      },
+      {
+        "hex": "#131313",
+        "fraction": 0.0692
+      },
+      {
+        "hex": "#a2a2a2",
+        "fraction": 0.0551
+      },
+      {
+        "hex": "#3b3b3b",
+        "fraction": 0.0501
+      },
+      {
+        "hex": "#6b6b6b",
+        "fraction": 0.0486
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [],
+    "warm_fraction": 0.0,
+    "mean_saturation": 0.0,
+    "mean_value": 0.7616,
+    "mean_lightness": 0.7744,
+    "contrast": 0.2633,
+    "colorfulness": 0.0,
+    "mean_chroma": 0.0,
+    "is_monochrome": true,
+    "dark_fraction": 0.0834,
+    "light_fraction": 0.3605,
+    "edge_density": 0.3614,
+    "busyness": 0.1959,
+    "has_white_border": false,
+    "phash": "7ed795688858c513",
+    "analysis_size": [
+      512,
+      384
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/screenprints/pen-and-ink-to-screen-print-1.jpg"
+  },
+  "described": {
+    "alt_text": "A black ink line drawing of a valley of domed huts, rabbit eared creatures, a city of towers and crystal mountains under clouds and a ringed planet.",
+    "description": "A landscape format pen and ink drawing on white paper, made as the source for a screen print. In pure black line with no fill: a ringed planet at upper left, outlined cumulus clouds and a looping rainbow arc across the top, faceted crystal mountains at left, a cluster of apartment towers with window grids at right, and tall rabbit eared creatures standing among tent shapes at centre left. The lower half is a terrain of concentric contour lines around domed huts with arched doors, standing stones, and small eyed creatures, like islands in a rippling lake.",
+    "impression": "The volcano ball lake world before colour: the same huts, city block, crystal mountains and ringed planet drawn as a single confident line. The contour ripples around the huts make the ground read as water or sound waves. It shows how much of these worlds is in the line alone.",
+    "subjects": [
+      "landscape",
+      "huts",
+      "creatures",
+      "city",
+      "mountains",
+      "clouds",
+      "planets"
+    ],
+    "characters": [
+      "rabbit eared figure",
+      "one eyed creature"
+    ],
+    "elements": [
+      "domed hut",
+      "arched door",
+      "ringed planet",
+      "faceted mountain",
+      "contour lines",
+      "apartment block",
+      "outlined cloud"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "city on horizon"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense"
+    ],
+    "line": [
+      "pen and ink",
+      "thin black outline",
+      "no fill"
+    ],
+    "color_words": [
+      "black and white",
+      "monochrome",
+      "line only"
+    ],
+    "style": [
+      "study",
+      "cartoon",
+      "map like",
+      "print making"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement",
+      "nature meets built",
+      "process"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Pen and ink on paper, photographed, intended as screen print artwork.",
+    "free_tags": [
+      "screen print",
+      "line art",
+      "huts",
+      "proto colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "source_of",
+      "target": "commissions/the-cliffs-of-volcano-ball-lake",
+      "note": "Same hut valley, crystal mountains and city block in line only.",
+      "source": "described"
+    },
+    {
+      "type": "series_pair",
+      "target": "airbrush/trippy-neon-land",
+      "note": "Same world, drawn a year later without the airbrush.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "colorlands/colorland-3",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Colorland 3",
+    "series": "Colorlands",
+    "series_slug": "colorlands",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2022-06-10 00:00:00",
+    "year": 2022,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Colorlands/Colorland_3.jpeg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 999845,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Colorlands/Colorland_3.qmd",
+      "html": "things/Colorlands/Colorland_3.html",
+      "url": "https://crumplab.com/things/things/Colorlands/Colorland_3.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2022:06:10 08:25:14",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c4dcdf",
+        "fraction": 0.3101
+      },
+      {
+        "hex": "#6f6d65",
+        "fraction": 0.1646
+      },
+      {
+        "hex": "#e0c693",
+        "fraction": 0.1484
+      },
+      {
+        "hex": "#97c59b",
+        "fraction": 0.1467
+      },
+      {
+        "hex": "#d49cc1",
+        "fraction": 0.124
+      },
+      {
+        "hex": "#b2e27b",
+        "fraction": 0.1061
+      }
+    ],
+    "hue_histogram": [
+      0.0808,
+      0.1255,
+      0.1604,
+      0.1375,
+      0.0934,
+      0.0744,
+      0.144,
+      0.0519,
+      0.0175,
+      0.0261,
+      0.0372,
+      0.0512
+    ],
+    "dominant_hues": [
+      "yellow",
+      "cyan",
+      "yellow-green"
+    ],
+    "warm_fraction": 0.4418,
+    "mean_saturation": 0.2722,
+    "mean_value": 0.8026,
+    "mean_lightness": 0.7511,
+    "contrast": 0.1726,
+    "colorfulness": 67.5,
+    "mean_chroma": 25.02,
+    "is_monochrome": false,
+    "dark_fraction": 0.0076,
+    "light_fraction": 0.1993,
+    "edge_density": 0.4781,
+    "busyness": 0.1545,
+    "has_white_border": false,
+    "phash": "00e6c1d1beac5d66",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/colorlands/colorland-3.jpg"
+  },
+  "described": {
+    "alt_text": "A pastel cartoon valley crowded with rounded domes, huts, pods and small creatures along a winding blue river, under distant mountains and a rising sun.",
+    "description": "A square digital drawing with no border or caption. A blue river enters from the top centre between jagged lilac and blue mountains, passes a yellow rising sun and a small striped planet, and winds down through a valley crammed with rounded forms: pink and orange domes, green mounds, striped pods, igloo like huts with arched doors, egg shaped creatures with single eyes, cones and antennae. At lower left is a large pink mound with a purple rimmed crater, and in the centre right a cluster of white domes like a tent camp. Vehicles with bubble windows and small cars appear at left and lower middle. Tiny figures with hats and eyes populate the river banks. Fills are pastel and lightly textured, and a mesh of faint white scribble lines lies over everything, giving a slightly misty surface.",
+    "impression": "Softer and more uniform than the other Colorlands pieces, this feels like an alien settlement seen at dawn, everything rounded and sleepy under a pale sun. The repeated domes and pods make the valley seem inhabited by one species that builds everything in its own shape. It is easy to imagine it as a map for a game.",
+    "subjects": [
+      "landscape",
+      "river",
+      "mountains",
+      "village",
+      "creatures",
+      "vehicles",
+      "sun",
+      "planets"
+    ],
+    "characters": [
+      "one eyed creature",
+      "antenna blob",
+      "blob figure"
+    ],
+    "elements": [
+      "domed building",
+      "hut",
+      "pod",
+      "arched door",
+      "rising sun",
+      "striped planet",
+      "bubble window vehicle",
+      "outlined cloud",
+      "eyes in things"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "river",
+      "village"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "winding path",
+      "dense"
+    ],
+    "line": [
+      "thin black outline",
+      "scribble marks",
+      "flat fill",
+      "soft shading"
+    ],
+    "color_words": [
+      "pastel",
+      "candy",
+      "misty",
+      "pink and mint"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "map like",
+      "seek and find density"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement",
+      "crowded life",
+      "faces in things"
+    ],
+    "mood": [
+      "calm",
+      "playful",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "No border, caption or visible signature; the image runs to the edge.",
+    "free_tags": [
+      "colorland",
+      "unsigned"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

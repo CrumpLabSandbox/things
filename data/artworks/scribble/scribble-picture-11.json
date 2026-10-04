@@ -1,0 +1,210 @@
+{
+  "id": "scribble/scribble-picture-11",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 11",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-07-26 08:58:59",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Flatbush",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 11.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 407159,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_11.qmd",
+      "html": "things/Scribble/Scribble_Picture_11.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_11.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:07:26 08:58:59",
+        "image_description": "Digital Work"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 11",
+        "caption": "Digital Work",
+        "keywords": [],
+        "date_created": "20230726",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#ab9e94",
+        "fraction": 0.2339
+      },
+      {
+        "hex": "#dccdbd",
+        "fraction": 0.1892
+      },
+      {
+        "hex": "#424141",
+        "fraction": 0.1822
+      },
+      {
+        "hex": "#d8a074",
+        "fraction": 0.1343
+      },
+      {
+        "hex": "#796a5f",
+        "fraction": 0.132
+      },
+      {
+        "hex": "#a5c6d5",
+        "fraction": 0.1285
+      }
+    ],
+    "hue_histogram": [
+      0.1097,
+      0.6216,
+      0.0537,
+      0.0041,
+      0.0005,
+      0.001,
+      0.0127,
+      0.1873,
+      0.0066,
+      0.0005,
+      0.0002,
+      0.0021
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "red"
+    ],
+    "warm_fraction": 0.7873,
+    "mean_saturation": 0.2082,
+    "mean_value": 0.6557,
+    "mean_lightness": 0.6165,
+    "contrast": 0.2059,
+    "colorfulness": 49.16,
+    "mean_chroma": 13.5,
+    "is_monochrome": false,
+    "dark_fraction": 0.0189,
+    "light_fraction": 0.0316,
+    "edge_density": 0.3207,
+    "busyness": 0.1427,
+    "has_white_border": false,
+    "phash": "1edfb16095688595",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-11.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a Flatbush street with a graffiti covered brick wall, where a dump truck, a worker, traffic lights, trees and shop signs have been redrawn as flat cartoon shapes, signed 2023.",
+    "description": "A portrait format digital piece on a photograph, signed 2023 at lower left. A tan brick wall at upper centre carries real graffiti reading dink, under a blue sky. A traffic light at upper left is redrawn as a flat yellow outlined shape, a tall red sign at left is covered in white scribbled tags, and a grey and red banner at upper right carries a large yellow scribble. Shop fronts at street level have their signs redrawn as flat panels with scribbles. In the middle a white dump truck with a raised yellow arm is redrawn in flat grey and cream outline with a worker in a hard hat and yellow vest standing on its bed, flanked by orange traffic cones. Two small trees are redrawn as lime outlines. A faceless figure with a bag stands at left beside an outlined white car, and a cartoon car intrudes from the right. A crosswalk crosses the bottom.",
+    "impression": "A work crew on Flatbush Avenue, half swallowed by the drawing: the truck and the trees have gone cartoon and the real graffiti on the wall is answered by scribbled fake graffiti on every sign. The picture is about the city's layers of marks, official and not. Busy and bright.",
+    "subjects": [
+      "street",
+      "city",
+      "trucks",
+      "worker",
+      "graffiti",
+      "signs",
+      "traffic lights",
+      "trees",
+      "cars"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "dump truck",
+      "traffic cone",
+      "scribble tag",
+      "found graffiti",
+      "traffic light",
+      "outlined car",
+      "crosswalk",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Flatbush"
+    ],
+    "composition": [
+      "low horizon",
+      "central feature",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "warm",
+      "tan and yellow",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "graffiti"
+    ],
+    "themes": [
+      "city",
+      "work",
+      "layers"
+    ],
+    "mood": [
+      "busy",
+      "sunny",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "found graffiti dink; scribbled tags on signs; signature 2023",
+      "role": "found graffiti and scribble"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "flatbush",
+      "construction",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

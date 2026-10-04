@@ -1,0 +1,189 @@
+{
+  "id": "cactuses/gouache-cactus-5",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Gouache Cactus 5",
+    "series": "cactuses",
+    "series_slug": "cactuses",
+    "medium": "gouache",
+    "surface": "paper",
+    "medium_source": "title",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2014-08-18 11:12:29",
+    "year": 2014,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/cactuses/gouache cactus 5.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 56933,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/cactuses/Gouache_Cactus_5.qmd",
+      "html": "things/cactuses/Gouache_Cactus_5.html",
+      "url": "https://crumplab.com/things/things/cactuses/Gouache_Cactus_5.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2014:08:18 11:12:29",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "gouache cactus 5",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#dddbde",
+        "fraction": 0.6332
+      },
+      {
+        "hex": "#85674d",
+        "fraction": 0.1374
+      },
+      {
+        "hex": "#c4c2c6",
+        "fraction": 0.1158
+      },
+      {
+        "hex": "#423d3b",
+        "fraction": 0.0736
+      },
+      {
+        "hex": "#657f8c",
+        "fraction": 0.0275
+      },
+      {
+        "hex": "#c7bd79",
+        "fraction": 0.0124
+      }
+    ],
+    "hue_histogram": [
+      0.084,
+      0.6904,
+      0.0409,
+      0.0124,
+      0.0018,
+      0.0031,
+      0.0383,
+      0.083,
+      0.0115,
+      0.0012,
+      0.0016,
+      0.0318
+    ],
+    "dominant_hues": [
+      "orange",
+      "red",
+      "blue"
+    ],
+    "warm_fraction": 0.8483,
+    "mean_saturation": 0.1033,
+    "mean_value": 0.7586,
+    "mean_lightness": 0.75,
+    "contrast": 0.2088,
+    "colorfulness": 26.08,
+    "mean_chroma": 6.09,
+    "is_monochrome": false,
+    "dark_fraction": 0.0199,
+    "light_fraction": 0.0111,
+    "edge_density": 0.0768,
+    "busyness": 0.0579,
+    "has_white_border": false,
+    "phash": "55d919220ed537d8",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/cactuses/gouache-cactus-5.jpg"
+  },
+  "described": {
+    "alt_text": "A gouache painting in a spiral sketchbook of a small striped rainbow cactus in a red pot, with a faint shadow of a larger cactus bleeding through the page.",
+    "description": "A square photograph of a spiral bound sketchbook page on a wooden table. A small cactus with a yellow, green, orange and blue striped body and three short teal and pink tipped arms sits in a terracotta red pot at the centre of the page. Around it, the ghost of a larger cactus from the other side of the sheet shows through the paper as a faint grey shape with many arms. The pot and cactus are outlined in black with streaky gouache fills.",
+    "impression": "A tiny potted cactus with the shadow of its giant ancestor haunting the page behind it. The bleed through is an accident that became the best part, a reminder of the previous drawing. Small, sweet and a little funny.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "pot"
+    ],
+    "characters": [],
+    "elements": [
+      "pot",
+      "stripes",
+      "thin black outline",
+      "bleed through",
+      "sketchbook spiral"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "white ground"
+    ],
+    "line": [
+      "thick black outline",
+      "visible brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "rainbow",
+      "stripes",
+      "terracotta"
+    ],
+    "style": [
+      "cartoon",
+      "study"
+    ],
+    "themes": [
+      "plants as creatures",
+      "home",
+      "process"
+    ],
+    "mood": [
+      "playful",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Gouache in a spiral sketchbook, photographed on a wood table; the previous page shows through.",
+    "free_tags": [
+      "cactus series",
+      "gouache",
+      "sketchbook",
+      "potted"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

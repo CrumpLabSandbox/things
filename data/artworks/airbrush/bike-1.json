@@ -1,0 +1,204 @@
+{
+  "id": "airbrush/bike-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Bike 1",
+    "series": "airbrush",
+    "series_slug": "airbrush",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-01 09:10:50",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/airbrush/bike 1.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 435905,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/airbrush/Bike_1.qmd",
+      "html": "things/airbrush/Bike_1.html",
+      "url": "https://crumplab.com/things/things/airbrush/Bike_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:01 09:10:50",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "bike 1",
+        "caption": "airbrush on paper",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#cbd2d1",
+        "fraction": 0.3388
+      },
+      {
+        "hex": "#ae74a1",
+        "fraction": 0.1947
+      },
+      {
+        "hex": "#708899",
+        "fraction": 0.1821
+      },
+      {
+        "hex": "#c0d14a",
+        "fraction": 0.1502
+      },
+      {
+        "hex": "#97bc76",
+        "fraction": 0.0872
+      },
+      {
+        "hex": "#af713b",
+        "fraction": 0.047
+      }
+    ],
+    "hue_histogram": [
+      0.0147,
+      0.0699,
+      0.2108,
+      0.1253,
+      0.0279,
+      0.0199,
+      0.073,
+      0.1097,
+      0.037,
+      0.0534,
+      0.0811,
+      0.1773
+    ],
+    "dominant_hues": [
+      "yellow",
+      "pink",
+      "yellow-green"
+    ],
+    "warm_fraction": 0.526,
+    "mean_saturation": 0.3077,
+    "mean_value": 0.7526,
+    "mean_lightness": 0.7023,
+    "contrast": 0.1531,
+    "colorfulness": 74.67,
+    "mean_chroma": 27.13,
+    "is_monochrome": false,
+    "dark_fraction": 0.0005,
+    "light_fraction": 0.0107,
+    "edge_density": 0.151,
+    "busyness": 0.0946,
+    "has_white_border": false,
+    "phash": "30a900df4e39d79c",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/airbrush/bike-1.jpg"
+  },
+  "described": {
+    "alt_text": "A stencil airbrush painting of a city street with a cyclist in the foreground, rendered as pink, yellow, lime and lilac blobs on white paper.",
+    "description": "A square stencil airbrush painting on white paper. A street scene is broken into rounded blob shapes with white gaps between them: tall buildings with rows of windows recede from the upper left, a wheel with a star shaped hub sits at lower left, and a cyclist seen from behind rides toward the buildings at lower centre. Pedestrians and a crosswalk are hinted at in the middle distance. Colour is sprayed in soft gradients of magenta, yellow, lime and lilac, with the sky left as bare paper.",
+    "impression": "A photograph of a bike ride dissolved into stencil cells, so the city looks like it is made of wet candy. The same stencil appears in the other Bike pieces in different colourways, which makes this one feel like one print from an edition. Bright, fast, and a little dizzy.",
+    "subjects": [
+      "street",
+      "city",
+      "bicycles",
+      "cyclist",
+      "buildings",
+      "people"
+    ],
+    "characters": [
+      "cyclist"
+    ],
+    "elements": [
+      "windows",
+      "wheel",
+      "star hub",
+      "crosswalk",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "invented city"
+    ],
+    "composition": [
+      "one point perspective",
+      "figures in foreground",
+      "stencil cells"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "candy",
+      "pink and lime",
+      "neon",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "cycling",
+      "same image many colourways"
+    ],
+    "mood": [
+      "energetic",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. One of five colourways of the same stencil.",
+    "free_tags": [
+      "airbrush series",
+      "bike stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "airbrush/bike-4",
+      "note": "Same stencil as the grayscale version.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

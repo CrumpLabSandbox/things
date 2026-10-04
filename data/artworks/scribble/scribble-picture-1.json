@@ -1,0 +1,213 @@
+{
+  "id": "scribble/scribble-picture-1",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 1",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital FujiFiilm XH2",
+    "caption": null,
+    "camera": "Fujifilm X-H2",
+    "date": "2023-07-12 13:39:20",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Walk around take pictures of NYC. Bring the RAW image into Adobe lightroom and push it around. Settled on a bleached out color spectrum. Pop the image into Adobe Fresco.\n\nFirst layer is drawing body parts in black ink. The same pen is used to graffiti text in the image. Body parts are filled. Opacity of layers are adjusted. Add another layer of color stuff for fun.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 1.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 377738,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_1.qmd",
+      "html": "things/Scribble/Scribble_Picture_1.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_1.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:07:12 13:39:20",
+        "image_description": "Digital FujiFiilm XH2"
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 1",
+        "caption": "Digital FujiFiilm XH2",
+        "keywords": [],
+        "date_created": "20230712",
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#ddc7bd",
+        "fraction": 0.2395
+      },
+      {
+        "hex": "#dfc6a5",
+        "fraction": 0.1779
+      },
+      {
+        "hex": "#a39385",
+        "fraction": 0.1758
+      },
+      {
+        "hex": "#f9f7f3",
+        "fraction": 0.1714
+      },
+      {
+        "hex": "#6d605e",
+        "fraction": 0.1466
+      },
+      {
+        "hex": "#c59c77",
+        "fraction": 0.089
+      }
+    ],
+    "hue_histogram": [
+      0.1122,
+      0.7701,
+      0.0707,
+      0.0122,
+      0.0,
+      0.0,
+      0.0004,
+      0.0075,
+      0.0025,
+      0.0025,
+      0.0044,
+      0.0175
+    ],
+    "dominant_hues": [
+      "orange",
+      "red"
+    ],
+    "warm_fraction": 0.9731,
+    "mean_saturation": 0.1839,
+    "mean_value": 0.7785,
+    "mean_lightness": 0.7379,
+    "contrast": 0.1811,
+    "colorfulness": 34.64,
+    "mean_chroma": 12.88,
+    "is_monochrome": false,
+    "dark_fraction": 0.0023,
+    "light_fraction": 0.181,
+    "edge_density": 0.2806,
+    "busyness": 0.1024,
+    "has_white_border": false,
+    "phash": "34954e3be42c8f58",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-1.jpg"
+  },
+  "described": {
+    "alt_text": "A bleached photograph of West 27th Street in Manhattan with cafe umbrellas and tall buildings, where the people have blank cartoon faces drawn over them and black scribbles cover the signs, signed 2023.",
+    "description": "A portrait format digital piece built on a photograph, signed with a scrawled signature and 2023 at lower right. A green street sign reading W 27 St hangs across the top. Ornate stone office buildings line the left, a glass tower rises at right, and the sky is bleached to pale yellow with a rainbow haze. In the middle distance black and teal cafe umbrellas shade rows of outdoor tables. Every person has been covered with a flat skin toned or grey cartoon shape with no features: a seated figure in a white shirt at lower left, a standing figure in a blue shirt with arms crossed at centre, a figure in a cap at right, and a dozen smaller figures among the tables. A billboard on a building at centre shows a blank cartoon head, and several signs and a planter carry scribbled black ink marks like graffiti. Stacked folding chairs stand at centre.",
+    "impression": "An ordinary hot afternoon on a Manhattan side street, with everyone's identity rubbed out and replaced by a cartoon blank, so the crowd becomes a cast of extras waiting for faces. The scribbled signs feel like the city's own text being vandalised by the drawing. Bleached and dreamy, with the strangeness of a street you half remember.",
+    "subjects": [
+      "street",
+      "city",
+      "people",
+      "cafe",
+      "skyscrapers",
+      "umbrella",
+      "signs"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "blank face",
+      "scribble tag",
+      "street sign",
+      "umbrella",
+      "folding chair",
+      "billboard",
+      "signature"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "Chelsea"
+    ],
+    "composition": [
+      "one point perspective",
+      "figures in foreground",
+      "photo base",
+      "layered depth"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "bleached",
+      "pastel",
+      "washed",
+      "rainbow haze"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "graffiti"
+    ],
+    "themes": [
+      "city",
+      "anonymity",
+      "crowded life",
+      "erasure"
+    ],
+    "mood": [
+      "dreamy",
+      "calm",
+      "strange"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "W 27 St; W 26 St; scribbled tags; signature 2023",
+      "role": "found signage and scribble"
+    },
+    "format_notes": "Digital drawing in Adobe Fresco over a Fujifilm X-H2 photograph processed in Lightroom. First of the Scribble Picture series.",
+    "free_tags": [
+      "scribble series",
+      "faceless people",
+      "NYC",
+      "manhattan",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "scribble/scribble-picture-2",
+      "note": "Same block of West 27th Street, shot the same day.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

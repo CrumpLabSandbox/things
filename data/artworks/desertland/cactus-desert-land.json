@@ -1,0 +1,196 @@
+{
+  "id": "desertland/cactus-desert-land",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Cactus Desert Land",
+    "series": "Desertland",
+    "series_slug": "desertland",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-25 19:26:30",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Desertland/Cactus Desert Land.jpg",
+      "width": 512,
+      "height": 512,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 105216,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Desertland/Cactus_Desert_Land.qmd",
+      "html": "things/Desertland/Cactus_Desert_Land.html",
+      "url": "https://crumplab.com/things/things/Desertland/Cactus_Desert_Land.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:25 19:26:30",
+        "image_description": "oil on wood"
+      },
+      "iptc": {
+        "object_name": "Cactus Desert Land",
+        "caption": "oil on wood",
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#aaa85f",
+        "fraction": 0.2828
+      },
+      {
+        "hex": "#b8ccc8",
+        "fraction": 0.2746
+      },
+      {
+        "hex": "#e1815e",
+        "fraction": 0.1472
+      },
+      {
+        "hex": "#ce7e83",
+        "fraction": 0.1311
+      },
+      {
+        "hex": "#452e1f",
+        "fraction": 0.0941
+      },
+      {
+        "hex": "#93879e",
+        "fraction": 0.0702
+      }
+    ],
+    "hue_histogram": [
+      0.2577,
+      0.2023,
+      0.2611,
+      0.0706,
+      0.0197,
+      0.0184,
+      0.0859,
+      0.0162,
+      0.0035,
+      0.0055,
+      0.0278,
+      0.0313
+    ],
+    "dominant_hues": [
+      "yellow",
+      "red",
+      "orange"
+    ],
+    "warm_fraction": 0.7611,
+    "mean_saturation": 0.3918,
+    "mean_value": 0.7273,
+    "mean_lightness": 0.6468,
+    "contrast": 0.1772,
+    "colorfulness": 77.76,
+    "mean_chroma": 29.25,
+    "is_monochrome": false,
+    "dark_fraction": 0.0463,
+    "light_fraction": 0.0002,
+    "edge_density": 0.2079,
+    "busyness": 0.1095,
+    "has_white_border": false,
+    "phash": "46bfea89e4941435",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/desertland/cactus-desert-land.jpg"
+  },
+  "described": {
+    "alt_text": "A square pastel painting of pink and orange desert hills dotted with rounded cactus figures, under a pale blue sky.",
+    "description": "A square oil painting in soft pastel colour with thin dark outlines. Rounded hills in pink, orange, coral and lilac rise at the top under a pale blue sky, their lobes carrying blue and cream oval patches like eyes or windows. A flat salmon plain in the middle is dotted with rows of tiny figures and cactus stubs. In the foreground, larger rounded cactus like figures in green, pink and mauve stand among yellow green ground, some with arms and hat shapes. Colour is flat and matte with no shading, and every form is a soft blob with a fine outline.",
+    "impression": "A desert where the cactuses and the people are the same species, standing around in the heat. The sweet palette and the blob shapes make it calm and a little funny. It is Superland after a decade of rest: slower, emptier, pastel.",
+    "subjects": [
+      "landscape",
+      "desert",
+      "cactus",
+      "figures",
+      "mountains"
+    ],
+    "characters": [
+      "blob figure",
+      "cactus figure"
+    ],
+    "elements": [
+      "oval patch",
+      "hat shape",
+      "rows of tiny figures"
+    ],
+    "setting": [
+      "invented landscape",
+      "desert"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth",
+      "scattered figures"
+    ],
+    "line": [
+      "thin dark outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "pink and orange",
+      "matte"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "desertland world"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "stillness",
+      "plants as creatures"
+    ],
+    "mood": [
+      "calm",
+      "whimsical",
+      "warm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, photographed.",
+    "free_tags": [
+      "desertland",
+      "blob figures"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

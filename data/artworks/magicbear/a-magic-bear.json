@@ -1,0 +1,194 @@
+{
+  "id": "magicbear/a-magic-bear",
+  "schema_version": 1,
+  "catalog": {
+    "title": "A Magic Bear",
+    "series": "Magicbear",
+    "series_slug": "magicbear",
+    "medium": "marker",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "marker on wood",
+    "caption": null,
+    "camera": null,
+    "date": "2009-04-26 13:47:02",
+    "year": 2009,
+    "availability": "sold",
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Magicbear/A magic bear.jpg",
+      "width": 582,
+      "height": 597,
+      "aspect": 0.9749,
+      "orientation": "square",
+      "bytes": 144400,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Magicbear/A_Magic_Bear.qmd",
+      "html": "things/Magicbear/A_Magic_Bear.html",
+      "url": "https://crumplab.com/things/things/Magicbear/A_Magic_Bear.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone",
+        "datetime": "2009:04:26 13:47:02",
+        "image_description": "marker on wood"
+      },
+      "iptc": {
+        "object_name": "A magic bear",
+        "caption": "marker on wood",
+        "keywords": [
+          "sold"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#111220",
+        "fraction": 0.2801
+      },
+      {
+        "hex": "#b19274",
+        "fraction": 0.2677
+      },
+      {
+        "hex": "#969c98",
+        "fraction": 0.238
+      },
+      {
+        "hex": "#67769c",
+        "fraction": 0.1432
+      },
+      {
+        "hex": "#d28182",
+        "fraction": 0.0379
+      },
+      {
+        "hex": "#cc3827",
+        "fraction": 0.0331
+      }
+    ],
+    "hue_histogram": [
+      0.1049,
+      0.3171,
+      0.0091,
+      0.0195,
+      0.0238,
+      0.0337,
+      0.035,
+      0.2224,
+      0.1489,
+      0.0481,
+      0.0161,
+      0.0214
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "indigo"
+    ],
+    "warm_fraction": 0.4604,
+    "mean_saturation": 0.4056,
+    "mean_value": 0.5211,
+    "mean_lightness": 0.449,
+    "contrast": 0.2552,
+    "colorfulness": 56.5,
+    "mean_chroma": 18.4,
+    "is_monochrome": false,
+    "dark_fraction": 0.2578,
+    "light_fraction": 0.0002,
+    "edge_density": 0.207,
+    "busyness": 0.1434,
+    "has_white_border": false,
+    "phash": "36edc398ad0f4a90",
+    "analysis_size": [
+      499,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/magicbear/a-magic-bear.jpg"
+  },
+  "described": {
+    "alt_text": "A red bear with a round open mouth throws its grey arms up behind a thicket of grey green crystal shapes, painted on bare plywood.",
+    "description": "A square panel of unpainted plywood, its grain visible as background. A cartoon bear with a red body, a pink square snout, round eyes with gold irises and a wide open mouth showing a tongue rises from the lower half. Its grey arms are flung up and out with gold paw pads. The lower half is a thicket of grey, green and blue faceted shapes like crystals or city blocks with heavy black outlines and white highlight lines. The bear and shapes are outlined with a white halo against the wood.",
+    "impression": "A bear popping out of a jungle gym of rocks, either delighted or alarmed. The bare wood makes the painting feel like a sign or a toy rather than a window. It is the simplest statement of the magic bear: big mouth, big paws, surprise.",
+    "subjects": [
+      "bear",
+      "crystals",
+      "wood grain"
+    ],
+    "characters": [
+      "magic bear"
+    ],
+    "elements": [
+      "open mouth",
+      "paw",
+      "white halo outline",
+      "bare wood",
+      "facet shapes",
+      "white highlight line"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "bare ground"
+    ],
+    "line": [
+      "thick black outline",
+      "white highlight line",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "red and grey",
+      "earth tones",
+      "muted"
+    ],
+    "style": [
+      "cartoon",
+      "graffiti character",
+      "painted on wood"
+    ],
+    "themes": [
+      "character story",
+      "character study"
+    ],
+    "mood": [
+      "playful",
+      "loud",
+      "strange"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Marker and paint on raw plywood, wood grain left exposed. Photographed.",
+    "free_tags": [
+      "magic bear",
+      "bare plywood"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

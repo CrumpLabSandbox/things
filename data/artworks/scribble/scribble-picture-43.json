@@ -1,0 +1,212 @@
+{
+  "id": "scribble/scribble-picture-43",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 43",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2024-10-13 11:20:13",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Pharmacy",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 43.jpeg",
+      "width": 1000,
+      "height": 1409,
+      "aspect": 0.7097,
+      "orientation": "portrait",
+      "bytes": 623289,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_43.qmd",
+      "html": "things/Scribble/Scribble_Picture_43.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_43.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f7f7f6",
+        "fraction": 0.4014
+      },
+      {
+        "hex": "#f0d8ab",
+        "fraction": 0.2099
+      },
+      {
+        "hex": "#ae7d4c",
+        "fraction": 0.1124
+      },
+      {
+        "hex": "#e5b362",
+        "fraction": 0.1012
+      },
+      {
+        "hex": "#58aedb",
+        "fraction": 0.0955
+      },
+      {
+        "hex": "#615245",
+        "fraction": 0.0796
+      }
+    ],
+    "hue_histogram": [
+      0.017,
+      0.7628,
+      0.0379,
+      0.0003,
+      0.0,
+      0.0001,
+      0.0029,
+      0.1783,
+      0.0005,
+      0.0001,
+      0.0001,
+      0.0002
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue"
+    ],
+    "warm_fraction": 0.8178,
+    "mean_saturation": 0.2721,
+    "mean_value": 0.8695,
+    "mean_lightness": 0.8054,
+    "contrast": 0.2022,
+    "colorfulness": 73.86,
+    "mean_chroma": 19.32,
+    "is_monochrome": false,
+    "dark_fraction": 0.0037,
+    "light_fraction": 0.4325,
+    "edge_density": 0.2347,
+    "busyness": 0.1025,
+    "has_white_border": true,
+    "phash": "3bcbc46e94a5c4d0",
+    "analysis_size": [
+      363,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-43.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of a narrow yellow brick corner building in Brooklyn with an orange fire escape and a pharmacy at street level, where the pharmacy sign is scribbled out, the window posters blanked to pastel panels, and a figure in a yellow jacket walks away at right, labelled SP 43 2024.",
+    "description": "A portrait format digital piece on a photograph inside a white border, captioned SP 43 2024 at lower left and MATT CRUMP at lower right. A tall narrow yellow brick building on a corner fills the frame under a blue sky with real wispy clouds, with an orange painted fire escape on its left face. At street level the pharmacy's sign has been overwritten with pink scribbled letters, its awnings and lintels redrawn in flat grey and cream, and the posters in its window replaced with flat pink, blue and cream panels. A grey lamp post and drawn signs stand at right, and small drawn boxes sit on the brick. A figure in a yellow jacket walks away down the sidewalk at right with a tiny drawn creature beside them, and autumn trees stand in the distance. The pavement is bleached warm.",
+    "impression": "A building portrait with minimal cartooning, as the process note says: just enough to erase the brand and blank the posters, so the corner becomes a stage set of itself. The yellow jacket walking away is the one spot of life. Clean, warm and architectural, closer to a photograph than most of the series.",
+    "subjects": [
+      "street",
+      "city",
+      "buildings",
+      "pharmacy",
+      "fire escapes",
+      "signs",
+      "people",
+      "trees"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "scribble tag",
+      "blank poster",
+      "fire escape",
+      "lamp post",
+      "white border",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn"
+    ],
+    "composition": [
+      "central feature",
+      "frontal",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo",
+      "scribble marks"
+    ],
+    "color_words": [
+      "yellow brick",
+      "blue sky",
+      "warm",
+      "pastel panels"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "architecture",
+      "erasure",
+      "neighbourhood"
+    ],
+    "mood": [
+      "calm",
+      "sunny",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "scribbled pharmacy sign; SP 43 2024; MATT CRUMP",
+      "role": "scribble and caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph, print layout with white border and typed caption.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "pharmacy",
+      "minimal",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "scribble/scribble-picture-12",
+      "note": "Both are corner building portraits with a shop at the base.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

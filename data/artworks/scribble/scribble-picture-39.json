@@ -1,0 +1,208 @@
+{
+  "id": "scribble/scribble-picture-39",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 39",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": "Greenway",
+    "caption": "Greenway",
+    "camera": null,
+    "date": "2023-09-15 15:31:15",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Greenway",
+    "print_url": "https://mattcrump.myshopify.com/products/scribble-picture-39",
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 39.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 742309,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_39.qmd",
+      "html": "things/Scribble/Scribble_Picture_39.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_39.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": "Copyright Matthew Crump 2023"
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#eaedeb",
+        "fraction": 0.3074
+      },
+      {
+        "hex": "#554248",
+        "fraction": 0.1882
+      },
+      {
+        "hex": "#a78778",
+        "fraction": 0.1817
+      },
+      {
+        "hex": "#ebc58a",
+        "fraction": 0.1675
+      },
+      {
+        "hex": "#53c4eb",
+        "fraction": 0.1039
+      },
+      {
+        "hex": "#3f7094",
+        "fraction": 0.0513
+      }
+    ],
+    "hue_histogram": [
+      0.1008,
+      0.4997,
+      0.017,
+      0.0006,
+      0.0003,
+      0.0005,
+      0.0819,
+      0.1825,
+      0.0109,
+      0.0085,
+      0.0293,
+      0.0681
+    ],
+    "dominant_hues": [
+      "orange",
+      "blue",
+      "red"
+    ],
+    "warm_fraction": 0.7055,
+    "mean_saturation": 0.3025,
+    "mean_value": 0.7611,
+    "mean_lightness": 0.6893,
+    "contrast": 0.246,
+    "colorfulness": 73.98,
+    "mean_chroma": 19.06,
+    "is_monochrome": false,
+    "dark_fraction": 0.0165,
+    "light_fraction": 0.2686,
+    "edge_density": 0.3678,
+    "busyness": 0.1767,
+    "has_white_border": false,
+    "phash": "77a3a047ceb0686c",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-39.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph beneath the FDR Drive on the lower Manhattan greenway, with the sky packed with outlined cartoon clouds above glass towers and a tower under construction, and a crowd of walkers redrawn as outlined cartoon figures in warm tones, labelled SP39.",
+    "description": "A portrait format digital piece on a photograph, signed M 23 SP39 at lower right. A purple grey elevated highway crosses the middle of the image on steel columns, with a hot dog cart under yellow umbrellas at left. Above it, glass towers and a tall concrete tower under construction rise into a bright blue sky that is packed with outlined white cartoon clouds, drawn around and in front of the buildings. Below the highway, a crowd of walkers on the greenway are redrawn as outlined cartoon figures with flat warm fills in tan, orange, grey and blue and blank faces: a woman with a ponytail and a bag at centre left, a figure in a long dress at centre, a figure in a pink shirt at right, and many more receding. Street signs and a Medina sign sit under the highway.",
+    "impression": "The greenway under the FDR, with the sky doing all the work: the cartoon clouds crowd the towers like a second city. The walkers are drawn in warm orange and tan, as if the late light had soaked into the drawing. It is the moment the series starts filling whole skies with clouds, and it feels like a parade.",
+    "subjects": [
+      "street",
+      "city",
+      "highway",
+      "skyscrapers",
+      "clouds",
+      "crowd",
+      "people",
+      "food carts"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "outlined cloud",
+      "elevated highway",
+      "umbrella",
+      "construction tower",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Manhattan",
+      "greenway",
+      "under the FDR"
+    ],
+    "composition": [
+      "crowd",
+      "sky dominant",
+      "layered depth",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "orange and blue",
+      "saturated",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "crowded life",
+      "fake nature",
+      "walking"
+    ],
+    "mood": [
+      "busy",
+      "sunny",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 23 SP39; Medina sign",
+      "role": "caption and found signage"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph. Signed 23 although numbered after the 2024 pieces. Print available.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "manhattan",
+      "greenway",
+      "FDR",
+      "cloud sky",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

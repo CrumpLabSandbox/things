@@ -1,0 +1,198 @@
+{
+  "id": "towns/group-portrait-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Group Portrait 2",
+    "series": "towns",
+    "series_slug": "towns",
+    "medium": "oil",
+    "surface": "wood panel",
+    "medium_source": "description",
+    "description_raw": "oil on wood panel",
+    "caption": null,
+    "camera": null,
+    "date": "2019-05-26 03:32:36",
+    "year": 2019,
+    "availability": null,
+    "physical_size_in": "10 x 10",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/towns/Group portrait 2.jpg",
+      "width": 1080,
+      "height": 1080,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 344194,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/towns/Group_Portrait_2.qmd",
+      "html": "things/towns/Group_Portrait_2.html",
+      "url": "https://crumplab.com/things/things/towns/Group_Portrait_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2019:05:26 03:32:36",
+        "image_description": "oil on wood panel"
+      },
+      "iptc": {
+        "object_name": "Group portrait 2",
+        "caption": "oil on wood panel",
+        "keywords": [
+          "10 x 10"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#a2a6b2",
+        "fraction": 0.3503
+      },
+      {
+        "hex": "#d3d1d8",
+        "fraction": 0.3483
+      },
+      {
+        "hex": "#2f2f31",
+        "fraction": 0.1451
+      },
+      {
+        "hex": "#cbd9ad",
+        "fraction": 0.0817
+      },
+      {
+        "hex": "#aec748",
+        "fraction": 0.0464
+      },
+      {
+        "hex": "#df7d78",
+        "fraction": 0.0283
+      }
+    ],
+    "hue_histogram": [
+      0.1326,
+      0.0219,
+      0.2915,
+      0.0507,
+      0.0105,
+      0.0469,
+      0.0926,
+      0.1416,
+      0.0652,
+      0.0669,
+      0.0309,
+      0.0486
+    ],
+    "dominant_hues": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "warm_fraction": 0.5062,
+    "mean_saturation": 0.1718,
+    "mean_value": 0.7082,
+    "mean_lightness": 0.6791,
+    "contrast": 0.2323,
+    "colorfulness": 44.12,
+    "mean_chroma": 13.11,
+    "is_monochrome": false,
+    "dark_fraction": 0.0859,
+    "light_fraction": 0.1061,
+    "edge_density": 0.2402,
+    "busyness": 0.1588,
+    "has_white_border": false,
+    "phash": "05f0ae9a3925d2cd",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/towns/group-portrait-2.jpg"
+  },
+  "described": {
+    "alt_text": "A square oil painting of a cluster of pastel dragon and castle like creatures with grated mouths, spiky wings and toothed tails against a flat grey ground, signed CRUMP 11.",
+    "description": "A square oil painting on wood, signed CRUMP 11 at lower centre. Eight or nine creatures in pink, lime, blue, lilac, yellow and cream are packed in the middle of a flat grey ground. Each has a rounded body topped by a flat white cap like a castle turret or a lid, a vertical grated mouth like a portcullis, pink and green spiky wings or crests, and a long tail edged with white teeth or scales. Thick black outlines over flat colour.",
+    "impression": "Dragons that have been crossed with castles, their mouths barred like gates. The grey ground makes them look like figures on a shelf. It is a stranger portrait than its sibling, as if the toys had turned into fortresses while nobody was looking.",
+    "subjects": [
+      "dragons",
+      "creatures",
+      "group portrait",
+      "castle"
+    ],
+    "characters": [
+      "dragon"
+    ],
+    "elements": [
+      "grated mouth",
+      "flat cap",
+      "spiky wings",
+      "toothed tail",
+      "signature"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central cluster",
+      "pile",
+      "bare ground",
+      "group portrait"
+    ],
+    "line": [
+      "thick black outline",
+      "flat fill",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "grey ground",
+      "soft"
+    ],
+    "style": [
+      "cartoon",
+      "naive",
+      "town world"
+    ],
+    "themes": [
+      "community",
+      "portrait",
+      "creatures as architecture"
+    ],
+    "mood": [
+      "calm",
+      "strange",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "CRUMP 11",
+      "role": "signature"
+    },
+    "format_notes": "Oil on wood, 10 by 10 inches. Signed and dated 2011.",
+    "free_tags": [
+      "town series",
+      "signed 2011",
+      "dragons",
+      "group portrait"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

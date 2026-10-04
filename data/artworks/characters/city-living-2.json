@@ -1,0 +1,203 @@
+{
+  "id": "characters/city-living-2",
+  "schema_version": 1,
+  "catalog": {
+    "title": "City Living 2",
+    "series": "characters",
+    "series_slug": "characters",
+    "medium": "airbrush",
+    "surface": "paper",
+    "medium_source": "description",
+    "description_raw": "airbrush on paper",
+    "caption": null,
+    "camera": null,
+    "date": "2016-04-22 15:13:23",
+    "year": 2016,
+    "availability": null,
+    "physical_size_in": "12 x 12",
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/characters/City living 2.jpg",
+      "width": 1280,
+      "height": 1280,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 326834,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/characters/City_Living_2.qmd",
+      "html": "things/characters/City_Living_2.html",
+      "url": "https://crumplab.com/things/things/characters/City_Living_2.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Photos 2.0",
+        "camera_make": "Apple",
+        "camera_model": "iPhone 5s",
+        "datetime": "2016:04:22 15:13:23",
+        "image_description": "airbrush on paper"
+      },
+      "iptc": {
+        "object_name": "City living 2",
+        "caption": "airbrush on paper",
+        "keywords": [
+          "12 x 12"
+        ],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e2ddd5",
+        "fraction": 0.4966
+      },
+      {
+        "hex": "#d5cfc8",
+        "fraction": 0.1706
+      },
+      {
+        "hex": "#bfb9b3",
+        "fraction": 0.1338
+      },
+      {
+        "hex": "#a29c96",
+        "fraction": 0.0961
+      },
+      {
+        "hex": "#7c7772",
+        "fraction": 0.0646
+      },
+      {
+        "hex": "#494642",
+        "fraction": 0.0382
+      }
+    ],
+    "hue_histogram": [
+      0.0022,
+      0.9447,
+      0.0157,
+      0.0011,
+      0.0,
+      0.0011,
+      0.0022,
+      0.0325,
+      0.0005,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 0.9626,
+    "mean_saturation": 0.063,
+    "mean_value": 0.7837,
+    "mean_lightness": 0.7853,
+    "contrast": 0.1506,
+    "colorfulness": 7.6,
+    "mean_chroma": 4.24,
+    "is_monochrome": true,
+    "dark_fraction": 0.0045,
+    "light_fraction": 0.0239,
+    "edge_density": 0.117,
+    "busyness": 0.0802,
+    "has_white_border": false,
+    "phash": "6f1c949fc46ad029",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/characters/city-living-2.jpg"
+  },
+  "described": {
+    "alt_text": "A grayscale airbrush drawing of angular apartment buildings with soft rounded windows, where small pod figures stand at street level and on a rooftop.",
+    "description": "A square airbrush painting on white paper, grey only. Tall angular buildings with sharp perspective edges and rounded soft window shapes fill the frame: a tower at left with a pod figure sitting on its roof, a block with a hatched roof at upper centre, a large central block with a tall doorway where a figure stands, and a block at right with a striped awning. Diagonal hatched spray marks give the roofs and walls a ruled texture. Three pod figures with visor faces stand in the street at the bottom and one stands on a tilted platform at right. Everything is sprayed with no ink outlines, using crisp stencil edges.",
+    "impression": "A city folded out of paper, with the buildings leaning toward each other like they are listening. The hatched spray makes it feel drafted rather than painted, like an architect's doodle. The pod figures look very small and very content.",
+    "subjects": [
+      "city",
+      "buildings",
+      "figures",
+      "street"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "windows",
+      "rooftop",
+      "doorway",
+      "hatched texture",
+      "awning"
+    ],
+    "setting": [
+      "invented city",
+      "NYC street"
+    ],
+    "composition": [
+      "angular perspective",
+      "dense",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge",
+      "crosshatch spray"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "cartoon",
+      "cubist"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "architecture"
+    ],
+    "mood": [
+      "calm",
+      "quiet",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "hooded pods",
+      "city living"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "characters/city-living-3",
+      "note": "Same composition drawn in ink over rainbow spray.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

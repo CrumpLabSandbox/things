@@ -1,0 +1,207 @@
+{
+  "id": "scribble/scribble-picture-41",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 41",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2024-10-12 11:20:13",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Beside the old baseball field",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 41.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 695662,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_41.qmd",
+      "html": "things/Scribble/Scribble_Picture_41.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_41.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": "Copyright Matthew Crump 2024"
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#4ccef0",
+        "fraction": 0.2592
+      },
+      {
+        "hex": "#eeeade",
+        "fraction": 0.1837
+      },
+      {
+        "hex": "#ebcca0",
+        "fraction": 0.1747
+      },
+      {
+        "hex": "#5a5a5b",
+        "fraction": 0.1727
+      },
+      {
+        "hex": "#b27c4e",
+        "fraction": 0.1364
+      },
+      {
+        "hex": "#edc751",
+        "fraction": 0.0732
+      }
+    ],
+    "hue_histogram": [
+      0.0239,
+      0.4891,
+      0.087,
+      0.0011,
+      0.0005,
+      0.0007,
+      0.2672,
+      0.1194,
+      0.0087,
+      0.001,
+      0.0003,
+      0.001
+    ],
+    "dominant_hues": [
+      "orange",
+      "cyan",
+      "blue"
+    ],
+    "warm_fraction": 0.6012,
+    "mean_saturation": 0.4152,
+    "mean_value": 0.8132,
+    "mean_lightness": 0.7202,
+    "contrast": 0.2069,
+    "colorfulness": 112.39,
+    "mean_chroma": 27.05,
+    "is_monochrome": false,
+    "dark_fraction": 0.0165,
+    "light_fraction": 0.2034,
+    "edge_density": 0.361,
+    "busyness": 0.1442,
+    "has_white_border": false,
+    "phash": "301bcc6373a75871",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-41.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph at Bedford Avenue and Sullivan Place in Brooklyn beside the old Ebbets Field site, with a woman in a blue dress walking away with a cartoon head, a lamp post covered in drawn signals and signs, apartment towers outlined in white, and cartoon cars, labelled SP41.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP41 on a drawn box at lower left. A tall traffic pole at left carries green street signs reading Bedford Av and Sullivan Pl, a white arrow sign, and traffic signals redrawn as flat yellow and blue cartoon boxes, with a yellow sign bearing a pink blob and a small drawn hand. Tan brick apartment towers with balconies fill the background, their rooflines and windows outlined in white and grey, with an Ebbets Field sign on a fence and autumn trees. A second lamp post stands at centre right. Cars along the far kerb are redrawn as soft blue and grey rounded shapes. In the foreground a woman in a blue dress with a tan bag walks away, her head drawn as a grey rounded cartoon shape, and a tan bin creature with wings sits on the sidewalk at right. The sky is bright blue.",
+    "impression": "An ordinary corner on a bright autumn day with the signals turned into toys and one walker turned into a drawing. The Ebbets Field sign is the historical footnote, the baseball field that is now apartment towers. The winged bin at the right is the only creature, keeping it company. Clear and quiet.",
+    "subjects": [
+      "street",
+      "city",
+      "apartment towers",
+      "lamp post",
+      "signs",
+      "people",
+      "cars",
+      "trees"
+    ],
+    "characters": [
+      "faceless figure",
+      "bin creature"
+    ],
+    "elements": [
+      "street sign",
+      "traffic light",
+      "outlined car",
+      "balcony tower",
+      "autumn trees",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Crown Heights",
+      "Ebbets Field"
+    ],
+    "composition": [
+      "figure from behind",
+      "foreground objects",
+      "photo base",
+      "vertical"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "saturated",
+      "blue sky",
+      "tan and blue",
+      "crisp"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "walking",
+      "place"
+    ],
+    "mood": [
+      "calm",
+      "crisp",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Bedford Av; Sullivan Pl; Ebbets Field; M 24 SP41",
+      "role": "found signage and caption"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "ebbets field",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

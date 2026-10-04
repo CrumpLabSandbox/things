@@ -1,0 +1,205 @@
+{
+  "id": "scribble/scribble-picture-20",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 20",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "description",
+    "description_raw": "Digital Work",
+    "caption": null,
+    "camera": null,
+    "date": "2023-09-12 09:54:27",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Vancouver. Pretend clouds.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble Picture 20.jpeg",
+      "width": 854,
+      "height": 1280,
+      "aspect": 0.6672,
+      "orientation": "portrait",
+      "bytes": 1525516,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_20.qmd",
+      "html": "things/Scribble/Scribble_Picture_20.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_20.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:08:21 15:40:34",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#f0eee9",
+        "fraction": 0.4627
+      },
+      {
+        "hex": "#ddba88",
+        "fraction": 0.2371
+      },
+      {
+        "hex": "#47423c",
+        "fraction": 0.098
+      },
+      {
+        "hex": "#9a9180",
+        "fraction": 0.0935
+      },
+      {
+        "hex": "#a06c3f",
+        "fraction": 0.0864
+      },
+      {
+        "hex": "#5b94a1",
+        "fraction": 0.0223
+      }
+    ],
+    "hue_histogram": [
+      0.0248,
+      0.8554,
+      0.0347,
+      0.006,
+      0.0042,
+      0.0107,
+      0.0264,
+      0.0343,
+      0.0016,
+      0.0004,
+      0.0003,
+      0.0011
+    ],
+    "dominant_hues": [
+      "orange"
+    ],
+    "warm_fraction": 0.9162,
+    "mean_saturation": 0.2068,
+    "mean_value": 0.7955,
+    "mean_lightness": 0.758,
+    "contrast": 0.2245,
+    "colorfulness": 49.93,
+    "mean_chroma": 14.08,
+    "is_monochrome": false,
+    "dark_fraction": 0.015,
+    "light_fraction": 0.3853,
+    "edge_density": 0.3333,
+    "busyness": 0.1421,
+    "has_white_border": true,
+    "phash": "3bc0843eb239c35d",
+    "analysis_size": [
+      342,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-20.jpg"
+  },
+  "described": {
+    "alt_text": "A photograph of downtown Vancouver with a sky filled by outlined cartoon clouds, a group of faceless travellers with suitcases in the foreground, and a yellow green cartoon tree, signed 2023.",
+    "description": "A portrait format digital piece on a photograph inside a white border, signed 2023 at lower left. The upper half is a pale sky completely filled with outlined white cartoon cumulus clouds, drawn over and between glass and brick office towers, including a copper coloured tower at centre and a blue glass tower at right. A street sign reads Howe St. In the foreground on a brick plaza a group of travellers stand with their heads replaced by grey, tan and white cartoon shapes: a family of four at left, a figure in a yellow safety vest, a figure in a white hat with a camera, and a figure in a cap pulling a silver suitcase. At right a faceless figure in a brown shirt and jeans pulls a red suitcase while raising an arm. A lime green cartoon tree is drawn beside a tower at centre right, and outlined cars sit in the road.",
+    "impression": "Pretend clouds, as the process note says, and they take over the sky like a crowd of their own. Below them the real crowd of tourists with suitcases stand around deciding where to go. The outlined clouds against the glass towers make the city look like a pop up book. Cheerful and a little lost, like the first hour in a new city.",
+    "subjects": [
+      "city",
+      "skyscrapers",
+      "clouds",
+      "people",
+      "travellers",
+      "suitcases",
+      "plaza",
+      "trees"
+    ],
+    "characters": [
+      "faceless figure"
+    ],
+    "elements": [
+      "outlined cloud",
+      "suitcase",
+      "street sign",
+      "flat tree",
+      "outlined car",
+      "white border",
+      "signature"
+    ],
+    "setting": [
+      "Vancouver",
+      "invented city",
+      "Downtown Brooklyn"
+    ],
+    "composition": [
+      "figures in foreground",
+      "sky dominant",
+      "photo base",
+      "border framed"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "warm",
+      "copper and blue",
+      "washed",
+      "white clouds"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "travel",
+      "anonymity",
+      "fake nature",
+      "waiting"
+    ],
+    "mood": [
+      "playful",
+      "calm",
+      "anticipation"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "Howe St; signature 2023",
+      "role": "found signage and signature"
+    },
+    "format_notes": "Digital drawing over a photograph taken in Vancouver, print layout with white border.",
+    "free_tags": [
+      "scribble series",
+      "vancouver",
+      "pretend clouds",
+      "faceless people",
+      "signed 2023"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

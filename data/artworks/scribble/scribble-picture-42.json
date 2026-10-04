@@ -1,0 +1,210 @@
+{
+  "id": "scribble/scribble-picture-42",
+  "schema_version": 1,
+  "catalog": {
+    "title": "Scribble Picture 42",
+    "series": "Scribble",
+    "series_slug": "scribble",
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "series",
+    "description_raw": null,
+    "caption": null,
+    "camera": null,
+    "date": "2024-10-13 11:25:23",
+    "year": 2024,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Clocktower",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "path": "images/Scribble/Scribble picture 42.jpeg",
+      "width": 854,
+      "height": 1281,
+      "aspect": 0.6667,
+      "orientation": "portrait",
+      "bytes": 736897,
+      "format": "JPEG"
+    },
+    "page": {
+      "qmd": "things/Scribble/Scribble_Picture_42.qmd",
+      "html": "things/Scribble/Scribble_Picture_42.html",
+      "url": "https://crumplab.com/things/things/Scribble/Scribble_Picture_42.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": "Adobe Photoshop 26.2 (20241106.m.2837 f85c071)  (Macintosh)",
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2024:11:11 06:44:19",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": "Scribble Picture 42",
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#e4edf0",
+        "fraction": 0.301
+      },
+      {
+        "hex": "#f0b73f",
+        "fraction": 0.2019
+      },
+      {
+        "hex": "#4dd8fb",
+        "fraction": 0.1974
+      },
+      {
+        "hex": "#f0d5a5",
+        "fraction": 0.1116
+      },
+      {
+        "hex": "#9b7855",
+        "fraction": 0.0961
+      },
+      {
+        "hex": "#4b4947",
+        "fraction": 0.0918
+      }
+    ],
+    "hue_histogram": [
+      0.0116,
+      0.5276,
+      0.0749,
+      0.0005,
+      0.0003,
+      0.0009,
+      0.2918,
+      0.0858,
+      0.0045,
+      0.0009,
+      0.0004,
+      0.0008
+    ],
+    "dominant_hues": [
+      "orange",
+      "cyan",
+      "blue"
+    ],
+    "warm_fraction": 0.6152,
+    "mean_saturation": 0.4035,
+    "mean_value": 0.8613,
+    "mean_lightness": 0.7708,
+    "contrast": 0.2039,
+    "colorfulness": 118.46,
+    "mean_chroma": 28.67,
+    "is_monochrome": false,
+    "dark_fraction": 0.0206,
+    "light_fraction": 0.2739,
+    "edge_density": 0.3739,
+    "busyness": 0.1563,
+    "has_white_border": false,
+    "phash": "2589534fbc067ca6",
+    "analysis_size": [
+      341,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/scribble/scribble-picture-42.jpg"
+  },
+  "described": {
+    "alt_text": "A low angle photograph of the Williamsburgh Savings Bank clock tower in Brooklyn, wrapped in a tower of outlined cartoon clouds with small creatures hiding in them, above the Atlantic Avenue station entrance and a street of cartoon cars and creatures, labelled SP42.",
+    "description": "A portrait format digital piece on a photograph, signed M 24 SP42 at left on a building. The gold brick clock tower with its dome rises at centre against a bright blue sky, and a mass of outlined white cartoon clouds is drawn around it from top to bottom, with small creatures and eyes hidden in the cloud lobes and a few clouds drawn across the tower's face. At lower right the classical Atlantic Avenue subway entrance with carved lettering and arched windows. At street level the traffic and sidewalk are crowded with cartoon cars in white, grey and blue, a tall cream creature at lower right, bins with faces, and a faceless figure in a dark coat walking at centre. A low building at left carries the caption.",
+    "impression": "The clocktower dressed in a cumulus coat, with the clouds so thick they look like a second building. Finding the creatures hidden in the cloud lobes is a game. Below, the street carries on with its cartoon traffic. A landmark portrait in the grand manner, with the sky as the main character.",
+    "subjects": [
+      "city",
+      "clock tower",
+      "landmark",
+      "clouds",
+      "creatures",
+      "subway entrance",
+      "cars",
+      "people"
+    ],
+    "characters": [
+      "hidden face",
+      "faceless figure",
+      "vehicle creature",
+      "bin creature"
+    ],
+    "elements": [
+      "outlined cloud",
+      "clock",
+      "dome",
+      "carved lettering",
+      "outlined car",
+      "caption"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Atlantic Avenue"
+    ],
+    "composition": [
+      "low angle",
+      "central feature",
+      "vertical",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "flat fill over photo"
+    ],
+    "color_words": [
+      "gold and blue",
+      "saturated",
+      "warm",
+      "sunny"
+    ],
+    "style": [
+      "scribble picture",
+      "photo collage",
+      "cartoon over photo",
+      "invented scenery"
+    ],
+    "themes": [
+      "city",
+      "landmarks",
+      "hidden creatures",
+      "fake nature"
+    ],
+    "mood": [
+      "wondrous",
+      "playful",
+      "sunny"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "M 24 SP42; Atlantic Avenue carved lettering",
+      "role": "caption and found signage"
+    },
+    "format_notes": "Digital drawing over a Fujifilm X-H2 photograph.",
+    "free_tags": [
+      "scribble series",
+      "NYC",
+      "brooklyn",
+      "clocktower",
+      "cloud tower",
+      "signed 2024"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

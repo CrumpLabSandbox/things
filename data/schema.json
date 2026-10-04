@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "about": "Structure of one artwork record in data/artworks/<series>/<slug>.json. Blocks are owned by different processes: catalog by scripts/build_catalog.py, measured by scripts/measure_images.py, described and relations by a describing pass (Claude or Matt) and the local edit tool, author by Matt only.",
+  "blocks": {
+    "id": "Stable identifier, <series-slug>/<title-slug>. Never changes once created.",
+    "catalog": {
+      "owner": "scripts/build_catalog.py",
+      "fields": {
+        "title": "Display title, from the Quarto page.",
+        "series": "Folder name under images/, as on the site.",
+        "series_slug": "Lowercase slug of series.",
+        "medium": "Normalised medium: digital, oil, airbrush, marker, acrylic, gouache, ink, screen print, spray paint, vinyl, pen, ink and airbrush.",
+        "surface": "paper, canvas, wood panel, or null for digital.",
+        "medium_source": "Where the medium came from: description, title, or series.",
+        "description_raw": "The original EXIF description string, untouched.",
+        "caption": "Location or scene text that was stored in the description field.",
+        "camera": "Camera named in the description, if any.",
+        "date": "Creation date and time from the page front matter.",
+        "year": "Integer year.",
+        "availability": "sold, not for sale, or null (unknown).",
+        "physical_size_in": "Physical size in inches from IPTC keywords, e.g. 12 x 12.",
+        "process_notes": "Hand written process notes from the page body.",
+        "print_url": "Shop link for a print, if the page has one.",
+        "print_note": "Any other text in the print section.",
+        "image": "path, width, height, aspect, orientation (square, landscape, portrait), bytes, format.",
+        "page": "qmd source, html output path, public url.",
+        "source_metadata": "Raw EXIF and IPTC values kept for reference.",
+        "catalog_built": "Date this block was last refreshed."
+      }
+    },
+    "measured": {
+      "owner": "scripts/measure_images.py",
+      "fields": {
+        "palette": "Up to 6 colours as hex with the fraction of pixels nearest each, largest first.",
+        "hue_histogram": "12 bins over the hue wheel starting at red, saturated pixels only, sums to 1.",
+        "dominant_hues": "Up to 3 hue family names with more than 8 percent of saturated pixels.",
+        "warm_fraction": "Share of saturated pixels in red through yellow or magenta through pink.",
+        "mean_saturation": "0 to 1.",
+        "mean_value": "0 to 1, HSV value.",
+        "mean_lightness": "0 to 1, CIE L.",
+        "contrast": "Standard deviation of lightness.",
+        "colorfulness": "Hasler and Suesstrunk colourfulness, roughly 0 to 100.",
+        "mean_chroma": "Mean CIE chroma.",
+        "is_monochrome": "True when the piece is effectively grayscale.",
+        "dark_fraction": "Share of pixels darker than 0.2 lightness, a proxy for heavy black line work.",
+        "light_fraction": "Share of pixels lighter than 0.9 lightness, a proxy for white paper or borders.",
+        "edge_density": "Share of pixels on strong edges, a proxy for amount of line.",
+        "busyness": "Mean local standard deviation in 16 px blocks, a proxy for all over detail.",
+        "has_white_border": "True when the outer 2 percent of the image is near white.",
+        "phash": "64 bit perceptual hash as hex, for near duplicate detection.",
+        "thumbnail": "Path to a 256 px JPEG under data/thumbs/.",
+        "analysis_size": "Pixel size the features were computed at.",
+        "measured_on": "Date."
+      }
+    },
+    "described": {
+      "owner": "describing pass, then the edit tool",
+      "fields": {
+        "alt_text": "One plain sentence for screen readers.",
+        "description": "One neutral, concrete paragraph of what is visibly there.",
+        "impression": "One interpretive paragraph: a viewer's reading, mood, associations, what seems to be happening. Clearly a reading, not a fact.",
+        "subjects": "Tags from vocabulary.subjects: what is depicted.",
+        "characters": "Tags from vocabulary.characters: recurring beings and figure types.",
+        "elements": "Tags from vocabulary.elements: smaller visible components.",
+        "setting": "Tags from vocabulary.setting.",
+        "composition": "Tags from vocabulary.composition.",
+        "line": "Tags from vocabulary.line: mark and outline quality.",
+        "color_words": "Tags from vocabulary.color_words: the palette in words.",
+        "style": "Tags from vocabulary.style: lineages and references.",
+        "themes": "Tags from vocabulary.themes: recurring ideas across pieces.",
+        "mood": "Tags from vocabulary.mood.",
+        "text_in_image": "Object: present (bool), content (string or null), role (signature, title, lettering, graffiti, found signage).",
+        "format_notes": "Free text on materials and format as seen in the image: visible canvas weave, photographed under glare, white border, sketchbook page.",
+        "free_tags": "Free text tags that fit no facet yet. Candidates for the vocabulary.",
+        "confidence": "high, medium, low.",
+        "described_by": "Who wrote this block.",
+        "described_on": "Date.",
+        "vocabulary_version": "Version of data/vocabulary.json used."
+      }
+    },
+    "relations": {
+      "owner": "describing pass, edit tool, and scripts/build_similarity.py for computed ones",
+      "item": {
+        "type": "One of: variation_of, source_of, same_characters, same_scene, series_pair, revisits, step_toward, near_duplicate.",
+        "target": "Record id.",
+        "note": "Optional free text.",
+        "source": "described or computed."
+      }
+    },
+    "author": {
+      "owner": "Matt only",
+      "fields": {
+        "verified": "True once Matt has reviewed the described block.",
+        "notes": "Anything Matt wants to say about the piece or the tagging.",
+        "hidden": "Optional. True removes the piece from the public build entirely."
+      }
+    }
+  }
+}
