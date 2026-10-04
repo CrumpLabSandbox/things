@@ -4,3 +4,8 @@
 .Ruserdata
 .DS_Store
 /.quarto/
+__pycache__/
+*.pyc
+node_modules/
+web/dist/
+web/.astro/
