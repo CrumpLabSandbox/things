@@ -12,7 +12,7 @@ format:
 
 ```{=html}
 <div id="explore" class="x-app">
-  <aside class="x-side">
+  <div class="x-side">
     <input id="x-search" type="search" placeholder="search descriptions, titles, tags" autocomplete="off">
     <div class="x-controls">
       <label>sort
@@ -30,8 +30,8 @@ format:
     </div>
     <div id="x-active" class="x-active"></div>
     <div id="x-facets"></div>
-  </aside>
-  <main class="x-main">
+  </div>
+  <div class="x-main">
     <div class="x-bar">
       <span id="x-count"></span>
       <span class="x-views">
@@ -41,7 +41,7 @@ format:
     </div>
     <div id="x-grid" class="x-grid"></div>
     <div id="x-map" class="x-map" hidden></div>
-  </main>
+  </div>
   <div id="x-detail" class="x-detail" hidden></div>
 </div>
 <script src="explore/explore.js"></script>
