@@ -1,0 +1,23 @@
+---
+import { Image } from "astro:assets";
+import type { Artwork } from "../lib/data";
+import { img } from "../lib/images";
+import { workUrl } from "../lib/urls";
+
+interface Props { items: Artwork[]; height?: number }
+const { items, height = 120 } = Astro.props;
+---
+<div class="strip">
+  {items.map((a) => (
+    <a href={workUrl(a.id)} title={a.catalog.title}>
+      <Image
+        src={img(a.catalog.image.path)}
+        alt={a.catalog.title}
+        height={height}
+        width={Math.round(height * a.catalog.image.aspect)}
+        densities={[1, 2]}
+        loading="lazy"
+      />
+    </a>
+  ))}
+</div>

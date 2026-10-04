@@ -1,0 +1,27 @@
+---
+import Base from "../../layouts/Base.astro";
+import Gallery from "../../components/Gallery.astro";
+import { seriesList } from "../../lib/data";
+import { seriesUrl } from "../../lib/urls";
+
+export function getStaticPaths() {
+  return seriesList().map((s) => ({ params: { slug: s.slug }, props: { s } }));
+}
+const { s } = Astro.props as { s: ReturnType<typeof seriesList>[number] };
+const all = seriesList();
+---
+<Base title={s.name} description={s.summary} image={s.works[0].catalog.image.path} wide>
+  <div class="page-head">
+    <h1>{s.name}</h1>
+    <p>{s.years} · {s.medium} · {s.works.length} pieces</p>
+    <p>{s.summary}</p>
+  </div>
+  <nav class="chips series-nav" aria-label="Series">
+    {all.map((x) => <a class="chip" href={seriesUrl(x.slug)} aria-current={x.slug === s.slug ? "page" : undefined}>{x.name}</a>)}
+  </nav>
+  <Gallery items={s.works} />
+</Base>
+
+<style>
+  .series-nav { margin: 0 0 1.5rem; }
+</style>

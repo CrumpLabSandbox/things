@@ -1,0 +1,39 @@
+---
+import { Image } from "astro:assets";
+import Base from "../../layouts/Base.astro";
+import { seriesList } from "../../lib/data";
+import { img } from "../../lib/images";
+import { seriesUrl } from "../../lib/urls";
+const series = seriesList();
+---
+<Base title="Series" wide>
+  <div class="page-head">
+    <h1>Series</h1>
+    <p>Groups of work made in the same medium and spirit, newest first within each.</p>
+  </div>
+  <div class="series-grid">
+    {series.map((s) => (
+      <a class="series-card" href={seriesUrl(s.slug)}>
+        <div class="covers">
+          {s.works.slice(0, 3).map((w) => (
+            <Image src={img(w.catalog.image.path)} alt="" width={360} height={360} densities={[1, 2]} loading="lazy" />
+          ))}
+        </div>
+        <h2>{s.name}</h2>
+        <p class="muted">{s.years} · {s.medium} · {s.works.length} pieces</p>
+        <p>{s.summary}</p>
+      </a>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .series-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem 1.5rem; }
+  .series-card { text-decoration: none; display: block; }
+  .series-card h2 { margin: 0.75rem 0 0.2rem; }
+  .series-card p { margin: 0 0 0.4rem; font-size: 0.95rem; }
+  .covers { display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 1fr 1fr; gap: 4px; aspect-ratio: 3 / 2; }
+  .covers img { width: 100%; height: 100%; object-fit: cover; border-radius: 3px; background: var(--tile); }
+  .covers img:first-child { grid-row: span 2; }
+  .series-card:hover h2 { text-decoration: underline; }
+</style>

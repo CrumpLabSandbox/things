@@ -1,0 +1,30 @@
+---
+import { Image } from "astro:assets";
+import Base from "../../layouts/Base.astro";
+import { posts, fmtDate } from "../../lib/blog";
+import { img } from "../../lib/images";
+import { href } from "../../lib/urls";
+
+export function getStaticPaths() {
+  return posts.map((p) => ({ params: { slug: p.slug }, props: { p } }));
+}
+const { p } = Astro.props as { p: (typeof posts)[number] };
+const fm = p.frontmatter;
+const { Content } = p;
+---
+<Base title={fm.title} description={fm.description} image={fm.cover}>
+  <article class="prose post">
+    <p class="muted"><a href={href("blog/")}>Blog</a> · {fmtDate(fm.date)}</p>
+    <h1>{fm.title}</h1>
+    {fm.cover && <Image src={img(fm.cover)} alt="" width={640} densities={[1, 2]} class="cover" />}
+    <Content />
+    {fm.categories && fm.categories.length > 0 && <p class="chips cats">{fm.categories.map((c) => <span class="chip">{c}</span>)}</p>}
+  </article>
+</Base>
+
+<style>
+  .post h1 { margin-bottom: 1rem; }
+  .post :global(h2) { margin-top: 2rem; }
+  .cover { max-width: 22rem; border-radius: var(--radius); margin: 0 0 1.5rem; }
+  .cats { margin-top: 2rem; }
+</style>

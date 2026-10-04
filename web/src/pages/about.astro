@@ -1,0 +1,47 @@
+---
+import { Image } from "astro:assets";
+import Base from "../layouts/Base.astro";
+import { img } from "../lib/images";
+
+const links = [
+  ["Lab website", "https://crumplab.com"],
+  ["Mastodon", "https://fosstodon.org/@MattCrumpLab"],
+  ["Bluesky", "https://bsky.app/profile/mattcrumplab.bsky.social"],
+  ["GitHub", "https://github.com/CrumpLab"],
+  ["Google Scholar", "https://scholar.google.com/citations?user=49EVuVcAAAAJ&hl=en"],
+  ["YouTube", "https://www.youtube.com/c/CrumpsComputationalCognitionLab"],
+  ["Flickr", "https://www.flickr.com/photos/201779890@N02/"],
+  ["Brooklyn College", "https://www.brooklyn.edu/faculty-staff/matthew-crump/"],
+  ["The Graduate Center, CUNY", "https://www.gc.cuny.edu/psychology/training-areas/cognitive-and-comparative-psychology"],
+];
+---
+<Base title="About" image="imgs/Crump.png">
+  <div class="about">
+    <Image src={img("imgs/Crump.png")} alt="Matt Crump" width={280} densities={[1, 2]} class="portrait" />
+    <div class="prose">
+      <h1>About</h1>
+      <p>Matt Crump is a cognitive psychologist at Brooklyn College of CUNY, and runs the <a href="https://crumplab.com">computational cognition lab</a> in the Department of Psychology.</p>
+      <p>He sometimes makes paintings, pictures, and other visual things.</p>
+      <h2>Education</h2>
+      <ul>
+        <li>Postdoc, Vanderbilt University, 2011 (Psychology)</li>
+        <li>Ph.D., McMaster University, 2007 (Psychology)</li>
+        <li>B.Sc., University of Lethbridge, 2002 (Psychology)</li>
+      </ul>
+      <h2>Experience</h2>
+      <ul>
+        <li>Assistant Professor, Brooklyn College of CUNY (2011)</li>
+        <li>Associate Professor, Brooklyn College of CUNY (2016)</li>
+        <li>Full Professor, Brooklyn College of CUNY (2022)</li>
+      </ul>
+      <h2>Elsewhere</h2>
+      <p class="chips">{links.map(([t, u]) => <a class="chip" href={u}>{t}</a>)}</p>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .about { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 2.5rem; align-items: start; }
+  @media (max-width: 720px) { .about { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; } }
+  .portrait { width: 100%; max-width: 280px; border-radius: var(--radius); }
+</style>

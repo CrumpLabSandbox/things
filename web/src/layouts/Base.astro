@@ -1,0 +1,62 @@
+---
+import "../styles/global.css";
+import { href, asset } from "../lib/urls";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string; // repo-relative path for the social preview
+  wide?: boolean;
+}
+const { title, description = "Visual things by Matt Crump", image = "imgs/things.jpg", wide = false } = Astro.props;
+const fullTitle = title ? `${title} · things` : "things by Matt Crump";
+const site = Astro.site ? new URL(Astro.site) : null;
+const ogImage = site ? new URL(asset(image), site).href : asset(image);
+const path = Astro.url.pathname;
+const nav = [
+  ["works", href("")],
+  ["series", href("series/")],
+  ["explore", href("explore/")],
+  ["process", href("process/")],
+  ["playground", href("playground/")],
+  ["blog", href("blog/")],
+  ["prints", href("prints/")],
+  ["about", href("about/")],
+];
+const isActive = (h: string) => (h === href("") ? path === h || path === h.replace(/\/$/, "") : path.startsWith(h));
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href={asset("imgs/things.jpg")} />
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-5FFRFL1GSE"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag("js", new Date());
+      gtag("config", "G-5FFRFL1GSE", { anonymize_ip: true });
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="wordmark" href={href("")}>things</a>
+      <nav aria-label="Site">
+        {nav.map(([label, h]) => <a href={h} aria-current={isActive(h) ? "page" : undefined}>{label}</a>)}
+      </nav>
+    </header>
+    <main class:list={["site-main", { wide }]}>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>Copyright 2008–{new Date().getFullYear()} Matt Crump. All rights reserved.</p>
+    </footer>
+  </body>
+</html>

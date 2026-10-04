@@ -1,0 +1,21 @@
+---
+import Base from "../layouts/Base.astro";
+import Gallery from "../components/Gallery.astro";
+import { works, seriesList } from "../lib/data";
+import { seriesUrl } from "../lib/urls";
+const series = seriesList();
+---
+<Base wide>
+  <div class="page-head">
+    <h1>things by Matt Crump</h1>
+    <p>Paintings, drawings and pictures, 2008 to now. {works.length} pieces in {series.length} series.</p>
+  </div>
+  <nav class="chips series-nav" aria-label="Series">
+    {series.map((s) => <a class="chip" href={seriesUrl(s.slug)}>{s.name} <small>{s.works.length}</small></a>)}
+  </nav>
+  <Gallery items={works} />
+</Base>
+
+<style>
+  .series-nav { margin: 0 0 1.5rem; }
+</style>

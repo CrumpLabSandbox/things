@@ -1,0 +1,52 @@
+---
+import { Image } from "astro:assets";
+import Base from "../layouts/Base.astro";
+import { playground, byId } from "../lib/data";
+import { img } from "../lib/images";
+import { asset, workUrl } from "../lib/urls";
+import { notesToHtml } from "../lib/text";
+
+const label: Record<string, string> = {
+  meeting_mountains: "Meeting of the Mountains",
+  volcano_ball_lake: "Volcano Ball Lake",
+  volcano_2: "Volcano Ball Lake, second round",
+};
+const total = playground.reduce((n, g) => n + g.items.length, 0);
+---
+<Base title="Playground" description="Trying things out: Stable Diffusion variations of finished pieces." wide>
+  <div class="page-head">
+    <h1>Playground</h1>
+    <p>Trying things out. {total} Stable Diffusion variations made from the line art of finished pieces.</p>
+  </div>
+
+  {playground.map((g) => {
+    const src = g.source ? byId.get(g.source) : null;
+    return (
+      <section class="group" id={g.id}>
+        <h2>{label[g.id] ?? g.id}</h2>
+        <p class="muted">
+          {g.items.length} variations
+          {src && <> · from <a href={workUrl(src.id)}>{src.catalog.title}</a></>}
+        </p>
+        {g.notes && <div class="prose small" set:html={notesToHtml(g.notes)} />}
+        <div class="gallery">
+          {g.items.map((it) => (
+            <figure class="tile" id={it.id} style={`--a: ${(it.width / it.height).toFixed(4)}`}>
+              <a href={asset(it.image)}>
+                <Image src={img(it.image)} alt={it.prompt ? `Variation: ${it.prompt}` : "Stable Diffusion variation"} widths={[320, 520]} sizes="(max-width: 640px) 50vw, 25vw" loading="lazy" />
+              </a>
+              {it.prompt && <figcaption class="cap">“{it.prompt}”</figcaption>}
+            </figure>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+</Base>
+
+<style>
+  .group { margin-bottom: 3rem; }
+  .group h2 { margin-bottom: 0.2rem; }
+  .small :global(p) { font-size: 0.95rem; }
+  figure.tile:target img { outline: 3px solid var(--fg); outline-offset: 2px; }
+</style>

@@ -1,0 +1,10 @@
+---
+import Base from "../layouts/Base.astro";
+import { href } from "../lib/urls";
+---
+<Base title="Not found">
+  <div class="prose">
+    <h1>Not found</h1>
+    <p>That page isn't here. Try the <a href={href("")}>works</a> or <a href={href("explore/")}>explore</a>.</p>
+  </div>
+</Base>

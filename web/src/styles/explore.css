@@ -1,0 +1,55 @@
+.x-app [hidden], .x-detail[hidden] { display: none !important; }
+.x-app { display: grid; grid-template-columns: 260px minmax(0, 1fr); gap: 1.25rem; align-items: start; }
+.x-side, .x-main { min-width: 0; }
+@media (max-width: 800px) { .x-app { grid-template-columns: 1fr; } .x-side { position: static; max-height: none; } }
+.x-side { position: sticky; top: 1rem; max-height: calc(100vh - 2rem); overflow: auto; font-size: 0.85rem; padding-right: 0.5rem; }
+.x-side input[type=search] { width: 100%; padding: 0.4rem 0.5rem; border: 1px solid var(--line); border-radius: 4px; margin-bottom: 0.5rem; }
+.x-controls { display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem; flex-wrap: wrap; }
+.x-controls select { font-size: 0.85rem; }
+.x-controls button, .x-views button, .x-detail button { font-size: 0.8rem; padding: 0.2rem 0.5rem; border: 1px solid var(--line); background: var(--bg); border-radius: 4px; cursor: pointer; }
+.x-views button.is-on { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+.x-active { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-bottom: 0.5rem; }
+.x-active .x-chip { background: var(--accent); color: var(--accent-fg); }
+.x-facet { margin-bottom: 0.6rem; }
+.x-facet summary { cursor: pointer; font-weight: 600; text-transform: lowercase; letter-spacing: 0.02em; }
+.x-facet .x-tags { display: flex; flex-wrap: wrap; gap: 0.25rem; padding: 0.3rem 0; }
+.x-chip { display: inline-block; padding: 0.1rem 0.45rem; border-radius: 999px; background: var(--chip); cursor: pointer; line-height: 1.5; white-space: nowrap; }
+.x-chip:hover { background: var(--chip-hover); }
+.x-chip.is-on { background: var(--accent); color: var(--accent-fg); }
+.x-chip small { opacity: 0.6; margin-left: 0.2rem; }
+.x-bar { scroll-margin-top: 1rem; display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; font-size: 0.85rem; color: var(--muted); }
+.x-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.6rem; }
+.x-card { cursor: pointer; background: var(--tile); border-radius: 4px; overflow: hidden; aspect-ratio: 1; display: flex; align-items: center; justify-content: center; position: relative; }
+.x-card img { max-width: 100%; max-height: 100%; object-fit: contain; display: block; }
+.x-card .x-cap { position: absolute; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.6); color: var(--bg); font-size: 0.7rem; padding: 0.15rem 0.4rem; opacity: 0; transition: opacity 0.15s; }
+.x-card:hover .x-cap { opacity: 1; }
+.x-map { position: relative; width: 100%; aspect-ratio: 1; background: var(--tile); border: 1px solid var(--chip); border-radius: 4px; overflow: hidden; }
+.x-map .x-dot { position: absolute; width: 36px; height: 36px; margin: -18px 0 0 -18px; border-radius: 3px; overflow: hidden; cursor: pointer; box-shadow: 0 0 0 1px rgba(0,0,0,0.15); transition: transform 0.1s; }
+.x-map .x-dot img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.x-map .x-dot:hover, .x-map .x-dot.is-on { transform: scale(2.2); z-index: 5; box-shadow: 0 2px 8px rgba(0,0,0,0.4); }
+.x-map .x-dot.is-dim { opacity: 0.18; }
+.x-detail { position: fixed; inset: 0; background: var(--bg); z-index: 10000; overflow: auto; padding: 1.5rem; }
+.x-detail .x-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 1.5rem; }
+@media (max-width: 800px) { .x-detail .x-inner { grid-template-columns: minmax(0, 1fr); } .x-detail { padding: 3.5rem 1rem 1rem; } }
+.x-detail img.x-big { width: 100%; height: auto; display: block; }
+.x-detail h2 { margin: 0 0 0.25rem 0; font-size: 1.4rem; }
+.x-detail .x-meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.75rem; }
+.x-detail .x-meta a { color: inherit; }
+.x-detail .x-close { position: fixed; top: 1rem; right: 1rem; }
+.x-detail .x-nav { position: fixed; top: 50%; font-size: 1.5rem; padding: 0.3rem 0.6rem; }
+.x-detail .x-prev { left: 0.5rem; } .x-detail .x-next { right: 0.5rem; }
+.x-detail .x-alt { font-style: italic; color: var(--muted); margin-bottom: 0.75rem; }
+.x-detail .x-facetline { margin: 0.2rem 0; font-size: 0.85rem; }
+.x-detail .x-facetline b { text-transform: lowercase; color: var(--muted); font-weight: 600; margin-right: 0.3rem; }
+.x-detail .x-palette { display: flex; gap: 2px; margin: 0.5rem 0; height: 18px; }
+.x-detail .x-palette span { display: block; border-radius: 2px; }
+.x-detail h3 { font-size: 0.9rem; text-transform: lowercase; color: var(--muted); margin: 1rem 0 0.3rem 0; }
+.x-detail .x-strip { display: flex; gap: 0.4rem; overflow-x: auto; }
+.x-detail .x-strip .x-card { flex: 0 0 90px; width: 90px; }
+.x-detail .x-rel { font-size: 0.85rem; margin: 0.2rem 0; }
+.x-detail .x-rel a { cursor: pointer; text-decoration: underline; }
+@media (max-width: 991px) { .x-bar { scroll-margin-top: 4rem; } }
+
+.x-side input[type=search], .x-controls select, .x-controls button, .x-views button, .x-detail button { background: var(--bg); color: var(--fg); font: inherit; font-size: 0.85rem; }
+.x-chip { color: var(--fg); }
+.x-card .x-cap { color: #fff; }

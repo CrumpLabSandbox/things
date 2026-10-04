@@ -1,0 +1,50 @@
+---
+import { Image } from "astro:assets";
+import Base from "../../layouts/Base.astro";
+import { projects, byId, kindOf, type Project } from "../../lib/data";
+import { img } from "../../lib/images";
+import { workUrl, asset } from "../../lib/urls";
+
+export function getStaticPaths() {
+  return projects.map((p) => ({ params: { id: p.id }, props: { p } }));
+}
+const { p } = Astro.props as { p: Project };
+const steps = p.steps.map((s, i) => ({ ...s, n: i + 1, a: byId.get(s.id) })).filter((s) => s.a);
+const result = byId.get(p.result);
+---
+<Base title={`Process: ${p.title}`} description={p.summary} image={result?.catalog.image.path} wide>
+  <div class="page-head">
+    <h1>{p.title}</h1>
+    <p>{p.dates} · {steps.length} steps</p>
+  </div>
+  <div class="prose intro"><p>{p.summary}</p></div>
+
+  <ol class="steps">
+    {steps.map((s) => (
+      <li id={`step-${s.n}`}>
+        <a href={asset(s.a!.catalog.image.path)} class="img">
+          <Image src={img(s.a!.catalog.image.path)} alt={s.a!.described?.alt_text ?? s.caption} widths={[480, 960]} sizes="(max-width: 800px) 100vw, 55vw" loading={s.n < 3 ? "eager" : "lazy"} />
+        </a>
+        <div class="text">
+          <span class="num">{s.n}</span>
+          <p class="cap">{s.caption}</p>
+          <p class="muted">
+            <a href={workUrl(s.a!.id)}>{s.a!.catalog.title}</a>
+            {kindOf(s.a!) === "work" && <> · finished piece</>}
+            {s.a!.catalog.date && <> · {s.a!.catalog.date.slice(0, 10)}</>}
+          </p>
+        </div>
+      </li>
+    ))}
+  </ol>
+</Base>
+
+<style>
+  .intro { margin-bottom: 2rem; }
+  .steps { list-style: none; padding: 0; margin: 0; display: grid; gap: 2.5rem; }
+  .steps li { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 1.5rem; align-items: start; }
+  @media (max-width: 800px) { .steps li { grid-template-columns: minmax(0, 1fr); gap: 0.75rem; } }
+  .steps img { width: 100%; border-radius: 3px; background: var(--tile); }
+  .num { display: inline-block; font-size: 0.8rem; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 0 0.55rem; margin-bottom: 0.5rem; }
+  .cap { font-family: var(--serif); font-size: 1.15rem; line-height: 1.5; }
+</style>

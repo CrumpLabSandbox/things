@@ -6,7 +6,7 @@
 
    Serves tools/edit/index.html, the images and thumbnails, and a tiny JSON
    API that reads and writes data/artworks/<id>.json. Nothing else. No
-   dependencies beyond Node itself. After editing, rebuild the public data:
+   dependencies beyond Node itself. After editing, rebuild the public data from the repo root:
        python3 -m pipeline build
 */
 const http = require("http");

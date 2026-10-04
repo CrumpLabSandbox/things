@@ -1,0 +1,37 @@
+---
+import { Image } from "astro:assets";
+import Base from "../../layouts/Base.astro";
+import { posts, fmtDate } from "../../lib/blog";
+import { img } from "../../lib/images";
+import { href } from "../../lib/urls";
+---
+<Base title="Blog" description="Occasional posts about things I make here.">
+  <div class="page-head">
+    <h1>Blog</h1>
+    <p>Occasional posts about things I make here.</p>
+  </div>
+  <ul class="posts">
+    {posts.map((p) => (
+      <li>
+        <a href={href(`blog/${p.slug}/`)}>
+          <div>
+            <h2>{p.frontmatter.title}</h2>
+            <p class="muted">{fmtDate(p.frontmatter.date)}</p>
+            <p>{p.frontmatter.description}</p>
+          </div>
+          {p.frontmatter.cover && <Image src={img(p.frontmatter.cover)} alt="" width={240} densities={[1, 2]} loading="lazy" />}
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>
+
+<style>
+  .posts { list-style: none; padding: 0; margin: 0; max-width: 52rem; }
+  .posts li { border-top: 1px solid var(--line); }
+  .posts a { display: flex; justify-content: space-between; gap: 1.5rem; padding: 1.25rem 0; text-decoration: none; }
+  .posts h2 { margin: 0 0 0.2rem; }
+  .posts a:hover h2 { text-decoration: underline; }
+  .posts img { width: 160px; height: auto; border-radius: 3px; flex: none; }
+  @media (max-width: 600px) { .posts img { width: 96px; } }
+</style>

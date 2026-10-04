@@ -258,28 +258,9 @@ Done and pushed on this branch:
 
 ## How to run things
 
-```
-# refresh factual fields after adding images and running make_qmds.R
-python3 scripts/build_catalog.py
-python3 scripts/measure_images.py          # only new records; --force for all
-
-# edit descriptions in a browser (from the repo root)
-node tools/edit/server.js                  # then open http://localhost:8787
-
-# after editing
-python3 scripts/validate.py                # --adopt to add new tags to the vocabulary
-python3 scripts/build_similarity.py
-python3 scripts/build_public.py            # writes data/public/, read by explore.qmd
-
-# optional, on a machine with PyTorch
-python3 scripts/embed_clip.py && python3 scripts/build_similarity.py
-
-# then render the site as usual
-quarto render
-```
-
-Python needs Pillow and numpy (`pip install Pillow numpy`). The edit tool
-needs only Node.
+See README.md. In short: `python3 -m pipeline build` after adding images or
+editing records, `node tools/edit/server.js` to edit, `cd web && npm run dev`
+for the site.
 
 ## Things to look at first
 
@@ -296,3 +277,47 @@ needs only Node.
    once you confirm which is right.
 4. Relations are sparse on purpose. The similarity neighbours do most of the
    work; hand relations are for lineage (source of, revisits, variation of).
+
+## Second session (2026-10-04): new architecture
+
+Matt finished the review pass and asked for work in progress records and a
+move away from Quarto.
+
+- **Pipeline.** `scripts/` became the `pipeline/` package with one entry
+  point, `python3 -m pipeline build`. The records are now the source of
+  truth: the catalog step only creates records for new image files and
+  refreshes file facts (size, EXIF, IPTC); it never rewrites titles, dates or
+  notes. Reading the old qmd pages survives as `pipeline quarto-import`, which
+  refuses to overwrite records without `--overwrite`.
+- **Kinds of record.** `catalog.kind` is `work` (images/) or `wip` (wip/).
+  The eight Volcano Ball Lake process images have full records, ids
+  `wip/volcano-ball-lake-01-...` to `-08-...`, with `catalog.project` and
+  `catalog.step`, captions taken from the old work in progress page, and
+  `variation_of` and `step_toward` relations.
+- **Projects.** `data/projects.json` lists process sequences: the 2021
+  commission, the eight steps, then the 2023 finished piece.
+- **Playground.** The 56 Stable Diffusion variations are not artwork
+  records. `data/playground.json` holds them by group, with source piece and
+  prompt, imported from the Quarto playground pages.
+- **Website.** `web/` is an Astro static site. Pages: works (home), series
+  index and one page per series, one page per record (including wip),
+  process index and one page per project, explore (the faceted browser and
+  map), playground, blog (Markdown, converted from the qmd posts), prints,
+  about. Every record page shows only fields present in `data/public`, so
+  `data/visibility.json` decides what is on the site. Images are resized at
+  build time. Old Quarto URLs get redirect pages.
+- **Why Astro.** Static output that GitHub Pages can host for free, no
+  framework lock-in for the browser code (the explore page is still plain
+  JavaScript), build-time image optimisation, and room to add server
+  routes later (natural language search, a hosted editor) with an adapter
+  instead of a rewrite.
+
+Open items:
+
+1. Switch GitHub Pages to the new site (see README, Deploying).
+2. Decide when to delete the Quarto sources and `docs/`.
+3. Description and impression text are excluded by visibility.json, so record
+   pages show image, facts, notes, palette, tags, relations and similar
+   pieces. Add `described.description` to the list to show the prose.
+4. The Cliffs at another volcano ball lake process note still says "Currently
+   shown on the work in progress page", which is now the process page.

@@ -1,0 +1,33 @@
+---
+import { Image } from "astro:assets";
+import Base from "../../layouts/Base.astro";
+import { projects, byId } from "../../lib/data";
+import { img } from "../../lib/images";
+import { projectUrl } from "../../lib/urls";
+---
+<Base title="Process" wide>
+  <div class="page-head">
+    <h1>Process</h1>
+    <p>Work in progress: how particular pieces were made, step by step.</p>
+  </div>
+  {projects.map((p) => (
+    <a class="project" href={projectUrl(p.id)}>
+      <div class="thumbs">
+        {p.steps.map((s) => byId.get(s.id) && (
+          <Image src={img(byId.get(s.id)!.catalog.image.path)} alt="" width={200} height={200} densities={[1, 2]} loading="lazy" />
+        ))}
+      </div>
+      <h2>{p.title}</h2>
+      <p class="muted">{p.dates} · {p.steps.length} steps</p>
+      <p>{p.summary}</p>
+    </a>
+  ))}
+</Base>
+
+<style>
+  .project { display: block; text-decoration: none; max-width: 60rem; margin-bottom: 2.5rem; }
+  .project h2 { margin: 0.75rem 0 0.2rem; }
+  .project:hover h2 { text-decoration: underline; }
+  .thumbs { display: flex; gap: 6px; overflow: hidden; }
+  .thumbs img { width: 110px; height: 110px; object-fit: cover; border-radius: 3px; flex: 0 0 auto; }
+</style>

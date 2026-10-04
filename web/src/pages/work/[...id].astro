@@ -1,0 +1,171 @@
+---
+import { Image } from "astro:assets";
+import Base from "../../layouts/Base.astro";
+import Strip from "../../components/Strip.astro";
+import {
+  artworks, byId, similarity, inSeries, incoming, projectsFor, facetsOf, FACET_LABEL, RELATION_LABEL,
+  mediumLine, kindOf, seriesInfo, type Artwork,
+} from "../../lib/data";
+import { img } from "../../lib/images";
+import { asset, workUrl, seriesUrl, projectUrl, exploreUrl, href } from "../../lib/urls";
+import { notesToHtml } from "../../lib/text";
+
+export function getStaticPaths() {
+  return artworks.map((a) => ({ params: { id: a.id }, props: { a } }));
+}
+
+const { a } = Astro.props as { a: Artwork };
+const c = a.catalog;
+const d = a.described ?? {};
+const kind = kindOf(a);
+const series = seriesInfo.find((s) => s.slug === c.series_slug);
+
+// prev / next within the series (or within the process for wip records)
+const siblings = kind === "work" ? inSeries(c.series_slug) : [];
+const idx = siblings.findIndex((x) => x.id === a.id);
+const prev = idx > 0 ? siblings[idx - 1] : null;
+const next = idx >= 0 && idx < siblings.length - 1 ? siblings[idx + 1] : null;
+
+const outRel = (a.relations ?? []).filter((r) => byId.has(r.target)).map((r) => ({ label: RELATION_LABEL[r.type]?.[0] ?? r.type, other: byId.get(r.target)!, note: r.note }));
+const inRel = incoming(a.id).map(({ from, rel }) => ({ label: RELATION_LABEL[rel.type]?.[1] ?? rel.type, other: from, note: rel.note }));
+// group incoming by label so e.g. eight process steps show as one strip
+const inGroups = new Map<string, Artwork[]>();
+for (const r of inRel) inGroups.set(r.label, [...(inGroups.get(r.label) ?? []), r.other]);
+
+const projects = projectsFor(a.id);
+const n = similarity.neighbours[a.id];
+const pick = (list: [string, number][] | undefined) => (list ?? []).map(([id]) => byId.get(id)).filter((x): x is Artwork => Boolean(x));
+const facets = facetsOf(a);
+const pal = a.measured.palette ?? [];
+---
+<Base title={c.title} description={d.alt_text ?? `${c.title}, ${c.series}`} image={c.image.path} wide>
+  <article class="work">
+    <figure class="work-image">
+      <a href={asset(c.image.path)} title="Open the full size image">
+        <Image
+          src={img(c.image.path)}
+          alt={d.alt_text ?? c.title}
+          widths={[640, 1000, 1600]}
+          sizes="(max-width: 900px) 100vw, 62vw"
+          loading="eager"
+          style={`aspect-ratio: ${c.image.aspect}`}
+        />
+      </a>
+    </figure>
+
+    <div class="work-info">
+      <p class="crumbs">
+        {kind === "wip"
+          ? <span>work in progress{projects[0] && <> · <a href={projectUrl(projects[0].id)}>{projects[0].title}</a></>}</span>
+          : <a href={seriesUrl(c.series_slug)}>{series?.name ?? c.series}</a>}
+      </p>
+      <h1>{c.title}</h1>
+      <p class="meta">
+        {[mediumLine(a), c.year].filter(Boolean).join(" · ")}
+        {c.availability && <> · <span>{c.availability}</span></>}
+      </p>
+      {c.caption && <p class="caption">{c.caption}</p>}
+      {c.date_note && <p class="muted small">{c.date_note}</p>}
+      {c.print_url && <p><a class="button" href={c.print_url}>Buy a print</a></p>}
+
+      {d.description && <div class="prose"><p>{d.description}</p></div>}
+      {d.impression && <div class="prose"><p><em>{d.impression}</em></p></div>}
+
+      {c.process_notes && (<>
+        <h3>Process notes</h3>
+        <div class="prose" set:html={notesToHtml(c.process_notes)} />
+      </>)}
+
+      {pal.length > 0 && (
+        <div class="palette" aria-label="Colour palette">
+          {pal.map((p) => <span title={p.hex} style={`background:${p.hex};flex:${Math.max(p.fraction, 0.04)}`} />)}
+        </div>
+      )}
+
+      {facets.length > 0 && (<>
+        <h3>Tags</h3>
+        <dl class="facets">
+          {facets.map(([f, tags]) => (<>
+            <dt>{FACET_LABEL[f] ?? f.replace("_", " ")}</dt>
+            <dd class="chips">{tags.map((t) => <a class="chip" href={exploreUrl(f, t)}>{t}</a>)}</dd>
+          </>))}
+        </dl>
+      </>)}
+
+      {(prev || next) && (
+        <nav class="prevnext" aria-label="In this series">
+          {prev ? <a href={workUrl(prev.id)}>← {prev.catalog.title}</a> : <span />}
+          {next ? <a href={workUrl(next.id)}>{next.catalog.title} →</a> : <span />}
+        </nav>
+      )}
+    </div>
+  </article>
+
+  {projects.map((p) => (
+    <section>
+      <h2>Process: <a href={projectUrl(p.id)}>{p.title}</a></h2>
+      <div class="steps">
+        {p.steps.map((s, i) => byId.get(s.id) && (
+          <a href={workUrl(s.id)} class:list={["step", { current: s.id === a.id }]}>
+            <Image src={img(byId.get(s.id)!.catalog.image.path)} alt={s.caption} height={140} width={Math.round(140 * byId.get(s.id)!.catalog.image.aspect)} densities={[1, 2]} loading="lazy" />
+            <span>{i + 1}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  {outRel.length > 0 && (
+    <section>
+      <h2>Related</h2>
+      <ul class="rels">
+        {outRel.map((r) => <li>{r.label} <a href={workUrl(r.other.id)}>{r.other.catalog.title}</a>{r.note && <span class="muted"> — {r.note}</span>}</li>)}
+      </ul>
+    </section>
+  )}
+  {[...inGroups.entries()].filter(([label]) => label !== "process steps" || projects.length === 0).map(([label, items]) => (
+    <section>
+      <h3>{label}</h3>
+      <Strip items={items} />
+    </section>
+  ))}
+
+  {n && (
+    <section class="similar">
+      <h2>Similar pieces</h2>
+      <h3>Looks like</h3>
+      <Strip items={pick(n.visual)} />
+      <h3>Tagged like</h3>
+      <Strip items={pick(n.tags)} />
+      <h3>Reads like</h3>
+      <Strip items={pick(n.text)} />
+      <p class="muted small"><a href={href("explore/") + "#" + encodeURIComponent(a.id)}>Open in explore</a></p>
+    </section>
+  )}
+</Base>
+
+<style>
+  .work { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); gap: 2rem; align-items: start; }
+  @media (max-width: 900px) { .work { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; } }
+  .work-image { margin: 0; position: sticky; top: 1rem; }
+  @media (max-width: 900px) { .work-image { position: static; } }
+  .work-image img { width: 100%; max-height: calc(100vh - 2rem); object-fit: contain; object-position: left top; }
+  .crumbs { margin: 0 0 0.25rem; font-size: 0.9rem; color: var(--muted); }
+  .meta { color: var(--muted); margin-bottom: 0.75rem; }
+  .caption { font-style: italic; }
+  .small { font-size: 0.85rem; }
+  .palette { display: flex; gap: 2px; height: 14px; margin: 1.25rem 0 0.5rem; max-width: 24rem; }
+  .palette span { border-radius: 2px; }
+  .facets { display: grid; grid-template-columns: max-content 1fr; gap: 0.4rem 0.75rem; margin: 0; align-items: baseline; }
+  .facets dt { font-size: 0.8rem; color: var(--muted); text-transform: lowercase; }
+  .facets dd { margin: 0; }
+  .prevnext { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--line); font-size: 0.9rem; }
+  .rels { padding-left: 1.1rem; }
+  .rels li { margin: 0.3rem 0; }
+  .steps { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 6px; }
+  .step { position: relative; flex: 0 0 auto; text-decoration: none; }
+  .step img { height: 140px; width: auto; border-radius: 3px; opacity: 0.85; }
+  .step.current img, .step:hover img { opacity: 1; outline: 2px solid var(--fg); outline-offset: 2px; }
+  .step span { position: absolute; left: 6px; top: 4px; font-size: 0.75rem; background: var(--bg); padding: 0 0.35rem; border-radius: 999px; }
+  section { margin-top: 2.5rem; }
+</style>

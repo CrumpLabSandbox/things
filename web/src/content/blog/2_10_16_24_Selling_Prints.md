@@ -1,0 +1,47 @@
+---
+title: "Some notes on selling prints online"
+description: "Working my way toward selling prints online, and making some notes on the process here."
+date: 2024-10-16
+cover: blog/2_10_16_24_Selling_Prints/cover.jpg
+categories: ["selling prints", "prints", "printmaking", "shopify"]
+draft: true
+---
+
+I've been meaning to get set up to sell prints, and this is a post about attempting to do that.
+
+When I've sold things before they were original artworks, usually oil on wood, or canvas; and, mostly as commissions. I'm still occasionally making real life things, but in the more recent years I have been working in a digital medium. 
+
+Many of the newer pieces on my portfolio are born as digital drawings. It's a simple setup. I use an ipad pro (bigger screen), and my go-to drawing program is Adobe Fresco. It has a few limitations, but I can live with them. The basic process involves drawing everything by hand on the ipad with a high resolution so they will print out nicely at larger sizes (e.g., poster sizes).
+
+I have two series going at the moment that have used this general method. The colorland series and the Scribble Picture series. 
+
+The colorland series (starting from 2021) is a throwback to the Superland series that I did oil on canvas. Colorland pieces are graffiti-esque colorful cartoon landscapes. 
+
+The Scribble picture series (starting from 2023) are photographs I took that serve as the background canvas for scribbling cartoon things on top. 
+My intention for these pieces was to work digitally in a print-making tradition. I suppose this in itself is a little bit confused. I guess I'm metaphorically referencing the tradition.
+
+In suppose the print-making traditions I'm referencing are processes like lithography or woodcut lithography; or relatedly, I've dabbled in screen-printing.
+
+In those processes, one would version prints and then offer them as limited editions. There could also be "artist prints" and other initial prints before the limited editions are rolled out.
+
+In a digital process, I have the digital assets assembled as layers in a photoshop file. The layers could include a digital photograph and/or layers of vector drawings or pixel drawings and color fills. Some of the pieces have lots and lots of layers, even hidden or highly opaque layers, referencing sometimes the practice of underpainting.
+
+I guess the original "thing" that is made is a photoshop file, but it doesn't become real, or undigitized, in another sense until it is printed out. I don't have plans to sell digital files as NFTs or anything. But, I suppose if someone wanted something like that, they could reach out (arms up in the air emoji).
+
+## On limited editions
+
+I've been focusing more on making pieces, rather than figuring out how to sell them. I'd be interested in offering limited editions, but still haven't really figured out how I would want to do that. 
+
+I know I could get a bunch of prints made, and I've found a great printer that I'm working with. Really, really, happy with the quality of the prints. They are archival and all that. Look great, really happy. 
+
+I could get a bunch printed for a piece, number them all, sign them etc., and then I guess put them on offer through an online store or whatever. But, right now, I don't have the time to ship things and do all that. Also, I don't have space to hold any sort of inventory.
+
+So, I'm looking into other ways. I have a few ideas, and am looking for a solution involving drop-shipping. Maybe it doesn't really exist, not sure yet.
+
+## Drop shipping and open editions
+
+Drop shipping is an interesting option. Basic idea is that a purchase is made through an online store, that purchase gets routed to my printer who prints and/or prints and frames, and then ships. I don't have to worry about inventory, and it's a nice option.
+
+So far I haven't found a service that would make limited editions easy. That would entail numbering and signing individual prints. In principle, I could do this digitally, by digitally drawing the numbers and digitally signing the file. This would produce unique digital files for the printer to print and ship. The problem is that I haven't found an easy way to do this.
+
+The current option I'm considering is open editions. These would be digitally signed, but otherwise open editions (how many are out there depend on how many are purchased and printed). I'll probably start with open editions to learn the whole process of setting up a store and working with my printing service.

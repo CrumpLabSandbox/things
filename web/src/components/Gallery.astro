@@ -1,0 +1,24 @@
+---
+import { Image } from "astro:assets";
+import type { Artwork } from "../lib/data";
+import { img } from "../lib/images";
+import { workUrl } from "../lib/urls";
+
+interface Props { items: Artwork[]; captions?: boolean; eager?: number }
+const { items, captions = true, eager = 8 } = Astro.props;
+---
+<div class="gallery">
+  {items.map((a, i) => (
+    <a class="tile" href={workUrl(a.id)} style={`--a: ${a.catalog.image.aspect}`}>
+      <Image
+        src={img(a.catalog.image.path)}
+        alt={a.described?.alt_text ?? a.catalog.title}
+        widths={[320, 520, 800]}
+        sizes="(max-width: 640px) 60vw, 30vw"
+        loading={i < eager ? "eager" : "lazy"}
+        style={`aspect-ratio: ${a.catalog.image.aspect}`}
+      />
+      {captions && <div class="cap">{a.catalog.title}</div>}
+    </a>
+  ))}
+</div>
