@@ -1,0 +1,219 @@
+{
+  "id": "wip/volcano-ball-lake-01-inverted-line-art",
+  "schema_version": 1,
+  "catalog": {
+    "kind": "wip",
+    "title": "Inverted line art (Volcano Ball Lake, step 1)",
+    "series": "wip",
+    "series_slug": "wip",
+    "project": "volcano-ball-lake-2023",
+    "step": 1,
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "wip page",
+    "description_raw": null,
+    "caption": "Took the line art from it and inverted it.",
+    "camera": null,
+    "date": "2023-09-24 00:00:00",
+    "year": 2023,
+    "date_note": "Approximate. The PNG has no capture date; it was made before the variations generated from it on 2023-09-24.",
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "width": 1024,
+      "height": 1024,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 814379,
+      "format": "PNG",
+      "path": "wip/Cliffs of Volcano ball lake bw.png"
+    },
+    "page": {
+      "qmd": "wip.qmd",
+      "html": "wip.html",
+      "url": "https://crumplab.com/things/wip.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": null,
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#020202",
+        "fraction": 0.601
+      },
+      {
+        "hex": "#a0a0a0",
+        "fraction": 0.0911
+      },
+      {
+        "hex": "#797979",
+        "fraction": 0.0888
+      },
+      {
+        "hex": "#2c2c2c",
+        "fraction": 0.0782
+      },
+      {
+        "hex": "#545454",
+        "fraction": 0.0781
+      },
+      {
+        "hex": "#cfcfcf",
+        "fraction": 0.0626
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2,
+      0.0,
+      0.8,
+      0.0
+    ],
+    "dominant_hues": [
+      "magenta",
+      "indigo"
+    ],
+    "warm_fraction": 0.8,
+    "mean_saturation": 0.0,
+    "mean_value": 0.1947,
+    "mean_lightness": 0.203,
+    "contrast": 0.2789,
+    "colorfulness": 0.04,
+    "mean_chroma": 0.0,
+    "is_monochrome": true,
+    "dark_fraction": 0.6494,
+    "light_fraction": 0.0061,
+    "edge_density": 0.6522,
+    "busyness": 0.2533,
+    "has_white_border": false,
+    "phash": "60773133495d0e7a",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/wip/volcano-ball-lake-01-inverted-line-art.jpg"
+  },
+  "described": {
+    "alt_text": "The line art of the Cliffs of Volcano Ball Lake commission, inverted to thin white lines on solid black, showing a dense valley of huts, creatures, cliffs and a lake.",
+    "description": "A square image of white line drawing on a black ground, with no colour or fill. It is the outline layer of the 2021 commission: a lake in the upper middle under rolling clouds, a striped volcano with a ball on its summit at upper right, cliffs and a winding river descending to a small city in the centre, rows of domed huts on a plateau at right, and a foreground crowded with horned and eyed creatures, stalks and blobs. Every contour is the same thin white weight, so the density of the original reads as a fine lace.",
+    "impression": "The commission with its colour stripped away, like an X-ray of the drawing. Without fills it becomes a map of every decision the line made, and the crowding feels more like texture than population. It is a working file, made to be fed to a machine, and it is also quietly beautiful on its own.",
+    "subjects": [
+      "landscape",
+      "lake",
+      "mountains",
+      "volcano",
+      "creatures",
+      "village",
+      "huts",
+      "clouds"
+    ],
+    "characters": [
+      "horned creature",
+      "one eyed creature",
+      "hidden face"
+    ],
+    "elements": [
+      "volcano",
+      "domed hut",
+      "outlined cloud",
+      "winding path"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "lakeside"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense",
+      "layered depth"
+    ],
+    "line": [
+      "thin black outline",
+      "no fill"
+    ],
+    "color_words": [
+      "black and white",
+      "monochrome",
+      "high contrast"
+    ],
+    "style": [
+      "cartoon",
+      "doodle",
+      "seek and find density",
+      "process art"
+    ],
+    "themes": [
+      "process",
+      "imaginary worlds",
+      "transformation"
+    ],
+    "mood": [
+      "busy",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Digital, 1024 px square PNG. Line layer from the 2021 commission, inverted to white on black to serve as a ControlNet scribble source.",
+    "free_tags": [
+      "wip",
+      "volcano ball lake",
+      "line layer",
+      "inverted"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 1
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "commissions/the-cliffs-of-volcano-ball-lake",
+      "note": "The commission's line art layer, inverted to white on black.",
+      "source": "described"
+    },
+    {
+      "type": "step_toward",
+      "target": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "note": "Step 1 of the process that led to the 2023 piece.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

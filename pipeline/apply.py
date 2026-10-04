@@ -7,16 +7,18 @@ replaced by the batch; fields not present in the batch are kept. Relations
 in the batch are added if an identical (type, target) pair is not already
 present. The author block is never touched.
 
-Usage:  python3 scripts/apply_described.py batch.json [batch2.json ...]
+Usage:  python3 -m pipeline apply batch.json [batch2.json ...]
 """
 import json
 import os
 import sys
 from datetime import datetime
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(ROOT, "data", "artworks")
-VOCAB_PATH = os.path.join(ROOT, "data", "vocabulary.json")
+from . import common as c
+
+ROOT = c.ROOT
+DATA_DIR = c.RECORDS
+VOCAB_PATH = c.VOCAB_PATH
 
 FIELD_ORDER = ["alt_text", "description", "impression", "subjects", "characters",
                "elements", "setting", "composition", "line", "color_words",
@@ -25,19 +27,19 @@ FIELD_ORDER = ["alt_text", "description", "impression", "subjects", "characters"
                "vocabulary_version"]
 
 
-def main():
+def main(argv=()):
     vocab_version = 0
     if os.path.exists(VOCAB_PATH):
         vocab_version = json.load(open(VOCAB_PATH, encoding="utf-8")).get("version", 0)
     today = datetime.now().strftime("%Y-%m-%d")
     applied = 0
-    for batch_path in sys.argv[1:]:
+    for batch_path in list(argv):
         batch = json.load(open(batch_path, encoding="utf-8"))
         for item in batch:
             path = os.path.join(DATA_DIR, item["id"] + ".json")
             if not os.path.exists(path):
                 print(f"ERROR no record for {item['id']}", file=sys.stderr)
-                sys.exit(1)
+                return 1
             rec = json.load(open(path, encoding="utf-8"))
             described = dict(rec.get("described") or {})
             described.update(item.get("described", {}))
@@ -59,7 +61,5 @@ def main():
                 f.write("\n")
             applied += 1
     print(f"applied {applied} described blocks")
+    return 0
 
-
-if __name__ == "__main__":
-    main()

@@ -1,0 +1,213 @@
+{
+  "id": "wip/volcano-ball-lake-05-variation-4",
+  "schema_version": 1,
+  "catalog": {
+    "kind": "wip",
+    "title": "Stable Diffusion variation 4 (Volcano Ball Lake, step 5)",
+    "series": "wip",
+    "series_slug": "wip",
+    "project": "volcano-ball-lake-2023",
+    "step": 5,
+    "medium": "Stable Diffusion",
+    "surface": null,
+    "medium_source": "wip page",
+    "description_raw": null,
+    "caption": "Variation 4",
+    "camera": null,
+    "date": "2023-09-24 10:22:36",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Stable Diffusion 1.5 with the scribble ControlNet, using the inverted line art as the scribble source.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "width": 1024,
+      "height": 1024,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 806473,
+      "format": "JPEG",
+      "path": "wip/volcano_C_1048_scribble_4_3_5_1595.jpeg"
+    },
+    "page": {
+      "qmd": "wip.qmd",
+      "html": "wip.html",
+      "url": "https://crumplab.com/things/wip.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:09:24 10:22:36",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#524f45",
+        "fraction": 0.2136
+      },
+      {
+        "hex": "#788277",
+        "fraction": 0.2091
+      },
+      {
+        "hex": "#a3cddb",
+        "fraction": 0.1593
+      },
+      {
+        "hex": "#6b8b9e",
+        "fraction": 0.1447
+      },
+      {
+        "hex": "#87735a",
+        "fraction": 0.1371
+      },
+      {
+        "hex": "#9da373",
+        "fraction": 0.1361
+      }
+    ],
+    "hue_histogram": [
+      0.0437,
+      0.2079,
+      0.1647,
+      0.1266,
+      0.0364,
+      0.038,
+      0.129,
+      0.2517,
+      0.0004,
+      0.0002,
+      0.0002,
+      0.001
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.4174,
+    "mean_saturation": 0.2525,
+    "mean_value": 0.5685,
+    "mean_lightness": 0.5483,
+    "contrast": 0.1607,
+    "colorfulness": 43.56,
+    "mean_chroma": 15.02,
+    "is_monochrome": false,
+    "dark_fraction": 0.0087,
+    "light_fraction": 0.0085,
+    "edge_density": 0.141,
+    "busyness": 0.077,
+    "has_white_border": false,
+    "phash": "40dc8fc7a485f0cb",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/wip/volcano-ball-lake-05-variation-4.jpg"
+  },
+  "described": {
+    "alt_text": "A Stable Diffusion landscape of a dense village of red and orange roofs on a river delta with many channels and islands, framed by gnarled trees and boulders.",
+    "description": "A square generated image in a painterly style. A broad river delta spreads across the middle with many channels, ponds and grassy islands, under grey blue mountains and soft clouds. In its centre a dense cluster of small houses with red and orange roofs fills a peninsula. Gnarled trees with flat canopies frame the left and right edges, with a large grey boulder at right, and the foreground is a slope of brown earth, rocks and green tufts.",
+    "impression": "This variation keeps the commission's central town and turns the lake into a maze of water. The crowded village is the closest the machine came to the density of the original drawing, but its crowd is roofs rather than creatures.",
+    "subjects": [
+      "landscape",
+      "village",
+      "houses",
+      "river",
+      "lake",
+      "mountains",
+      "trees"
+    ],
+    "characters": [],
+    "elements": [
+      "rocky outcrop",
+      "island",
+      "pine tree"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "village",
+      "river"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth",
+      "dense"
+    ],
+    "line": [
+      "soft shading",
+      "no outline"
+    ],
+    "color_words": [
+      "naturalistic",
+      "earth tones",
+      "muted"
+    ],
+    "style": [
+      "generative",
+      "naive",
+      "process art"
+    ],
+    "themes": [
+      "process",
+      "variation",
+      "settlement",
+      "nature"
+    ],
+    "mood": [
+      "calm",
+      "busy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Generated with Stable Diffusion 1.5 and the scribble ControlNet from the inverted line art. 1024 px square.",
+    "free_tags": [
+      "wip",
+      "volcano ball lake",
+      "stable diffusion",
+      "ai variation"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 1
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "wip/volcano-ball-lake-01-inverted-line-art",
+      "note": "Generated from the inverted line art as the scribble source.",
+      "source": "described"
+    },
+    {
+      "type": "step_toward",
+      "target": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "note": "Step 5 of the process that led to the 2023 piece.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

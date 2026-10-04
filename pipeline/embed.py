@@ -4,8 +4,8 @@
 Run this locally, not in the cloud session; it needs PyTorch and open_clip:
 
     pip install torch open_clip_torch pillow
-    python3 scripts/embed_clip.py
-    python3 scripts/build_similarity.py     # picks up the embeddings
+    python3 -m pipeline embed
+    python3 -m pipeline similarity     # picks up the embeddings
 
 Each record gets measured.embedding (a 512 float list) and
 measured.embedding_model. Nothing else is touched. Re-running skips records
@@ -16,21 +16,23 @@ import json
 import os
 import sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(ROOT, "data", "artworks")
+from . import common as c
+
+ROOT = c.ROOT
+DATA_DIR = c.RECORDS
 MODEL = "ViT-B-32"
 PRETRAINED = "laion2b_s34b_b79k"
 
 
-def main():
+def main(argv=()):
     try:
         import torch
         import open_clip
         from PIL import Image
     except ImportError as e:
         print(f"missing dependency: {e}. See the docstring for install steps.", file=sys.stderr)
-        sys.exit(1)
-    force = "--force" in sys.argv
+        return 1
+    force = "--force" in argv
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model, _, preprocess = open_clip.create_model_and_transforms(MODEL, pretrained=PRETRAINED)
     model = model.to(device).eval()
@@ -51,7 +53,5 @@ def main():
         done += 1
         print(rec["id"])
     print(f"embedded {done} records")
+    return 0
 
-
-if __name__ == "__main__":
-    main()

@@ -1,0 +1,212 @@
+{
+  "id": "wip/volcano-ball-lake-03-variation-2",
+  "schema_version": 1,
+  "catalog": {
+    "kind": "wip",
+    "title": "Stable Diffusion variation 2 (Volcano Ball Lake, step 3)",
+    "series": "wip",
+    "series_slug": "wip",
+    "project": "volcano-ball-lake-2023",
+    "step": 3,
+    "medium": "Stable Diffusion",
+    "surface": null,
+    "medium_source": "wip page",
+    "description_raw": null,
+    "caption": "Variation 2",
+    "camera": null,
+    "date": "2023-09-24 10:19:16",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Stable Diffusion 1.5 with the scribble ControlNet, using the inverted line art as the scribble source.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "width": 1024,
+      "height": 1024,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 785183,
+      "format": "JPEG",
+      "path": "wip/volcano_C_1048_scribble_4_1_5_4687.jpeg"
+    },
+    "page": {
+      "qmd": "wip.qmd",
+      "html": "wip.html",
+      "url": "https://crumplab.com/things/wip.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:09:24 10:19:16",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#6c715f",
+        "fraction": 0.2374
+      },
+      {
+        "hex": "#574d48",
+        "fraction": 0.2132
+      },
+      {
+        "hex": "#6c8a9e",
+        "fraction": 0.155
+      },
+      {
+        "hex": "#90a092",
+        "fraction": 0.1547
+      },
+      {
+        "hex": "#a18f6a",
+        "fraction": 0.1258
+      },
+      {
+        "hex": "#a9d4e2",
+        "fraction": 0.114
+      }
+    ],
+    "hue_histogram": [
+      0.0783,
+      0.1942,
+      0.1772,
+      0.0869,
+      0.0225,
+      0.056,
+      0.148,
+      0.22,
+      0.0027,
+      0.0025,
+      0.0018,
+      0.0099
+    ],
+    "dominant_hues": [
+      "blue",
+      "orange",
+      "yellow"
+    ],
+    "warm_fraction": 0.4603,
+    "mean_saturation": 0.238,
+    "mean_value": 0.5571,
+    "mean_lightness": 0.5378,
+    "contrast": 0.1584,
+    "colorfulness": 40.37,
+    "mean_chroma": 13.95,
+    "is_monochrome": false,
+    "dark_fraction": 0.0034,
+    "light_fraction": 0.0075,
+    "edge_density": 0.1111,
+    "busyness": 0.0709,
+    "has_white_border": false,
+    "phash": "41dc9bc7a480eccb",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/wip/volcano-ball-lake-03-variation-2.jpg"
+  },
+  "described": {
+    "alt_text": "A Stable Diffusion landscape of rounded orange rock formations, a waterfall, a yellow farmhouse and a winding river through green hills toward a far lake.",
+    "description": "A square generated image in a painterly animated style. A turquoise river winds from a lake in the distance down the left half through rolling green hills dotted with cypress like trees. On the right, tall orange and red rock columns and boulders rise beside a white waterfall that drops toward a red roofed cabin with a parked car. At lower right a yellow farmhouse with a dark red roof sits beside a dirt path. A small boat floats in the river, and a rust coloured bush fills the lower left corner. Blue hills and pale clouds fill the horizon.",
+    "impression": "A gentler, more pastoral take, with a waterfall and a farmhouse giving it the feel of a holiday valley. The rock columns echo the commission's cliffs but have become sandstone. Like the other variations it is empty of the drawing's characters, a set without its cast.",
+    "subjects": [
+      "landscape",
+      "river",
+      "lake",
+      "mountains",
+      "houses",
+      "trees",
+      "waterfall"
+    ],
+    "characters": [],
+    "elements": [
+      "rocky outcrop",
+      "waterfall",
+      "winding path",
+      "pine tree"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "river"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth",
+      "winding path"
+    ],
+    "line": [
+      "soft shading",
+      "no outline"
+    ],
+    "color_words": [
+      "naturalistic",
+      "turquoise",
+      "earth tones"
+    ],
+    "style": [
+      "generative",
+      "naive",
+      "process art"
+    ],
+    "themes": [
+      "process",
+      "variation",
+      "transformation",
+      "nature"
+    ],
+    "mood": [
+      "calm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Generated with Stable Diffusion 1.5 and the scribble ControlNet from the inverted line art. 1024 px square.",
+    "free_tags": [
+      "wip",
+      "volcano ball lake",
+      "stable diffusion",
+      "ai variation"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 1
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "wip/volcano-ball-lake-01-inverted-line-art",
+      "note": "Generated from the inverted line art as the scribble source.",
+      "source": "described"
+    },
+    {
+      "type": "step_toward",
+      "target": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "note": "Step 3 of the process that led to the 2023 piece.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

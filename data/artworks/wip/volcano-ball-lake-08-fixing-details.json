@@ -1,0 +1,196 @@
+{
+  "id": "wip/volcano-ball-lake-08-fixing-details",
+  "schema_version": 1,
+  "catalog": {
+    "kind": "wip",
+    "title": "Fixing up details (Volcano Ball Lake, step 8)",
+    "series": "wip",
+    "series_slug": "wip",
+    "project": "volcano-ball-lake-2023",
+    "step": 8,
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "wip page",
+    "description_raw": null,
+    "caption": "Getting closer and fixing up a few details",
+    "camera": null,
+    "date": "2023-09-27 11:08:56",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "width": 1024,
+      "height": 1024,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 918404,
+      "format": "JPEG",
+      "path": "wip/IMG_0405.jpeg"
+    },
+    "page": {
+      "qmd": "wip.qmd",
+      "html": "wip.html",
+      "url": "https://crumplab.com/things/wip.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:09:27 11:08:56",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#fefefe",
+        "fraction": 0.6777
+      },
+      {
+        "hex": "#e4e4e4",
+        "fraction": 0.0936
+      },
+      {
+        "hex": "#c5c5c5",
+        "fraction": 0.0824
+      },
+      {
+        "hex": "#a6a6a6",
+        "fraction": 0.0753
+      },
+      {
+        "hex": "#838383",
+        "fraction": 0.053
+      },
+      {
+        "hex": "#4f4f4f",
+        "fraction": 0.0179
+      }
+    ],
+    "hue_histogram": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "dominant_hues": [],
+    "warm_fraction": 0.0,
+    "mean_saturation": 0.0,
+    "mean_value": 0.9031,
+    "mean_lightness": 0.9109,
+    "contrast": 0.156,
+    "colorfulness": 0.0,
+    "mean_chroma": 0.0,
+    "is_monochrome": true,
+    "dark_fraction": 0.0018,
+    "light_fraction": 0.7309,
+    "edge_density": 0.4528,
+    "busyness": 0.1316,
+    "has_white_border": false,
+    "phash": "54cadbb4b62528c9",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/wip/volcano-ball-lake-08-fixing-details.jpg"
+  },
+  "described": {
+    "alt_text": "Black line drawing on white of a valley with a two storey house among tall flat topped trees, rocky slopes, shrubs, a waterfall and small houses, nearly complete except the sky.",
+    "description": "A square image of black line work only. Compared with the halfway stage, the upper middle is now filled: a two storey house with a chimney and several windows sits among tall trees with layered, flat, scalloped canopies, with more trees and hills behind it. The rocky slopes, shrubs, stream, waterfall, tall pine and small houses at left are refined with more detail. The sky band at the top is still empty white, and the lake and distant mountains are not yet drawn.",
+    "impression": "The composition has locked into place around the house under the trees, the same arrangement as variation 3 but redrawn entirely in the artist's hand. All that is left is the sky, the lake and colour, the parts that turn line into a place.",
+    "subjects": [
+      "landscape",
+      "houses",
+      "trees",
+      "rocks",
+      "waterfall"
+    ],
+    "characters": [],
+    "elements": [
+      "rocky outcrop",
+      "pine tree",
+      "waterfall",
+      "chimney",
+      "windows"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley"
+    ],
+    "composition": [
+      "layered depth",
+      "aerial view",
+      "central feature",
+      "white ground"
+    ],
+    "line": [
+      "thin black outline",
+      "no fill"
+    ],
+    "color_words": [
+      "black and white",
+      "line only"
+    ],
+    "style": [
+      "process art",
+      "cartoon",
+      "study"
+    ],
+    "themes": [
+      "process"
+    ],
+    "mood": [
+      "calm",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Screenshot of the line layer in progress, 1024 px.",
+    "free_tags": [
+      "wip",
+      "volcano ball lake",
+      "line work"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 1
+  },
+  "relations": [
+    {
+      "type": "step_toward",
+      "target": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "note": "Step 8 of the process that led to the 2023 piece.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": "wip/volcano-ball-lake-04-variation-3",
+  "schema_version": 1,
+  "catalog": {
+    "kind": "wip",
+    "title": "Stable Diffusion variation 3 (Volcano Ball Lake, step 4)",
+    "series": "wip",
+    "series_slug": "wip",
+    "project": "volcano-ball-lake-2023",
+    "step": 4,
+    "medium": "Stable Diffusion",
+    "surface": null,
+    "medium_source": "wip page",
+    "description_raw": null,
+    "caption": "Variation 3",
+    "camera": null,
+    "date": "2023-09-24 10:20:58",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": "Stable Diffusion 1.5 with the scribble ControlNet, using the inverted line art as the scribble source.",
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "width": 1024,
+      "height": 1024,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 823007,
+      "format": "JPEG",
+      "path": "wip/volcano_C_1048_scribble_4_2_5_4448.jpeg"
+    },
+    "page": {
+      "qmd": "wip.qmd",
+      "html": "wip.html",
+      "url": "https://crumplab.com/things/wip.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:09:24 10:20:58",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#718b93",
+        "fraction": 0.2356
+      },
+      {
+        "hex": "#535148",
+        "fraction": 0.2328
+      },
+      {
+        "hex": "#72795f",
+        "fraction": 0.19
+      },
+      {
+        "hex": "#a7cdd9",
+        "fraction": 0.1618
+      },
+      {
+        "hex": "#aca97a",
+        "fraction": 0.1027
+      },
+      {
+        "hex": "#9b735d",
+        "fraction": 0.077
+      }
+    ],
+    "hue_histogram": [
+      0.0504,
+      0.1806,
+      0.2257,
+      0.0925,
+      0.0182,
+      0.0409,
+      0.1664,
+      0.2236,
+      0.0009,
+      0.0,
+      0.0,
+      0.0008
+    ],
+    "dominant_hues": [
+      "yellow",
+      "blue",
+      "orange"
+    ],
+    "warm_fraction": 0.4575,
+    "mean_saturation": 0.2474,
+    "mean_value": 0.5639,
+    "mean_lightness": 0.546,
+    "contrast": 0.1643,
+    "colorfulness": 42.44,
+    "mean_chroma": 14.68,
+    "is_monochrome": false,
+    "dark_fraction": 0.003,
+    "light_fraction": 0.0111,
+    "edge_density": 0.1555,
+    "busyness": 0.078,
+    "has_white_border": false,
+    "phash": "41dc9f87a4e0a4cb",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/wip/volcano-ball-lake-04-variation-3.jpg"
+  },
+  "described": {
+    "alt_text": "A Stable Diffusion landscape of a red roofed house among broad flat topped trees above waterfalls and rocky slopes, with a wide lake and mountains behind.",
+    "description": "A square generated image in a painterly style. A large wide lake with sandbars stretches across the middle under bluish mountains and white clouds. In the middle distance, a two storey house with a red roof sits among tall trees with broad, flat, layered canopies like umbrella pines. Below it, a stream tumbles down in a series of white waterfalls at left, and the foreground is a slope of orange and pink rock, mossy ground and red flowering shrubs at lower left. Tall trees frame both edges.",
+    "impression": "The most recognisable ancestor of the finished piece: the red roofed house under a tall tree, the waterfall at left and the red flowers at the bottom all survive into the 2023 drawing. It feels like a found composition that the hand drawing then took apart and rebuilt.",
+    "subjects": [
+      "landscape",
+      "lake",
+      "mountains",
+      "houses",
+      "trees",
+      "waterfall",
+      "flowers"
+    ],
+    "characters": [],
+    "elements": [
+      "waterfall",
+      "rocky outcrop",
+      "pine tree",
+      "chimney"
+    ],
+    "setting": [
+      "invented landscape",
+      "lakeside",
+      "valley"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "layered depth",
+      "central feature"
+    ],
+    "line": [
+      "soft shading",
+      "no outline"
+    ],
+    "color_words": [
+      "naturalistic",
+      "earth tones",
+      "turquoise"
+    ],
+    "style": [
+      "generative",
+      "naive",
+      "process art"
+    ],
+    "themes": [
+      "process",
+      "variation",
+      "transformation",
+      "nature"
+    ],
+    "mood": [
+      "calm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Generated with Stable Diffusion 1.5 and the scribble ControlNet from the inverted line art. 1024 px square. Its house, tree and waterfall carry into the final piece.",
+    "free_tags": [
+      "wip",
+      "volcano ball lake",
+      "stable diffusion",
+      "ai variation",
+      "key reference"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 1
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "wip/volcano-ball-lake-01-inverted-line-art",
+      "note": "Generated from the inverted line art as the scribble source.",
+      "source": "described"
+    },
+    {
+      "type": "step_toward",
+      "target": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "note": "Step 4 of the process that led to the 2023 piece.",
+      "source": "described"
+    },
+    {
+      "type": "source_of",
+      "target": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "note": "The red roofed house, tall tree, waterfall and red flowers all appear in the final piece.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}

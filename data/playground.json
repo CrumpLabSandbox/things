@@ -1,0 +1,589 @@
+{
+  "about": "Stable Diffusion variations of finished pieces, imported from the Quarto playground pages. Not artwork records; each group points at its source record.",
+  "groups": [
+    {
+      "id": "meeting_mountains",
+      "source": "colorlands/meeting-of-the-mountains",
+      "description": "Meeting of the mountains processed with stable diffusion",
+      "items": [
+        {
+          "id": "meeting_mountains/mountains-d0",
+          "title": "Mountains_d0",
+          "image": "playground_images/meeting_mountains/mountains_D0.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 21:21:36",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-d1",
+          "title": "Mountains_d1",
+          "image": "playground_images/meeting_mountains/mountains_D1.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 21:21:36",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-d2",
+          "title": "Mountains_d2",
+          "image": "playground_images/meeting_mountains/mountains_D2.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 21:21:36",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-d3",
+          "title": "Mountains_d3",
+          "image": "playground_images/meeting_mountains/mountains_D3.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 21:21:36",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-e3",
+          "title": "Mountains_e3",
+          "image": "playground_images/meeting_mountains/mountains_E3.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 21:34:02",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-f0",
+          "title": "Mountains_f0",
+          "image": "playground_images/meeting_mountains/mountains_F0.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 22:17:09",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-f3",
+          "title": "Mountains_f3",
+          "image": "playground_images/meeting_mountains/mountains_F3.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 22:17:09",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-g3",
+          "title": "Mountains_g3",
+          "image": "playground_images/meeting_mountains/mountains_G3.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 23:28:07",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-h0",
+          "title": "Mountains_h0",
+          "image": "playground_images/meeting_mountains/mountains_H0.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 23:44:39",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-h3",
+          "title": "Mountains_h3",
+          "image": "playground_images/meeting_mountains/mountains_H3.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-22 23:44:39",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-i0",
+          "title": "Mountains_i0",
+          "image": "playground_images/meeting_mountains/mountains_I0.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-23 00:07:11",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-i0b",
+          "title": "Mountains_i0b",
+          "image": "playground_images/meeting_mountains/mountains_I0b.jpeg",
+          "width": 1000,
+          "height": 1000,
+          "date": "2023-09-23 00:09:46",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/mountains-1024-3",
+          "title": "Mountains_1024_3",
+          "image": "playground_images/meeting_mountains/mountains_1024_3.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 17:27:35",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-1-1-10-2965",
+          "title": "Meeting_mountains_defaultc_1048_scribble_1_1_10_2965",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_1_1_10_2965.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:02:49",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-2-4-10-1751",
+          "title": "Meeting_mountains_defaultc_1048_scribble_2_4_10_1751",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_2_4_10_1751.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:22:16",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-2-4-15-1873",
+          "title": "Meeting_mountains_defaultc_1048_scribble_2_4_15_1873",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_2_4_15_1873.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:30:05",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-3-1-10-556",
+          "title": "Meeting_mountains_defaultc_1048_scribble_3_1_10_556",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_3_1_10_556.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:35:16",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-3-1-15-8088",
+          "title": "Meeting_mountains_defaultc_1048_scribble_3_1_15_8088",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_3_1_15_8088.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:41:39",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-0-5-8364",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_0_5_8364",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_0_5_8364.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:46:55",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-3-5-2606",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_3_5_2606",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_3_5_2606.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:48:43",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-4-5-6858",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_4_5_6858",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_4_5_6858.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:49:18",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-0-10-2445",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_0_10_2445",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_0_10_2445.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:50:23",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-2-10-2839",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_2_10_2839",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_2_10_2839.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:52:32",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-3-10-6894",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_3_10_6894",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_3_10_6894.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:53:36",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-0-15-3915",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_0_15_3915",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_0_15_3915.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:56:16",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-1-15-4382",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_1_15_4382",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_1_15_4382.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:57:48",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-2-15-9632",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_2_15_9632",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_2_15_9632.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 19:59:21",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        },
+        {
+          "id": "meeting_mountains/meeting-mountains-defaultc-1048-scribble-4-3-15-210",
+          "title": "Meeting_mountains_defaultc_1048_scribble_4_3_15_210",
+          "image": "playground_images/meeting_mountains/meeting_mountains_defaultC_1048_scribble_4_3_15_210.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 20:00:53",
+          "prompt": null,
+          "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+        }
+      ],
+      "notes": "Meeting of the mountains processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source."
+    },
+    {
+      "id": "volcano_2",
+      "source": "commissions/the-cliffs-of-volcano-ball-lake",
+      "description": "Cliffs of volcano ball lake processed by stable diffusion",
+      "items": [
+        {
+          "id": "volcano_2/volcano-c-1048-scribble-1-4-5-762",
+          "title": "Volcano_c_1048_scribble_1_4_5_762",
+          "image": "playground_images/volcano_2/volcano_C_1048_scribble_1_4_5_762.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-24 14:00:00",
+          "prompt": null,
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion 1.5, and then xl."
+        },
+        {
+          "id": "volcano_2/volcano-c-1048-scribble-2-0-5-6029",
+          "title": "Volcano_c_1048_scribble_2_0_5_6029",
+          "image": "playground_images/volcano_2/volcano_C_1048_scribble_2_0_5_6029.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-24 14:01:33",
+          "prompt": null,
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion 1.5, and then xl."
+        },
+        {
+          "id": "volcano_2/volcano-c-1048-scribble-4-0-5-2240",
+          "title": "Volcano_c_1048_scribble_4_0_5_2240",
+          "image": "playground_images/volcano_2/volcano_C_1048_scribble_4_0_5_2240.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-24 14:17:34",
+          "prompt": null,
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion 1.5, and then xl."
+        },
+        {
+          "id": "volcano_2/volcano-c-1048-scribble-4-1-5-4687",
+          "title": "Volcano_c_1048_scribble_4_1_5_4687",
+          "image": "playground_images/volcano_2/volcano_C_1048_scribble_4_1_5_4687.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-24 14:19:16",
+          "prompt": null,
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion 1.5, and then xl."
+        },
+        {
+          "id": "volcano_2/volcano-c-1048-scribble-4-2-5-4448",
+          "title": "Volcano_c_1048_scribble_4_2_5_4448",
+          "image": "playground_images/volcano_2/volcano_C_1048_scribble_4_2_5_4448.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-24 14:20:58",
+          "prompt": null,
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion 1.5, and then xl."
+        },
+        {
+          "id": "volcano_2/volcano-c-1048-scribble-4-3-5-1595",
+          "title": "Volcano_c_1048_scribble_4_3_5_1595",
+          "image": "playground_images/volcano_2/volcano_C_1048_scribble_4_3_5_1595.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-24 14:22:36",
+          "prompt": null,
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion 1.5, and then xl."
+        },
+        {
+          "id": "volcano_2/volcano-c-1048-scribble-5-4-5-2760",
+          "title": "Volcano_c_1048_scribble_5_4_5_2760",
+          "image": "playground_images/volcano_2/volcano_C_1048_scribble_5_4_5_2760.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-24 14:32:01",
+          "prompt": null,
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion 1.5, and then xl."
+        }
+      ],
+      "notes": "Cliffs at Volcano ball lake processed through stable diffusion 1.5, and then xl."
+    },
+    {
+      "id": "volcano_ball_lake",
+      "source": "commissions/the-cliffs-of-volcano-ball-lake",
+      "description": "Volcano ball lake processed with stable diffusion",
+      "items": [
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-1-0-10-4490",
+          "title": "Volcano_a_1048_scribble_1_0_10_4490",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_1_0_10_4490.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 20:25:18",
+          "prompt": "matt crump style",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: matt crump style."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-1-4-15-1214",
+          "title": "Volcano_a_1048_scribble_1_4_15_1214",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_1_4_15_1214.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 20:37:26",
+          "prompt": "matt crump style",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: matt crump style."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-2-0-15-7134",
+          "title": "Volcano_a_1048_scribble_2_0_15_7134",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_2_0_15_7134.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 20:57:24",
+          "prompt": "lush jungle with mountains a city in the distance saturn horizon rich and vivid colors",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: lush jungle with mountains a city in the distance saturn horizon rich and vivid colors."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-2-1-15-1214",
+          "title": "Volcano_a_1048_scribble_2_1_15_1214",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_2_1_15_1214.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 20:58:57",
+          "prompt": "lush jungle with mountains a city in the distance saturn horizon rich and vivid colors",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: lush jungle with mountains a city in the distance saturn horizon rich and vivid colors."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-2-2-15-4544",
+          "title": "Volcano_a_1048_scribble_2_2_15_4544",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_2_2_15_4544.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:00:31",
+          "prompt": "lush jungle with mountains a city in the distance saturn horizon rich and vivid colors",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: lush jungle with mountains a city in the distance saturn horizon rich and vivid colors."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-1-5-5688",
+          "title": "Volcano_a_1048_scribble_4_1_5_5688",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_1_5_5688.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:41:32",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-2-5-5078",
+          "title": "Volcano_a_1048_scribble_4_2_5_5078",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_2_5_5078.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:42:08",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-3-5-7336",
+          "title": "Volcano_a_1048_scribble_4_3_5_7336",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_3_5_7336.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:42:44",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-4-5-7134",
+          "title": "Volcano_a_1048_scribble_4_4_5_7134",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_4_5_7134.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:43:20",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-0-10-1214",
+          "title": "Volcano_a_1048_scribble_4_0_10_1214",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_0_10_1214.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:44:25",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-1-10-4544",
+          "title": "Volcano_a_1048_scribble_4_1_10_4544",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_1_10_4544.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:45:30",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-2-10-4449",
+          "title": "Volcano_a_1048_scribble_4_2_10_4449",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_2_10_4449.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:46:36",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-3-10-9390",
+          "title": "Volcano_a_1048_scribble_4_3_10_9390",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_3_10_9390.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:47:41",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-4-10-5930",
+          "title": "Volcano_a_1048_scribble_4_4_10_5930",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_4_10_5930.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:48:46",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-1-15-1025",
+          "title": "Volcano_a_1048_scribble_4_1_15_1025",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_1_15_1025.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:51:53",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-2-15-3439",
+          "title": "Volcano_a_1048_scribble_4_2_15_3439",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_2_15_3439.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:53:26",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-3-15-4490",
+          "title": "Volcano_a_1048_scribble_4_3_15_4490",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_3_15_4490.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:55:00",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-4-15-3630",
+          "title": "Volcano_a_1048_scribble_4_4_15_3630",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_4_15_3630.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:56:34",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-0-20-8074",
+          "title": "Volcano_a_1048_scribble_4_0_20_8074",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_0_20_8074.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 21:58:36",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-1-20-5271",
+          "title": "Volcano_a_1048_scribble_4_1_20_5271",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_1_20_5271.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 22:00:38",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        },
+        {
+          "id": "volcano_ball_lake/volcano-a-1048-scribble-4-3-20-5688",
+          "title": "Volcano_a_1048_scribble_4_3_20_5688",
+          "image": "playground_images/volcano_ball_lake/volcano_A_1048_scribble_4_3_20_5688.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "date": "2023-09-23 22:04:43",
+          "prompt": "photorealistic 4k landscape scene busy lifelike cartoon characters",
+          "notes": "Cliffs at Volcano ball lake processed through stable diffusion v 1.5, and the scribble control net with default scheduler. The line art was inverted as the scribble source. Prompt: photorealistic 4k landscape scene busy lifelike cartoon characters."
+        }
+      ],
+      "notes": null
+    }
+  ]
+}

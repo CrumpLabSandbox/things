@@ -14,7 +14,7 @@ Writes data/public/similarity.json:
     "layout": { id: [x, y] },
     "weights": {...} }
 
-Usage:  python3 scripts/build_similarity.py
+Usage:  python3 -m pipeline similarity
 """
 import glob
 import json
@@ -25,9 +25,11 @@ from collections import Counter
 
 import numpy as np
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(ROOT, "data", "artworks")
-OUT_PATH = os.path.join(ROOT, "data", "public", "similarity.json")
+from . import common as c
+
+ROOT = c.ROOT
+DATA_DIR = c.RECORDS
+OUT_PATH = os.path.join(c.PUBLIC, "similarity.json")
 K = 8
 
 FACET_WEIGHTS = {
@@ -81,7 +83,7 @@ def palette_distance(pa, pb):
     return (one_way(la, lb) + one_way(lb, la)) / 2.0 / 100.0
 
 
-def main():
+def main(argv=()):
     records = [json.load(open(p, encoding="utf-8"))
                for p in sorted(glob.glob(os.path.join(DATA_DIR, "*", "*.json")))]
     ids = [r["id"] for r in records]
@@ -199,7 +201,5 @@ def main():
         json.dump(out, f, indent=1, ensure_ascii=False)
         f.write("\n")
     print(f"wrote neighbours for {n} pieces to data/public/similarity.json (embeddings: {has_emb})")
+    return 0
 
-
-if __name__ == "__main__":
-    main()

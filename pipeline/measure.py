@@ -8,9 +8,9 @@ features with numpy (no machine learning), write them into the record's
 Only the "measured" block is owned by this script; everything else in the
 record is preserved.
 
-Usage:  python3 scripts/measure_images.py           # all records
-        python3 scripts/measure_images.py --force   # recompute even if present
-        python3 scripts/measure_images.py <id> ...  # only these ids
+Usage:  python3 -m pipeline measure           # all records
+        python3 -m pipeline measure --force   # recompute even if present
+        python3 -m pipeline measure <id> ...  # only these ids
 """
 import glob
 import json
@@ -21,9 +21,11 @@ from datetime import datetime
 import numpy as np
 from PIL import Image, ImageOps
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(ROOT, "data", "artworks")
-THUMB_DIR = os.path.join(ROOT, "data", "thumbs")
+from . import common as c
+
+ROOT = c.ROOT
+DATA_DIR = c.RECORDS
+THUMB_DIR = c.THUMBS
 ANALYSIS_SIZE = 512
 THUMB_SIZE = 256
 PALETTE_K = 6
@@ -233,9 +235,9 @@ def save_thumb(path, out_path):
     im.save(out_path, "JPEG", quality=82, optimize=True)
 
 
-def main():
-    args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    force = "--force" in sys.argv
+def main(argv=()):
+    args = [a for a in list(argv) if not a.startswith("--")]
+    force = "--force" in argv
     paths = sorted(glob.glob(os.path.join(DATA_DIR, "*", "*.json")))
     done = 0
     for p in paths:
@@ -255,7 +257,5 @@ def main():
         done += 1
         print(rec["id"], rec["measured"]["dominant_hues"], "edges", rec["measured"]["edge_density"])
     print(f"measured {done} of {len(paths)}")
+    return 0
 
-
-if __name__ == "__main__":
-    main()

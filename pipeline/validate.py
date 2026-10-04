@@ -4,8 +4,8 @@
 Reports: missing blocks, unknown tags per facet, relations pointing at ids
 that do not exist, and duplicate ids. Exit code 1 if anything is wrong.
 
-Usage:  python3 scripts/validate.py
-        python3 scripts/validate.py --adopt   # add unknown tags to vocabulary.json
+Usage:  python3 -m pipeline validate
+        python3 -m pipeline validate --adopt   # add unknown tags to vocabulary.json
 """
 import glob
 import json
@@ -13,15 +13,15 @@ import os
 import sys
 from collections import Counter
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(ROOT, "data", "artworks")
-VOCAB_PATH = os.path.join(ROOT, "data", "vocabulary.json")
+from . import common as c
 
-FACETS = ["subjects", "characters", "elements", "setting", "composition",
-          "line", "color_words", "style", "themes", "mood"]
-RELATION_TYPES = {"variation_of", "source_of", "same_characters", "same_scene",
-                  "series_pair", "revisits", "step_toward", "near_duplicate"}
-CONFIDENCE = {"high", "medium", "low"}
+ROOT = c.ROOT
+DATA_DIR = c.RECORDS
+VOCAB_PATH = c.VOCAB_PATH
+
+FACETS = c.FACETS
+RELATION_TYPES = c.RELATION_TYPES
+CONFIDENCE = c.CONFIDENCE
 
 
 def load_vocab():
@@ -34,8 +34,8 @@ def vocab_tags(vocab, facet):
     return {t["tag"] for t in vocab["facets"].get(facet, [])}
 
 
-def main():
-    adopt = "--adopt" in sys.argv
+def main(argv=()):
+    adopt = "--adopt" in argv
     vocab = load_vocab()
     records = []
     for p in sorted(glob.glob(os.path.join(DATA_DIR, "*", "*.json"))):
@@ -99,8 +99,5 @@ def main():
     print(f"{len(records)} records, {described_count} described")
     for line in problems:
         print("PROBLEM", line)
-    sys.exit(1 if problems else 0)
+    return 1 if problems else 0
 
-
-if __name__ == "__main__":
-    main()

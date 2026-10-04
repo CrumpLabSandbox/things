@@ -1,0 +1,55 @@
+{
+  "about": "Process sequences: ordered steps from a starting piece, through work in progress records, to a finished piece. Each step's caption is the artist's own note.",
+  "projects": [
+    {
+      "id": "volcano-ball-lake-2023",
+      "title": "Cliffs at another volcano ball lake",
+      "dates": "September 2023",
+      "summary": "This is the first big drawing that I've done in a while. I started this process from another piece: the line art of the 2021 commission was inverted, used as a scribble source for Stable Diffusion, and the variations were layered and sampled while drawing new line work by hand.",
+      "source": "commissions/the-cliffs-of-volcano-ball-lake",
+      "result": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "steps": [
+        {
+          "id": "commissions/the-cliffs-of-volcano-ball-lake",
+          "caption": "Cliffs of Volcano ball lake. I started with this piece."
+        },
+        {
+          "id": "wip/volcano-ball-lake-01-inverted-line-art",
+          "caption": "Took the line art from it and inverted it."
+        },
+        {
+          "id": "wip/volcano-ball-lake-02-variation-1",
+          "caption": "Generated several variations using stable diffusion. Variation 1"
+        },
+        {
+          "id": "wip/volcano-ball-lake-03-variation-2",
+          "caption": "Variation 2"
+        },
+        {
+          "id": "wip/volcano-ball-lake-04-variation-3",
+          "caption": "Variation 3"
+        },
+        {
+          "id": "wip/volcano-ball-lake-05-variation-4",
+          "caption": "Variation 4"
+        },
+        {
+          "id": "wip/volcano-ball-lake-06-layered-line-work",
+          "caption": "Used the variations as layers, sampled aspects of them while putting together the line art"
+        },
+        {
+          "id": "wip/volcano-ball-lake-07-halfway",
+          "caption": "About halfway done with line work"
+        },
+        {
+          "id": "wip/volcano-ball-lake-08-fixing-details",
+          "caption": "Getting closer and fixing up a few details"
+        },
+        {
+          "id": "colorlands/cliffs-at-another-volcano-ball-lake",
+          "caption": "The finished piece."
+        }
+      ]
+    }
+  ]
+}

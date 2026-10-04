@@ -7,7 +7,7 @@
    Serves tools/edit/index.html, the images and thumbnails, and a tiny JSON
    API that reads and writes data/artworks/<id>.json. Nothing else. No
    dependencies beyond Node itself. After editing, rebuild the public data:
-       python3 scripts/validate.py && python3 scripts/build_public.py
+       python3 -m pipeline build
 */
 const http = require("http");
 const fs = require("fs");

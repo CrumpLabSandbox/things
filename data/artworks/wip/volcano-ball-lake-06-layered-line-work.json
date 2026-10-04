@@ -1,0 +1,203 @@
+{
+  "id": "wip/volcano-ball-lake-06-layered-line-work",
+  "schema_version": 1,
+  "catalog": {
+    "kind": "wip",
+    "title": "Line work over layered variations (Volcano Ball Lake, step 6)",
+    "series": "wip",
+    "series_slug": "wip",
+    "project": "volcano-ball-lake-2023",
+    "step": 6,
+    "medium": "digital",
+    "surface": null,
+    "medium_source": "wip page",
+    "description_raw": null,
+    "caption": "Used the variations as layers, sampled aspects of them while putting together the line art",
+    "camera": null,
+    "date": "2023-09-25 16:11:27",
+    "year": 2023,
+    "availability": null,
+    "physical_size_in": null,
+    "process_notes": null,
+    "print_url": null,
+    "print_note": null,
+    "image": {
+      "width": 1024,
+      "height": 1024,
+      "aspect": 1.0,
+      "orientation": "square",
+      "bytes": 848702,
+      "format": "JPEG",
+      "path": "wip/IMG_0401.jpeg"
+    },
+    "page": {
+      "qmd": "wip.qmd",
+      "html": "wip.html",
+      "url": "https://crumplab.com/things/wip.html"
+    },
+    "source_metadata": {
+      "exif": {
+        "software": null,
+        "camera_make": null,
+        "camera_model": null,
+        "datetime": "2023:09:25 16:11:27",
+        "image_description": null
+      },
+      "iptc": {
+        "object_name": null,
+        "caption": null,
+        "keywords": [],
+        "date_created": null,
+        "copyright": null
+      }
+    },
+    "catalog_built": "2026-10-04"
+  },
+  "measured": {
+    "palette": [
+      {
+        "hex": "#c9c9c7",
+        "fraction": 0.3869
+      },
+      {
+        "hex": "#d8e5ea",
+        "fraction": 0.2797
+      },
+      {
+        "hex": "#dcdbd0",
+        "fraction": 0.2282
+      },
+      {
+        "hex": "#a5a19b",
+        "fraction": 0.0474
+      },
+      {
+        "hex": "#797772",
+        "fraction": 0.0407
+      },
+      {
+        "hex": "#474643",
+        "fraction": 0.0171
+      }
+    ],
+    "hue_histogram": [
+      0.0876,
+      0.2099,
+      0.2784,
+      0.0,
+      0.0003,
+      0.0003,
+      0.3251,
+      0.097,
+      0.0006,
+      0.0,
+      0.0003,
+      0.0006
+    ],
+    "dominant_hues": [
+      "cyan",
+      "yellow",
+      "orange"
+    ],
+    "warm_fraction": 0.5768,
+    "mean_saturation": 0.0575,
+    "mean_value": 0.8198,
+    "mean_lightness": 0.8209,
+    "contrast": 0.1186,
+    "colorfulness": 14.51,
+    "mean_chroma": 4.55,
+    "is_monochrome": false,
+    "dark_fraction": 0.0027,
+    "light_fraction": 0.175,
+    "edge_density": 0.1706,
+    "busyness": 0.0664,
+    "has_white_border": false,
+    "phash": "41be1bc6b6e184c9",
+    "analysis_size": [
+      512,
+      512
+    ],
+    "measured_on": "2026-10-04",
+    "thumbnail": "data/thumbs/wip/volcano-ball-lake-06-layered-line-work.jpg"
+  },
+  "described": {
+    "alt_text": "A faded composite of the Stable Diffusion variations with new black line drawing starting over the lower right slope, rocks and a tree.",
+    "description": "A square screenshot of the drawing in progress. The variations are stacked as semi transparent layers, so the lake, mountains, the red roofed house, flat topped trees and waterfall from variation 3 show through as a pale wash, with houses from variation 1 ghosted at left. Over this, crisp black outlines have been drawn across the bottom third and the right side: rocky ledges, boulders, clumps of rounded shrubs, a tall pine at left, a stream at bottom right and a bushy tree at the right edge. The new line work has only light colour from the layers beneath.",
+    "impression": "The moment the hand takes over. The generated scenes become tracing paper, and the drawing borrows from several of them at once, picking a house here and a rock there. You can see how the pale reference and the confident new line belong to different worlds.",
+    "subjects": [
+      "landscape",
+      "trees",
+      "rocks",
+      "houses",
+      "lake",
+      "mountains"
+    ],
+    "characters": [],
+    "elements": [
+      "rocky outcrop",
+      "pine tree",
+      "waterfall"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "lakeside"
+    ],
+    "composition": [
+      "layered depth",
+      "aerial view",
+      "photo base"
+    ],
+    "line": [
+      "thin black outline",
+      "soft shading"
+    ],
+    "color_words": [
+      "pale",
+      "washed",
+      "pastel"
+    ],
+    "style": [
+      "process art",
+      "cartoon",
+      "photo collage"
+    ],
+    "themes": [
+      "process",
+      "layers",
+      "transformation"
+    ],
+    "mood": [
+      "calm",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Screenshot of the drawing file in progress, 1024 px. Several variations used as reference layers with reduced opacity.",
+    "free_tags": [
+      "wip",
+      "volcano ball lake",
+      "line work",
+      "reference layers"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 1
+  },
+  "relations": [
+    {
+      "type": "step_toward",
+      "target": "colorlands/cliffs-at-another-volcano-ball-lake",
+      "note": "Step 6 of the process that led to the 2023 piece.",
+      "source": "described"
+    }
+  ],
+  "author": {
+    "verified": false,
+    "notes": null
+  }
+}
