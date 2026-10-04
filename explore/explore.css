@@ -1,5 +1,6 @@
 .x-app [hidden], .x-detail[hidden] { display: none !important; }
-.x-app { display: grid; grid-template-columns: 260px 1fr; gap: 1.25rem; align-items: start; }
+.x-app { display: grid; grid-template-columns: 260px minmax(0, 1fr); gap: 1.25rem; align-items: start; }
+.x-side, .x-main { min-width: 0; }
 @media (max-width: 800px) { .x-app { grid-template-columns: 1fr; } .x-side { position: static; max-height: none; } }
 .x-side { position: sticky; top: 1rem; max-height: calc(100vh - 2rem); overflow: auto; font-size: 0.85rem; padding-right: 0.5rem; }
 .x-side input[type=search] { width: 100%; padding: 0.4rem 0.5rem; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 0.5rem; }
@@ -27,9 +28,9 @@
 .x-map .x-dot img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .x-map .x-dot:hover, .x-map .x-dot.is-on { transform: scale(2.2); z-index: 5; box-shadow: 0 2px 8px rgba(0,0,0,0.4); }
 .x-map .x-dot.is-dim { opacity: 0.18; }
-.x-detail { position: fixed; inset: 0; background: rgba(255,255,255,0.97); z-index: 1000; overflow: auto; padding: 1.5rem; }
+.x-detail { position: fixed; inset: 0; background: #fff; z-index: 10000; overflow: auto; padding: 1.5rem; }
 .x-detail .x-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 1.5rem; }
-@media (max-width: 800px) { .x-detail .x-inner { grid-template-columns: 1fr; } }
+@media (max-width: 800px) { .x-detail .x-inner { grid-template-columns: minmax(0, 1fr); } .x-detail { padding: 3.5rem 1rem 1rem; } }
 .x-detail img.x-big { width: 100%; height: auto; display: block; }
 .x-detail h2 { margin: 0 0 0.25rem 0; font-size: 1.4rem; }
 .x-detail .x-meta { color: #666; font-size: 0.85rem; margin-bottom: 0.75rem; }

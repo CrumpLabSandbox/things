@@ -126,7 +126,8 @@
         chips.push(el("span", { class: "x-chip", style: "background:none;text-decoration:underline", onclick: function () { state.expanded[facet] = !showAll; render(); } },
           [showAll ? "fewer" : "+" + (tags.length - MAX_CHIPS) + " more"]));
       }
-      var open = active.length > 0 || ["series", "characters", "subjects", "themes"].indexOf(facet) >= 0;
+      var narrow = window.matchMedia && window.matchMedia("(max-width: 800px)").matches;
+      var open = active.length > 0 || (!narrow && ["series", "characters", "subjects", "themes"].indexOf(facet) >= 0);
       var det = el("details", { class: "x-facet" }, [
         el("summary", {}, [FACET_LABEL[facet] || facet.replace("_", " ")]),
         el("div", { class: "x-tags" }, chips)
