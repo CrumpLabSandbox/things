@@ -90,7 +90,7 @@
     var list = state.filters[facet] || (state.filters[facet] = []);
     var i = list.indexOf(tag);
     if (i >= 0) list.splice(i, 1); else list.push(tag);
-    render();
+    render({ reveal: true });
   }
 
   function thumb(rec) { return base + rec.measured.thumbnail; }
@@ -166,7 +166,17 @@
     });
   }
 
-  function render() {
+  // After a filter, search, sort or view change the result list can get much
+  // shorter while the page keeps its scroll position, leaving the first
+  // matches above the screen. Bring the top of the results back into view,
+  // but only when it is actually off screen, so repeated tag picks don't jump.
+  function revealResults() {
+    var bar = document.querySelector(".x-bar");
+    if (!bar) return;
+    if (bar.getBoundingClientRect().top < 0) bar.scrollIntoView({ block: "start" });
+  }
+
+  function render(opts) {
     var list = visible();
     document.getElementById("x-count").textContent = list.length + " of " + state.records.length + " pieces";
     renderFacets(list);
@@ -174,6 +184,7 @@
     document.getElementById("x-grid").hidden = state.view !== "grid";
     document.getElementById("x-map").hidden = state.view !== "map";
     document.querySelectorAll(".x-views button").forEach(function (b) { b.classList.toggle("is-on", b.getAttribute("data-view") === state.view); });
+    if (opts && opts.reveal) revealResults();
   }
 
   // ------------------------------------------------------------ detail
@@ -202,7 +213,7 @@
       var vals = facetValues(rec, f);
       if (!vals.length) return;
       right.push(el("div", { class: "x-facetline" }, [el("b", {}, [FACET_LABEL[f] || f.replace("_", " ")])].concat(vals.map(function (t) {
-        return el("span", { class: "x-chip", onclick: function () { closeDetail(); state.filters = {}; state.filters[f] = [t]; render(); } }, [t, " "]);
+        return el("span", { class: "x-chip", onclick: function () { closeDetail(); state.filters = {}; state.filters[f] = [t]; render({ reveal: true }); } }, [t, " "]);
       }))));
     });
     if (rec.relations && rec.relations.length) {
@@ -251,10 +262,10 @@
         state.records.forEach(function (r) { state.byId[r.id] = r; });
         state.vocab = res[1];
         state.sim = res[2];
-        document.getElementById("x-search").addEventListener("input", function (e) { state.query = e.target.value; render(); });
-        document.getElementById("x-sort").addEventListener("change", function (e) { state.sort = e.target.value; render(); });
-        document.getElementById("x-clear").addEventListener("click", function () { state.filters = {}; state.query = ""; document.getElementById("x-search").value = ""; render(); });
-        document.querySelectorAll(".x-views button").forEach(function (b) { b.addEventListener("click", function () { state.view = b.getAttribute("data-view"); render(); }); });
+        document.getElementById("x-search").addEventListener("input", function (e) { state.query = e.target.value; render({ reveal: true }); });
+        document.getElementById("x-sort").addEventListener("change", function (e) { state.sort = e.target.value; render({ reveal: true }); });
+        document.getElementById("x-clear").addEventListener("click", function () { state.filters = {}; state.query = ""; document.getElementById("x-search").value = ""; render({ reveal: true }); });
+        document.querySelectorAll(".x-views button").forEach(function (b) { b.addEventListener("click", function () { state.view = b.getAttribute("data-view"); render({ reveal: true }); }); });
         document.addEventListener("keydown", function (e) {
           var open = !document.getElementById("x-detail").hidden;
           if (!open) return;
