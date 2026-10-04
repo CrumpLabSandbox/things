@@ -1,11 +1,12 @@
 """Legacy import from the Quarto site.
 
-The records were first built from the Quarto pages in things/<series>/*.qmd.
+The records were first built from the Quarto pages, now archived in
+Quarto-Old/things/<series>/*.qmd.
 The records are now the source of truth, so this is only needed to pull
 content out of the old site, never during a normal build.
 
   python3 -m pipeline quarto-import playground
-      Write data/playground.json from playground/<folder>/*.qmd: one entry per
+      Write data/playground.json from Quarto-Old/playground/<folder>/*.qmd: one entry per
       Stable Diffusion variation with its source piece, prompt and notes.
 
   python3 -m pipeline quarto-import works --overwrite
@@ -23,6 +24,7 @@ from . import common as c
 from .imagemeta import read_image, parse_description, parse_keywords, parse_date
 
 SITE_URL = "https://crumplab.com/things"
+QUARTO = os.path.join(c.ROOT, "Quarto-Old")
 
 
 def read_front_matter(path):
@@ -77,7 +79,7 @@ PLAYGROUND_SOURCES = {
 
 def import_playground():
     groups = {}
-    for qmd in sorted(glob.glob(os.path.join(c.ROOT, "playground", "*", "*.qmd"))):
+    for qmd in sorted(glob.glob(os.path.join(QUARTO, "playground", "*", "*.qmd"))):
         fm, body = read_front_matter(qmd)
         folder = os.path.basename(os.path.dirname(qmd))
         image = fm.get("image", "").replace("../../", "")
@@ -124,7 +126,7 @@ def import_works(overwrite):
         return 1
     by_path = {r["catalog"]["image"]["path"]: r for r in c.load_records()}
     n = 0
-    for qmd in sorted(glob.glob(os.path.join(c.ROOT, "things", "*", "*.qmd"))):
+    for qmd in sorted(glob.glob(os.path.join(QUARTO, "things", "*", "*.qmd"))):
         fm, body = read_front_matter(qmd)
         image_rel = fm.get("image", "").replace("../../", "")
         rec = by_path.get(image_rel)

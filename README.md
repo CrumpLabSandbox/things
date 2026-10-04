@@ -7,16 +7,18 @@ over the artwork images.
 
 ```
 images/, wip/            the art files (source of truth for pixels)
+playground_images/       Stable Diffusion variations shown on the playground page
+imgs/, blog_images/      site and blog images
 data/artworks/           one JSON record per piece (source of truth for everything else)
 pipeline/                Python: catalog new images, measure, validate, similarity, publish
 data/public/             what the website may see, filtered by data/visibility.json
 web/                     the Astro website, built from data/public and the images
 tools/edit/              local browser editor for the records
+Quarto-Old/              the archived Quarto site
 ```
 
-The old Quarto site (`*.qmd`, `things/`, `playground/`, `_quarto.yml`,
-`docs/`) is still here and still what GitHub Pages serves, until the new site
-is switched on. See "Deploying" below.
+The old Quarto site is archived in `Quarto-Old/`. Nothing in it is built or
+deployed.
 
 ## Everyday tasks
 
@@ -52,10 +54,9 @@ Control what the site shows: edit `data/visibility.json`, then
 ## Deploying
 
 `.github/workflows/deploy-web.yml` builds `web/` and publishes it to GitHub
-Pages. It only runs when started by hand. To switch the live site over:
-
-1. Settings > Pages > Source: choose "GitHub Actions".
-2. Actions > Deploy web > Run workflow.
+Pages on every push to master (Settings > Pages > Source is "GitHub Actions").
+It can also be run by hand from the Actions tab. The site is at
+https://crumplabsandbox.github.io/things/.
 
 Old Quarto URLs such as `things/Scribble/Scribble_Picture_35.html` redirect
 to the new pages. The site expects to live at `/things/`; set `SITE_BASE=/`

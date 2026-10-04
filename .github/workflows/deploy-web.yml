@@ -1,13 +1,12 @@
 # Build the Astro site in web/ and publish it to GitHub Pages.
 #
-# Manual for now: run it from the Actions tab. Before the first run, set
-# Settings > Pages > Source to "GitHub Actions". Until then Pages keeps serving
-# the old Quarto build in docs/. To deploy on every push to master, add
-#   push: { branches: [master] }
-# under "on".
+# Runs on every push to master, and can also be started by hand from the
+# Actions tab. Requires Settings > Pages > Source set to "GitHub Actions".
 name: Deploy web
 
 on:
+  push:
+    branches: [master]
   workflow_dispatch:
 
 permissions:

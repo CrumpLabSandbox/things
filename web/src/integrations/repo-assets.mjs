@@ -52,7 +52,7 @@ function legacyRedirects(repo) {
 
 export default function repoAssets({ repo, dirs }) {
   let base = "/";
-  // Only copy media files from folders that also hold other content (blog/ has qmd sources).
+  // Only media files are served or copied from these folders.
   const isAsset = (f) => Boolean(MIME[path.extname(f).toLowerCase()]);
   return {
     name: "repo-assets",

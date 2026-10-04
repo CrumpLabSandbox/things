@@ -28,7 +28,7 @@
       "format": "JPEG"
     },
     "page": {
-      "qmd": "things/towns/Floating_Earth_Town.qmd",
+      "qmd": "Quarto-Old/things/towns/Floating_Earth_Town.qmd",
       "html": "things/towns/Floating_Earth_Town.html",
       "url": "https://crumplab.com/things/things/towns/Floating_Earth_Town.html"
     },

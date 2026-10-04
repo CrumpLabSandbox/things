@@ -28,7 +28,7 @@
       "format": "JPEG"
     },
     "page": {
-      "qmd": "things/airbrush/Layers.qmd",
+      "qmd": "Quarto-Old/things/airbrush/Layers.qmd",
       "html": "things/airbrush/Layers.html",
       "url": "https://crumplab.com/things/things/airbrush/Layers.html"
     },

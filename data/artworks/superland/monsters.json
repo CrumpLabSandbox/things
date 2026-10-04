@@ -28,7 +28,7 @@
       "format": "JPEG"
     },
     "page": {
-      "qmd": "things/Superland/Monsters.qmd",
+      "qmd": "Quarto-Old/things/Superland/Monsters.qmd",
       "html": "things/Superland/Monsters.html",
       "url": "https://crumplab.com/things/things/Superland/Monsters.html"
     },

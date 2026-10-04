@@ -28,7 +28,7 @@
       "format": "JPEG"
     },
     "page": {
-      "qmd": "things/commissions/Cold_Lake.qmd",
+      "qmd": "Quarto-Old/things/commissions/Cold_Lake.qmd",
       "html": "things/commissions/Cold_Lake.html",
       "url": "https://crumplab.com/things/things/commissions/Cold_Lake.html"
     },

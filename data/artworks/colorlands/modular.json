@@ -28,7 +28,7 @@
       "format": "JPEG"
     },
     "page": {
-      "qmd": "things/Colorlands/Modular.qmd",
+      "qmd": "Quarto-Old/things/Colorlands/Modular.qmd",
       "html": "things/Colorlands/Modular.html",
       "url": "https://crumplab.com/things/things/Colorlands/Modular.html"
     },

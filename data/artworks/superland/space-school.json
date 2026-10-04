@@ -28,7 +28,7 @@
       "format": "JPEG"
     },
     "page": {
-      "qmd": "things/Superland/Space_School.qmd",
+      "qmd": "Quarto-Old/things/Superland/Space_School.qmd",
       "html": "things/Superland/Space_School.html",
       "url": "https://crumplab.com/things/things/Superland/Space_School.html"
     },

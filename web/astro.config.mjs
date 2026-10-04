@@ -19,7 +19,7 @@ export default defineConfig({
       repo: REPO,
       // Repo folders served as-is at the same path under the site base, so a
       // record's image path "images/Colorlands/Modular.jpg" is also its URL.
-      dirs: ["images", "wip", "playground_images", "imgs", "data/thumbs", "data/public", "blog"],
+      dirs: ["images", "wip", "playground_images", "imgs", "data/thumbs", "data/public", "blog_images"],
     }),
   ],
   vite: {

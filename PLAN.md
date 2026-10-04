@@ -314,8 +314,8 @@ move away from Quarto.
 
 Open items:
 
-1. Switch GitHub Pages to the new site (see README, Deploying).
-2. Decide when to delete the Quarto sources and `docs/`.
+1. ~~Switch GitHub Pages to the new site.~~ Done, see below.
+2. ~~Decide what to do with the Quarto sources.~~ Archived in `Quarto-Old/`.
 3. Description and impression text are excluded by visibility.json, so record
    pages show image, facts, notes, palette, tags, relations and similar
    pieces. Add `described.description` to the list to show the prose.
@@ -331,3 +331,13 @@ available and a link to the contact links on the about page. The shop fields
 `catalog.print_url` and `catalog.print_note` stay in the records but are no
 longer in `data/visibility.json`, so nothing about the shop reaches the site.
 Old `prints.html` and `prints/` URLs redirect to the new page.
+
+## Live on GitHub Pages, Quarto archived (2026-10-04)
+
+The Astro site is deployed by `.github/workflows/deploy-web.yml` on every push
+to master, to https://crumplabsandbox.github.io/things/. All Quarto files
+(`_quarto.yml`, the `.qmd` pages, `things/`, `playground/`, `blog/`,
+`explore/`, `prints/`, `docs/`, the R generator scripts and `Things.Rproj`)
+moved to `Quarto-Old/`. The two blog covers the new site uses were copied to
+`blog_images/`. Records' `catalog.page.qmd` now points into `Quarto-Old/`;
+`catalog.page.html` keeps the old public URL, which drives the redirects.

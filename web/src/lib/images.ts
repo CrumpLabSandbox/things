@@ -3,7 +3,7 @@
 import type { ImageMetadata } from "astro";
 
 const files = import.meta.glob<{ default: ImageMetadata }>(
-  ["../../../images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}", "../../../wip/*.{jpg,jpeg,png}", "../../../playground_images/**/*.{jpg,jpeg,png}", "../../../imgs/*.{jpg,jpeg,png}", "../../../blog/**/*.{jpg,jpeg,png}"],
+  ["../../../images/**/*.{jpg,jpeg,png,JPG,JPEG,PNG}", "../../../wip/*.{jpg,jpeg,png}", "../../../playground_images/**/*.{jpg,jpeg,png}", "../../../imgs/*.{jpg,jpeg,png}", "../../../blog_images/**/*.{jpg,jpeg,png}"],
   { eager: true },
 );
 

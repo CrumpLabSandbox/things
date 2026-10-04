@@ -28,7 +28,7 @@
       "format": "JPEG"
     },
     "page": {
-      "qmd": "things/airbrush/Van.qmd",
+      "qmd": "Quarto-Old/things/airbrush/Van.qmd",
       "html": "things/airbrush/Van.html",
       "url": "https://crumplab.com/things/things/airbrush/Van.html"
     },

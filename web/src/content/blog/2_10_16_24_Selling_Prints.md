@@ -2,7 +2,7 @@
 title: "Some notes on selling prints online"
 description: "Working my way toward selling prints online, and making some notes on the process here."
 date: 2024-10-16
-cover: blog/2_10_16_24_Selling_Prints/cover.jpg
+cover: blog_images/2_10_16_24_Selling_Prints/cover.jpg
 categories: ["selling prints", "prints", "printmaking", "shopify"]
 draft: true
 ---
