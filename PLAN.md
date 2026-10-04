@@ -1,0 +1,222 @@
+# Plan: a descriptive data layer for the art
+
+This is a working plan for turning the image collection on this site into a
+structured, searchable database of artworks. Nothing in the existing Quarto
+site has to change for the first steps. The JSON layer sits beside it.
+
+## What is here now
+
+- `images/<series>/` holds 169 finished pieces in 13 series (Scribble 48,
+  airbrush 20, Superland 19, crowds 13, towns 13, characters 12, cactuses 11,
+  Colorlands 8, Desertland 7, commissions 6, Magicbear 5, Generative 4,
+  screenprints 3). Mix of jpg and jpeg, roughly 1000 to 2500 px, 77 MB total.
+- `playground_images/` holds 56 Stable Diffusion variations of two pieces.
+  `wip/` holds 9 process snapshots.
+- `make_qmds.R` reads EXIF (title, description, create date) and writes one
+  `things/<series>/<Title>.qmd` per image. The series folder becomes the
+  Quarto category. The EXIF description is really the medium ("oil on wood",
+  "airbrush on paper", "Digital Work"). 19 pages carry hand written process
+  notes. 14 have no description at all.
+- `index.qmd` is a Quarto grid listing over `things/`, filterable only by
+  series. Quarto already emits `docs/listings.json` and `docs/search.json`,
+  so the site has a tiny machine readable layer already, but it only knows
+  titles and series.
+- Build tooling is R and Quarto. Neither is installed in this cloud session,
+  but Python 3.11 with Pillow and numpy is, so image analysis can run here.
+
+## The idea in one picture
+
+```
+images/*.jpg                         (pixels: the art itself, unchanged)
+   │
+   ├─ 1. catalog     ─► data/artworks/<id>.json   facts: file, series, medium, date, size
+   ├─ 2. measured    ─►   (same record)           palette, hue/saturation, line density, hash
+   ├─ 3. described   ─►   (same record)           tags + prose written by looking at each piece
+   └─ 4. related     ─► data/similarity.json      nearest neighbours by look and by description
+                                 │
+                                 ▼
+                     5. interfaces: Quarto explore page (static JS), tag filters,
+                        "more like this", a 2D map, later a dynamic app if wanted
+```
+
+Each artwork gets one JSON file. One file per piece keeps git diffs readable
+and lets you hand edit a single record. A build step concatenates them into
+`data/artworks.json` for the website.
+
+## Layer 1. Catalog (deterministic)
+
+A Python script `scripts/build_catalog.py` walks `images/`, reads EXIF with
+Pillow, reads the matching qmd front matter and any process notes, and
+writes the factual core of each record.
+
+- Stable `id`: a slug from the series and title, for example
+  `scribble/scribble-picture-01` or `colorlands/meeting-of-the-mountains`.
+  Image files are not renamed. The record points at them.
+- Fields: title, series, medium (from EXIF description, normalised so
+  "DIgital Work" and "Digital Work" are one value), surface, year, exact date,
+  pixel size, aspect, orientation, file path, page URL, process notes text,
+  any location text that is already in the description ("Canal St").
+
+This replaces nothing. `make_qmds.R` keeps working. Later the Python script
+could also generate the qmd pages, so there is one pipeline, but that is
+optional.
+
+## Layer 2. Measured visual features (deterministic, runs here)
+
+Cheap features computed from pixels with Pillow and numpy, no machine
+learning needed:
+
+- a 6 colour palette (k-means in a perceptual colour space), plus dominant
+  hue family and whether the piece is monochrome;
+- mean saturation and value, contrast, warm/cool balance;
+- a line density proxy (edge pixel ratio) that separates the thick black
+  outline work from the airbrush pieces;
+- busyness (local variance), which separates crowded all over compositions
+  from pieces with a clear figure and ground;
+- a perceptual hash for duplicate and near duplicate detection, which also
+  links the playground variants to their source pieces;
+- a 256 px thumbnail per piece under `data/thumbs/` so the explore page does
+  not load 77 MB.
+
+Optional later: CLIP or SigLIP embeddings for true visual similarity. That
+needs PyTorch, which is heavy for this session. The plan writes the script
+so you can run it locally in a few minutes, and the explore page treats the
+embedding columns as optional.
+
+## Layer 3. Qualitative description (the main work)
+
+I look at every image and write a structured description. This is the layer
+you asked for. Proposed facets, each a short list of tags from a controlled
+vocabulary plus free text where it helps:
+
+| facet | what it captures | example tags |
+|---|---|---|
+| `subjects` | what is depicted | creature, bear, cactus, mountain, skyscraper, crowd, faceless figure, vehicle |
+| `recurring_motifs` | your own repeated forms | volcano ball lake, magic bear, scribble people, ringed planet, speech bubble letters |
+| `setting` | where it is | invented landscape, NYC street, interior, no place |
+| `composition` | how it is built | all over, horizon, central figure, stacked, grid, isolated object |
+| `line` | mark quality | thick black outline, white highlight line, airbrush gradient, no outline, scribble |
+| `color` | palette character in words | candy, pastel, earth, grayscale, bleached, high contrast |
+| `style_references` | lineages you are drawing on | graffiti, cartoon, cubism, outsider art, print making, photo collage |
+| `text_in_image` | lettering present and what it says | yes, "curious bear cant stop", signature only |
+| `mood` | emotional read | playful, crowded, calm, uneasy, celebratory |
+| `narrative` | one or two sentences of what seems to be happening | "A blue bear floats above a jumble of lettering..." |
+| `description` | one paragraph, neutral and concrete | for search and for people who cannot see the image |
+| `alt_text` | one sentence | for accessibility on the site |
+| `relations` | links to other pieces | source photo of, variation of, same characters as |
+| `confidence` | how sure the tagging is | high, medium, low |
+| `author` | your corrections and notes | `verified: false` until you look at it |
+
+Mechanics:
+
+- `data/vocabulary.json` defines the allowed tags per facet with a one line
+  gloss. I seed it from a first pass over 20 or so images, then apply it to
+  the rest and extend it only when something new appears. Free text fields
+  stay free.
+- Each record keeps `described_by` and `described_on` so later passes can be
+  told apart from the first.
+- A validator script checks every record against the schema and vocabulary
+  so a typo in a tag cannot silently split a category.
+- Order of work: catalog first, then description in series batches, so the
+  series level patterns (what makes a Superland a Superland) are written down
+  once in `data/series.json` and each piece only records how it differs.
+
+## Layer 4. Relationships
+
+Computed from layers 2 and 3 and saved as `data/similarity.json`:
+
+- tag similarity: Jaccard over tag sets, weighted by facet;
+- text similarity: TF-IDF cosine over description and narrative;
+- visual similarity: distance over palette and the measured features, or
+  embedding cosine when embeddings exist;
+- for every piece, the top 8 neighbours under each measure, so the site can
+  show "looks like" and "reads like" side by side, which is the interesting
+  comparison;
+- a 2D layout (UMAP or MDS, precomputed) so the whole collection can be shown
+  as a map.
+
+## Layer 5. Interfaces
+
+Version 1 stays static and lives inside the Quarto site:
+
+- `explore.qmd`: a page that loads `data/artworks.json` in the browser and
+  offers tag facets as filters, a text search over descriptions, and a
+  thumbnail grid. Observable JS blocks in Quarto do this without a server.
+- Each artwork page gets a "similar pieces" strip and its tags, injected
+  from the JSON at render time or by client side JS.
+- A map page: the 2D layout with thumbnails, hover for title and tags.
+- Optional: write the tags back into each qmd as Quarto categories so the
+  existing listing page filters by them too. Easy, but it makes the
+  category sidebar long.
+
+Version 2, only if version 1 feels limiting: a small dynamic app. Natural
+language queries over the descriptions, embedding search, or a chat style
+"show me pieces that feel like this one but calmer". That needs a server
+or an API key in the browser. The JSON layer is the same either way, which
+is why it is worth building first.
+
+## Repository layout after step 1
+
+```
+data/
+  schema.json          record structure
+  vocabulary.json      allowed tags per facet
+  series.json          one entry per series
+  artworks/            one JSON per piece
+  artworks.json        built, all records
+  similarity.json      built, neighbours and 2D layout
+  thumbs/              built, 256 px previews
+scripts/
+  build_catalog.py     layer 1
+  measure_images.py    layer 2
+  validate.py          schema and vocabulary checks
+  build_similarity.py  layer 4
+  compile.py           writes artworks.json
+explore.qmd            layer 5, version 1
+```
+
+## Suggested order
+
+1. Agree on the questions below.
+2. Build the catalog and measured features for all 169 pieces (one session).
+3. Describe one series end to end (Colorlands, 8 pieces) and show you the
+   records, so the vocabulary and tone get fixed before the long tail.
+4. Describe the remaining 161, series by series.
+5. Similarity and the explore page.
+6. Decide whether playground and wip images join the database.
+
+## Questions
+
+1. Scope. The 169 pieces in `images/` for sure. Should the 56 playground
+   Stable Diffusion variations and the 9 work in progress snapshots get
+   records too? They are interesting as "variation of" and "step toward"
+   relations, but they are not finished pieces.
+2. Voice. Should the descriptions stay neutral and concrete, or do you want
+   an openly interpretive layer as well, written as a viewer's reading and
+   labelled as such? I would keep both, in separate fields, unless you object.
+3. Your vocabulary. You already have names for recurring things (volcano
+   ball lake, magic bear, Superland, scribble people). Is there a list in
+   your head of motifs or characters you want tagged consistently? Anything
+   you want me not to guess at, such as intent?
+4. Source of truth. Keep the qmd files as they are and treat JSON as a
+   parallel layer, or let the JSON become the source and generate the qmds
+   from it? The second is cleaner but changes your existing R workflow.
+5. Pipeline language. The existing scripts are R. I am proposing Python for
+   the new scripts because it runs here and Pillow handles EXIF. Is R
+   preferred, or is a mixed repo fine?
+6. Visual similarity depth. The measured features above run here now. Real
+   embeddings (CLIP) need a local run on your machine, or a service. Do you
+   want a script to run locally, or is colour and structure similarity
+   enough for version 1?
+7. Interface. Is a static explore page inside the Quarto site the right first
+   target, or do you already want a separate app? Any preference for
+   Observable JS inside Quarto versus plain JavaScript?
+8. Tags into Quarto categories. Do you want the tags written back into the
+   qmd front matter so the existing grid page can filter on them, or kept
+   out of the category sidebar?
+9. Corrections. How do you want to review and correct my tags? Editing the
+   JSON by hand, a simple review page that writes back, or a CSV you edit
+   in a spreadsheet and I merge?
+10. Publishing the data. Is it fine for `data/artworks.json` to be public on
+    the site, including the prose descriptions, or should some of it stay
+    in the repo only?
