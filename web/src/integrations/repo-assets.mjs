@@ -34,7 +34,8 @@ function legacyRedirects(repo) {
   const map = {
     "explore.html": "explore/",
     "playground.html": "playground/",
-    "prints.html": "prints/",
+    "prints.html": "commissions/",
+    "prints/index.html": "commissions/",
     "about.html": "about/",
     "blog.html": "blog/",
     "wip.html": "process/",

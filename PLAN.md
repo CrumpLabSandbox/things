@@ -321,3 +321,13 @@ Open items:
    pieces. Add `described.description` to the list to show the prose.
 4. The Cliffs at another volcano ball lake process note still says "Currently
    shown on the work in progress page", which is now the process page.
+
+## Prints page becomes Commissions (2026-10-04)
+
+Matt no longer sells prints through Shopify. The `prints` page is now
+`commissions/`, listing every record with `catalog.availability` set to
+"sold", grouped by series, with a note that prints and commissions may be
+available and a link to the contact links on the about page. The shop fields
+`catalog.print_url` and `catalog.print_note` stay in the records but are no
+longer in `data/visibility.json`, so nothing about the shop reaches the site.
+Old `prints.html` and `prints/` URLs redirect to the new page.

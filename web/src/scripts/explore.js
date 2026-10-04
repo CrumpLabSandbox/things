@@ -205,7 +205,7 @@
     var meta = [c.series, c.medium, c.surface, c.year, c.image.width + "×" + c.image.height].filter(Boolean).join(" · ");
     var right = [
       el("h2", {}, [c.title]),
-      el("div", { class: "x-meta" }, [meta, " · ", el("a", { href: base + "work/" + rec.id + "/" }, ["page"]), c.print_url ? " · " : null, c.print_url ? el("a", { href: c.print_url }, ["print"]) : null]),
+      el("div", { class: "x-meta" }, [meta, " · ", el("a", { href: base + "work/" + rec.id + "/" }, ["page"])]),
       d.alt_text ? el("div", { class: "x-alt" }, [d.alt_text]) : null
     ];
     if (rec.measured.palette) {

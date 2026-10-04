@@ -1,0 +1,42 @@
+---
+import Base from "../layouts/Base.astro";
+import Gallery from "../components/Gallery.astro";
+import { seriesList } from "../lib/data";
+import { href, seriesUrl } from "../lib/urls";
+
+// Sold pieces come from catalog.availability in the records, grouped by series.
+const groups = seriesList()
+  .map((s) => ({ ...s, sold: s.works.filter((w) => w.catalog.availability === "sold") }))
+  .filter((s) => s.sold.length);
+const total = groups.reduce((n, g) => n + g.sold.length, 0);
+---
+<Base title="Commissions" description="Sold and commissioned work by Matt Crump." wide>
+  <div class="page-head">
+    <h1>Commissions</h1>
+    <p>{total} pieces have been sold or made on commission and now live with their owners.</p>
+  </div>
+
+  <aside class="note">
+    <p>Prints and commissions may be available from time to time. <a href={href("about/#contact")}>Contact me</a> for more information.</p>
+  </aside>
+
+  {groups.map((g) => (
+    <section>
+      <h2><a href={seriesUrl(g.slug)}>{g.name}</a> <span class="muted">{g.sold.length}</span></h2>
+      <Gallery items={g.sold} eager={4} />
+    </section>
+  ))}
+</Base>
+
+<style>
+  .note {
+    max-width: 42rem; margin: 0 0 2rem; padding: 0.9rem 1.1rem;
+    border: 1px solid var(--line); border-radius: var(--radius); background: var(--tile);
+  }
+  .note p { margin: 0; }
+  section { margin-bottom: 2.5rem; }
+  section h2 { margin: 0 0 0.75rem; }
+  section h2 a { text-decoration: none; }
+  section h2 a:hover { text-decoration: underline; }
+  section h2 .muted { font-weight: 400; font-size: 0.9rem; }
+</style>

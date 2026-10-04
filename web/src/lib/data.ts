@@ -23,7 +23,6 @@ export interface Artwork {
     surface?: string | null;
     caption?: string | null;
     date_note?: string | null;
-    print_note?: string | null;
     process_notes?: string | null;
     project?: string;
     step?: number;
@@ -31,7 +30,6 @@ export interface Artwork {
     date?: string | null;
     availability?: string | null;
     physical_size_in?: string | null;
-    print_url?: string | null;
     image: { path: string; width: number; height: number; aspect: number; orientation: string };
     page?: { html?: string };
   };
