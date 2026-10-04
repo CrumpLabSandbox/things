@@ -119,7 +119,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/in-living-color-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "An airbrush scene of grey pod figures on a street corner between buildings sprayed in hot pink, yellow and lilac, under a green and blue ground.",
+    "description": "A square airbrush painting on white paper. A street corner: a pink and grey building with tall windows at left, a yellow and lilac tower with rows of dark windows at centre, and a yellow building with arched windows and a striped base at right. The street forms an L around the centre building, sprayed in lime, turquoise and lilac. Grey pod figures with visor faces stand and walk along the street, in doorways and on the centre building's roof, with a group of three in the lower left corner. Crisp stencil edges, no ink.",
+    "impression": "The corner where the pod people hang out, lit like a candy shop. The arched windows and striped base give the right hand building a bakery feel. It is a friendlier, closer view than its companion, more a block party than a commute.",
+    "subjects": [
+      "city",
+      "buildings",
+      "figures",
+      "street"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "windows",
+      "arched windows",
+      "rooftop",
+      "doorway",
+      "street corner"
+    ],
+    "setting": [
+      "invented city",
+      "street"
+    ],
+    "composition": [
+      "street corner",
+      "figures in foreground",
+      "dense"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "candy",
+      "pink and yellow",
+      "neon",
+      "grey figures"
+    ],
+    "style": [
+      "stencil airbrush",
+      "cartoon",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "crowded life"
+    ],
+    "mood": [
+      "joyful",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "hooded pods",
+      "in living color"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -116,7 +116,69 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/marker-cactus-1.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A grey marker drawing in a spiral sketchbook of a branching cactus with thick arms covered in cone shaped spines.",
+    "description": "A square photograph of a spiral bound sketchbook page on a wooden table. A cactus drawn in grey and black marker fills the page: a thick horizontal arm across the lower half studded with large cone spines, a vertical trunk rising from it at centre that forks into two arms, and a spray of thinner branches at upper left. The spines are drawn as pointed cones with dark shadows, and the arms are shaded in soft grey with black outlines. The background is bare paper.",
+    "impression": "A cactus as a weapon or a piece of coral, all points. The grey marker gives it a stone like weight. It looks like a study for a sculpture, with the spines placed so carefully they read as rivets.",
+    "subjects": [
+      "cactus",
+      "plants"
+    ],
+    "characters": [],
+    "elements": [
+      "spines",
+      "branching arms",
+      "black outline",
+      "sketchbook spiral"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "filling frame",
+      "white ground"
+    ],
+    "line": [
+      "thick black outline",
+      "marker shading"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "grey marker"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "marker",
+      "sketchbook"
+    ],
+    "themes": [
+      "plants as creatures",
+      "armour"
+    ],
+    "mood": [
+      "calm",
+      "tough"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Grey marker in a spiral sketchbook, photographed on a wood table.",
+    "free_tags": [
+      "cactus series",
+      "marker",
+      "sketchbook",
+      "grayscale"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

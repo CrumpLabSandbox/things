@@ -117,7 +117,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/neon.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A stencil airbrush painting of a city skyline of blobby towers in neon pink, lime, lilac and orange under a rainbow sky, with small figures on a plaza.",
+    "description": "A square stencil airbrush painting on paper. A skyline of soft edged towers fills the upper two thirds: a hot pink block with lilac windows at left, a lime green spire at centre, lilac and orange slabs at right, each with pale window shapes. Behind them the sky grades from teal at the top through yellow and peach. In front, a pale lilac plaza holds small blob figures in green, pink and teal, each standing on a neon splash of yellow and pink like a shadow. A blue and green bush shape sits at lower left.",
+    "impression": "A city as seen through a highlighter pen, where even the shadows are fluorescent. The little figures on their glowing puddles look like they are standing in spilled light. It is giddy and slightly toxic, in the way neon is.",
+    "subjects": [
+      "city",
+      "skyscrapers",
+      "figures",
+      "plaza",
+      "sky"
+    ],
+    "characters": [
+      "blob figure"
+    ],
+    "elements": [
+      "windows",
+      "neon splash",
+      "spire",
+      "gradient sky"
+    ],
+    "setting": [
+      "invented city",
+      "plaza"
+    ],
+    "composition": [
+      "skyline",
+      "low horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "neon",
+      "fluorescent",
+      "pink and lime",
+      "saturated"
+    ],
+    "style": [
+      "stencil airbrush",
+      "pop",
+      "psychedelic"
+    ],
+    "themes": [
+      "city as toy",
+      "light",
+      "crowded life"
+    ],
+    "mood": [
+      "energetic",
+      "joyful",
+      "giddy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "neon city"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

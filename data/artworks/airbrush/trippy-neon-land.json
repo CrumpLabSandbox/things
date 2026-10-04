@@ -117,8 +117,98 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/trippy-neon-land.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A wide pen, ink and airbrush landscape in neon fog colours, with domed huts, cliffs, a lake, a small city block and faceted mountains under rainbow clouds.",
+    "description": "A landscape format painting in pen, ink and airbrush on paper. Fine black pen lines draw a sprawling valley: faceted crystalline mountains along the top, outlined clouds, a blue lake at upper centre, red layered cliffs, dozens of domed huts with arched doors, a block of realistic apartment buildings with grids of windows at centre left and another at lower right, tiny pine trees, winding paths and a bulbous dark cave mouth at lower left. Airbrushed neon pink, lime, orange, violet and blue fog is sprayed under and over the lines in soft patches, so the colour does not follow the drawing exactly.",
+    "impression": "A pen drawing that has been dipped in blacklight. The careful ink detail and the loose spray fight each other in a good way, so the valley looks like it is being seen through heat haze or a trip. The ordinary apartment blocks dropped into the hut village are a joke about Brooklyn in a fantasy land. The direct ancestor of the volcano ball lake drawings.",
+    "subjects": [
+      "landscape",
+      "village",
+      "huts",
+      "mountains",
+      "lake",
+      "cliffs",
+      "buildings",
+      "clouds",
+      "trees"
+    ],
+    "characters": [],
+    "elements": [
+      "domed hut",
+      "arched door",
+      "faceted mountain",
+      "pine tree",
+      "winding path",
+      "cave mouth",
+      "apartment block",
+      "outlined cloud"
+    ],
+    "setting": [
+      "invented landscape",
+      "valley",
+      "lakeside"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense",
+      "layered depth"
+    ],
+    "line": [
+      "thin black outline",
+      "pen and ink",
+      "airbrush gradient",
+      "colour off register"
+    ],
+    "color_words": [
+      "neon",
+      "fluorescent",
+      "rainbow",
+      "haze"
+    ],
+    "style": [
+      "psychedelic",
+      "pen and ink",
+      "map like",
+      "ink and airbrush"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "settlement",
+      "nature meets built",
+      "density"
+    ],
+    "mood": [
+      "dreamy",
+      "busy",
+      "giddy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Pen and ink with airbrush on paper, landscape format, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "ink and airbrush",
+      "proto colorland",
+      "huts"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "source_of",
+      "target": "commissions/the-cliffs-of-volcano-ball-lake",
+      "note": "Same valley with cliffs, lake, huts and a small city, redrawn digitally in 2021.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

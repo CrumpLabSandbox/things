@@ -119,7 +119,73 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/character-set-3.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A grid of twenty four small pod figures with visor faces, outlined in ink and filled with neon gradients, each glowing against a rainbow airbrushed background.",
+    "description": "A square painting in airbrush and ink on paper. Twenty four small figures in four rows, the same pointed pod shape with a visor face, stubby arms and oval feet as the grey character sheet, now outlined in thin black ink. Each is filled with gradients: the top row green to blue with pink visors, the second lime and green, the third orange and peach, the bottom hot pink. Every figure sits in a halo of airbrushed colour, orange or pink or green, over a background that fades through lime, blue and yellow. Tiny dots and marks float between some figures.",
+    "impression": "The character sheet switched on: the same little pods, now in team colours and glowing like they are lit from behind. The rows read as four families or four moods. It is the happiest of the character sheets and the one closest to the later Scribble pictures in how ink line sits on sprayed colour.",
+    "subjects": [
+      "figures",
+      "character sheet"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "visor",
+      "stubby legs",
+      "glow halo",
+      "pose variations"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "grid",
+      "character sheet",
+      "rainbow ground"
+    ],
+    "line": [
+      "thin black outline",
+      "airbrush gradient",
+      "ink and airbrush"
+    ],
+    "color_words": [
+      "neon",
+      "rainbow",
+      "candy",
+      "glowing"
+    ],
+    "style": [
+      "ink and airbrush",
+      "character design",
+      "sprite sheet",
+      "pop"
+    ],
+    "themes": [
+      "character study",
+      "repetition",
+      "variation"
+    ],
+    "mood": [
+      "joyful",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush with ink outline on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "character sheet",
+      "hooded pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

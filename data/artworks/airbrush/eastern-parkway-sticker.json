@@ -116,7 +116,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/eastern-parkway-sticker.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A flat three colour vinyl cut of blocky buildings along a road under cloudy sky, in orange, pink and red orange on white.",
+    "description": "A square vinyl cut piece on white paper. The Eastern Parkway scene of clouds, blocky buildings and a receding road is reduced to three flat colours: a marigold orange sky, bubblegum pink clouds and building faces, and red orange shadows, clouds and road. Thin white lines of bare paper separate every shape. There is no shading at all, and the colour edges are crisp and glossy.",
+    "impression": "The same street as the airbrushed versions, but hard edged and flat, like a screen print or a 1960s poster. The limited palette makes it the most graphic piece in the series and the one that looks most like a sticker you would want on a laptop. Warm and punchy.",
+    "subjects": [
+      "street",
+      "buildings",
+      "sky",
+      "clouds",
+      "road"
+    ],
+    "characters": [],
+    "elements": [
+      "cloud",
+      "kerb",
+      "road",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Eastern Parkway"
+    ],
+    "composition": [
+      "one point perspective",
+      "low horizon",
+      "sky dominant"
+    ],
+    "line": [
+      "no outline",
+      "hard edge",
+      "flat fill"
+    ],
+    "color_words": [
+      "orange and pink",
+      "three colour",
+      "flat",
+      "warm"
+    ],
+    "style": [
+      "vinyl cut",
+      "poster",
+      "pop",
+      "print making"
+    ],
+    "themes": [
+      "city",
+      "same image many colourways",
+      "place"
+    ],
+    "mood": [
+      "joyful",
+      "bold"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Cut vinyl on paper, photographed. Same stencil shapes as the airbrush versions.",
+    "free_tags": [
+      "airbrush series",
+      "eastern parkway stencil",
+      "vinyl"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

@@ -117,7 +117,77 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/totem-4.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A stencil airbrush painting of a symmetrical totem figure with a feathered headdress, in hot pink, orange and yellow on white paper.",
+    "description": "A square stencil airbrush painting on white paper. The same frontal totem figure as the other Totem pieces, rendered in bubblegum pink gradients with orange, crimson and lemon yellow patches inside the cells. Thin white gaps separate every cell.",
+    "impression": "The totem as a sweet, all sherbet and bubblegum. The crimson accents keep the face reading as a face. It is the loudest colourway and the funniest, a sacred figure in party colours.",
+    "subjects": [
+      "totem",
+      "figure",
+      "mask",
+      "headdress"
+    ],
+    "characters": [
+      "totem figure"
+    ],
+    "elements": [
+      "feather crown",
+      "ear ornament",
+      "headdress band",
+      "disc",
+      "hands",
+      "white gap"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "symmetrical",
+      "frontal",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "pink and orange",
+      "candy",
+      "warm",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "mesoamerican reference",
+      "pop"
+    ],
+    "themes": [
+      "idol",
+      "symmetry",
+      "same image many colourways"
+    ],
+    "mood": [
+      "playful",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. One of four colourways.",
+    "free_tags": [
+      "airbrush series",
+      "totem stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

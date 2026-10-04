@@ -116,7 +116,67 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/gouache-cactus-1.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A small gouache painting of a green tree cactus with many spiky arms and pale spines, outlined in black on white paper, photographed on a wooden table.",
+    "description": "A square gouache painting on white paper, photographed lying on a wooden table. A tall tree like cactus in greens and teal rises from the bottom edge: a thick trunk splitting into upward arms at the top, with lower branches spreading left and right. Every arm is studded with pale green spines drawn as small pointed leaves, and the forms are outlined in black with pink and purple strokes in the shadows. The colour is applied in streaky brush strokes.",
+    "impression": "A cactus drawn with the energy of a creature stretching, arms up like it is cheering. The pink in the shadows keeps the green from being dull. It is the first of the gouache studies and the most like a real plant.",
+    "subjects": [
+      "cactus",
+      "plants"
+    ],
+    "characters": [],
+    "elements": [
+      "spines",
+      "branching arms",
+      "black outline"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "white ground",
+      "rising from bottom"
+    ],
+    "line": [
+      "thick black outline",
+      "streaky brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "green dominant",
+      "teal",
+      "pink shadows"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "gouache"
+    ],
+    "themes": [
+      "plants as creatures",
+      "growth"
+    ],
+    "mood": [
+      "energetic",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Gouache on paper, photographed on a wood table with the table visible.",
+    "free_tags": [
+      "cactus series",
+      "gouache",
+      "table photo"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

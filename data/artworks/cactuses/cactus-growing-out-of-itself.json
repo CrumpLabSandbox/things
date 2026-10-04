@@ -117,8 +117,85 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/cactus-growing-out-of-itself.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A square oil painting of a cluster of plump multicoloured cactus pads sprouting curled arms from one another, in orange, blue, pink and green on a pale ground.",
+    "description": "A square oil painting on wood. A mass of rounded, cushiony cactus bodies fills the frame from the bottom: an orange and red one at lower left, a blue one at upper left, a grey and olive one at top, a pink and blue one at right, and a green one at bottom. From each body sprout hooked and curled arms like thumbs or sausages in pink, lilac, yellow, teal and grey, and some arms wear bright rings at the base like bracelets. The bodies are modelled with soft blended brushwork and pale outlines, over a pale yellow and pink washed background.",
+    "impression": "A cactus that cannot stop making more of itself, with every new arm wearing a ring as if it had been given a prize for arriving. The colours are those of gummy sweets and the shapes are a little bodily. It is a comedy of growth, cheerful and slightly alarming.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "abstract forms"
+    ],
+    "characters": [],
+    "elements": [
+      "curled arm",
+      "ring",
+      "pad",
+      "blended shading"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central cluster",
+      "filling frame",
+      "soft ground"
+    ],
+    "line": [
+      "pale outline",
+      "blended brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "candy",
+      "rainbow",
+      "pastel",
+      "soft"
+    ],
+    "style": [
+      "biomorphic",
+      "cartoon",
+      "painterly"
+    ],
+    "themes": [
+      "growth",
+      "plants as creatures",
+      "multiplication"
+    ],
+    "mood": [
+      "playful",
+      "joyful",
+      "strange"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on wood, photographed.",
+    "free_tags": [
+      "cactus series",
+      "oil cactus"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "cactuses/plant-in-progress",
+      "note": "Both oil cactus paintings from 2019.",
+      "source": "described"
+    },
+    {
+      "type": "revisits",
+      "target": "cactuses/gouache-cactus-1",
+      "note": "Same spiky cactus arm idea five years later in oil.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

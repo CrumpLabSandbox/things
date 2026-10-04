@@ -116,7 +116,71 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/layers.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "Four small airbrush studies in a grid, three in soft blue and grey and one in pastel rainbow, each of blobby layered shapes.",
+    "description": "A square photograph of four airbrush studies on paper arranged two by two. The top left is a tall L shaped blue block with grey shading and a drifting white shape. The top right is a rounded blue block over horizontal bands and small stalk shapes. The bottom left is a pale blue arcade of three arches with grey insides, above bands. The bottom right repeats a similar architecture of blobs in overlapping pink, orange, mint, lilac and yellow with white highlights. All are sprayed softly with no outlines and white gaps between shapes.",
+    "impression": "A page of experiments: the same way of building a picture out of overlapping stencil layers tried in cool blue three times and then in full colour once. It reads like a sketchbook spread, and it explains how the bigger airbrush pieces were made. Soft and watery.",
+    "subjects": [
+      "abstract forms",
+      "studies",
+      "architecture"
+    ],
+    "characters": [],
+    "elements": [
+      "arch",
+      "band",
+      "stalk",
+      "white highlight patch",
+      "white gap"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "grid of four",
+      "study sheet"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "blue and grey",
+      "pastel",
+      "soft",
+      "watery"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush",
+      "study"
+    ],
+    "themes": [
+      "process",
+      "layers",
+      "variation"
+    ],
+    "mood": [
+      "calm",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Four separate airbrush sheets photographed together as one image.",
+    "free_tags": [
+      "airbrush series",
+      "study sheet",
+      "composite photo"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

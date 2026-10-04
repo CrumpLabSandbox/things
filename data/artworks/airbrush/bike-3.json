@@ -117,8 +117,90 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/bike-3.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A stencil airbrush painting of a city street with a cyclist, where black stencil shapes sit over a rainbow fog of pink, yellow, green and blue.",
+    "description": "A square stencil airbrush painting. The street and cyclist stencil is sprayed in black and dark grey over a background that has been fogged with soft bands of pink, yellow, lime and sky blue, so that the colour shows through the white gaps between the cells. Buildings, the wheel with its star hub, the cyclist and the pedestrians are all read as dark shapes against the glow. There is no bare paper left.",
+    "impression": "The night version: the city as silhouettes against neon haze, like a street lit by signs. The rainbow background turns the cells into stained glass. It is the moodiest of the five and the most like a print.",
+    "subjects": [
+      "street",
+      "city",
+      "bicycle",
+      "cyclist",
+      "buildings",
+      "pedestrians"
+    ],
+    "characters": [
+      "cyclist"
+    ],
+    "elements": [
+      "windows",
+      "wheel",
+      "star hub",
+      "crosswalk",
+      "rainbow fog"
+    ],
+    "setting": [
+      "NYC street",
+      "city",
+      "night"
+    ],
+    "composition": [
+      "one point perspective",
+      "figure in foreground",
+      "stencil cells"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "rainbow",
+      "neon",
+      "dark on bright",
+      "haze"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop",
+      "psychedelic"
+    ],
+    "themes": [
+      "city",
+      "cycling",
+      "same image many colourways",
+      "night"
+    ],
+    "mood": [
+      "energetic",
+      "moody",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. One of five colourways.",
+    "free_tags": [
+      "airbrush series",
+      "bike stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "airbrush/bike-4",
+      "note": "Same stencil as the grayscale version.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

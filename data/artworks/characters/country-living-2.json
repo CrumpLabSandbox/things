@@ -118,7 +118,80 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/country-living-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A grayscale airbrush landscape of ribbed mountains under a striped sky, with blob figures and animals scattered across a plain of small rocks.",
+    "description": "A square airbrush painting on cream paper, grey only. The top half is sweeping diagonal ribs of cloud or rock, descending from upper left to a ridge of dark mountains at right. The lower half is a plain scattered with small rounded rocks and serrated grass tufts. Figures stand among them: a round hooded figure at lower left, a four legged animal with a raised tail beside it, a running figure with a round head at centre left, a crouching figure at lower right, a figure with raised arms at centre right, and a stooping figure at far right. Everything is soft spray with no outlines.",
+    "impression": "A plain after a storm, or a beach at low tide, with the pod people out foraging among the rocks. The ribbed sky looks like it is still moving. The spread of figures, each busy with something, gives the picture a quiet documentary feel, like a nature film about an invented species.",
+    "subjects": [
+      "landscape",
+      "mountains",
+      "figures",
+      "animals",
+      "rocks"
+    ],
+    "characters": [
+      "blob animal",
+      "hooded pod figure",
+      "running figure"
+    ],
+    "elements": [
+      "ribbed sky",
+      "serrated grass",
+      "rocks",
+      "ridge"
+    ],
+    "setting": [
+      "invented landscape",
+      "countryside",
+      "plain"
+    ],
+    "composition": [
+      "layered depth",
+      "mid horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "freehand spray"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft",
+      "smoky"
+    ],
+    "style": [
+      "airbrush",
+      "cartoon"
+    ],
+    "themes": [
+      "countryside",
+      "foraging",
+      "animals",
+      "weather"
+    ],
+    "mood": [
+      "calm",
+      "quiet",
+      "moody"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "country living",
+      "animals"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

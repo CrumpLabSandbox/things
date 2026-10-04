@@ -119,7 +119,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/shapes-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "An airbrush composition of grey pod figures scattered over a round burst of overlapping striped panels in neon pink, green, blue and yellow.",
+    "description": "A square airbrush painting on white paper. A roughly circular field at the centre is built from overlapping angular panels of sprayed stripes and gradients in hot pink, lime, sky blue, lilac and yellow, radiating from the middle like a shattered kaleidoscope. About sixteen grey pod figures with visor faces are scattered over it, some standing, some upside down, some with arms raised, sprayed in soft grey so they sit on top of the colour. The corners of the sheet are bare.",
+    "impression": "The pod people caught in a disco ball explosion, drifting in zero gravity across the stripes. The grey bodies against the neon make them look like cutouts pasted onto a light show. The companion to Shapes 1 and the more joyful of the two.",
+    "subjects": [
+      "figures",
+      "abstract forms",
+      "pattern"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "stripe fill",
+      "angular panels",
+      "radial burst"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "radial",
+      "central cluster",
+      "scattered figures",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge",
+      "striped spray"
+    ],
+    "color_words": [
+      "neon",
+      "rainbow",
+      "grey figures",
+      "saturated"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush",
+      "pop",
+      "psychedelic"
+    ],
+    "themes": [
+      "floating",
+      "crowded life",
+      "light"
+    ],
+    "mood": [
+      "joyful",
+      "energetic",
+      "giddy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "shapes",
+      "hooded pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

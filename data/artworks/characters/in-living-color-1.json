@@ -119,8 +119,86 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/in-living-color-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "An airbrush scene of grey pod figures crossing a street in front of apartment buildings sprayed in pink, orange, yellow and lilac.",
+    "description": "A square airbrush painting on white paper. Apartment buildings with dark window slots fill the upper two thirds, sprayed in soft gradients of pink, orange, yellow and lilac with grey shadows, and a tall building at the right edge with diagonal hatch marks. A street runs from the lower left toward the buildings. Grey pod figures with visor faces walk across it in the foreground and stand in a crowd at the far end, with one on a rooftop at upper left and a small bare tree at left. The ground glows lime and sky blue. Everything is sprayed with crisp stencil edges and no ink.",
+    "impression": "City Living in colour, which is what the title promises. The pod people stay grey while the city blushes around them, so they look like commuters who have not noticed the sunset. Warm and busy, a rush hour in sherbet.",
+    "subjects": [
+      "city",
+      "buildings",
+      "figures",
+      "street",
+      "crowd"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "windows",
+      "rooftop",
+      "bare tree",
+      "hatched texture",
+      "crosswalk"
+    ],
+    "setting": [
+      "invented city",
+      "street"
+    ],
+    "composition": [
+      "one point perspective",
+      "figures in foreground",
+      "dense"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "pink and orange",
+      "grey figures"
+    ],
+    "style": [
+      "stencil airbrush",
+      "cartoon",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "commuting",
+      "crowded life"
+    ],
+    "mood": [
+      "joyful",
+      "busy",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "hooded pods",
+      "in living color"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "characters/in-living-color-2",
+      "note": "Companion colour street scene.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

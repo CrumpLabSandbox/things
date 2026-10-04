@@ -117,8 +117,83 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/shapes-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A grayscale airbrush composition of striped and ribbed blob shapes with small limbs and creature parts clustered in a loose ring on white paper.",
+    "description": "A square airbrush painting on white paper, grey only. A loose ring of soft forms occupies the centre: round and lobed blobs filled with sprayed stripes in several directions, a gear like disc at upper left with stubby pegs, a horned shape at top, a toothed form with hanging tabs at bottom centre, a snout like shape at right, and small pod figures with visor faces at centre and lower left. Striped bars cross between the forms. The shapes overlap and leave the corners of the paper bare.",
+    "impression": "A pile of parts for creatures that have not been assembled yet, with a couple of finished pod people standing in the middle checking the inventory. The stripes make the blobs look like they are moving or vibrating. It is a study in what the airbrush can do with a few stencils and a ruler.",
+    "subjects": [
+      "abstract forms",
+      "creature parts",
+      "figures",
+      "pattern"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "stripe fill",
+      "gear disc",
+      "horn",
+      "snout",
+      "pegs"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "loose ring",
+      "central cluster",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge",
+      "striped spray"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush",
+      "study"
+    ],
+    "themes": [
+      "parts and wholes",
+      "process",
+      "character study"
+    ],
+    "mood": [
+      "playful",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "shapes",
+      "study"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "characters/shapes-2",
+      "note": "Companion study in colour.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

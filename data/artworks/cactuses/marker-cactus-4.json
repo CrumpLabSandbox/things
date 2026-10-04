@@ -116,8 +116,86 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/marker-cactus-4.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A grey marker drawing in a spiral sketchbook of a desert valley full of tall cactuses with raised arms, under rounded mountains.",
+    "description": "A square photograph of a spiral bound sketchbook page on a wooden table. A landscape in grey and black marker: rounded mountains along the top with a few tall cactuses on their slopes, a wide valley of rolling ground in the middle, and a crowd of cactuses in the foreground, each a tall body with raised arms and small spines, standing in pools of dark shadow. The cactuses are drawn with black outlines and the ground with loose grey shading.",
+    "impression": "The cactuses finally get a home: a valley where dozens of them stand around with their arms up like a congregation. Each one casts a puddle of shadow that makes it look like it is melting. The direct marker ancestor of the Desertland paintings, and a quiet, companionable scene.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "landscape",
+      "mountains",
+      "desert"
+    ],
+    "characters": [
+      "cactus figure"
+    ],
+    "elements": [
+      "raised arms",
+      "shadow pool",
+      "mountains",
+      "sketchbook spiral"
+    ],
+    "setting": [
+      "invented landscape",
+      "desert",
+      "valley"
+    ],
+    "composition": [
+      "aerial view",
+      "high horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "thick black outline",
+      "marker shading"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "grey marker"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "marker",
+      "sketchbook"
+    ],
+    "themes": [
+      "plants as creatures",
+      "gathering",
+      "desert"
+    ],
+    "mood": [
+      "calm",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Grey marker in a spiral sketchbook, photographed on a wood table.",
+    "free_tags": [
+      "cactus series",
+      "marker",
+      "sketchbook",
+      "grayscale",
+      "proto desertland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "source_of",
+      "target": "desertland/cactus-desert-land",
+      "note": "Same crowd of standing cactus figures in a desert valley, later painted in oil.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

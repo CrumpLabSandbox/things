@@ -116,7 +116,72 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/plant-in-progress.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A square oil painting on bare wood of a plant made of fat pastel lobes in green, pink, yellow, lilac and orange rising diagonally from the bottom.",
+    "description": "A square oil painting on an unprimed wood panel with the grain showing as a warm orange background. A plant of plump rounded lobes climbs from the lower left to the upper right: a sage green lobed trunk at left, lime and yellow arms, a pink arm at centre, lilac and grey lobes above, an orange base at the bottom and a yellow green lobe at right. The lobes are modelled with soft brushwork and pale edges and overlap like stacked pillows. Much of the panel is left as bare wood.",
+    "impression": "A cactus that has been upholstered. Leaving the wood bare makes the plant look like it is growing out of a tabletop, and the title admits it is unfinished, which suits it: a plant is always in progress. Soft, warm and a little sleepy.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "abstract forms"
+    ],
+    "characters": [],
+    "elements": [
+      "pad",
+      "lobe",
+      "bare wood",
+      "blended shading"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "diagonal",
+      "central figure",
+      "bare ground"
+    ],
+    "line": [
+      "pale outline",
+      "blended brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "pastel",
+      "warm",
+      "wood grain",
+      "soft"
+    ],
+    "style": [
+      "biomorphic",
+      "painterly",
+      "painted on wood"
+    ],
+    "themes": [
+      "growth",
+      "unfinished",
+      "plants as creatures"
+    ],
+    "mood": [
+      "calm",
+      "warm",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Oil on raw wood panel, grain exposed. Photographed.",
+    "free_tags": [
+      "cactus series",
+      "oil cactus",
+      "bare plywood"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

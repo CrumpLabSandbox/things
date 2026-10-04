@@ -116,7 +116,69 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/gouache-cactus-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A small gouache painting of a cactus with a pink and red trunk and arms in yellow, green and blue, signed crump 14, photographed on a wooden table.",
+    "description": "A square gouache painting on white paper, photographed on a wooden table, with crump 14 written in the upper right. A cactus with a thick pink and red streaked trunk rises from the bottom, topped by pink horns. From it grow a yellow lobed arm at left, a green and blue spiky arm at right, a blue spiky pad at lower right, and a thin branch with small pink spines at upper left. Forms are outlined in black and filled with streaky gouache.",
+    "impression": "A cactus wearing a different colour on every limb, like a plant that cannot decide what it is. The pink trunk gives it a body warmth that makes it feel like an animal. Signed and dated, so it is a finished study rather than a sketch.",
+    "subjects": [
+      "cactus",
+      "plants"
+    ],
+    "characters": [],
+    "elements": [
+      "spines",
+      "branching arms",
+      "black outline",
+      "signature"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "white ground",
+      "rising from bottom"
+    ],
+    "line": [
+      "thick black outline",
+      "streaky brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "rainbow",
+      "pink and green",
+      "saturated"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "gouache"
+    ],
+    "themes": [
+      "plants as creatures",
+      "growth"
+    ],
+    "mood": [
+      "playful",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": true,
+      "content": "crump 14",
+      "role": "signature"
+    },
+    "format_notes": "Gouache on paper, signed and dated 2014, photographed on a wood table.",
+    "free_tags": [
+      "cactus series",
+      "gouache",
+      "table photo",
+      "signed 2014"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

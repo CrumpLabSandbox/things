@@ -116,8 +116,77 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/gouache-cactus-3.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A small gouache painting of a bright green rounded cactus body with spiky arms in purple, red, blue, yellow and orange radiating from it, photographed on a wooden table.",
+    "description": "A square gouache painting on white paper, photographed on a wooden table. A lumpy bright green body sits at the centre of the sheet, and from it radiate short spiky arms in purple, red, blue, yellow, orange and pink, each tipped with pointed spines. The forms are outlined in black with streaky brushwork, and the composition floats in the middle of the paper with no ground.",
+    "impression": "The cactus as a firework or a sea creature: a green core throwing out coloured limbs in every direction. It is the most abstract of the gouache studies and the closest to the later Cactus Growing Out Of Itself. Cheerful and a bit spiky, like a toy you should not squeeze.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "abstract forms"
+    ],
+    "characters": [],
+    "elements": [
+      "spines",
+      "radiating arms",
+      "black outline"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "radial",
+      "white ground"
+    ],
+    "line": [
+      "thick black outline",
+      "streaky brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "rainbow",
+      "green core",
+      "saturated"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "gouache"
+    ],
+    "themes": [
+      "plants as creatures",
+      "growth",
+      "radiating"
+    ],
+    "mood": [
+      "playful",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Gouache on paper, photographed on a wood table.",
+    "free_tags": [
+      "cactus series",
+      "gouache",
+      "table photo"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "source_of",
+      "target": "cactuses/cactus-growing-out-of-itself",
+      "note": "Radiating spiky arms from a central body, later reworked in oil.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

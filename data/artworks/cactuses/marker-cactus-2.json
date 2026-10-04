@@ -116,7 +116,73 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/marker-cactus-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A grey marker drawing in a spiral sketchbook of a cactus with faceted, crystal like arms reaching upward in a fan.",
+    "description": "A square photograph of a spiral bound sketchbook page on a wooden table. A cactus drawn in grey and black marker rises from the bottom edge as a central trunk with a fan of arms, each arm built from faceted segments like cut crystal or folded paper, tapering to points with small spines at the tips. The arms reach upward and outward, filling the page, with strong black outlines and grey marker shading on the facets.",
+    "impression": "A cactus that has been cut like a gemstone, or a hand of knives. The faceting turns a soft plant into something architectural. It is the most graphic of the marker studies, and the most like a tattoo flash drawing.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "crystal"
+    ],
+    "characters": [],
+    "elements": [
+      "facets",
+      "branching arms",
+      "black outline",
+      "sketchbook spiral"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "fan",
+      "rising from bottom",
+      "white ground"
+    ],
+    "line": [
+      "thick black outline",
+      "marker shading"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "grey marker"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "marker",
+      "sketchbook",
+      "faceted"
+    ],
+    "themes": [
+      "plants as creatures",
+      "reaching",
+      "crystal"
+    ],
+    "mood": [
+      "energetic",
+      "tough"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Grey marker in a spiral sketchbook, photographed on a wood table.",
+    "free_tags": [
+      "cactus series",
+      "marker",
+      "sketchbook",
+      "grayscale"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

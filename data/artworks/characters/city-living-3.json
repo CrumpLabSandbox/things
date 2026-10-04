@@ -119,7 +119,79 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/city-living-3.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "An ink and airbrush drawing of angular apartment buildings over a rainbow haze, with pod figures on a rooftop and in the street.",
+    "description": "A square painting in pen, ink and airbrush on paper. The same arrangement of leaning angular buildings as City Living 2 is drawn in thin black pen with hatched roof edges and square windows. Under and around the lines, airbrushed colour is sprayed in soft patches and striped hatch marks of magenta, lime, yellow, sky blue and lilac, so the buildings glow in a haze that does not follow the lines exactly. A pod figure with a blue visor sits on the left tower's roof with arms up, two more stand in the street at the bottom. The windows are filled with blue.",
+    "impression": "The grey city with the lights on: the same block seen at the moment of a neon sunset, with the ink keeping it honest and the spray making it sing. The off register colour gives it motion, as if the whole street were humming. The most Scribble like piece in the airbrush years.",
+    "subjects": [
+      "city",
+      "buildings",
+      "figures",
+      "street"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "windows",
+      "rooftop",
+      "hatched texture",
+      "rainbow haze"
+    ],
+    "setting": [
+      "invented city",
+      "street"
+    ],
+    "composition": [
+      "angular perspective",
+      "dense",
+      "white ground"
+    ],
+    "line": [
+      "thin black outline",
+      "pen and ink",
+      "airbrush gradient",
+      "colour off register"
+    ],
+    "color_words": [
+      "rainbow",
+      "neon",
+      "haze",
+      "pastel"
+    ],
+    "style": [
+      "ink and airbrush",
+      "cartoon",
+      "cubist",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "light"
+    ],
+    "mood": [
+      "joyful",
+      "energetic",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Pen and ink with airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "hooded pods",
+      "city living",
+      "ink and airbrush"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

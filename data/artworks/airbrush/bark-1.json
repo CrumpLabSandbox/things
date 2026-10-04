@@ -116,8 +116,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/bark-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A grayscale airbrush painting of interlocking bark like shapes with soft shaded edges, filling a square sheet.",
+    "description": "A square airbrush painting on paper in black and grey only. Dozens of irregular lobed shapes, like plates of bark or dried mud, fill the sheet edge to edge, each separated from its neighbours by a thin white gap of bare paper. The shapes are shaded from dark at one edge to pale at the other, giving them a soft rounded volume, and inside some are smaller patches with their own gradients. There is no figure or horizon, only the pattern.",
+    "impression": "Tree bark seen so close that it becomes a map, or a cell wall, or a jigsaw. The soft airbrush shading makes the pieces look padded, and the white channels between them read as light leaking through. It is calm and tactile, a texture to get lost in.",
+    "subjects": [
+      "abstract forms",
+      "pattern",
+      "bark"
+    ],
+    "characters": [],
+    "elements": [
+      "lobed shape",
+      "white gap",
+      "gradient shading"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "pattern",
+      "no horizon"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush",
+      "organic pattern"
+    ],
+    "themes": [
+      "texture",
+      "nature up close",
+      "cells"
+    ],
+    "mood": [
+      "calm",
+      "meditative"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "bark"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "airbrush/bark-2",
+      "note": "Same bark pattern in colour.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

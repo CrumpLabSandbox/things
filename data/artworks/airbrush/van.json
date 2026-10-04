@@ -117,8 +117,83 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/van.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A stencil airbrush painting of interlocking pebble shapes in teal and pink, with a hot pink and orange van shape glowing through the centre.",
+    "description": "A square stencil airbrush painting on paper. The sheet is covered with lobed pebble shapes separated by white gaps, shaded in teal, sea green and pink gradients. Across the middle, a second layer of magenta, orange and lime has been sprayed in the silhouette of a van seen from the front, with a round pink headlight at centre and lime and orange glow around it, so the vehicle shows through the pebble pattern like a reflection or a ghost.",
+    "impression": "A van dissolving into the bark pattern, or the bark pattern dissolving into a van, which is a neat trick with two stencils. The headlight glows like a sunset through leaves. It is the most surprising piece in the series because it takes a few seconds to see the vehicle.",
+    "subjects": [
+      "van",
+      "vehicle",
+      "abstract forms",
+      "pattern"
+    ],
+    "characters": [],
+    "elements": [
+      "lobed shape",
+      "white gap",
+      "headlight",
+      "glow",
+      "double stencil"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "pattern",
+      "hidden figure",
+      "centre glow"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "teal and pink",
+      "neon",
+      "candy",
+      "soft"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush",
+      "pop",
+      "hidden image"
+    ],
+    "themes": [
+      "hidden things",
+      "vehicles",
+      "texture"
+    ],
+    "mood": [
+      "playful",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper with two stencil layers, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "bark",
+      "hidden van"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "airbrush/bark-2",
+      "note": "Uses the same bark pebble stencil as a base.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

@@ -117,7 +117,73 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/gouache-cactus-5.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A gouache painting in a spiral sketchbook of a small striped rainbow cactus in a red pot, with a faint shadow of a larger cactus bleeding through the page.",
+    "description": "A square photograph of a spiral bound sketchbook page on a wooden table. A small cactus with a yellow, green, orange and blue striped body and three short teal and pink tipped arms sits in a terracotta red pot at the centre of the page. Around it, the ghost of a larger cactus from the other side of the sheet shows through the paper as a faint grey shape with many arms. The pot and cactus are outlined in black with streaky gouache fills.",
+    "impression": "A tiny potted cactus with the shadow of its giant ancestor haunting the page behind it. The bleed through is an accident that became the best part, a reminder of the previous drawing. Small, sweet and a little funny.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "pot"
+    ],
+    "characters": [],
+    "elements": [
+      "pot",
+      "stripes",
+      "black outline",
+      "bleed through",
+      "sketchbook spiral"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "small in frame",
+      "white ground"
+    ],
+    "line": [
+      "thick black outline",
+      "streaky brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "rainbow",
+      "stripes",
+      "terracotta"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "gouache",
+      "sketchbook"
+    ],
+    "themes": [
+      "plants as creatures",
+      "domestic",
+      "traces"
+    ],
+    "mood": [
+      "playful",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Gouache in a spiral sketchbook, photographed on a wood table; the previous page shows through.",
+    "free_tags": [
+      "cactus series",
+      "gouache",
+      "sketchbook",
+      "potted"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

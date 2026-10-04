@@ -117,8 +117,85 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/city-living-2.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A grayscale airbrush drawing of angular apartment buildings with soft rounded windows, where small pod figures stand at street level and on a rooftop.",
+    "description": "A square airbrush painting on white paper, grey only. Tall angular buildings with sharp perspective edges and rounded soft window shapes fill the frame: a tower at left with a pod figure sitting on its roof, a block with a hatched roof at upper centre, a large central block with a tall doorway where a figure stands, and a block at right with a striped awning. Diagonal hatched spray marks give the roofs and walls a ruled texture. Three pod figures with visor faces stand in the street at the bottom and one stands on a tilted platform at right. Everything is sprayed with no ink outlines, using crisp stencil edges.",
+    "impression": "A city folded out of paper, with the buildings leaning toward each other like they are listening. The hatched spray makes it feel drafted rather than painted, like an architect's doodle. The pod figures look very small and very content.",
+    "subjects": [
+      "city",
+      "buildings",
+      "figures",
+      "street"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "windows",
+      "rooftop",
+      "doorway",
+      "hatched texture",
+      "awning"
+    ],
+    "setting": [
+      "invented city",
+      "street"
+    ],
+    "composition": [
+      "angular perspective",
+      "dense",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge",
+      "hatched spray"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "cartoon",
+      "cubist"
+    ],
+    "themes": [
+      "city",
+      "neighbourhood",
+      "architecture"
+    ],
+    "mood": [
+      "calm",
+      "quiet",
+      "whimsical"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "hooded pods",
+      "city living"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "characters/city-living-3",
+      "note": "Same composition drawn in ink over rainbow spray.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

@@ -117,8 +117,96 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/totem-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A stencil airbrush painting of a symmetrical totem figure with a feathered headdress, in teal, green, orange and magenta gradients on white paper.",
+    "description": "A square stencil airbrush painting on white paper. A frontal, symmetrical figure built from rounded stencil cells fills the centre: a fan of feather or ray shapes at the top, two round ear ornaments, a broad headdress band, a face with narrow eyes and a bared mouth at centre, two round discs beside the face, hands and arms at the sides, and a skirt or base at the bottom. The cells are shaded in teal and green at the edges, orange and gold through the headdress and face, and magenta in the base. Thin white gaps separate every cell.",
+    "impression": "A carved deity rebuilt out of soft airbrush cells, so the stone looks like it is made of light. The symmetry gives it authority and the candy colours take it away again. One of four colourways of the same stencil, like four moods of one idol.",
+    "subjects": [
+      "totem",
+      "figure",
+      "mask",
+      "headdress"
+    ],
+    "characters": [
+      "totem figure"
+    ],
+    "elements": [
+      "feather crown",
+      "ear ornament",
+      "headdress band",
+      "disc",
+      "hands",
+      "white gap"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "symmetrical",
+      "frontal",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "teal and orange",
+      "candy",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "mesoamerican reference",
+      "pop"
+    ],
+    "themes": [
+      "idol",
+      "symmetry",
+      "same image many colourways"
+    ],
+    "mood": [
+      "solemn",
+      "playful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. One of four colourways.",
+    "free_tags": [
+      "airbrush series",
+      "totem stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "airbrush/totem-2",
+      "note": "Same stencil, blue colourway.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "airbrush/totem-3",
+      "note": "Same stencil, green colourway.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "airbrush/totem-4",
+      "note": "Same stencil, pink colourway.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

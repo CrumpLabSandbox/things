@@ -117,7 +117,77 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/eastern-parkway-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A stencil airbrush painting of blocky buildings and clouds along a road, where rainbow plaid gradients fill some shapes and soft grey fills the rest, on white paper.",
+    "description": "A square stencil airbrush painting on white paper. The Eastern Parkway stencil of clouds, blocky buildings and a receding road is sprayed in two treatments: some shapes in a plaid like overlay of pink, yellow, mint and lilac bands that cross at angles, and the rest in soft grey gradients. The sky is bare white paper with only the clouds painted. The road at lower left is rainbow plaid while the main road is grey.",
+    "impression": "The same street as Eastern Parkway 1 but now the colour has leaked into the buildings as a woven rainbow, as if the city were wrapped in gift paper. Leaving the sky white makes it feel like a drawing on a page rather than a scene. Playful and airy.",
+    "subjects": [
+      "street",
+      "buildings",
+      "sky",
+      "clouds",
+      "road"
+    ],
+    "characters": [],
+    "elements": [
+      "cloud",
+      "kerb",
+      "road",
+      "plaid overlay",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Eastern Parkway"
+    ],
+    "composition": [
+      "one point perspective",
+      "low horizon",
+      "white sky"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge",
+      "crosshatch spray"
+    ],
+    "color_words": [
+      "pastel rainbow",
+      "grey and pastel",
+      "soft",
+      "airy"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "same image many colourways",
+      "place"
+    ],
+    "mood": [
+      "playful",
+      "calm"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "eastern parkway stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

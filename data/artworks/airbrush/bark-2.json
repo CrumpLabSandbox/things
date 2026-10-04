@@ -117,7 +117,70 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/bark-2.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "An airbrush painting of interlocking bark like shapes in pink, peach and lime gradients, separated by white gaps.",
+    "description": "A square airbrush painting on paper. Irregular lobed shapes fill the sheet edge to edge, outlined in thin black ink and separated by white gaps of bare paper. Each shape is shaded with soft airbrush gradients: hot pink into peach and gold through the centre, lime and mint green toward the edges, with small white highlight patches. The pattern is densest and pinkest at the centre and greener at the margins.",
+    "impression": "The bark pattern from Bark 1 lit up like candy, with a warm glow in the middle as if something were heating the surface from behind. The ink outlines make it crisper than its grey sibling. It feels like looking at a cross section of something sweet.",
+    "subjects": [
+      "abstract forms",
+      "pattern",
+      "bark"
+    ],
+    "characters": [],
+    "elements": [
+      "lobed shape",
+      "white gap",
+      "gradient shading",
+      "white highlight patch"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "all over",
+      "pattern",
+      "centre glow"
+    ],
+    "line": [
+      "airbrush gradient",
+      "thin black outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "candy",
+      "pink and lime",
+      "neon",
+      "soft"
+    ],
+    "style": [
+      "abstract",
+      "stencil airbrush",
+      "organic pattern"
+    ],
+    "themes": [
+      "texture",
+      "nature up close",
+      "cells"
+    ],
+    "mood": [
+      "calm",
+      "joyful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush with ink outline on paper, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "bark"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

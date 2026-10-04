@@ -117,7 +117,78 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/bike-4.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A grayscale stencil airbrush painting of a city street with a cyclist in the foreground, in soft grey blobs on white paper.",
+    "description": "A square stencil airbrush painting on white paper, in black and grey only. The street scene is broken into rounded cells with white gaps: receding buildings with window rows at upper left and right, a wheel with a star shaped hub at lower left, a cyclist from behind at lower centre, pedestrians and a crosswalk in the middle. Each cell is shaded with a soft gradient from dark to pale. The sky is bare paper.",
+    "impression": "The base state of the Bike series, with the stencil doing all the work and no colour to distract. It looks like a halftone photograph melted slightly. The grey makes the city feel like morning before the signs come on.",
+    "subjects": [
+      "street",
+      "city",
+      "bicycle",
+      "cyclist",
+      "buildings",
+      "pedestrians"
+    ],
+    "characters": [
+      "cyclist"
+    ],
+    "elements": [
+      "windows",
+      "wheel",
+      "star hub",
+      "crosswalk",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "city"
+    ],
+    "composition": [
+      "one point perspective",
+      "figure in foreground",
+      "stencil cells"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "cycling",
+      "same image many colourways"
+    ],
+    "mood": [
+      "calm",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. The grayscale member of the five colourways.",
+    "free_tags": [
+      "airbrush series",
+      "bike stencil",
+      "colourway",
+      "grayscale"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

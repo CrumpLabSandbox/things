@@ -117,8 +117,96 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/eastern-parkway-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A stencil airbrush painting of grey blocky buildings along a road under a sky of grey clouds on a pink to yellow gradient.",
+    "description": "A square stencil airbrush painting on paper with an irregular sprayed edge. A sky that grades from hot pink at the top through peach to lemon yellow at the horizon is filled with soft grey cloud shapes. Below, blocky buildings rendered in grey gradients with white gaps between their faces line the right side of a wide grey road that recedes to the lower left, with a kerb and a smaller block at the far left. Everything but the sky is grey.",
+    "impression": "A real Brooklyn street at the moment the sunset goes neon, with the buildings left in black and white as if they had not been told. The contrast between the hot sky and the grey city is the whole picture. Quiet, slightly surreal, like a memory with the colour drained except for the light.",
+    "subjects": [
+      "street",
+      "buildings",
+      "sky",
+      "clouds",
+      "road"
+    ],
+    "characters": [],
+    "elements": [
+      "cloud",
+      "kerb",
+      "road",
+      "gradient sky",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Eastern Parkway"
+    ],
+    "composition": [
+      "one point perspective",
+      "low horizon",
+      "sky dominant"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grey with neon sky",
+      "pink and yellow",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "sunset",
+      "same image many colourways",
+      "place"
+    ],
+    "mood": [
+      "calm",
+      "wistful"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. One of three colourways of the same stencil plus a vinyl version.",
+    "free_tags": [
+      "airbrush series",
+      "eastern parkway stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_scene",
+      "target": "airbrush/eastern-parkway-2",
+      "note": "Same stencil, different colourway.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "airbrush/eastern-parkway-3",
+      "note": "Same stencil, different colourway.",
+      "source": "described"
+    },
+    {
+      "type": "same_scene",
+      "target": "airbrush/eastern-parkway-sticker",
+      "note": "Same scene cut in vinyl.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

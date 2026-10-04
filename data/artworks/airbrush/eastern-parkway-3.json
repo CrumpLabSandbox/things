@@ -116,7 +116,76 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/eastern-parkway-3.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A stencil airbrush painting of grey blocky buildings along a road under a turquoise sky full of grey clouds.",
+    "description": "A square stencil airbrush painting on paper with a soft sprayed edge. A turquoise blue sky filled with soft grey cloud shapes sits above blocky buildings in grey gradients with white gaps between their faces, lining a wide grey road that recedes to the lower left. The buildings carry faint diagonal crosshatch texture from the spray. Only the sky is coloured.",
+    "impression": "The daytime colourway of the Eastern Parkway scene: a bright turquoise sky over a grey street. The clouds are busier and more mottled than in the sunset version, so it feels windy. Fresh and ordinary in a good way.",
+    "subjects": [
+      "street",
+      "buildings",
+      "sky",
+      "clouds",
+      "road"
+    ],
+    "characters": [],
+    "elements": [
+      "cloud",
+      "kerb",
+      "road",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "Brooklyn",
+      "Eastern Parkway"
+    ],
+    "composition": [
+      "one point perspective",
+      "low horizon",
+      "sky dominant"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge",
+      "crosshatch spray"
+    ],
+    "color_words": [
+      "grey with turquoise sky",
+      "cool",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "same image many colourways",
+      "place",
+      "weather"
+    ],
+    "mood": [
+      "calm",
+      "fresh"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "eastern parkway stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

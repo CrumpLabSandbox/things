@@ -117,8 +117,84 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/character-set-1.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A grid of twenty six small grey airbrushed figures with pointed heads, visor faces and stubby legs, each in a different pose on white paper.",
+    "description": "A square airbrush painting on white paper. Twenty six small figures are arranged in four rows. Each is a soft grey teardrop or pod shape with a pointed or curled top, a darker rectangular visor where a face would be, two stubby arms and two oval feet, sprayed with gradient shading and no outlines. The poses vary: arms up, one leg raised, leaning, waving, two with ear like bumps. There is no background.",
+    "impression": "A sprite sheet for a species: the same little hooded pod drawn in every mood it has. Lined up like this they look like they are dancing or doing calisthenics. It is the character design document for the airbrush city pieces, and it is oddly charming on its own, like a page of stamps.",
+    "subjects": [
+      "figures",
+      "character sheet"
+    ],
+    "characters": [
+      "hooded pod figure"
+    ],
+    "elements": [
+      "visor",
+      "stubby legs",
+      "pose variations"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "grid",
+      "character sheet",
+      "white ground"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft"
+    ],
+    "style": [
+      "stencil airbrush",
+      "character design",
+      "sprite sheet"
+    ],
+    "themes": [
+      "character study",
+      "repetition",
+      "variation"
+    ],
+    "mood": [
+      "playful",
+      "quiet"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "character sheet",
+      "hooded pods"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "same_characters",
+      "target": "characters/city-living-1",
+      "note": "The pod figures populate the city pieces.",
+      "source": "described"
+    },
+    {
+      "type": "variation_of",
+      "target": "characters/character-set-3",
+      "note": "Same sheet idea in colour with ink outlines.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

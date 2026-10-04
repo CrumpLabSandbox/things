@@ -117,8 +117,86 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/bike-2.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A stencil airbrush painting of a city street with a cyclist, in greens with pink and teal accents on white paper.",
+    "description": "A square stencil airbrush painting on white paper, the same street and cyclist stencil as the other Bike pieces. The cells are sprayed mostly in lime and forest green with soft gradients, with the tall building at upper left in magenta and teal, pink patches in the cyclist's jacket and the lower right, and ochre in the road. The sky is bare paper.",
+    "impression": "The green colourway, which makes the street feel like a park or a city overgrown. The pink building stands out like a sign. Same ride, different weather.",
+    "subjects": [
+      "street",
+      "city",
+      "bicycle",
+      "cyclist",
+      "buildings",
+      "pedestrians"
+    ],
+    "characters": [
+      "cyclist"
+    ],
+    "elements": [
+      "windows",
+      "wheel",
+      "star hub",
+      "crosswalk",
+      "white gap"
+    ],
+    "setting": [
+      "NYC street",
+      "city"
+    ],
+    "composition": [
+      "one point perspective",
+      "figure in foreground",
+      "stencil cells"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "stencil edge"
+    ],
+    "color_words": [
+      "green dominant",
+      "lime",
+      "soft",
+      "pink accent"
+    ],
+    "style": [
+      "stencil airbrush",
+      "photo derived",
+      "pop"
+    ],
+    "themes": [
+      "city",
+      "cycling",
+      "same image many colourways"
+    ],
+    "mood": [
+      "calm",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Stencil airbrush on paper, photographed. One of five colourways.",
+    "free_tags": [
+      "airbrush series",
+      "bike stencil",
+      "colourway"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "variation_of",
+      "target": "airbrush/bike-4",
+      "note": "Same stencil as the grayscale version.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

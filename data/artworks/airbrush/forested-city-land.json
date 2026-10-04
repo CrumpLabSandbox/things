@@ -117,8 +117,95 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/airbrush/forested-city-land.jpg"
   },
-  "described": {},
-  "relations": [],
+  "described": {
+    "alt_text": "A wide, very dense airbrush and ink landscape of rainbow coloured rocks, trees, towers and a winding road, with every shape outlined in black.",
+    "description": "A landscape format painting in airbrush and ink on paper. A hillside crammed with forms rises from the bottom to a line of jagged mountains along the top under a thin blue sky: rounded rock towers, bushy trees, cone and lollipop trees, blocks like buildings, and a winding road and river that thread through the middle. Every form is outlined in black ink and filled with soft airbrush gradients in lime, pink, orange, violet, turquoise and yellow, so the whole surface glows. There is no empty space.",
+    "impression": "An entire forested world squeezed into one sheet and lit from inside. The black ink line keeps the airbrush colour from turning to mush, so it reads as a map you could follow. It feels like the ancestor of the later Colorlands drawings, with the same crammed valley and candy palette but no creatures yet.",
+    "subjects": [
+      "landscape",
+      "trees",
+      "mountains",
+      "rocks",
+      "buildings",
+      "road",
+      "river"
+    ],
+    "characters": [],
+    "elements": [
+      "cone tree",
+      "lollipop tree",
+      "winding road",
+      "jagged mountains"
+    ],
+    "setting": [
+      "invented landscape",
+      "forest",
+      "valley"
+    ],
+    "composition": [
+      "all over",
+      "aerial view",
+      "high horizon",
+      "dense",
+      "winding path"
+    ],
+    "line": [
+      "thick black outline",
+      "airbrush gradient",
+      "ink and airbrush"
+    ],
+    "color_words": [
+      "rainbow",
+      "neon",
+      "candy",
+      "saturated"
+    ],
+    "style": [
+      "psychedelic",
+      "cartoon",
+      "map like",
+      "ink and airbrush"
+    ],
+    "themes": [
+      "imaginary worlds",
+      "nature meets built",
+      "density"
+    ],
+    "mood": [
+      "busy",
+      "joyful",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush with ink outline on paper, landscape format, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "ink and airbrush",
+      "proto colorland"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
+  "relations": [
+    {
+      "type": "series_pair",
+      "target": "airbrush/trippy-neon-land",
+      "note": "Both are ink outlined airbrush landscapes from 2016.",
+      "source": "described"
+    },
+    {
+      "type": "source_of",
+      "target": "colorlands/where-the-valley-turns",
+      "note": "Same crammed valley idea, later redrawn digitally with creatures.",
+      "source": "described"
+    }
+  ],
   "author": {
     "verified": false,
     "notes": null

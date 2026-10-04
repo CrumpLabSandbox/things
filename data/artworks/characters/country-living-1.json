@@ -118,7 +118,79 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/characters/country-living-1.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A grayscale airbrush landscape of soft cliffs and clouds where a few blob animals and figures stand near spiky trees, on cream paper.",
+    "description": "A square airbrush painting on cream paper, grey only. Soft rolling cloud bands fill the upper third, and below them a landscape of smoky forms: a stepped cliff or stack of ledges at left, a rounded hill with a tall spiky tree at centre, a second spiky tree at right, and ground bands with a serrated grass edge along the bottom. A four legged animal with a curled tail stands at lower left, another at lower right, a figure with a round head walks at centre bottom, and small spiky creatures climb the trees. Everything is sprayed with no outlines.",
+    "impression": "The countryside for the pod people, where the trees are as spiky as the animals. The grey fog makes it feel like early morning in a valley, with the serrated grass like a row of stitches. Gentle and faintly prehistoric, a cave painting in airbrush.",
+    "subjects": [
+      "landscape",
+      "animals",
+      "figures",
+      "trees",
+      "clouds",
+      "cliffs"
+    ],
+    "characters": [
+      "blob animal",
+      "round headed figure"
+    ],
+    "elements": [
+      "spiky tree",
+      "serrated grass",
+      "cloud band",
+      "ledge"
+    ],
+    "setting": [
+      "invented landscape",
+      "countryside"
+    ],
+    "composition": [
+      "layered depth",
+      "mid horizon",
+      "scattered figures"
+    ],
+    "line": [
+      "airbrush gradient",
+      "no outline",
+      "freehand spray"
+    ],
+    "color_words": [
+      "grayscale",
+      "monochrome",
+      "soft",
+      "smoky"
+    ],
+    "style": [
+      "airbrush",
+      "cartoon",
+      "cave painting"
+    ],
+    "themes": [
+      "countryside",
+      "animals",
+      "stillness"
+    ],
+    "mood": [
+      "calm",
+      "quiet",
+      "dreamy"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Airbrush on paper, 12 by 12 inches, photographed.",
+    "free_tags": [
+      "airbrush series",
+      "country living",
+      "animals"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,

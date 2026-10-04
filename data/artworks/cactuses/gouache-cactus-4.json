@@ -116,7 +116,71 @@
     "measured_on": "2026-10-04",
     "thumbnail": "data/thumbs/cactuses/gouache-cactus-4.jpg"
   },
-  "described": {},
+  "described": {
+    "alt_text": "A gouache painting in a spiral sketchbook of a cactus with a green and yellow trunk and fat multicoloured lobes reaching up like fingers.",
+    "description": "A square photograph of a spiral bound sketchbook page on a wooden table. A cactus rises from the bottom with a trunk of green, yellow and purple patches, splitting into fat lobed arms that reach upward and outward: pink and grey at left, orange and blue at centre, grey blue and teal at right, each tipped with small pointed pink or red spines. The lobes are outlined in black and filled with streaky, patchy gouache in many colours, so the plant looks like a hand made of segments.",
+    "impression": "A cactus that is also a hand reaching up, with every finger painted a different colour. The patchwork fills make it look stitched together. Of the four sketchbook cactuses this is the richest in colour and the most figurative.",
+    "subjects": [
+      "cactus",
+      "plants",
+      "hand"
+    ],
+    "characters": [],
+    "elements": [
+      "spines",
+      "lobe",
+      "black outline",
+      "sketchbook spiral"
+    ],
+    "setting": [
+      "no place"
+    ],
+    "composition": [
+      "central figure",
+      "rising from bottom",
+      "white ground"
+    ],
+    "line": [
+      "thick black outline",
+      "streaky brushwork",
+      "painted"
+    ],
+    "color_words": [
+      "rainbow",
+      "patchwork",
+      "saturated"
+    ],
+    "style": [
+      "cartoon",
+      "study",
+      "gouache",
+      "sketchbook"
+    ],
+    "themes": [
+      "plants as creatures",
+      "reaching",
+      "growth"
+    ],
+    "mood": [
+      "playful",
+      "energetic"
+    ],
+    "text_in_image": {
+      "present": false,
+      "content": null,
+      "role": null
+    },
+    "format_notes": "Gouache in a spiral sketchbook, photographed on a wood table with the spiral binding visible.",
+    "free_tags": [
+      "cactus series",
+      "gouache",
+      "sketchbook"
+    ],
+    "confidence": "high",
+    "described_by": "claude",
+    "described_on": "2026-10-04",
+    "vocabulary_version": 0
+  },
   "relations": [],
   "author": {
     "verified": false,
