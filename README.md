@@ -63,7 +63,8 @@ to the new pages. The site expects to live at `/things/`; set `SITE_BASE=/`
 when building for a domain root.
 
 A move to a private repository in the CrumpLab organisation, served from
-Coolify, is planned. See `PLAN.md`.
+Coolify, is under way. The site will be built locally and only the finished
+output deployed, because building on the server crashed it. See `CLAUDE.md`.
 
 See `PLAN.md` for the design and history of the data layer, and `CLAUDE.md`
 for guidance aimed at Claude sessions working on this repo.

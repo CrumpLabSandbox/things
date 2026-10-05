@@ -401,3 +401,13 @@ Things the move has to handle:
    server-side. `data/visibility.json` still controls what the browser gets.
 7. **Hosted editor (optional).** `tools/edit/` could run behind
    authentication on the server instead of locally.
+
+## Coolify crashes and local builds (2026-10-05)
+
+Redeploying on Coolify crashed the server every time. The likely cause is the
+Astro build resizing every image with sharp on all cores; a full build here
+used about 3 minutes of CPU in about 1 minute. Matt decided to build and test
+locally and push finished output for Coolify to pick up, so the server never
+builds. The recommended mechanism (a force-pushed `deploy` branch holding
+`web/dist` plus a two-line nginx Dockerfile), the alternatives and all open
+items are written up in `CLAUDE.md`, which is the handoff for local sessions.
